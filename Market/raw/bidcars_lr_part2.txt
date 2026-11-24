@@ -1,0 +1,62 @@
+2026-11-16|2022|5YJ3E1EB5NF325864|1-65332366|Copart|87979|Insurance Company|SC|California|Rancho Cuc... (CA)|Front end|---|Run / Drive|10700|0|Present|0
+2026-11-16|2023|5YJ3E1EB0PF632703|1-72218466|Copart|39782|Insurance Company|SC|California|Palmdale (CA)|Rear end|---||4900|0|Missing|0
+2026-11-16|2023|5YJ3E1EB3PF660074|1-70012126|Copart|32638|Geico|RB|Florida|Miami North (FL)|Rear end|---|Run / Drive|15100|0|Present|0
+2026-11-16|2021|5YJ3E1EB2MF877269|1-68347686|Copart|999999|Insurance Company|SC|Utah|Salt Lake... (UT)|Front end|---||125|0|Present|0
+2026-11-16|2022|5YJ3E1EB4NF290797|1-73429156|Copart|999999|Non-insurance C...|ST|Virginia|Atlanta South (GA)|Front end|---||4250|0|Missing|0
+2026-11-16|2022|5YJ3E1EB0NF144199|1-67758846|Copart|220103|Usaa|SV|Texas|Houston (TX)|Front end|---||3500|0|Missing|0
+2026-11-16|2023|5YJ3E1EB8PF637387|0-46452253|IAAI|156019|Non-insurance C...|Salvage|California|Fresno (CA)|Right side|Other||5900|8000|Present|0
+2026-11-16|2022|5YJ3E1EB6NF161847|1-74047566|Copart|135648|Geico|PS|Colorado|Denver Cen... (CO)|Front end|---|Starts|5800|0|Present|0
+2026-11-16|2022|5YJ3E1EB6NF242895|0-46564267|IAAI|59940|State Farm Grou...|Mv-907a|New York|Long Island (NY)|Rear|Collision|Run / Drive|13075|0|Present|0
+2026-11-16|2022|5YJ3E1EBXNF129533|1-69949196|Copart|55284|Insurance Company|SC|Idaho|Hartford (CT)|Front end|---||9600|0|Present|0
+2026-11-16|2021|5YJ3E1EB0MF852712|1-75163296|Copart|148323|Insurance Company|ST|Connecticut|Hartford (CT)|Front end|---|Run / Drive|6800|0|Present|0
+2026-11-16|2022|5YJ3E1EB2NF314563|0-46280937|IAAI|100830|Progressive Cas...|Rebuildable|Florida|Electric V...|Rear|Collision|Run / Drive|9975|9975|Present|0
+2026-11-15|2022|5YJ3E1EB8NF159971|1-69355496|Copart|36120|Farmers Insurance|SC|California|Napa (CA)|Side|---|Starts|11200|0|Present|0
+2026-11-15|2022|5YJ3E1EB0NF340952|1-75227236|Copart|999999|Geico|BS|Washington|North Seattle (WA)|Front end|---||9100|0|Missing|0
+2026-11-15|2022|5YJ3E1EB3NF318735|1-67663936|Copart|51381|Insurance Company|SC|Oregon|Portland N... (OR)|Side|---|Run / Drive|12100|0|Present|0
+2026-11-15|2022|5YJ3E1EB8NF323669|1-75776206|Copart|94344|Csaa|SC|California|Napa (CA)|Side|---|Run / Drive|6800|0|Present|0
+2026-11-15|2021|5YJ3E1EBXMF936794|1-73200926|Copart|84591|Insurance Company|SC|California|Sun Valley (CA)|Front end|---|Run / Drive|7100|0|Present|0
+2026-11-15|2023|5YJ3E1EB1PF390326|1-68262046|Copart|92052|Insurance Company|SC|California|Sun Valley (CA)|Side|---|Run / Drive|11200|0|Present|0
+2026-11-15|2022|5YJ3E1EB3NF132631|1-72574836|Copart|106179|Insurance Company|SC|Pennsylvania|Newburgh (NY)|Front end|---||7400|0|Missing|0
+2026-11-13|2021|5YJ3E1EB2MF983317|1-70222776|Copart|999999|Insurance Company|SC|Missouri|Wayland (MI)|Rear end|---||5850|5850|Present|0
+2026-11-13|2023|5YJ3E1EB5PF635418|0-46021869|IAAI|16586|Progressive Cas...|Salvage|California|Los Angeles (CA)|Left side|Collision|Run / Drive|11600|11600|Present|0
+2026-11-12|2022|5YJ3E1EB8NF305169|1-75662736|Copart|115955|Insurance Company|SC|California|San Diego (CA)|Front end|---|Run / Drive|6600|0|Present|0
+2026-11-12|2023|5YJ3E1EB1PF455708|1-73305126|Copart|44659|Insurance Company|SC|California|San Diego (CA)|Side|---||7600|0|Missing|0
+2026-11-12|2021|5YJ3E1EB8MF978848|0-46216559|IAAI|122946|State Farm Grou...|Salvage|Alabama|Gulf Coast (MS)|Unknown|Collision||6100|0|Missing|0
+2026-11-12|2022|5YJ3E1EB9NF117096|1-69389096|Copart|75621|Insurance Company|SC|Illinois|Chicago South (IL)|Front end|---|Run / Drive|9300|0|Present|0
+2026-11-12|2022|5YJ3E1EB8NF187883|1-67490576|Copart|999999|Insurance Company|SV|Texas|Houston (TX)|Front end|---||7400|0|Present|0
+2026-11-11|2023|5YJ3E1EB8PF467662|1-74332116|Copart|33899|Insurance Company|SC|California|San Jose (CA)|Rear end|---||7100|0|Missing|0
+2026-11-11|2021|5YJ3E1EB2MF873514|1-75176266|Copart|48625|Insurance Company|SC|California|Los Angeles (CA)|Front end|---|Starts|6600|0|Present|0
+2026-11-11|2021|5YJ3E1EBXMF941753|1-56551096|Copart|76832|Insurance Company|SC|California|Los Angeles (CA)|Side|---||4500|0|Missing|0
+2026-11-11|2022|5YJ3E1EB7NF341287|1-74543696|Copart|78131|Insurance Company|SC|California|Los Angeles (CA)|Front end|---|Run / Drive|8900|0|Present|0
+2026-11-11|2021|5YJ3E1EB2MF015248|0-46234856|IAAI|69465|Progressive Cas...|Salvage|Virginia|Culpeper (VA)|Left front|Collision||8150|0|Missing|0
+2026-11-11|2022|5YJ3E1EB7NF115279|1-67975886|Copart|132856|Usaa|SC|North Carolina|Concord (NC)|Front end|---|Run / Drive|7000|0|Present|0
+2026-11-11|2022|5YJ3E1EBXNF111503|0-46041060|IAAI|101510|Progressive Cas...|Salvage|Minnesota|Minneapoli... (MN)|Front end|Collision||7325|0|Missing|0
+2026-11-11|2022|5YJ3E1EB5NF244363|0-46220069|IAAI|83618|Turo Inc|Salvage|Arizona|Englishtown (NJ)|Left front|Other||8100|0|Present|0
+2026-11-11|2023|5YJ3E1EB0PF611088|1-65945806|Copart|999999|Insurance Company|SC|Illinois|Chicago North (IL)|Front end|---||4300|0|Missing|0
+2026-11-11|2021|5YJ3E1EB2MF978800|1-67206476|Copart|89|Insurance Company|ST|Kansas|Kansas City (KS)|Hail|---|Run / Drive|8400|0|Present|0
+2026-11-11|2023|5YJ3E1EB4PF691009|1-66562756|Copart|999999|Geico|ST|Georgia|Macon (GA)|Front end|---||7200|0|Missing|0
+2026-11-11|2021|5YJ3E1EB6MF948070|0-46335398|IAAI|999999|Merastar..|Certificate of destruction|Florida|Orlando (FL)|Front / rear|Collision||3100|3475|Missing|0
+2026-11-11|2022|5YJ3E1EB2NF347854|1-72209666|Copart|57580|Insurance Company|SM|New York|Newburgh (NY)|Front end|---|Run / Drive|11100|0|Present|0
+2026-11-11|2021|5YJ3E1EB0MF915503|1-75484686|Copart|86543|Geico|SC|Arizona|Phoenix North (AZ)|Front end|---|Run / Drive|6500|0|Present|0
+2026-11-11|2022|5YJ3E1EB4NF231233|1-61345816|Copart|107777|Insurance Company|SV|Texas|North Austin (TX)|Front end|---||7600|0|Present|0
+2026-11-11|2022|5YJ3E1EB2NF181352|0-46033947|IAAI|86854|Progressive Cas...|Clear|Tennessee|Nashville (TN)|Front end|Collision|Run / Drive|8650|10250|Present|0
+2026-11-11|2022|5YJ3E1EB7NF143616|0-46383656|IAAI|112066|Progressive Cas...|Bill of sale|Washington|Seattle (WA)|Front end|Collision||4550|0|Present|0
+2026-11-11|2022|5YJ3E1EB2NF260973|1-67737966|Copart|43644|Geico|SC|Arizona|Phoenix North (AZ)|Front end|---||7000|0|Missing|0
+2026-11-11|2022|5YJ3E1EB2NF194392|0-46149767|IAAI|143953|Progressive Cas...|Salvage|Virginia|Culpeper (VA)|Undercarriage|Collision||6925|8750|Missing|0
+2026-11-11|2021|5YJ3E1EB4MF071899|0-46489077|IAAI|65611|Progressive Cas...|Bill of sale|Washington|Seattle (WA)|Right front|Collision|Run / Drive|9850|0|Present|0
+2026-11-11|2022|5YJ3E1EB9NF173541|1-67893206|Copart|96579|Farmers Insurance|SV|Texas|San Antonio (TX)|Rear end|---|Run / Drive|8900|0|Present|0
+2026-11-11|2022|5YJ3E1EB1NF110885|1-68495946|Copart|65854|Geico|SC|Idaho|Newburgh (NY)|Undercarriage|---|Run / Drive|10300|0|Present|0
+2026-11-11|2022|5YJ3E1EB9NF188508|0-45768885|IAAI|85068|Progressive Cas...|Salvage|Colorado|Denver East (CO)|Left front|Collision||8500|0|Present|0
+2026-11-11|2021|5YJ3E1EBXMF062446|0-46127477|IAAI|36607|State Farm Grou...|Original|Texas|Longview (TX)|Front / rear|Collision|Run / Drive|8300|10775|Present|0
+2026-11-10|2022|5YJ3E1EB0NF178157|1-69438746|Copart|61122|Usaa|SC|Oregon|Portland N... (OR)|Front end|---|Starts|5600|0|Present|0
+2026-11-10|2021|5YJ3E1EBXMF868710|1-68896006|Copart|999999|Insurance Company|SC|California|Martinez (CA)|Front end|---||6800|0|Missing|0
+2026-11-10|2022|5YJ3E1EB8NF311408|0-46449813|IAAI|8184|Non-insurance C...|Salvage|Ohio|Columbus (OH)|Front end|Other||7050|0|Missing|0
+2026-11-10|2022|5YJ3E1EB4NF289939|1-71193305|Copart|105649|Insurance Company|ST|Alabama|Tanner (AL)|Front end|---|Run / Drive|8800|0|Present|0
+2026-11-10|2021|5YJ3E1EB6MF965399|0-46238297|IAAI|999999|Turo Inc|Salvage|Alabama|Birmingham (AL)|Right side|Collision||725|975|Missing|0
+2026-11-10|2022|5YJ3E1EB9NF285806|1-75333326|Copart|105982|Non-insurance C...|CT|Virginia|Glassboro... (NJ)|Mechanical|---|Run / Drive|9800|0|Present|0
+2026-11-10|2021|5YJ3E1EB5MF087397|1-60858076|Copart|74191|Insurance Company|ST|Virginia|Fredericks... (VA)|Front end|---|Starts|7700|0|Present|0
+2026-11-10|2021|5YJ3E1EB0MF925769|0-46490908|IAAI|128767|Non-insurance C...|Clear|Montana|York Springs (PA)|Electrical|Other|Run / Drive|7550|0|Present|0
+2026-11-10|2022|5YJ3E1EB4NF288208|1-75514816|Copart|43606|Non-insurance C...|CT|Florida|Miami South (FL)|Front end|---|Run / Drive|14800|0|Present|0
+2026-11-10|2022|5YJ3E1EB1NF205558|1-72672666|Copart|151752|Insurance Company|ST|South Carolina|Spartanburg (SC)|Rear end|---||5700|0|Present|0
+2026-11-10|2022|5YJ3E1EB5NF176789|1-70714186|Copart|144515|Insurance Company|SC|Pennsylvania|Pittsburgh... (PA)|Front end|---|Starts|4950|0|Present|0
+2026-11-10|2021|5YJ3E1EBXMF006717|0-46317738|IAAI|57260|State Farm Grou...|Salvage|California|Fontana (CA)|Undercarriage|Collision||8675|8675|Missing|0

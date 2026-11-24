@@ -13,7 +13,6 @@
 | `NHTSA_TSB.txt` | 47 технических бюллетеней (PDF из `../NHTSA/TSB`) |
 | `NHTSA_Recalls.txt` | Документы 29 отзывов |
 | `NHTSA_Investigations.txt` | Резюме расследований ODI |
-
 | `OwnersManual_2017-2023_NA.txt` | Owner's Manual Model 3 2017–2023, NA, ПО 2026.38.3 |
 
 ```bash

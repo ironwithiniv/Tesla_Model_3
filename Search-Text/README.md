@@ -14,7 +14,7 @@
 | `NHTSA_Recalls.txt` | Документы 29 отзывов |
 | `NHTSA_Investigations.txt` | Резюме расследований ODI |
 
-Owner's Manual сюда добавится после того, как PDF будут скачаны вручную (см. [../Owner-Manual/README.md](../Owner-Manual/README.md)).
+| `OwnersManual_2017-2023_NA.txt` | Owner's Manual Model 3 2017–2023, NA, ПО 2026.38.3 |
 
 ```bash
 grep -n -i "cabin air filter" Search-Text/*.txt | head

@@ -8,9 +8,9 @@
 |---|---|---|
 | [NHTSA/](NHTSA/README.md) | Отзывы, жалобы, TSB (manufacturer communications), расследования ODI по Model 3 2021–2024: JSON, сводные CSV и таблицы, PDF | ✅ 2026-11-24 |
 | [Service-Manual/](Service-Manual/README.md) | Service Manual 2017–2023 и 2024+ (Highland), Body Repair Manual для обоих кузовов, таблица ревизий Electrical Reference, публичные PDF Tesla | ✅ 2026-11-24 |
-| [Owner-Manual/](Owner-Manual/README.md) | Owner's Manual NA + EU | ⏳ нужно скачать вручную |
+| [Owner-Manual/](Owner-Manual/README.md) | Owner's Manual 2017–2023 NA (ПО 2026.38.3); EU и Highland ещё не скачаны | 🟡 |
 | `Parts-Catalog/` | Номера и цены деталей из EPC (parts.tesla.com) | ⏳ |
-| [Search-Text/](Search-Text/README.md) | Текст всех документов для `grep` | ✅ (без Owner's Manual) |
+| [Search-Text/](Search-Text/README.md) | Текст всех документов для `grep` | ✅ |
 | `Guides/` | Гайды: покупка, осмотр, болячки, ТО, моменты, батарея, зарядка, ремонт | ⏳ |
 | `Market/` | Продажи Copart/IAAI, объявления в Грузии | ⏳ |
 | `Import-Georgia/` | Комиссии, логистика, растаможка | ⏳ |

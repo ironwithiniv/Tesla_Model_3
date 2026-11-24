@@ -8,8 +8,8 @@
 | [Maintenance_and_Fluids.md](Maintenance_and_Fluids.md) | ✅ | Регламент Tesla, жидкости (P/N), объёмы, что сделать после покупки |
 | [Torque_Specs.md](Torque_Specs.md) | ✅ | Моменты затяжки из SM: 434 (2017–2023) и 649 (2024+) строк, ключевые узлы отдельно |
 | [Tolerances_and_Specs.md](Tolerances_and_Specs.md) | ✅ | Развал-схождение, клиренс, тормоза (пределы износа), колёса, батареи |
-| Battery_Health.md | ⏳ | Деградация, нормы SOH, Scan My Tesla, ремонт и рынок батарей |
-| Charging_Georgia.md | ⏳ | Розетка, Wallbox, переходники, станции, Supercharger, солнце |
-| Repair_Costs.md | ⏳ | Типовой ремонт: детали из EPC + работа США/Грузия |
+| [Battery_Health.md](Battery_Health.md) | ✅ | Варианты пакета и ёмкость, гарантия, деградация (Tesla, Aviloo), таблица нормы SOH, уход, проверка, цены замены и ремонта |
+| [Charging_Georgia.md](Charging_Georgia.md) | ✅ | Расход EPA и стоимость, линия 16 А, Wallbox + переходник, солнце (PVGIS), CCS2 и ретрофит, станции Грузии, Supercharger (Трабзон), salvage |
+| [Repair_Costs.md](Repair_Costs.md) | 🟡 | Детали EPC + нормо-часы Tesla (903 процедуры), сценарии аукционных повреждений. Ставка работы в Грузии не найдена |
 
-Данные в `data/` (CSV моментов) собраны скриптами из [../tools/](../tools/README.md).
+Данные в `data/` (CSV моментов, нормо-часов, таблица работ) собраны скриптами из [../tools/](../tools/README.md).

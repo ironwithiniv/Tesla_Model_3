@@ -1,0 +1,40 @@
+procedure,correction_code,frt_hours,source_url
+Brake Pad Kit - Front (Sport Brakes) (Remove and Replace),33010712,0.66,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-267DFE52-6481-4577-8A6A-8DBC3AEB6DD6.html
+Brake Pad Kit - Rear (Sport Brakes) (Remove and Replace),33010812,0.54,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-4EC3E94A-5275-4F4D-9F20-4D5850DEBFC3.html
+Brake Rotor - Rear - LH (Measure Runout),33010200,0.48,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-A5A86D6A-816A-4BCF-A03B-E12DC07BB76C.html
+Car Computer (Dispose),21151007,0.24,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-D3F51C32-0B40-47C0-AD24-D5573F13DF88.html
+Charge Port - Manual Release of Cable,44013205,0.06,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-D01FADA1-075B-47F1-B2D1-A65C572AA45B.html
+Coax Cable - Side Repeater - Front - LH and RH (Overlay) (Remove and Replace),17403032,2.88,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-B764FF4B-24BC-4FDB-8305-C41E527AE16E.html
+Coolant - HV Battery (Drain and Refill),16200505,0.95,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-07284FBF-6CA3-4504-AD5B-1CEC1F7FD571.html
+Cooling System (Check and Fill),18300200,0.05,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-5A7C1AFE-9634-49A7-9CA2-6330E9161182.html
+Cooling System (Partial Refill and Bleed) (Modify),18300000,0.72,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-16455A85-902B-4E9A-84FE-F6EF7BC0D0FB.html
+Cover - Ancillary Bay (Rework) (Battery On Table),16300307,0.06,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-4A7BBFB8-EC93-4CEF-A763-FF6E45645CC9.html
+Cover - Ancillary Bay (Swap) (Battery On Table),16300107,0.36,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-CDF96974-65FA-4CC6-95A9-A2F912EF21A7.html
+Desiccant (Add-On) (Remove and Replace),18202022,0.1,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-65143E62-E16E-4F3D-9D46-527732686940.html
+Halfshaft - Front Drive Unit - LH (Lubricate at Hub),39302405,0.24,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-03DC3A4B-393F-48B3-9440-9D3D3ACD4C43.html
+Halfshaft - Rear Drive Unit - LH (Lubricate at Hub) (Restore),40302405,0.24,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-6E9E8172-C599-40D6-8798-8081429A3666.html
+Handle - Exterior Release - Door - Front - LH (Recalibrate),11451300,0.5,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-7BDEC340-FA98-4C95-93DE-515B76B1DE4D.html
+Headlights - Global - Adjust (EMEA with LET Tool),17400180,0.18,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-951C5C3C-9CBC-49B4-A964-08E36560A03D.html
+HV Battery Air Leak Test,16102100,0.5,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-B4D6E2D1-D3D6-449C-99DF-4EB7D3839AF9.html
+HV Battery Contactor Seize Check (Test/Adjust),16309000,0.84,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-A0E26D2E-CDFC-4E32-8925-0BED577EC2B0.html
+Insulators - HV Battery (Remove and Install),16302001,0.06,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-FB862FCA-26D5-49A0-8D61-DE812514B8BB.html
+Inverter Air Leak Test (Inspection),40202020,0.66,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-9057EAFA-3A35-40A4-B437-F41AB6EC7777.html
+LV Power (Disconnect and Connect) (Modify),17010410,0.06,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-C392D1B4-3007-45A4-A469-1B92676863F1.html
+Motor - Brake Caliper - Rear - LH (Remove and Replace),33052302,0.3,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-B6C54E7E-43F6-4048-82CE-0F0B09E454F4.html
+Mud Flaps (Retrofit),12207006,0.12,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-41B18FD4-4412-4435-BC1F-CAC831D0D00E.html
+OBD Connector (Retrofit) (Retrofit),00050300,0.24,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6.html
+Parking Brake - Caliper - Rear - LH (Release),33051005,0.15,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-FB457B3B-5E16-44CF-9F64-EF6C57A09310.html
+Platter Enclosure Coolant Leak Test,16102010,1.0,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-A5F9AEF6-A0E2-4478-A3AA-4D53A9A775A1.html
+Powertrain Coolant - Rear (Drain and Refill),40202000,0.85,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-AA42E909-E14B-42D4-88B0-036DF1C3E947.html
+Pyrotechnic Battery Disconnect (Remove and Install) (Battery On Table),16300201,0.5,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-87E7D01E-21B4-4604-A026-EC3F81833E56.html
+Remove and Clean Radiator (Maintenance),18301200,1.2,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-8A899A98-BA79-46B0-BA7F-85872F826E33.html
+Resistance Meter (Zero Adjust),16300100,0.05,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-02C5B1A2-BB47-4F76-97DA-66CC5DD9C8EB.html
+Software Update,00020003,0.06,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-1A53083B-DF86-4580-9A75-FEDE7857265D.html
+Tire - Front - LH (Road Force) (Balance) (Tire Repair),34022005,0.2,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-8D08D7BB-A9C7-475F-BECA-B44BF37A2C7D.html
+Tire - Front - LH (Tire Purchase),34021002,0.35,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-027D6021-58F7-467E-AFB8-E830F66D49ED.html
+Tire Rotation,34010105,0.29,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-7A200CAC-C2A5-4828-A96D-E49550FA1E85.html
+TPMS (Sensor ID Drive Learn),34041150,0.12,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-F40DC71F-5535-4425-AD7A-37EBC39C7148.html
+TPMS (Sensor ID Tool Learn),34041100,0.15,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-99E7ED45-98DC-47CE-A14E-A723B4693DAF.html
+Vehicle Sanitation - Evaporator - Tunap 994 - (EMEA),18106728,0.36,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-6A292A60-0110-4860-B64E-8927E3AB1C27.html
+Windshield and Roof Glass Chip Repair,10200108,0.45,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-30778DEA-E052-4003-8FCD-212B932129EA.html
+Windshield Chip Repair (EMEA),10200128,0.54,https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-090ECAC6-3CCC-411A-9364-25E8A59088A3.html

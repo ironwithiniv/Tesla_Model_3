@@ -11,7 +11,7 @@
 | [Owner-Manual/](Owner-Manual/README.md) | Owner's Manual 2017–2023 NA (ПО 2026.38.3); EU и Highland ещё не скачаны | 🟡 |
 | [Parts-Catalog/](Parts-Catalog/README.md) | EPC parts.tesla.com, US: 485 позиций по ключевым узлам с ценами (2017–2023); Highland ещё нет | 🟡 2026-11-24 |
 | [Search-Text/](Search-Text/README.md) | Текст всех документов для `grep` | ✅ |
-| [Guides/](Guides/README.md) | Гайды: выбор, осмотр, болячки, ТО и жидкости, моменты, допуски. Батарея, зарядка и ремонт ещё не написаны | 🟡 |
+| [Guides/](Guides/README.md) | 9 гайдов: выбор, осмотр, болячки, ТО и жидкости, моменты, допуски, батарея, зарядка в Грузии, стоимость ремонта | ✅ (ставка работы в Грузии ⏳) |
 | `Market/` | Продажи Copart/IAAI, объявления в Грузии | ⏳ |
 | `Import-Georgia/` | Комиссии, логистика, растаможка | ⏳ |
 | [Candidates/](Candidates/README.md) | Разбор конкретных лотов (шаблон готов) | 🟡 |

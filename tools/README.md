@@ -10,3 +10,5 @@
 | `torque.py DIR OUT.csv`, `torque_md.py OUT.md` | Таблицы моментов затяжки из страниц «Torque Specifications» |
 
 Скрипты, которые читают скачанные файлы, запускать через `python3 -I`.
+| `frt.py SEARCH_TXT OUT.csv` | Нормо-часы Tesla (Correction code + FRT) из текстов мануалов |
+| `repair_costs.py` | Таблица `Guides/data/repair_jobs.md`: цены EPC × нормо-часы |

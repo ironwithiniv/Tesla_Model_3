@@ -1,0 +1,3216 @@
+===== NHTSA/Investigations/AQ25002/INOA-AQ25002-18184.pdf =====
+                                                                                          OFFICE OF DEFECTS INVESTIGATION
+
+
+
+                                               ODI RESUME
+                             Investigation:AQ25002
+      U.S. Department
+                             Prompted By: SGO Review
+      of Transportation
+                             Date Opened: 08/19/2025
+      National               Investigator: Kareem Habib         Reviewer: Scott Simmons
+      Highway                Approver:     Tanya Topka
+      Traffic Safety         Subject:      Compliance with Standing General Order 2021-01
+      Administration
+                                           Reporting Requirements
+
+                              MANUFACTURER & PRODUCT INFORMATION
+
+       Manufacturer:      Tesla, Inc.
+       Products:          All Tesla vehicles subject to Standing General Order 2021-01
+       Population:        2,600,000 (Estimated)
+       Problem            Timeliness of incident reports
+       Description:
+
+                                    ACTION/SUMMARY INFORMATION
+
+       Action: Open AQ
+       Summary:
+       The Office of Defects Investigation (“ODI”) has identified numerous incident reports submitted by
+       Tesla, Inc. (“Tesla”) in response to Standing General Order 2021-01 (the “SGO”), in which the
+       reported crashes occurred several months or more before the dates of the reports. The majority
+       of these reports involved crashes in which the Standing General Order in place at the time
+       required a report to be submitted within one or five days of Tesla receiving notice of the crash.
+       When the reports were submitted, Tesla submitted them in one of two ways. Many of the reports
+       were submitted as part of a single batch, while others were submitted on a rolling basis.
+
+       Preliminary engagement between ODI and Tesla on the issue indicates that the timing of the
+       reports was due to an issue with Tesla’s data collection, which, according to Tesla, has now been
+       fixed. NHTSA is opening this Audit Query, a standard process for reviewing compliance with legal
+       requirements, to evaluate the cause of the potential delays in reporting, the scope of any such
+       delays, and the mitigations that Tesla has developed to address them. As part of this review,
+       NHTSA will assess whether any reports of prior incidents remain outstanding and whether the
+       reports that were submitted include all of the required and available data.
+
+
+       The SGO reports cited in the Opening Resume, can be found at NHTSA.gov/SGOCrashReporting
+       under the following SGO 2021-01 report IDs:
+
+       13781-11020-1 13781-10844-1 13781-10843-1 13781-10530-1 13781-10160-1
+       13781-10159-1 13781-10157-1 13781-10146-1 13781-10122-1 13781-10098-1
+       13781-10097-1 13781-10096-1 13781-10095-1 13781-10094-1 13781-10093-1
+       13781-10023-1 13781-10022-1 13781-10021-1 13781-10020-1 13781-10017-1
+       13781-10016-1 13781-10015-1 13781-10014-1 13781-10013-1 13781-10012-1
+
+
+Investigation: AQ25002                                                                            Open Resume Page 1 of 2
+       13781-6047-1 13781-9930-1 13781-9917-1 13781-9928-1 13781-9925-1 13781-9924-1
+       13781-9923-1 13781-9922-1 13781-9835-1 13781-9834-1 13781-9833-1 13781-9832-1
+       13781-9831-1 13781-9830-1 13781-9829-1 13781-9827-1 13781-9818-1 13781-9780-1
+       13781-9779-1 13781-9778-1 13781-9777-1 13781-9775-1 13781-9774-1 13781-9773-1
+       13781-9772-1 13781-9771-1 13781-9770-1 13781-9728-1 13781-9688-1 13781-9715-1
+       13781-9714-1 13781-9713-1 13781-9712-1 13781-9711-1 13781-9710-1 13781-9709-1
+       13781-9696-1 13781-9695-1 13781-9694-1 13781-9693-1 13781-9692-1 13781-9691-1
+       13781-9690-1 13781-9687-1 13781-9686-1 13781-9342-1 13781-9319-1 13781-9019-1
+       13781-8910-1 13781-8732-1 13781-8712-1 13781-8310-1 13781-7897-1 13781-7895-1
+       13781-7835-1 13781-7798-1 13781-7797-1 13781-7758-1 13781-7757-1 13781-7756-1
+       13781-7755-1 13781-7667-1 13781-7399-1 13781-7398-1 13781-7397-1 13781-7396-1
+       13781-7395-1 13781-7394-1 13781-7393-1 13781-7389-1 13781-7388-1 13781-7387-1
+       13781-7386-1 13781-7385-1 13781-7383-1 13781-7187-1 13781-7186-1 13781-7185-1
+       13781-7184-1 13781-7181-1 13781-7023-1 13781-6399-1 13781-6389-1 13781-6388-1
+       13781-6387-1 13781-6386-1 13781-6379-1 13781-6378-1 13781-6377-1 13781-6375-1
+       13781-6214-1 13781-6172-1 13781-6155-1 13781-6154-1 13781-6122-1 13781-6120-1
+       13781-6118-1 13781-5800-1
+
+
+
+
+Investigation: AQ25002                                                                 Open Resume Page 2 of 2
+===== NHTSA/Investigations/AQ25002/INRL-AQ25002-30871P1.pdf =====
+INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)
+                                                                                                                 1 Tesla Rd.
+                                                                                                           Austin, TX 78725
+
+                                                                                                         November 21, 2025
+
+
+
+
+Peter Simshauser
+Chief Counsel
+National Highway Traffic Safety Administration
+1200 New Jersey Ave, S.E.
+Washington, D.C. 20590
+Attention: Sarah Kohlhofer
+
+
+Re: Request for Confidential Treatment – Tesla’s Initial Response to NHTSA’s October 10, 2025,
+Information Request Regarding Audit Query (AQ) 25002
+
+
+Dear Mr. Simshauser,
+
+On behalf of Tesla, Inc. (“Tesla” or the “Company”), and pursuant to the provisions of 5 U.S.C. § 552(b)(4)
+(“FOIA Exemption 4”) and 49 C.F.R. § 512, this letter requests the National Highway Traffic Safety
+Administration (“NHTSA” or the “Agency”) for confidential treatment of all of the information in the
+attached submission that is marked with the phrase “Confidential Business Information” in a page header
+or tab or “CBI” in a file name (referred to hereinafter as the “Submission”).
+
+
+The marked information contained in the Submission is proprietary, confidential, and otherwise not
+publicly available, and has been labeled accordingly. Tesla customarily treats this type of information as
+private, or at least closely held, and it does not customarily disclose the information outside of the
+company or make it public in any way, except that portions of it may have been made available as
+necessary for the purpose of obtaining advice and assistance from counsel and other confidential
+advisors, or as discussed below. Some of the information contained in the Submission may have been
+released to outside consultants under binding nondisclosure agreements or similar mechanisms, or
+shared confidentially with other government agencies. Such disclosures do not compromise the
+confidential nature of the information because of the obligations of confidentiality imposed upon such
+advisors. Accordingly, Tesla seeks confidential treatment for the Submission.
+
+
+Competitive Harm. The Submission is entitled to confidential treatment because release of it would
+cause substantial competitive harm to Tesla. The Submission reveals details of Tesla’s software and its
+capability and how its vehicle technology operates and transmits data, including data points captured.
+The Submission also reveals the process by which Tesla identifies and investigates field incidents and
+Tesla’s analysis and assessment of its data sources.
+
+
+Tesla considers all of the information in the Submission that is marked with the phrase “Confidential
+Business Information” in a page header or tab or “CBI” in a file name to be wholly confidential and
+proprietary. We take extensive measures to guard and protect this marked information, even internally.
+Public disclosure would enable competitors to gain substantial competitive knowledge and an unfair
+advantage over Tesla. The marked information in the Submission is commercially valuable because it
+would provide competitors with means to improve their own software capability and vehicle technology,
+as well as their internal investigative processes, and data sources. Nefarious actors could also use the
+marked information to smear Tesla’s brand for the sake of notoriety, much to the Company’s detriment.
+Absent public disclosure, access to the marked information and all of the knowledge gained from it would
+require significant expenditure of time and resources and very intimate knowledge about Tesla.
+
+
+In addition, NHTSA has provided at least some assurances to Tesla that the Agency will keep this type of
+marked information private. Tesla regularly requests confidential treatment for information of this nature,
+and NHTSA has a long history of categorically treating this kind of information as confidential.
+Accordingly, the Submission should be deemed “confidential” within the meaning of FOIA Exemption 4.
+See Food Marketing Institute v. Argus Leader Media, 139 S.Ct. 2356, 2366 (2019) (“[W]here commercial
+or financial information is both customarily and actually treated as private by its owner and provided to the
+government under an assurance of privacy, the information is ‘confidential’ within the meaning of
+Exemption 4.”).
+
+
+Personal Identifying Information. Finally, NHTSA has stated that the Agency will protect personally
+identifying information, such as a name, address, telephone number, or vehicle identification number
+(“VIN”). The Submission contains multiple full VINs which could make one or more persons identifiable.
+We believe all this information should be treated confidentially because a reasonable person would not
+have intended for it to be released to the general public. We believe this is further reason for NHTSA to
+protect the confidentiality of the Submission in entirety.
+
+                                                     ***
+Based on the foregoing, Tesla seeks confidential treatment in perpetuity for all of the information in the
+Submission that is marked with the phrase “Confidential Business Information” in a page header or tab or
+“CBI” in a file name. Thank you for your consideration. If you have any questions regarding this request,
+you may contact me at vgiese@tesla.com.
+
+
+Sincerely,
+
+
+
+
+Victoria A. Giese
+Counsel, Regulatory
+===== NHTSA/Investigations/AQ25002/INRL-AQ25002-30872P1.pdf =====
+INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)
+===== NHTSA/Investigations/AQ25002/INRL-AQ25002-30876.pdf =====
+                                                                         1 Tesla Rd.
+                                                                   Austin, TX 78725
+
+                                                                  November 21, 2025
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/AQ25002/INRL-AQ25002-35037.pdf =====
+                                                                        1 Tesla Rd.
+                                                                  Austin, TX 78725
+
+                                                                  January 16, 2026
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/DP23001/INCLA-DP23001-12504.pdf =====
+                                                                                                                    OFFICE OF DEFECTS INVESTIGATION
+
+
+
+                                                                  ODI RESUME
+                                        Investigation:       DP23001
+       U.S. Department
+                                        Prompted By:         Defect Petition
+       of Transportation
+                                        Date Opened:         04/07/2023               Date             03/18/2026
+       National Highway                                                               Closed:
+       Traffic Safety
+                                        Investigator:        Matthew Martens          Reviewer:        Gregory Magno
+       Administration
+                                        Approver:            Tanya Topka
+                                        Subject:             Defect Petition Interlock Request
+
+
+                                            MANUFACTURER & PRODUCT INFORMATION
+
+        Manufacturer:               Tesla, Inc.
+        Products:                   2013-2023 Tesla Model S, 2019-2023 Tesla Model Y, 2017-2023 Tesla Model 3,
+                                    2015-2023 Tesla Model X
+        Population:                 2,259,157
+        Problem                     The petition alleges that the subject vehicles contain a defect that can cause driver
+        Description:                errors in the form of pedal misapplication.
+
+                                                      FAILURE REPORT SUMMARY
+
+                                      ODI        Manufacturer           EWR D&I        Other      Total     EWR Field Reports
+
+        All Incidents:                  1                0                     0         0         1                      0
+
+        Crashes/Fires:                  0                0                     0         0         0                      0
+
+        Injury Incidents:               0                0                     0         0         0                      0
+
+        Number of Injuries:             0                0                     0         0         0                      0
+
+        Fatality Incidents:             0                0                     0         0         0                      0
+
+        Number of
+                                        0                0                     0         0         0                      0
+        Fatalities:
+
+        Description of Other:
+
+                                                   ACTION/SUMMARY INFORMATION
+
+        Action:          Petition is denied; close this Defect Petition.
+        Summary:
+        On March 21, 2023, the Office of Defects Investigation (ODI) received a petition requesting a “recall of all Tesla
+        cars” produced from 2013 to the date on which the petition was filed due to what Petitioner considers to be the
+        increased likelihood of pedal misapplication. Attached to the Petition is a paper authored by Petitioner.
+        According to Petitioner, the differences in the operator controls between the subject Tesla vehicles and internal
+        combustion engine powered vehicles promote driver pedal misapplication, leading to sudden unintended
+
+
+Investigation: DP23001                                                                                                        Close Resume Page 1 of 2
+        acceleration (SUA) incidents. To fix this alleged defect, Petitioner argues that the subject vehicles should be
+        equipped with measures that require: (i) occasional removal of the driver’s foot from the pedals; and (ii)
+        application of the brake pedal before fully stopping the vehicle.
+        ODI evaluated the allegations by, among other things, reviewing the Petition and supporting technical paper,
+        and analyzing Tesla’s response to ODI’s Information Request.
+        ODI is denying this Petition. ODI has not found evidence that warrants the opening of a safety defect
+        investigation into the Tesla vehicles as described in the Petition. The use of regenerative braking controlled by
+        the accelerator pedal, or one-pedal driving, is common across most light vehicle manufacturers of electric
+        vehicles and Tesla vehicles are not unique in this respect. Further, ODI identified only a handful of collisions
+        potentially within the scope of the alleged defect; and corresponding vehicle data demonstrated that the subject
+        vehicles responded appropriately to control inputs by their drivers.
+        Moreover, ODI is unaware of any evidence to suggest that Petitioner’s proposed interlock would have
+        prevented alleged SUA events as apparently described in the Petition and supporting materials.
+        Accordingly, the Agency is denying the petition. As with all potential motor vehicle safety risks, NHTSA will
+        continue to review any new information or incidents as they are submitted to the Agency.
+
+
+
+
+Investigation: DP23001                                                                                         Close Resume Page 2 of 2
+===== NHTSA/Investigations/DP25002/INCLA-DP25002-55637.pdf =====
+                                                                                                                  OFFICE OF DEFECTS INVESTIGATION
+
+
+
+                                                                ODI RESUME
+                                      Investigation:       DP25002
+       U.S. Department
+                                      Prompted By:         Defect Petition
+       of Transportation
+                                      Date Opened:         12/23/2025               Date             07/22/2026
+       National Highway                                                             Closed:
+       Traffic Safety
+                                      Investigator:        Ayesha Huertas-          Reviewer:     Sharon Yukevich
+       Administration
+                                                           Torres
+                                      Approver:            Tanya Topka
+                                      Subject:             Emergency egress controls are not readily accessible and clearly
+                                                           identifiable.
+
+                                           MANUFACTURER & PRODUCT INFORMATION
+
+        Manufacturer:              Tesla, Inc.
+        Products:                  Model Year (MY) 2022 Model 3
+        Population:                179,701 (Estimated)
+        Problem                    Controls for the mechanical door release are not accessible and clearly identifiable,
+        Description:               failing to comply with Federal Motor Vehicle Safety Standard (FMVSS) 206.
+
+                                                   FAILURE REPORT SUMMARY
+
+                                     ODI       Manufacturer           EWR D&I       Other       Total     EWR Field Reports
+
+        All Incidents:                1                0                     0         0         1                      0
+
+        Crashes/Fires:                1                0                     0         0         1                      0
+
+        Injury Incidents:             1                0                     0         0         1                      0
+
+        Number of Injuries:           1                0                     0         0         1                      0
+
+        Fatality Incidents:           0                0                     0         0         0                      0
+
+        Number of
+                                      0                0                     0         0         0                      0
+        Fatalities:
+
+                                                ACTION/SUMMARY INFORMATION
+
+        Action:          DP25-002 is denied.
+        Summary:
+        The Office of Defects Investigation (ODI) has completed its review of a defect petition received on November
+        24, 2025, requesting an investigation into the emergency mechanical door release in 2022 Model Year (MY)
+        Tesla Model 3. The petition alleges that the controls for the emergency mechanical door release are not
+        accessible and clearly identifiable and thus fail to comply with Federal Motor Vehicle Safety Standard (FMVSS)
+        206.
+
+
+
+
+Investigation: DP25002                                                                                                      Close Resume Page 1 of 3
+        A vehicle equipped with electric door handles without an accessible mechanical door release creates a risk to
+        safety when the electric door handle becomes inoperative due to loss of power and occupants are unable to
+        easily locate the mechanical door release to exit the vehicle in case of an emergency. A concealed or hard to
+        locate emergency door release could prevent an operator or occupant from exiting the vehicle in the event of
+        an emergency, such as a crash or fire. The potential risk for entrapment can result in a severe injury or death of
+        the operator and other occupants of the vehicle.
+
+        As of March 13, 2026, out of the population of 179,031 subject vehicles, NHTSA has identified one (1)
+        consumer complaint, in NHTSA’s databases alleging that the mechanical door release is concealed and
+        unlabeled, resulting in a risk of entrapment in the event of an emergency, as cited in the Petition. The
+        complaint is for the same Vehicle Identification Number (VIN) as the subject vehicle of the Petition. The
+        allegation describes a front impact collision, where the vehicle lost electrical power, and the electric door
+        mechanism stopped working.
+
+        The 2022 MY Model 3 has a mechanical release for the front doors, located in front of the window switch on the
+        door's interior and consists of a lever that can be pulled up to open the door. The subject vehicle does not have
+        a mechanical release for the back doors.
+
+        The owner’s manual for the 2022 MY Tesla Model 3 includes a section labeled “In Case of Emergency” that
+        details how to open doors from the interior when the vehicle has no electrical power. The owner’s manual refers
+        to the mechanical release as a “manual door release.” The owner’s manual instructs the operator to “pull up the
+        manual door release located in front of the window switches.” The owner’s manual includes an illustration
+        showing the mechanical door release lever and its location on the door. The illustration depicts an image of the
+        door with the window switch and lever, including a blue arrow pointing to the location of the lever to
+        demonstrate the upward movement required to operate the lever. The lever shown in the illustration does not
+        contain a label to identify it. Although they vary in design and location, mechanical releases for the front doors
+        are available on all Tesla models. The location and operation of the mechanical release is described in the
+        owner’s manual for each Tesla model. Further, the owner’s manual cautions the operator that the mechanical
+        door release should only be used when the subject vehicle has no power or if otherwise necessary. If the
+        subject vehicle has power, the button located at the top of the interior door handle should be used to open the
+        doors.
+
+        The Petition also stated the lack of an accessible mechanical emergency door release is a violation of the
+        requirements of Federal Motor Vehicle Safety Standard (FMVSS) 206 (49 CFR § 571.206). FMVSS 206
+        specifies performance requirements for vehicle door locks, latches, hinges, and attachment components to
+        prevent passenger ejection during crashes. It applies to passenger cars, trucks, and buses with a GVWR of
+        4,536 kg (10,000 lbs.) or less, focusing on maintaining latch engagement under inertial loads and structural
+        integrity. No requirements exist in the standard that address the Petitioner’s concern regarding the labeling and
+        location of an emergency mechanical door release in passenger cars.
+
+        On November 4, 2025, NHTSA’s Office of Rulemaking received a petition to initiate the issuance of a new
+        Federal Motor Vehicle Safety Standard (FMVSS) to mandate a robust and obvious door egress system in all
+        motor vehicles. The request has been granted, and the Agency will accordingly commence a rulemaking
+        proceeding. See 49 CFR § 552.9. A decision as to the issuance of a rule will be made on the basis of all
+        available information developed in the course of the rulemaking proceeding, in accordance with statutory
+        criteria. Id.
+
+
+
+
+Investigation: DP25002                                                                                            Close Resume Page 2 of 3
+        The Agency has thoroughly assessed the material submitted by the Petitioner, consumer complaint information
+        in NHTSA’s databases, and other relevant information already in possession of the Agency. NHTSA does not
+        believe that the issues presented by the Petitioner indicate the likelihood of a safety related defect that would
+        warrant a defect investigation, and the issue is best addressed through the rulemaking process. After full
+        consideration of the available information and the commencement of the related rulemaking proceeding, the
+        Petition is denied. Further specifics can be found in the Federal Register Notice.
+
+        The ODI report cited above can be viewed at NHTSA.gov under ODI Number 11701894 and the Defect Petition
+        can be viewed under ODI Number 11698174.
+
+
+
+
+Investigation: DP25002                                                                                         Close Resume Page 3 of 3
+===== NHTSA/Investigations/DP25002/INOA-DP25002-34954.pdf =====
+                                                                                                                OFFICE OF DEFECTS INVESTIGATION
+
+
+
+                                                                 ODI RESUME
+                                       Investigation:       DP25002
+       U.S. Department
+                                       Prompted By:         Defect Petition
+       of Transportation
+                                       Date Opened:         12/23/2025
+       National Highway                Investigator:        Ayesha Huertas-        Reviewer:       Peter Kivett
+       Traffic Safety
+                                                            Torres
+       Administration
+                                       Approver:            Tanya Topka
+                                       Subject:             Emergency egress controls are not readily accessible and clearly
+                                                            identifiable.
+
+                                           MANUFACTURER & PRODUCT INFORMATION
+        Manufacturer:              Tesla, Inc.
+        Products:                  MY 2022 Tesla Model 3
+        Population:                179,071 (Estimated)
+        Problem                    The petition cites that the mechanical door release is hidden, unlabeled, and not
+        Description:               intuitive to locate during an emergency.
+
+                                                    FAILURE REPORT SUMMARY
+
+                                     ODI       Manufacturer            EWR D&I       Other     Total      EWR Field Reports
+
+        All Incidents:                 1                0                  0            0        1                    0
+
+        Crashes/Fires:                 1                0                  0            0        0                    0
+
+        Injury Incidents:              1                0                  0            0        1                    0
+
+        Number of Injuries:            1                0                  0            0        0                    0
+
+        Fatality Incidents:            0                0                  0            0        0                    0
+
+        Number of
+                                       0                0                  0            0        0                    0
+        Fatalities:
+
+
+                                                 ACTION/SUMMARY INFORMATION
+
+        Action:          Open this Defect Petition (DP) to evaluate the issue and determine whether to grant or deny the
+                         petition.
+        Summary:
+        The Office of Defects Investigation (ODI) received a petition on November 24, 2025, requesting a defect
+        investigation into the mechanical door release on model year (MY) 2022 Tesla Model 3. The petition cites
+        allegations that the mechanical door release is hidden, unlabeled, and not intuitive to locate during an
+        emergency. The petition itself can be reviewed at NHTSA.gov under ODI number 11698174.
+        A defect petition has been opened to evaluate the issue and determine whether to grant or deny the petition.
+
+
+
+
+Investigation: DP25002                                                                                                    Open Resume Page 1 of 1
+===== NHTSA/Investigations/EA22002/INCLA-EA22002-14498.pdf =====
+                                                                                                       OFFICE OF DEFECTS INVESTIGATION
+
+
+
+                                                            ODI RESUME
+
+      U.S. Department                 Investigation: EA22002
+      of Transportation               Prompted By: PE21020
+                                      Date Opened: 06/08/2022                 Date Closed: 04/25/2024
+      National Highway
+      Traffic Safety                  Investigator: Steven Posada             Reviewer:    Gregory Magno
+      Administration                  Approver:      Tanya Topka
+                                      Subject:       Autopilot System Driver Controls
+
+
+                                         MANUFACTURER & PRODUCT INFORMATION
+       Manufacturer:               Tesla, Inc.
+       Products:                   2012 – 2023 Model Y, X, S, 3 equipped w/ Autopilot manufactured up to 7-Dec-
+                                   2023
+       Population:                 2,031,220
+       Problem Description: The prominence and scope of Autopilot’s control may be insufficient to prevent
+                            crashes due to lack of driver engagement.
+
+                                                  FAILURE REPORT SUMMARY
+
+                                         ODI     Manufacturer      EWR D&I       Other    Total     EWR Field Reports
+
+       All Incidents:                     12          259             10         421      467*                    0
+
+       Crashes/Fires:                     12          259             10         421      467*                    0
+
+       Injury Incidents:                  1            31                 7       27       32*                    0
+
+       Number of Injuries:                1            53             12          41       54*                    0
+
+       Fatality Incidents:                2            11                 3        9       13*                    0
+
+       Number of Fatalities:              2            12                 3        9       14*                    0
+
+       Description of Other: Crashes reported to the Standing General Order (SGO) or media reports. All 12 VOQs
+                             listed under the ODI category were verified to have Autopilot engaged.
+
+       *Total eliminates duplicates received by the manufacturer
+
+
+                                                ACTION/SUMMARY INFORMATION
+
+       Action:           The Engineering Analysis (EA) has been closed.
+       Summary:
+       The Office of Defects Investigation (ODI) upgraded PE21020 to EA22002 on June 8, 2022, to extend work
+       and deepen the PE21020 crash analysis, to supplement that analysis with additional data, and to perform
+       vehicle evaluations to understand how Tesla’s Autopilot system may exacerbate human factors or behavioral
+
+
+
+Investigation: EA22002                                                                                          Close Resume Page 1 of 3
+       safety risks by undermining the effectiveness of the driver’s supervision. To support this work, ODI collected
+       additional crash information and assessed vehicle control authority, driver engagement technologies, and
+       related human factors considerations associated with partial automation via analysis of peer vehicle data and
+       hands-on vehicle evaluation, assessments from NHTSA human factors subject matter experts, and reviews of
+       related publications dedicated to partial driving automation.
+
+       Autopilot is the simultaneous use of the features that Tesla calls Traffic-Aware Cruise Control (TACC) and
+       Autosteer. TACC is a type of adaptive cruise control that, like traditional cruise control, maintains a set speed
+       but also slows or accelerates as necessary to maintain the vehicle’s following distance from a vehicle in front.
+       As designed, Autosteer detects lane markings and the presence of other nearby vehicles and objects to keep
+       the vehicle in its driving lane.
+
+       Autopilot is characterized by Tesla as an SAE Level 2 (“L2 system”) partial driving automation system that
+       provides driver assistance through steering, propulsion, and braking within a specified driving environment
+       under direct supervision of the driver. L2 systems should be designed to support the driver’s need to monitor
+       the system in response to the constantly changing driving environment and, if necessary, take over the
+       dynamic driving task. To ensure sufficient driver engagement, vehicles with L2 systems should employ driver
+       engagement systems and usage controls that are appropriate and sufficient for the L2 system design and
+       driver expectations.
+
+       ODI completed an analysis of 956 crashes reported up to August 30, 2023. In approximately half (489) of
+       those crashes, ODI found: 1.) that there was insufficient data to make an assessment; 2.) the other vehicle
+       was at fault; 3.) Autopilot was found to not be in use; or 4.) the crash was otherwise unrelated to EA22002. Of
+       the remaining 467 crashes, ODI identified trends resulting in three categories: collisions in which the frontal
+       plane of the Tesla struck another vehicle or obstacle with adequate time for an attentive driver to respond to
+       avoid or mitigate the crash (211), roadway departures where Autosteer was inadvertently disengaged by the
+       driver’s inputs (111), and roadway departures in low traction conditions such as wet roadways (145). ODI
+       observed this pattern across all Tesla models and hardware versions. Crash and human factors assessment
+       showed that Autopilot controls did not sufficiently ensure driver attention and appropriate use. At the same
+       time, peer analysis and vehicle evaluations established that Autopilot invited greater driver confidence via its
+       higher control authority and ease of engagement. This mismatch of weak usage controls and high control
+       authority was evident in these crash categories, which included indications of driver disengagement from the
+       driving task. This mismatch was also evident in roadway departures when the system was engaged in low
+       traction conditions outside of Tesla’s recommendations. Additional information regarding NHTSA’s crash
+       analysis is available in the EA22002 file.
+
+       ODI reviewed these findings with Tesla during several conversations in Quarter 4 of 2023. On December 12,
+       2023, Tesla filed a Defect Information Report (DIR) (Recall 23V838) applicable to all Tesla models produced
+       and equipped with any version of its Autopilot system. Tesla’s DIR described the functionality of this system,
+       stated that the prominence and scope of the system’s controls may be insufficient to prevent driver misuse,
+       and described a remedy to improve the effectiveness of driver warnings and to reduce mode confusion.
+
+       ODI completed an extensive body of work via PE21020 and EA22002, which showed evidence that Tesla’s
+       weak driver engagement system was not appropriate for Autopilot’s permissive operating capabilities. This
+       mismatch resulted in a critical safety gap between drivers’ expectations of the L2 system’s operating
+       capabilities and the system’s true capabilities. This gap led to foreseeable misuse and avoidable crashes.
+       During EA220002, ODI identified at least 13 crashes involving one or more fatalities and many more involving
+       serious injuries, in which foreseeable driver misuse of the system played an apparent role. ODI’s analysis
+
+
+Investigation: EA22002                                                                                      Close Resume Page 2 of 3
+       conducted during this investigation, which aligns with Tesla’s conclusion in its Defect Information Report,
+       indicated that in certain circumstances, Autopilot’s system controls and warnings were insufficient for a driver
+       assistance system that requires constant supervision by a human driver.
+
+       Given Tesla’s recall (23V838) of all vehicles equipped with Autopilot for insufficient controls to prevent misuse,
+       ODI is closing EA22002. Concurrent with that closing, ODI has opened a Recall Query (RQ24009) to assess
+       the effectiveness of the 23V838 remedy.
+
+       To review the ODI reports cited in the Closing Resume ODI Report Identification Number document, go to
+       NHTSA.gov.
+
+
+
+
+Investigation: EA22002                                                                                      Close Resume Page 3 of 3
+===== NHTSA/Investigations/EA24001/INCLA-EA24001-13768.pdf =====
+                                                                                                                     OFFICE OF DEFECTS INVESTIGATION
+
+
+
+                                                                ODI RESUME
+                                      Investigation:       EA24001
+       U.S. Department
+                                      Prompted By:         VOQ Review
+       of Transportation
+                                      Date Opened:         02/01/2024                 Date              06/25/2026
+       National Highway                                                               Closed:
+       Traffic Safety
+                                      Investigator:        Joseph Geissler            Reviewer:         Sharon Yukevich
+       Administration
+                                      Approver:            Tanya Topka
+                                      Subject:             Loss of steering control
+
+
+                                           MANUFACTURER & PRODUCT INFORMATION
+
+        Manufacturer:              Tesla, Inc.
+        Products:                  2023 Tesla Model 3 and Y
+        Population:                376,241 (Estimated)
+        Problem                    Loss of steering control, frequently accompanied by driver-facing messages
+        Description:               indicating that power steering assist is reduced or disabled.
+
+                                                   FAILURE REPORT SUMMARY
+
+                                     ODI       Manufacturer           EWR D&I         Other       Total      EWR Field Reports
+
+        All Incidents:               128           4,079                   0            0     4,207                        0
+
+        Crashes/Fires:                 5               5                   0            0          10                      0
+
+        Injury Incidents:              1               0                   0            0          1                       0
+
+        Number of Injuries:            1               0                   0            0          1                       0
+
+        Fatality Incidents:            0               0                   0            0          0                       0
+
+        Description of Other:
+        N/A
+
+                                                 ACTION/SUMMARY INFORMATION
+
+        Action:          This (EA) Engineering Analysis is closed with 25V092.
+        Summary:
+        On July 28, 2023, the Office of Defects Investigation (ODI) opened a Preliminary Evaluation (PE23014) to
+        investigate instances of loss of electronic power-assisted steering in MY 2023 Tesla Model 3 and MY 2023
+        Tesla Model Y vehicles manufactured by Tesla, Inc. The complaints allege a sudden and unexpected inability to
+        turn the steering wheel or an increase in effort required to turn the steering wheel. These conditions were
+        alleged to occur both during the drive cycle, at various speeds, and at vehicle start up. Consumers reported
+        receiving the warning message “Steering assist reduced” either before, during, or after the loss of steering
+        control, and some consumers described their steering begin to feel “notchy” or “clicky” either prior to or just
+
+
+
+Investigation: EA24001                                                                                                         Close Resume Page 1 of 2
+        after the incident. On February 1, 2024, PE23014 was upgraded to EA24001 to further investigate the alleged
+        defect in the affected vehicles.
+        Tesla identified the cause of the increase in steering effort as an overvoltage breakdown (the voltage applied
+        exceeds the maximum design limit), which can overstress motor drive components on the printed circuit board
+        of the vehicle’s steering Electronic Control Unit (ECU). If the primary motor drive components experienced an
+        overvoltage breakdown occurrence while the vehicle was traveling above 0 mph, electronic power-assisted
+        steering would be diverted to secondary motor drive components. The secondary, or backup, motor drive
+        components would maintain electronic power-assisted steering until the vehicle reached 0 mph. If the vehicle
+        was operating on the secondary system and reached 0 mph, the driver would lose electronic power-assisted
+        steering with manual steering remaining available. Only manual steering would remain until the vehicle’s
+        steering ECU is replaced.
+        On February 19, 2025, Tesla filed safety recall 25V092 to address the loss of electronic power-assisted
+        steering. The recall filing documents state that a steering ECU software update, identified as 2023.38.4, was
+        introduced into production vehicles and provided to affected fleet vehicles through an over-the-air (OTA) update
+        beginning in October 2023. The updated software was designed to prevent overvoltage breakdown and
+        overstress of motor drive components on the printed circuit board.
+        ODI’s analysis of related Vehicle Owner Questionnaires (VOQs) and Tesla field data found that complaint traffic
+        declined following the 2023.38.4 software release. In view of the recall action taken by Tesla, ODI is closing this
+        EA. ODI will continue to monitor the effectiveness of the remedy as is consistent with the Agency’s authority
+        and practice. NHTSA reserves the right to take additional action if warranted by future circumstances.
+        To review the ODI reports cited in the Opening Resume ODI Report Identification Number document, go to
+        NHTSA.gov.
+
+
+
+
+Investigation: EA24001                                                                                          Close Resume Page 2 of 2
+===== NHTSA/Investigations/EA24001/INOA-EA24001-10341.pdf =====
+                                                                                                      OFFICE OF DEFECTS INVESTIGATION
+
+
+
+                                                          ODI RESUME
+
+      U.S. Department                 Investigation: EA24001
+      of Transportation               Prompted By: VOQ Review
+                                      Date Opened: 02/01/2024
+      National Highway
+      Traffic Safety                  Investigator: Alexa Ardron              Reviewer:     Matthew Martens
+      Administration                  Approver:      Tanya Topka
+                                      Subject:       Loss of steering control
+
+
+                                            MANUFACTURER & PRODUCT INFORMATION
+       Manufacturer:               Tesla, Inc.
+       Products:                   2023 Tesla Model 3 and Y
+       Population:                 334,569 (Estimated)
+       Problem Description: Loss of steering control, frequently accompanied by driver-facing messages
+                            indicating that power steering assist is reduced or disabled.
+
+                                                  FAILURE REPORT SUMMARY
+
+                                      ODI      Manufacturer      EWR D&I      Other       Total    EWR Field Reports
+
+       All Incidents:                 115         2,176              0          0         2,191*                0
+
+       Crashes/Fires:                  1            1                0          0           1*                  0
+
+       Injury Incidents:               0            0                0          0           0                   0
+
+       Fatality Incidents:             0            0                0          0           0                   0
+
+       Description of Other:
+
+       *Total eliminates duplicates received by the manufacturer
+
+                                                ACTION/SUMMARY INFORMATION
+
+       Action:           An Engineering Analysis (EA) has been opened.
+       Summary:
+       On July 28, 2023, The Office of Defects Investigation (ODI) opened a Preliminary Evaluation (PE23-014)
+       after receiving 12 Vehicle Owner Questionnaires (VOQs) reporting loss of steering control in model years
+       (MY) 2023 Tesla Model 3 and Y vehicles. During PE23-014, ODI interviewed complainants, sent an
+       Information Request (IR) letter to Tesla, and convened technical meetings with Tesla that included a joint
+       inspection of a crashed vehicle.
+
+       The investigation identified 2,388 total complaints regarding the alleged defect, including the 124 complaints
+       identified through VOQs and 2,264 complaints through manufacturer data. ODI is associating 1 crash to this
+       investigation (11544655), where a driver was unable to complete a right hand turn in the intersection and hit
+
+
+
+Investigation: EA24001                                                                                         Open Resume Page 1 of 2
+       a vehicle. This vehicle was subject to a joint inspection by ODI and Tesla. The steering rack was recovered by
+       ODI with the consumer’s permission.
+
+       ODI’s interviews of allegations supplied to the agency, in the form of VOQs, identified patterns of the
+       incoming complaint traffic. Complaints allege an inability to turn the steering wheel, while other complaints
+       allege an increase in required effort to turn the steering wheel. These conditions were reported to occur
+       during the drive cycle as well as at start-up. Approximately one-third of complaints with a reported speed
+       occurred at vehicle start-up or speeds less than 5 mph. Interviews with failures reported at speeds over 5
+       mph, half reported an inability to turn the steering wheel. A majority of complaints with a reported speed
+       reported between 5 mph and 35 mph with approximately 1 in 10 occurring on open roads at speeds 35 mph
+       and over. The highest reported speed regarding an alleged inability to turn the steering wheel is 75 mph. A
+       majority of allegations reported seeing a warning message, “Steering assist reduced”, either before, during or
+       after the loss of steering control. A portion of drivers described their steering begin to feel “notchy” or “clicky”
+       either prior to or just after the incident.
+
+       There have been multiple allegations of drivers blocking intersections and/or roadways. ODI is aware of over
+       50 vehicles which were allegedly towed as a result of the condition from a variety of areas including,
+       driveways, parking lots, side of road and intersections. Multiple complaints state they were able to temporarily
+       remedy the condition by power cycling the vehicle, but the issue reoccurred until the steering rack was
+       replaced.
+
+       Tesla supplied four steering rack part numbers on MY 2023 Model 3 and Model Y vehicles. PE23-014
+       identified part numbers, 1044832-00-A and 1188832-00-A accounted for 2,187 of the complaints and 4 did
+       not have original part number in the information request.
+
+       This Engineering Analysis has been opened to characterize the conditions leading to- and stemming from-
+       failures with steering rack part numbers 1044832-00-A , 1188832-00-A.
+
+       To review the ODI reports cited in the Opening Resume ODI Report Identification Number document, go to
+       NHTSA.gov.
+
+
+
+
+Investigation: EA24001                                                                                        Open Resume Page 2 of 2
+===== NHTSA/Investigations/EA24001/INRL-EA24001-10077.pdf =====
+                                                                        1 Tesla Rd.
+                                                                  Austin, TX 78725
+
+                                                                     July 24, 2024
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/EA24001/INRL-EA24001-10078.pdf =====
+                                                                        1 Tesla Rd.
+                                                                  Austin, TX 78725
+
+                                                                     July 24, 2024
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/EA24001/INRL-EA24001-10091.pdf =====
+                                                                        1 Tesla Rd.
+                                                                  Austin, TX 78725
+
+                                                                     July 24, 2024
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/EA26002/INOA-EA26002-10023.pdf =====
+                                                                                                              OFFICE OF DEFECTS INVESTIGATION
+
+
+
+                                                               ODI RESUME
+                                      Investigation:       EA26002
+       U.S. Department
+                                      Prompted By:         PE24031
+       of Transportation
+                                      Date Opened:         03/18/2026
+       National Highway               Investigator:        Dylan Copestick         Reviewer:    Sharon Yukevich
+       Traffic Safety
+                                      Approver:            Tanya Topka
+       Administration
+                                      Subject:             FSD Collisions in Reduced Roadway Visibility Conditions
+
+
+                                           MANUFACTURER & PRODUCT INFORMATION
+
+        Manufacturer:              Tesla, Inc.
+        Products:                  2016-2026 Model S, X, 2017-2026 Model 3, 2020-2026 Model Y, 2023-2026
+                                   Cybertruck equipped with FSD
+        Population:                3,203,754 (Estimated)
+        Problem                    Failure of the FSD’s degradation detection system, when encountering reduced
+        Description:               roadway visibility conditions, to detect a degraded state and to warn the driver
+                                   appropriately.
+
+                                                   FAILURE REPORT SUMMARY
+
+                                     ODI       Manufacturer           EWR D&I       Other    Total     EWR Field Reports
+
+        All Incidents:                0                2                  0           7        9                    0
+
+        Crashes/Fires:                0                2                  0           7        9                    0
+
+        Injury Incidents:             0                0                  0           2        2                    0
+
+        Number of Injuries:           0                0                  0           1        1                    0
+
+        Fatality Incidents:           0                0                  0           1        1                    0
+
+        Number of
+                                      0                0                  0           1        1                    0
+        Fatalities:
+
+        Description of Other:
+        Crashes reported under the Standing General Order (SGO) or media reports.
+
+
+                                                ACTION/SUMMARY INFORMATION
+
+        Action:          This Engineering Analysis (EA) has been opened.
+        Summary:
+        The Office of Defects Investigation (ODI) is opening this Engineering Analysis to evaluate Tesla’s Full Self
+        Driving Beta and Full Self Driving (Supervised) (collectively, FSD) degradation detection system. The focus of
+        this investigation will be to assess the system’s ability, when encountering reduced roadway visibility conditions,
+        to detect degradation and alert the driver with sufficient time to respond. ODI will evaluate the performance of
+
+
+Investigation: EA26002                                                                                                  Open Resume Page 1 of 2
+        FSD in degraded roadway conditions and the updates or modifications by Tesla to the degradation detection
+        system, including the timing, purpose, and capabilities of the updates, and Tesla’s assessment of their safety
+        impact.
+        Tesla’s FSD is an advanced driver assistance system (ADAS) that relies exclusively on vision-based cameras
+        and the related FSD software to detect and respond to the roadway ahead, projecting a path forward based on
+        traffic control devices, vehicles, pedestrians, and the roadway itself. When Tesla began transitioning away from
+        using both cameras and radars to an exclusively camera-based approach, known as Tesla Vision, in mid-2021,
+        it developed and implemented a degradation detection system that it deployed by a software update to existing
+        and new Tesla vehicles. On June 28, 2024, the day after Tesla submitted the SGO report of the November 28,
+        2023 fatal crash listed in this document, Tesla began developing an update to the degradation detection
+        system. At this time, ODI does not have information on when the update was deployed and which vehicles have
+        the updated system.
+        ODI discussed individual incidents and its initial findings during the PE phase of its investigation with Tesla. As
+        part of those discussions, Tesla’s post-incident analysis indicated that the update to the degradation detection
+        system, had it been installed on the vehicles at the time, may have affected 3 of the 9 incidents identified by
+        ODI. Tesla also described internal data and labeling limitations that prevented a uniform identification and
+        analysis of crash events with the subject system engaged. ODI believes this limitation could have led to under-
+        reporting of subject crashes over portions of the defined time-period.
+        Available incident data raise concerns that Tesla’s degradation detection system, both as originally deployed
+        and later updated, fails to detect and/or warn the driver appropriately under degraded visibility conditions such
+        as glare and airborne obscurants. In the crashes that ODI has reviewed, the system did not detect common
+        roadway conditions that impaired camera visibility and/or provide alerts when camera performance had
+        deteriorated until immediately before the crash occurred. Review of Tesla’s responses revealed additional
+        crashes that occurred in similar environments and where the system either did not detect a degraded state,
+        and/or it did not present the driver with an alert with adequate time for the driver to react. In each of these
+        crashes, FSD also lost track of or never detected a lead vehicle in its path.
+        In upgrading PE24031 to an Engineering Analysis (EA), ODI will gather further information on the updated
+        degradation detection system, including the status of updating vehicles and scope of compatible vehicles, the
+        system’s visibility degradation detection capability, and alerts or warnings to the driver. Lastly, ODI will conduct
+        analysis on six recent potentially related incidents. These incidents can be found at NHTSA.gov under the
+        following SGO report identification numbers: 13781-11937, 13781-13211, 13781-13569, 13781-13633, 13781-
+        13693, 13781-13788.
+        The crashes included in the failure report summary can be found at NHTSA.gov under the following SGO report
+        identification numbers: 13781-8004, 13781-7181, 13781-7381, 13781-7767, 13781-7964, 13781-8977, 13781-
+        9267.
+
+
+
+
+Investigation: EA26002                                                                                           Open Resume Page 2 of 2
+===== NHTSA/Investigations/PE21020/INRL-PE21020-91005P.pdf =====
+This file represents a consolidation of multiple files sent
+  by the manufacturer. Please use the bookmarks to
+navigate to each file. (Each bookmark label is the name
+                   of the original file.)
+
+  This file may have been split into multiple files after
+     consolidation. Such files have the suffix “1 of
+        n”appended to the end of the file name.
+_____________________________________________________________________
+
+                                                               Jennifer Shute
+                                                               Director, Technical Safety and Regulatory
+                                                               Compliance
+
+
+
+
+November 3, 2021
+
+
+Mr. Gregory Magno
+U.S. Department of Transportation
+National Highway Traffic Safety Administration
+1200 New Jersey Avenue SE
+Washington, D.C. 20590
+
+Reference: NEF-0104; PE21-020
+
+Dear Mr. Magno:
+
+
+Enclosed is the response of FCA US LLC (“FCA US”) to the September 13, 2021, Information
+Request issued in the above-referenced investigation. This constitutes FCA US’s full response to
+this Information Request.
+
+
+
+Sincerely,
+
+
+
+Jennifer Shute
+Director, Technical Safety and Regulatory Compliance
+
+Attachment and Enclosures
+
+
+
+
+FCA US LLC
+800 Chrysler Dr., Auburn Hills, MI. 48326
+Mr. Gregory Magno
+ATTACHMENT
+Reference: NEF-0104; PE21-020
+November 3, 2021                                                                                Page 2 of 11
+
+1.    State, by model and model year, the number of subject vehicles STELLANTIS has manufactured for
+      sale or lease or operation in the United States. Separately, for each subject vehicle manufactured
+      to date by STELLANTIS, state the following:
+        a. Vehicle identification number (VIN);
+        b. Model;
+        c. Model Year;
+        d. Subject component trade / trim name, part number and design version installed as original
+            equipment; including:
+            i) Software version;
+            ii) Firmware version;
+            iii) Hardware version;
+        e. Date of manufacture;
+        f. Date warranty coverage commenced;
+        g. The State in the United States where the vehicle was originally sold or leased (or delivered for
+            sale or lease);
+        h. Latest known vehicle mileage and commensurate date;
+        i. Cumulative mileage covered with the subject system engaged; and
+        j. Date and identities of the most recent software, firmware, and hardware updates.
+
+        Provide the table in Microsoft Access 2010, or a compatible format, entitled “PRODUCTION
+        DATA.”
+
+A1.   FCA US’ responses to subparts (a) through (c) and (e) through (h) of this Request are located in
+      ENCLOSURE 01 and titled PE21-020_PRODUCTION DATA.accdb. The response for subpart (d) of the
+      Request is located in ENCLOSURE 07 and titled PE21-020_REQUEST NUMBER SEVEN_CONF BUS
+      INFO.pdf. For subparts (i) and (j) FCA US notes that this information is not available within the FCA US
+      systems.
+
+
+2.    State the number of each of the following, received by STELLANTIS, or of which STELLANTIS is
+      otherwise aware, which relate to, or may relate to the subject system in the subject vehicles:
+        a. Consumer Complaints;
+        b. Field Reports;
+        c. Reports involving a subject crash, injury or fatality;
+        d. Property damage claims;
+        e. Third-party arbitration proceedings where STELLANTIS is or was a party to the arbitration;
+            and
+        f. Lawsuits, both pending and closed, in which STELLANTIS is or was a defendant or
+            codefendant.
+
+        For subparts “a” through “f” state the total number of each item (e.g., consumer complaints, field
+        reports, etc.) separately. Multiple incidents involving the same vehicle are to be counted
+        separately. Multiple reports of the same incident are also to be counted separately (i.e., a
+        consumer complaint and a field report involving the same incident in which a crash occurred are
+        to be counted as a crash report, a field report and a consumer complaint).
+
+        In addition, for items “e” and “f”, provide a summary description of the alleged problem and
+        causal and contributing factors and STELLANTIS’s assessment of the problem, with a summary
+        of the significant underlying facts and evidence. For items “e” and “f,” identify the parties to the
+        action, as well as the caption, court, docket number, and date on which the complaint or other
+        document initiating the action was filed.
+
+A2.   FCA US has conducted a reasonable and diligent search of the normal repositories of information
+      potentially responsive to this Request. Information related to these reports comprises FCA US’ responses
+      to subparts (a) through (f) of this Request. That information is located in ENCLOSURE 02 and titled PE21-
+      020_REPORTS.pdf.
+Mr. Gregory Magno
+ATTACHMENT
+Reference: NEF-0104; PE21-020
+November 3, 2021                                                                              Page 3 of 11
+
+3.    Separately, for each item (complaint, report, claim, notice, or matter) within the scope of your
+      response to Request No. 2, state the following information:
+        a. STELLANTIS’s file number or other identifier used;
+        b. The category of the item, as identified in Request No. 2 (i.e., consumer complaint, field report,
+           etc.);
+        c. Vehicle owner or fleet name (and fleet contact person), street address, email address and
+           telephone number;
+        d. Vehicle’s VIN;
+        e. Vehicle’s model and model year;
+        f. Vehicle’s mileage at time of incident;
+        g. Software, firmware, and hardware versions in place at the time of the incident, along with
+           vehicle and mileage and date of installation;
+        h. Incident date;
+        i. Report or claim date;
+        j. Whether a crash is alleged;
+        k. Description of the crash including:
+           i) Time of day and local time zone;
+           ii) Crash site coordinates (latitude and longitude);
+           iii) Listing of involved vehicles, objects and persons;
+           iv) Speed and direction of the subject vehicle;
+           v) Documented subject vehicle driver impairment;
+           vi) Location / orientation of the subject vehicle in relation to other involved vehicles, objects,
+                 persons at the time of impact;
+           vii) Timing of subject system engagement / disengagement over the 30 second period leading
+                 to the subject crash and, if not:
+                 (1) Description and timing of driver control inputs that may have overridden the subject
+                     system;
+           viii) Description of the intervention of:
+                 (1) crash warning or avoidance systems (e.g., AEB, FCW)
+                 (2) subject system logic intended to detect first responder vehicles / scenes on or off the
+                     roadway;
+        l. Description and timing of the last driver engagement warning prior to the subject crash;
+        m. Duration (minutes) and distance (miles) of the drive cycle that led to the subject crash;
+        n. Whether property damage is alleged;
+        o. Number of alleged injuries, if any; and
+        p. Number of alleged fatalities, if any.
+
+       Provide this information in Microsoft Access 2010, or a compatible format, entitled “REQUEST
+       NUMBER TWO DATA.”
+
+A3.   FCA US’ responses to this Request are located in ENCLOSURE 03 and titled PE21-020_REQUEST
+      NUMBER TWO DATA.accdb. FCA US notes that the information for subpart (g) of this request is not
+      available within FCA US systems.
+Mr. Gregory Magno
+ATTACHMENT
+Reference: NEF-0104; PE21-020
+November 3, 2021                                                                               Page 4 of 11
+
+4.    Produce copies of all documents, telematics reports / data, and data logs related to each item within
+      the scope of Request No. 2. Organize the documents separately by category (i.e., consumer
+      complaints, field reports, etc.) and describe the method STELLANTIS used for organizing the
+      documents. Describe in detail the search methods and search criteria used by STELLANTIS to
+      identify the items in response to Request No. 2.
+
+      In addition, provide a full copy of any expert report that has been produced by STELLANTIS or
+      received from another party in a lawsuit, arbitration, or a pre-suit claim regarding the incidents
+      identified in Request Number 2. This includes any reports produced or exchanged for experts
+      designated by any party in such litigation, including STELLANTIS, plaintiff(s), or co-defendants.
+      This does not include reports that STELLANTIS has never produced to another party, to the extent
+      STELLANTIS claims a privilege exists for such a report.
+
+A4.   Documents potentially related to each item within the scope of Request No. 2 were gathered by using
+      Subject Vehicle model, model year, and Subject System sales codes. An eyes-on review of all records
+      returned was then conducted to determine whether each returned record relates to the Subject System in
+      the Subject Vehicles.
+
+      Copies of the available documents related to each item within the scope of Request No. 2 can be found in
+      ENCLOSURE 04. The customer complaint summaries are submitted in files titled PE21-020_CONSUMER
+      AND CUSTOMER COMPLAINTS.pdf and the related documents are arranged in corresponding folders
+      by complaint number. Field reports are contained in files titled PE21-016_FIELD REPORTS.pdf and the
+      related documents are arranged in corresponding folders by field report number.
+
+
+
+5.    For each trade name / trim level of the subject system available in the subject vehicles, state its
+      name and designation including:
+        a. Describe the ODD specified to the customer by STELLANTIS for the intended use of the
+           system, including but not limited to:
+           i) Types of roads, road marking, weather conditions, etc. the system is intended to be used
+                on and the types of roads on which the system should not be used;
+           ii) List the methods and technologies used to prevent subject system usage outside the ODD
+                specified to the customer by STELLANTIS; and
+           iii) If the subject system can be engaged (or remain engaged) outside of the ODD specified
+                to the customer by STELLANTIS, state the reasons for this capability and describe any
+                performance restrictions or modifications to the subject system’s operational
+                characteristics in such an environment (e.g. slower maximum speeds or control authority,
+                additional driver warnings, adjustments to the driver engagement system).
+
+        b. Describe the subject system’s maximum control authority over steering (steering angle
+           (degrees), rate (degrees / sec), lateral acceleration (g)), braking (g), and acceleration (g)
+           functions during routine and crash-imminent operations. Separately include any additional
+           conditions and control authority values that STELLANTIS deems appropriate.
+
+        c. List and describe the information, system status, alerts, warnings, and graphics
+           communicated by the subject vehicle to its driver during the DDT (e.g., warning lights,
+           instrument panel animations, aural warnings, haptic warnings) during the following subject
+           system operational conditions:
+           i) Routine subject system operation;
+           ii) Scenarios where the vehicle requires driver intervention (e.g., driver engagement needed,
+                imminent ODD exit, system fault); and
+           iii) When the subject vehicle detects that a crash is imminent.
+
+        d. Furnish an overview of STELLANTIS’s approach to the enforcement of driver engagement /
+           attentiveness during the subject system’s operation in the subject vehicles. Include a
+           description of all means of detecting (both through direct measurement and inference) /
+Mr. Gregory Magno
+ATTACHMENT
+Reference: NEF-0104; PE21-020
+November 3, 2021                                                                                     Page 7 of 11
+
+     Response to subpart (c):
+     During routine operation the Subject System communicates to its driver during the DDT with the following:
+
+       Permanent telltale graphic or selectable full screen display and (optional) heads up display showing:
+        ● Current Vehicle speed
+        ● Adaptive Cruise Control (“ACC”) set speed
+        ● Detected speed limit (if Traffic Sign Assist is present on the vehicle)
+        ● Target vehicle icon is displayed if ACC detects another vehicle in your lane within range
+        ● ACC “time gaps” showing desired distance to the vehicle ahead
+        ● Lane lines which show green when the system is engaged, and flash yellow when the vehicle
+            crosses a lane marking
+        ● Active Driving Assist (“ADA”), Highway Assist and Traffic Jam telltale (steering wheel) showing
+            system status (green, yellow, red, grey)
+        ● Secondary Visual Indication cluster glow (“SVI”) showing system status (green, yellow, red, off) for
+            ADA, Highway Assist and Traffic Jam Assist. In particular, when the ADA feature is engaged
+        ● LEDs on the left and right edges of the instrument cluster.
+        ● Steering wheel vibration (if configured in radio head unit) when the vehicle crosses a lane marking
+        ● Popup text messages when the feature is engaged:
+          ○ Adaptive Cruise Control Ready
+          ○ ADA Ready
+
+
+     In driving scenarios that require driver intervention, such as a system fault that prevents the subject system
+     from continuing to operate, the system will ramp out the steering torque request and close the interface,
+     switching to the OFF state. At this point the system will inform the driver with a chime and popup text
+     message stating “ACC/Active Driving Assist Unavailable Service Required.” If the ACC system is still
+     operational it will not disengage. If a fault occurs in the ACC system, both ACC and Lane Centering will be
+     disabled.
+
+         ●   Popup text messages when the feature is cancelled (either automatically or by driver action), for
+             example:
+             ○ Active Driving Assist Cancelled - Lane Detection Limited + Chime (chime is only issued when
+                vehicle speed is above 30 mph)
+             ○ Active Driving Assist Cancelled (no reason given). Ex. Lane crossed, driver override detected,
+                brake pedal pressed, cancel button pressed, seatbelt unbuckled, door opened, etc.
+             ○ Active Driving Assist Cancelled - Speed too high
+
+     Additionally, when the system has detected that the radius of curvature of the road ahead is too tight or
+     that the current filtered lateral acceleration of the vehicle is greater than its designed threshold, the system
+     will provide a full screen text warning stating “Curve too tight, take control of vehicle” along with a red
+     graphic of a curvy road and a single audible chime. This warning also consists of Red cluster indications
+     (Secondary Visualization Indication (“SVI”), telltale). The red SVI and telltale will remain present until the
+     curve ends or until the feature is deactivated (example video located in ENCLOSURE 05).
+
+     When the Subject Vehicle detects that a crash is imminent, the Subject System will deactivate and the AEB
+     system will perform its normal sequence of warning and braking.
+
+     Response to subpart (d):
+     The primary method of detecting driver engagement is via a capacitive touch sensing mat embedded in the
+     rim of the steering wheel. This sensor updates REDACTED with status on whether the driver’s hands are
+     in contact with the wheel. The capacitive touch sensor is intended to be calibrated such that the condition
+===== NHTSA/Investigations/PE21020/INRL-PE21020-91130P.pdf =====
+===== NHTSA/Investigations/PE21020/INRL-PE21020-91160P.pdf =====
+===== NHTSA/Investigations/PE22002/INCLA-PE22002-25796.pdf =====
+                                                                                                                  OFFICE OF DEFECTS INVESTIGATION
+
+
+
+                                                                ODI RESUME
+                                       Investigation:       PE22002
+       U.S. Department
+                                       Prompted By:         L2 VOQ review
+       of Transportation
+                                       Date Opened:         02/16/2022              Date             06/29/2026
+       National Highway                                                             Closed:
+       Traffic Safety
+                                       Investigator:        Timothy Igbawua         Reviewer:        Gregory Magno
+       Administration
+                                       Approver:            Tanya Topka
+                                       Subject:             Unexpected Brake Activation
+
+
+                                            MANUFACTURER & PRODUCT INFORMATION
+
+        Manufacturer:              Tesla, Inc.
+        Products:                  2021-2022 Tesla Model 3, 2021-2022 Tesla Model Y
+        Population:                695,000
+        Problem                    Unexpected activation of braking system may cause rapid deceleration
+        Description:
+
+                                                    FAILURE REPORT SUMMARY
+
+                                      ODI      Manufacturer           EWR D&I       Other       Total     EWR Field Reports
+
+                                     1,18                                                    25,90
+        All Incidents:                             25,731                   0       3,547                               0
+                                       2                                                      0*
+
+        Crashes/Fires:                 0                0                   0         0          0                      0
+
+        Injury Incidents:              0                0                   0         0          0                      0
+
+        Number of Injuries:            0                0                   0         0          0                      0
+
+        Fatality Incidents:            0                0                   0         0          0                      0
+
+        Number of
+                                       0                0                   0         0          0                      0
+        Fatalities:
+
+        Description of Other:
+        Count of unique VIN’s
+
+        *Total eliminates duplicates received by the manufacturer
+
+                                                 ACTION/SUMMARY INFORMATION
+
+        Action:          This (PE) Preliminary Evaluation is closed without a manufacturer action.
+        Summary:
+        On February 16, 2022, the Office of Defects Investigation (ODI) opened a Preliminary Evaluation (PE22002) to
+        investigate reports of unexpected deceleration while driving with the adaptive cruise control system engaged in
+
+
+Investigation: PE22002                                                                                                      Close Resume Page 1 of 2
+        Model Year (MY) 2021 – 2022 Model 3 and Model Y vehicles manufactured by Tesla. The subject systems
+        include Autopilot (all versions), Full Self-Driving (FSD) and Traffic Aware Cruise Control (TACC). These
+        complaints have been colloquially referred to as “phantom braking”. ODI opened PE22002 to determine the
+        scope and severity of the potential problem and to assess any resulting safety issues in the subject vehicles.
+
+        The alleged defect is an unexpected and unrequested vehicle deceleration triggered by the subject system
+        during subject system engagement. The alleged defect does not occur when the subject system is not in use
+        and is separate and distinct from Automated Emergency Braking (AEB). During vehicle operation, AEB is
+        actively monitoring in the subject vehicles regardless of subject system and its intervention is accompanied by
+        audible and visual collision warnings.
+
+        A Vehicle Owners Questionnaire (VOQ) trend originating in November 2021 prompted ODI to open PE22002.
+        VOQ narratives reported unexpected brake activation while using TACC, Autopilot or FSD. The trend grew from
+        99 by the end of 2021 to 314 by February 16, 2022, when PE22002 was opened.
+
+        ODI sent Information Request (IR) Letters to Tesla on May 4, 2022, and July 11, 2024, to request salient data to
+        quantify vehicle production, field incidents, and the physical parameters of the phantom braking reports. ODI
+        also requested information pertaining to Tesla’s internal assessments, problem resolutions, and their
+        assessment of the alleged defect.
+
+        Typically, the complaints to ODI and Tesla allege a 10-20 mph speed reduction at highway speeds over a 1-3
+        second time period. No collisions were identified. Drivers reported seeing no vehicles ahead in the travel lane
+        that would have triggered the deceleration. Many complaints reported the conditions taking place on higher
+        speed roadways in sunny conditions with shadows on the roadway. Complainants typically applied the
+        accelerator to override the unexpected deceleration, and subject vehicles did not come to a complete stop or
+        steer out of their travel lane.
+
+        ODI analyzed data provided by Tesla in addition to consumer complaints submitted to ODI. Tesla’s complaint
+        and field data exhibited some behavior that aligned with the transition from a radar-vision fusion system to
+        vision-only in mid-2021.
+
+        VOQ traffic coincided with public events such as Recall 21V846, the opening of PE22002, and several related
+        media publications. In February and March of 2022, Tesla released firmware updates 2022.4.5.1 and
+        2022.4.5.17 respectively to target aspects of the subject system programming that affect unexpected
+        deceleration. Incident traffic has dissipated substantially in the past years, with 45 incidents reported in 2024,
+        19 in 2025, and 3 since the beginning of 2026.
+
+        The conditions reported, while concerning to the drivers, did not alter the vehicle’s lateral positioning in their
+        lanes and did not cause significant loss in distance between the subject and following vehicle to lead to a
+        collision. Complaint traffic to both NHTSA and Tesla reported the same conditions- vehicles traveling with the
+        subject system engaged at higher speeds decelerating suddenly with no commensurate vehicle or obstacle
+        ahead in the same lane.
+
+        In view of these points, and a low demonstrated hazard to drivers, this Preliminary Evaluation (PE) is closed.
+
+        The closing of this investigation does not constitute a finding by NHTSA that a safety-related defect does not
+        exist. The Agency reserves the right to take additional action if warranted by future circumstances. To review
+        the ODI reports cited in the Closing Resume ODI Report Identification Number document, go to NHTSA.gov.
+
+
+Investigation: PE22002                                                                                            Close Resume Page 2 of 2
+===== NHTSA/Investigations/PE22002/INRL-PE22002-10735.pdf =====
+                                                                        1 Tesla Rd.
+                                                                  Austin, TX 78725
+
+                                                                  August 15, 2024
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/PE22002/INRL-PE22002-10736P1.pdf =====
+INFORMATION REDACTED
+PURSUANT TO THE FREEDOM OF
+INFORMATION ACT (FOIA), 5 U.S.C.
+552(B)(6)
+===== NHTSA/Investigations/PE22002/INRL-PE22002-10737P1.pdf =====
+INFORMATION REDACTED
+PURSUANT TO THE FREEDOM OF
+INFORMATION ACT (FOIA), 5 U.S.C.
+552(B)(6)
+===== NHTSA/Investigations/PE22002/INRL-PE22002-13388.pdf =====
+                                                                        1 Tesla Rd.
+                                                                  Austin, TX 78725
+
+                                                                   October 4, 2024
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/PE22002/INRL-PE22002-13389P1.pdf =====
+INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)
+                                                                                                                         1 Tesla Rd.
+                                                                                                                   Austin, TX 78725
+
+                                                                                                                      October 4, 2024
+
+
+
+
+                            CERTIFICATE IN SUPPORT OF REQUEST FOR CONFIDENTIALITY
+
+
+          I, Casey Blaine, pursuant to the provisions of 49 C.F.R. § 512, state as follows:
+
+
+                  (1)      I am the Senior Counsel, Regulatory, for Tesla, Inc. (“Tesla”), and I am authorized by the
+          company to execute documents on its behalf;
+
+
+                  (2)      The information contained in Tesla’s October 4, 2024, submission, marked with
+          “Confidential Business Information” in a page header or “CBI” in a file name, is confidential and
+          proprietary and is being submitted with the claim that it is entitled to confidential treatment under 5 U.S.C.
+          § 522(b)(4), as modified pursuant to 49 C.F.R. § 512;
+
+
+                  (3)      I have personally inquired of the responsible Tesla personnel who have authority in the
+          normal course of business to release the information for which a claim of confidentiality has been made to
+          ascertain whether such information has ever been released outside of Tesla;
+
+
+                  (4)      Based upon such inquiries, to the best of my knowledge, information, and belief, the
+          information for which Tesla has claimed confidential treatment has never been released or been made
+          available outside of Tesla except as hereinafter specified: the information or portions of it may have been
+          made available as necessary for the purpose of obtaining advice and assistance from counsel and other
+          confidential advisers, or to outside testing laboratories and suppliers who have signed written non-
+          disclosure agreements, or to foreign regulatory bodies who have requested such information where such
+          submissions have been provided with a request for confidential treatment, or as otherwise discussed in
+          the request for confidentiality;
+
+
+                  (5)      I made no representations beyond those contained in this certificate and, in particular, no
+          representations as to whether this information may become available outside of Tesla because of
+          unauthorized or inadvertent disclosure except as state in paragraph 4; and
+
+
+                  (6)      I certify under penalty of perjury that the foregoing is true and correct.
+
+
+          Executed on this 4th day of October 2024.
+
+
+
+                                                                      ______                                     __
+
+                                                                      Casey Blaine
+===== NHTSA/Investigations/PE22002/INRL-PE22002-13390P1.pdf =====
+                                               INFORMATION REDACTED                                            1 Tesla Rd.
+                                               PURSUANT TO THE FREEDOM OF                                Austin, TX 78725
+
+                                               INFORMATION ACT (FOIA), 5 U.S.C.                           October 4, 2024
+                                               552(B)(6)
+
+Adam Raviv
+Chief Counsel
+National Highway Traffic Safety Administration
+1200 New Jersey Ave, S.E.
+Washington, D.C. 20590
+Attention: Sarah Kohlhofer
+
+
+Re: Request for Confidential Treatment – Tesla's Final Response to PE-22-002-02
+
+Dear Mr. Raviv,
+
+On behalf of Tesla, Inc. (“Tesla” or the “Company”), and pursuant to the provisions of 5 U.S.C. § 552(b)(4)
+(“FOIA Exemption 4”) and 49 C.F.R. § 512, this letter requests the National Highway Traffic Safety
+Administration (“NHTSA” or the “Agency”) for confidential treatment of all of the information in the
+attached submission that is marked with the phrase “Confidential Business Information” in a page header
+or tab or “CBI” in a file name (referred to hereinafter as the “Submission”).
+
+
+The marked information contained in the Submission is proprietary, confidential, and otherwise not
+publicly available, and has been labeled accordingly. Tesla customarily treats this type of information as
+private, or at least closely held, and it does not customarily disclose the information outside of the
+company or make it public in any way, except that portions of it may have been made available as
+necessary for the purpose of obtaining advice and assistance from counsel and other confidential
+advisors, or as discussed below. Some of the information contained in the Submission may have been
+released to outside consultants under binding nondisclosure agreements or similar mechanisms, or
+shared confidentially with other government agencies. Such disclosures do not compromise the
+confidential nature of the information because of the obligations of confidentiality imposed upon such
+advisors. Accordingly, Tesla seeks confidential treatment for the Submission.
+
+
+Competitive Harm. The Submission is entitled to confidential treatment because release of it would
+cause substantial competitive harm to Tesla. The Submission reveals details of Tesla’s software and its
+capability and how its vehicle technology operates and transmits data, including data points captured.
+The Submission also reveals Tesla’s internal investigative processes of field incidents.
+
+
+Tesla considers all of the information in the Submission that is marked with the phrase “Confidential
+Business Information” in a page header or tab and/or “CBI” in a file name to be wholly confidential and
+proprietary. We take extensive measures to guard and protect this marked information, even internally.
+Public disclosure would enable competitors to gain substantial competitive knowledge and an unfair
+advantage over Tesla. The marked information in the Submission is commercially valuable because it
+would provide competitors with means to improve their own software capability and vehicle technology,
+as well as their internal investigative processes. Nefarious actors could also use the marked information
+to smear Tesla’s brand for the sake of notoriety, much to the Company’s detriment. Absent public
+disclosure, access to the marked information and all of the knowledge gained from it would require
+significant expenditure of time and resources and very intimate knowledge about Tesla.
+
+
+In addition, NHTSA has provided at least some assurances to Tesla that the Agency will keep this type of
+marked information private. Tesla regularly requests confidential treatment for information of this nature,
+and NHTSA has a long history of categorically treating this kind of information as confidential.
+Accordingly, the Submission should be deemed “confidential” within the meaning of FOIA Exemption 4.
+See Food Marketing Institute v. Argus Leader Media, 139 S.Ct. 2356, 2366 (2019) (“[W]here commercial
+or financial information is both customarily and actually treated as private by its owner and provided to the
+government under an assurance of privacy, the information is ‘confidential’ within the meaning of
+Exemption 4.”).
+
+
+Personal Identifying Information. Finally, NHTSA has stated that the Agency will protect personally
+identifying information, such as a name, address, telephone number, or the last six digits of any vehicle
+identification number (“VIN”). The Submission contains a full VIN which could make one or more persons
+identifiable. We believe all this information should be treated confidentially because a reasonable person
+would not have intended for it to be released to the general public. We believe this is further reason for
+NHTSA to protect the confidentiality of the Submission in entirety.
+
+
+                                                    ***
+Based on the foregoing, Tesla seeks confidential treatment in perpetuity for all of the information in the
+Submission that is marked with the phrase “Confidential Business Information” in a page header or tab or
+“CBI” in a file name. Thank you for your consideration. If you have any questions regarding this request,
+you may contact me at cblaine@tesla.com.
+
+
+Sincerely,
+
+
+
+
+Casey Blaine
+Senior Counsel, Regulatory
+===== NHTSA/Investigations/PE23014/INCLA-PE23014-16670.pdf =====
+                                                                                                      OFFICE OF DEFECTS INVESTIGATION
+
+
+
+                                                          ODI RESUME
+
+      U.S. Department                 Investigation: PE23014
+      of Transportation               Prompted By: VOQ Review
+                                      Date Opened: 07/28/2023                 Date Closed: 02/05/2024
+      National Highway
+      Traffic Safety                  Investigator: Alexa Ardron              Reviewer:    Matthew Martens
+      Administration                  Approver:      Tanya Topka
+                                      Subject:       Loss of steering control
+
+
+                                          MANUFACTURER & PRODUCT INFORMATION
+       Manufacturer:               Tesla, Inc.
+       Products:                   2023 Tesla Model 3 and Y
+       Population:                 554,900 (Estimated)
+       Problem Description: Loss of steering control, frequently accompanied by driver-facing messages
+                            indicating that power steering assist is reduced or disabled
+
+                                                  FAILURE REPORT SUMMARY
+
+                                         ODI     Manufacturer     EWR D&I      Other     Total      EWR Field Reports
+
+       All Incidents:                    124        2,264             0          0       2,388*                  0
+
+       Crashes/Fires:                     1           1               0          0         1*                    0
+
+       Injury Incidents:                  0           0               0          0         0                     0
+
+       Number of Injuries:                0           0               0          0         0                     0
+
+       Fatality Incidents:                0           0               0          0         0                     0
+
+       Number of Fatalities:              0           0               0          0         0                     0
+
+       Description of Other:
+
+       *Total eliminates duplicates received by the manufacturer
+
+
+                                                ACTION/SUMMARY INFORMATION
+
+       Action:           This (PE) Preliminary Evaluation has been upgraded to an Engineering Analysis EA24-001.
+       Summary:
+       On July 28, 2023, The Office of Defects Investigation (ODI) opened a Preliminary Evaluation (PE23-014)
+       after receiving 12 Vehicle Owner Questionnaires (VOQs) reporting loss of steering control in model years
+       (MY) 2023 Tesla Model 3 and Y vehicles. During PE23-014, ODI interviewed complainants, sent an
+       Information Request (IR) letter to Tesla, and convened technical meetings with Tesla that included a joint
+       inspection of a crashed vehicle.
+
+
+
+Investigation: PE23014                                                                                         Close Resume Page 1 of 2
+       The investigation identified 2,388 total complaints regarding the alleged defect, including 124 complaints
+       through VOQs and 2,264 complaints through manufacturer data. ODI is associating 1 crash to this
+       investigation (11544655), where a driver was unable to complete a right hand turn in the intersection and hit
+       a vehicle. This vehicle was subject to a joint inspection by ODI and Tesla. The steering rack was recovered by
+       ODI with the consumer’s permission.
+
+       ODI’s interviews of allegations supplied to the agency, in the form of VOQs, identified patterns of the
+       incoming complaint traffic. Complaints allege an inability to turn the steering wheel, while other complaints
+       allege an increase in required effort to turn the steering wheel. These conditions were reported to occur
+       during the drive cycle as well as at start-up. Approximately one-third of complaints with a reported speed
+       occurred at vehicle start-up or speeds less than 5 mph. Interviews with failures reported at speeds over 5
+       mph, half reported an inability to turn the steering wheel. A majority of complaints with a reported speed
+       reported between 5 mph and 35 mph with approximately 1 in 10 occurring on open roads at speeds 35 mph
+       and over. The highest reported speed regarding an alleged inability to turn the steering wheel is 75 mph. A
+       majority of allegations reported seeing a warning message, “Steering assist reduced”, either before, during or
+       after the loss of steering control. A portion of drivers described their steering begin to feel “notchy” or “clicky”
+       either prior to or just after the incident.
+
+       There have been multiple allegations of drivers blocking intersections and/or roadways. ODI is aware of over
+       50 vehicles which were allegedly towed as a result of the condition from a variety of areas including,
+       driveways, parking lots, side of road and intersections. Multiple complaints state they were able to temporarily
+       remedy the condition by power cycling the vehicle, but the issue reoccurred until the steering rack was
+       replaced.
+
+       Tesla supplied four steering rack part numbers on the subject vehicles. The investigation identified part
+       numbers, 1044832-00-A and 1188832-00-A accounted for 2,187 of the complaints and 4 did not have original
+       part number in the information request.
+
+       ODI has upgraded PE23-014 to an Engineering Analysis (EA24-001) due to continued complaint traffic and to
+       characterize the system conditions leading to- and stemming from- the alleged defect in vehicles supplied
+       with steering rack part numbers 1044832-00-A and 1188832-00-A
+
+
+       To review the ODI reports cited in the Closing Resume ODI Report Identification Number document, go to
+       NHTSA.gov.
+
+
+
+
+Investigation: PE23014                                                                                        Close Resume Page 2 of 2
+===== NHTSA/Investigations/PE24031/INCLA-PE24031-87755.pdf =====
+                                                                                                              OFFICE OF DEFECTS INVESTIGATION
+
+
+
+                                                               ODI RESUME
+                                      Investigation:       PE24031
+       U.S. Department
+                                      Prompted By:         Standing General Order (SGO) Incident Reports
+       of Transportation
+                                      Date Opened:         10/17/2024              Date          03/18/2026
+       National Highway                                                            Closed:
+       Traffic Safety
+                                      Investigator:        Dylan Copestick         Reviewer:     Sharon Yukevich
+       Administration
+                                      Approver:            Tanya Topka
+                                      Subject:             FSD Collisions in Reduced Roadway Visibility Conditions
+
+
+                                           MANUFACTURER & PRODUCT INFORMATION
+
+        Manufacturer:              Tesla, Inc.
+        Products:                  2016-2024 Model S, X, 2017-2024 Model 3, 2020-2024 Model Y, 2023-2024
+                                   Cybertruck equipped with FSD
+        Population:                2,410,002 (Estimated)
+        Problem                    Failure of the FSD’s degradation detection system, when encountering reduced
+        Description:               roadway visibility conditions, to detect a degraded state and to warn the driver
+                                   appropriately.
+
+                                                   FAILURE REPORT SUMMARY
+
+                                     ODI       Manufacturer           EWR D&I       Other    Total     EWR Field Reports
+
+        All Incidents:                0                2                  0           7        9                    0
+
+        Crashes/Fires:                0                2                  0           7        9                    0
+
+        Injury Incidents:             0                0                  0           2        2                    0
+
+        Number of Injuries:           0                0                  0           1        1                    0
+
+        Fatality Incidents:           0                0                  0           1        1                    0
+
+        Number of
+                                      0                0                  0           1        1                    0
+        Fatalities:
+
+        Description of Other:
+        Crashes reported under the Standing General Order (SGO) or media reports.
+
+                                                ACTION/SUMMARY INFORMATION
+
+        Action:          This (PE) Preliminary Evaluation has been upgraded to an Engineering Analysis.
+        Summary:
+        On October 17, 2024, NHTSA’s Office of Defects Investigation (ODI) opened a Preliminary Evaluation
+        (PE24031) of Tesla’s Full Self Driving Beta and Full Self Driving (Supervised) (collectively, FSD) to assess: the
+        ability of the FSD system to detect and respond appropriately to reduced roadway visibility conditions; whether
+
+
+Investigation: PE24031                                                                                                  Close Resume Page 1 of 2
+        any other FSD crashes had occurred under degraded roadway visibility conditions that are similar in nature to
+        the four SGO-reported crashes identified in the opening document, and if so, the contributing circumstances for
+        each of those crashes; and any updates or modifications by Tesla to the FSD system that may affect the
+        performance of FSD in degraded roadway visibility conditions, including the timing, purpose, and capabilities of
+        any such updates, and Tesla’s assessment of their safety impact.
+        Tesla’s FSD is an advanced driver assistance system (ADAS) that relies exclusively on vision-based cameras
+        and the related FSD software to detect and respond to the roadway ahead, projecting a path forward based on
+        traffic control devices, vehicles, pedestrians, and the roadway itself.
+        During this phase of the investigation, ODI reviewed the materials provided by Tesla detailing any actions
+        taken, or changes, modifications, and updates made that may relate to the alleged defect. ODI reviewed
+        information related to Tesla’s transition to a vision-only perception system, and its deployment of the strategy in
+        vehicles. ODI’s findings include information on limitations of the vision-only perception system and updates
+        made in response to known subject crashes.
+        When Tesla began transitioning away from using both cameras and radars to an exclusively camera-based
+        approach, known as Tesla Vision, in mid-2021, it developed and implemented a degradation detection system
+        that it deployed by a software update to existing and new Tesla vehicles. On June 28, 2024, the day after Tesla
+        submitted the SGO report of the November 28, 2023 fatal crash listed in this document, Tesla began developing
+        an update to the degradation detection system. ODI reviewed certain public statements, including those made
+        during an April 2025 earnings call, in which Tesla stated that it had developed a breakthrough “direct photon-
+        counting” capability that eliminates the degradation that the camera-based system experiences when glare is
+        encountered. At this time, ODI does not have information on when the update was deployed and which vehicles
+        have the updated system.
+        ODI has discussed individual incidents and its initial findings with Tesla. Based on Tesla’s post-incident
+        analysis, the update to the degradation detection system, had it been installed on the vehicles at the time, may
+        have affected 3 of the 9 incidents identified by ODI. Review of Tesla’s responses revealed additional crashes
+        that occurred in similar environments and where the system either did not detect a degraded state, and/or it did
+        not present the driver with an alert with adequate time for the driver to react. In each of these crashes, FSD
+        also lost track of or never detected a lead vehicle in its path.
+        Tesla also described internal data and labeling limitations that prevented a uniform identification and analysis of
+        crash events with the subject system engaged. ODI believes this limitation could have led to under-reporting of
+        subject crashes over portions of the defined time-period.
+        Available incident data raise concerns that Tesla’s FSD system fails to detect and/or warn the driver
+        appropriately under degraded visibility conditions such as glare and airborne obscurants where the camera-
+        based system performance degrades significantly. In the crashes that ODI has reviewed, the FSD system did
+        not detect common roadway conditions that impaired its visibility and/or provide alerts when camera
+        performance had deteriorated until immediately before the crash occurred.
+        ODI is upgrading this investigation (PE24031) to Engineering Analysis (EA) 26002 to further evaluate this
+        matter.
+        The crashes included in the failure report summary can be found at NHTSA.gov under the following SGO report
+        identification numbers: 13781-8004, 13781-7181, 13781-7381, 13781-7767, 13781-7964, 13781-8977, 13781-
+        9267.
+
+
+
+
+Investigation: PE24031                                                                                          Close Resume Page 2 of 2
+===== NHTSA/Investigations/PE24031/INOA-PE24031-23232.pdf =====
+                                                                                          OFFICE OF DEFECTS INVESTIGATION
+
+
+
+                                               ODI RESUME
+                            Investigation:PE24031
+      U.S. Department
+                            Prompted By: Standing General Order (SGO) Incident Reports
+      of Transportation
+                            Date Opened: 10/17/2024
+      National              Investigator: Dylan Copestick        Reviewer: Gregory Magno
+      Highway               Approver:     Tanya Topka
+      Traffic Safety        Subject:      FSD Collisions in Reduced Roadway Visibility Conditions
+      Administration
+
+                             MANUFACTURER & PRODUCT INFORMATION
+       Manufacturer:      Tesla, Inc.
+       Products:          2016-2024 Model S, X, 2017-2024 Model 3, 2020-2024 Model Y, 2023-
+                          2024 Cybertruck equipped with FSD
+       Population:        2,410,002 (Estimated)
+       Problem            Failure of the system engineering controls to react appropriately to
+       Description:       reduced roadway visibility conditions.
+
+                                       FAILURE REPORT SUMMARY
+
+                           ODI     Manufacturer       EWR D&I      Other     Total   EWR Field Reports
+
+       All Incidents:       0             0                0          4        4                  0
+
+       Crashes/Fires:       0             0                0          4        4                  0
+
+       Injury
+                            0             0                0          1        1                  0
+       Incidents:
+
+       Number of
+                            0             0                0          1        1                  0
+       Injuries:
+
+       Fatality
+                            0             0                0          1        1                  0
+       Incidents:
+
+       Number of
+                            0             0                0          1        1                  0
+       Fatalities:
+
+       Description of Other:
+       Crashes reported under the Standing General Order (SGO) or media reports.
+
+
+                                   ACTION/SUMMARY INFORMATION
+
+       Action: ODI has opened a Preliminary Evaluation
+       Summary:
+
+
+
+
+Investigation: PE24031                                                                            Open Resume Page 1 of 2
+       The Office of Defects Investigation (ODI) has identified four Standing General Order (SGO) reports
+       in which a Tesla vehicle experienced a crash after entering an area of reduced roadway visibility
+       conditions with FSD -Beta or FSD -Supervised (collectively, FSD) engaged. In these crashes, the
+       reduced roadway visibility arose from conditions such as sun glare, fog, or airborne dust. In one of
+       the crashes, the Tesla vehicle fatally struck a pedestrian. One additional crash in these conditions
+       involved a reported injury. The four SGO crash reports are listed at the end of this summary by
+       SGO number.
+
+
+
+       ODI has opened a Preliminary Evaluation of FSD (a system labeled by Tesla as a partial driving
+       automation system),which is optionally available in the Model Year (MY) 2016-2024 Models S and
+       X, 2017-2024 Model 3, 2020-2024 Model Y, and 2023-2024 Cybertruck. This Preliminary
+       Evaluation is opened to assess:
+
+
+
+       - The ability of FSD’s engineering controls to detect and respond appropriately to reduced
+       roadway visibility conditions;
+       - Whether any other similar FSD crashes have occurred in reduced roadway visibility conditions
+       and, if so, the contributing circumstances for those crashes; and
+       - Any updates or modifications from Tesla to the FSD system that may affect the performance of
+       FSD in reduced roadway visibility conditions. In particular, this review will assess the timing,
+       purpose, and capabilities of any such updates, as well as Tesla’s assessment of their safety
+       impact.
+
+
+
+       SGO Report numbers: 13781-8004, 13781-7181, 13781-7381, 13781-7767. To review the SGO
+       Reports prompting this investigation, go to NHTSA.gov.
+
+
+
+
+Investigation: PE24031                                                                          Open Resume Page 2 of 2
+===== NHTSA/Investigations/PE24031/INRL-PE24031-29049P1.pdf =====
+                INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)
+
+                                                                                                               1 Tesla Rd.
+                                                                                                         Austin, TX 78725
+
+                                                                                                       December 18, 2024
+
+
+
+
+                  CERTIFICATE IN SUPPORT OF REQUEST FOR CONFIDENTIALITY
+
+
+I, Casey Blaine, pursuant to the provisions of 49 C.F.R. § 512, state as follows:
+
+
+        (1)      I am the Senior Counsel, Regulatory, for Tesla, Inc. (“Tesla”), and I am authorized by the
+company to execute documents on its behalf;
+
+
+        (2)      The information contained in Tesla’s December 18, 2024, submission, marked with
+“Confidential Business Information” in a page header or “CBI” in a file name, is confidential and
+proprietary and is being submitted with the claim that it is entitled to confidential treatment under 5 U.S.C.
+§522(b)(4), as modified pursuant to 49 C.F.R. § 512;
+
+
+        (3)      I have personally inquired of the responsible Tesla personnel who have authority in the
+normal course of business to release the information for which a claim of confidentiality has been made to
+ascertain whether such information has ever been released outside of Tesla;
+
+
+        (4)      Based upon such inquiries, to the best of my knowledge, information, and belief, the
+information for which Tesla has claimed confidential treatment has never been released or been made
+available outside of Tesla except as hereinafter specified: the information or portions of it may have been
+made available as necessary for the purpose of obtaining advice and assistance from counsel and other
+confidential advisers, or to outside testing laboratories and suppliers who have signed written non-
+disclosure agreements, or to foreign regulatory bodies who have requested such information where such
+submissions have been provided with a request for confidential treatment, or as otherwise discussed in
+the request for confidentiality;
+
+
+        (5)      I made no representations beyond those contained in this certificate and, in particular, no
+representations as to whether this information may become available outside of Tesla because of
+unauthorized or inadvertent disclosure except as state in paragraph 4; and
+
+
+        (6)      I certify under penalty of perjury that the foregoing is true and correct.
+
+
+Executed on this 18th day of December 2024.
+
+
+
+                                                            ____                                   _____
+
+                                                            Casey Blaine
+===== NHTSA/Investigations/PE24031/INRL-PE24031-29054P1.pdf =====
+    INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)
+
+                                                                                                                 1 Tesla Rd.
+                                                                                                           Austin, TX 78725
+
+                                                                                                         December 18, 2024
+
+
+
+
+Adam Raviv
+Chief Counsel
+National Highway Traffic Safety Administration
+1200 New Jersey Ave, S.E.
+Washington, D.C. 20590
+Attention: Sarah Kohlhofer
+
+
+Re: Request for Confidential Treatment – Tesla’s Initial Response to NHTSA’s November 5, 2024,
+Information Request Regarding Preliminary Evaluation (PE) 24031-01
+
+
+Dear Mr. Raviv,
+
+On behalf of Tesla, Inc. (“Tesla” or the “Company”), and pursuant to the provisions of 5 U.S.C. § 552(b)(4)
+(“FOIA Exemption 4”) and 49 C.F.R. § 512, this letter requests the National Highway Traffic Safety
+Administration (“NHTSA” or the “Agency”) for confidential treatment of all of the information in the
+attached submission that is marked with the phrase “Confidential Business Information” in a page header
+or tab or “CBI” in a file name (referred to hereinafter as the “Submission”).
+
+
+The marked information contained in the Submission is proprietary, confidential, and otherwise not
+publicly available, and has been labeled accordingly. Tesla customarily treats this type of information as
+private, or at least closely held, and it does not customarily disclose the information outside of the
+company or make it public in any way, except that portions of it may have been made available as
+necessary for the purpose of obtaining advice and assistance from counsel and other confidential
+advisors, or as discussed below. Some of the information contained in the Submission may have been
+released to outside consultants under binding nondisclosure agreements or similar mechanisms, or
+shared confidentially with other government agencies. Such disclosures do not compromise the
+confidential nature of the information because of the obligations of confidentiality imposed upon such
+advisors. Accordingly, Tesla seeks confidential treatment for the Submission.
+
+
+Competitive Harm. The Submission is entitled to confidential treatment because release of it would
+cause substantial competitive harm to Tesla. The Submission reveals detailed explanations of Tesla’s
+partial automation system – FSD (Supervised) – and its features and capability, particularly when used in
+“reduced visibility conditions.” The Submission also discloses how Tesla’s vehicle technology operates
+and transmits data, including data points captured. Further, the Submission reveals Tesla’s internal
+investigative processes and assessment of a field incident, as well as Tesla’s internal analysis of the
+effectiveness of FSD (Supervised).
+Tesla considers all of the information in the Submission that is marked with the phrase “Confidential
+Business Information” in a page header or tab or “CBI” in a file name to be wholly confidential and
+proprietary. We take extensive measures to guard and protect this marked information, even internally.
+Public disclosure would enable competitors to gain substantial competitive knowledge and an unfair
+advantage over Tesla. The marked information in the Submission is commercially valuable because it
+would provide competitors with means to improve their own vehicle technology, as well as their internal
+investigative processes and analysis. Nefarious actors could also use the marked information to smear
+Tesla’s brand for the sake of notoriety, much to the Company’s detriment. Absent public disclosure,
+access to the marked information and all of the knowledge gained from it would require significant
+expenditure of time and resources and very intimate knowledge about Tesla.
+
+
+In addition, NHTSA has provided at least some assurances to Tesla that the Agency will keep this type of
+marked information private. Tesla regularly requests confidential treatment for information of this nature,
+and NHTSA has a long history of categorically treating this kind of information as confidential.
+Accordingly, the Submission should be deemed “confidential” within the meaning of FOIA Exemption 4.
+See Food Marketing Institute v. Argus Leader Media, 139 S.Ct. 2356, 2366 (2019) (“[W]here commercial
+or financial information is both customarily and actually treated as private by its owner and provided to the
+government under an assurance of privacy, the information is ‘confidential’ within the meaning of
+Exemption 4.”).
+
+
+Personal Identifying Information. Finally, NHTSA has stated that the Agency will protect personally
+identifying information, such as a name, address, telephone number, or the last six digits of any vehicle
+identification number (“VIN”). The Submission contains a full VIN which could make one or more persons
+identifiable. We believe all this information should be treated confidentially because a reasonable person
+would not have intended for it to be released to the general public. We believe this is further reason for
+NHTSA to protect the confidentiality of the Submission in entirety.
+
+
+                                                    ***
+Based on the foregoing, Tesla seeks confidential treatment in perpetuity for all of the information in the
+Submission that is marked with the phrase “Confidential Business Information” in a page header or tab or
+“CBI” in a file name. Thank you for your consideration. If you have any questions regarding this request,
+you may contact me at cblaine@tesla.com.
+
+
+Sincerely,
+Casey Blaine
+Senior Counsel, Regulatory
+===== NHTSA/Investigations/PE24031/INRL-PE24031-29056.pdf =====
+                                                                          1 Tesla Rd.
+                                                                    Austin, TX 78725
+
+                                                                  December 18, 2024
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/PE24031/INRL-PE24031-42379P1.pdf =====
+        INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)
+
+                                                                                                               1 Tesla Rd.
+                                                                                                         Austin, TX 78725
+
+                                                                                                         January 31, 2025
+
+
+
+
+                  CERTIFICATE IN SUPPORT OF REQUEST FOR CONFIDENTIALITY
+
+
+I, Casey Blaine, pursuant to the provisions of 49 C.F.R. § 512, state as follows:
+
+
+        (1)      I am the Senior Counsel, Regulatory, for Tesla, Inc. (“Tesla”), and I am authorized by the
+company to execute documents on its behalf;
+
+
+        (2)      The information contained in Tesla’s January 31, 2025, submission, marked with
+“Confidential Business Information” in a page header or “CBI” in a file name, is confidential and
+proprietary and is being submitted with the claim that it is entitled to confidential treatment under 5 U.S.C.
+§522(b)(4), as modified pursuant to 49 C.F.R. § 512;
+
+
+        (3)      I have personally inquired of the responsible Tesla personnel who have authority in the
+normal course of business to release the information for which a claim of confidentiality has been made to
+ascertain whether such information has ever been released outside of Tesla;
+
+
+        (4)      Based upon such inquiries, to the best of my knowledge, information, and belief, the
+information for which Tesla has claimed confidential treatment has never been released or been made
+available outside of Tesla except as hereinafter specified: the information or portions of it may have been
+made available as necessary for the purpose of obtaining advice and assistance from counsel and other
+confidential advisers, or to outside testing laboratories and suppliers who have signed written non-
+disclosure agreements, or to foreign regulatory bodies who have requested such information where such
+submissions have been provided with a request for confidential treatment, or as otherwise discussed in
+the request for confidentiality;
+
+
+        (5)      I made no representations beyond those contained in this certificate and, in particular, no
+representations as to whether this information may become available outside of Tesla because of
+unauthorized or inadvertent disclosure except as state in paragraph 4; and
+
+
+        (6)      I certify under penalty of perjury that the foregoing is true and correct.
+
+
+Executed on this 31st day of January 2025.
+
+
+
+                                                                                                     ___
+
+                                                            Casey Blaine
+===== NHTSA/Investigations/PE24031/INRL-PE24031-42380P1.pdf =====
+       INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)
+
+                                                                                                                1 Tesla Rd.
+                                                                                                          Austin, TX 78725
+
+                                                                                                          January 31, 2025
+
+
+
+
+Peter Simshauser
+Chief Counsel
+National Highway Traffic Safety Administration
+1200 New Jersey Ave, S.E.
+Washington, D.C. 20590
+Attention: Sarah Kohlhofer
+
+
+Re: Request for Confidential Treatment – Tesla’s Final Response to NHTSA’s November 5, 2024,
+Information Request Regarding Preliminary Evaluation (PE) 24031-01
+
+
+Dear Mr. Simshauser,
+
+On behalf of Tesla, Inc. (“Tesla” or the “Company”), and pursuant to the provisions of 5 U.S.C. § 552(b)(4)
+(“FOIA Exemption 4”) and 49 C.F.R. § 512, this letter requests the National Highway Traffic Safety
+Administration (“NHTSA” or the “Agency”) for confidential treatment of all of the information in the
+attached submission that is marked with the phrase “Confidential Business Information” in a page header
+or tab or “CBI” in a file name (referred to hereinafter as the “Submission”).
+
+
+The marked information contained in the Submission is proprietary, confidential, and otherwise not
+publicly available, and has been labeled accordingly. Tesla customarily treats this type of information as
+private, or at least closely held, and it does not customarily disclose the information outside of the
+company or make it public in any way, except that portions of it may have been made available as
+necessary for the purpose of obtaining advice and assistance from counsel and other confidential
+advisors, or as discussed below. Some of the information contained in the Submission may have been
+released to outside consultants under binding nondisclosure agreements or similar mechanisms, or
+shared confidentially with other government agencies. Such disclosures do not compromise the
+confidential nature of the information because of the obligations of confidentiality imposed upon such
+advisors. Accordingly, Tesla seeks confidential treatment for the Submission.
+
+
+Competitive Harm. The Submission is entitled to confidential treatment because release of it would
+cause substantial competitive harm to Tesla. The Submission reveals detailed explanations of Tesla’s
+partial automation system – FSD (Supervised) – and its features and capability, particularly when used in
+“reduced visibility conditions.” The Submission also discloses how Tesla’s vehicle technology operates
+and transmits data, including data points captured. Further, the Submission reveals Tesla’s internal
+investigative processes and assessment of a field incident, as well as Tesla’s internal analysis of the
+effectiveness of FSD (Supervised).
+Tesla considers all of the information in the Submission that is marked with the phrase “Confidential
+Business Information” in a page header or tab or “CBI” in a file name to be wholly confidential and
+proprietary. We take extensive measures to guard and protect this marked information, even internally.
+Public disclosure would enable competitors to gain substantial competitive knowledge and an unfair
+advantage over Tesla. The marked information in the Submission is commercially valuable because it
+would provide competitors with means to improve their own vehicle and software technology, as well as
+their internal investigative processes and analysis. Nefarious actors could also use the marked
+information to smear Tesla’s brand for the sake of notoriety, much to the Company’s detriment. Absent
+public disclosure, access to the marked information and all of the knowledge gained from it would require
+significant expenditure of time and resources and very intimate knowledge about Tesla.
+
+
+In addition, NHTSA has provided at least some assurances to Tesla that the Agency will keep this type of
+marked information private. Tesla regularly requests confidential treatment for information of this nature,
+and NHTSA has a long history of categorically treating this kind of information as confidential.
+Accordingly, the Submission should be deemed “confidential” within the meaning of FOIA Exemption 4.
+See Food Marketing Institute v. Argus Leader Media, 139 S.Ct. 2356, 2366 (2019) (“[W]here commercial
+or financial information is both customarily and actually treated as private by its owner and provided to the
+government under an assurance of privacy, the information is ‘confidential’ within the meaning of
+Exemption 4.”).
+
+
+Personal Identifying Information. Finally, NHTSA has stated that the Agency will protect personally
+identifying information, such as a name, address, telephone number, or the last six digits of any vehicle
+identification number (“VIN”). The Submission contains a full VIN which could make one or more persons
+identifiable. We believe all this information should be treated confidentially because a reasonable person
+would not have intended for it to be released to the general public. We believe this is further reason for
+NHTSA to protect the confidentiality of the Submission in entirety.
+
+
+                                                    ***
+Based on the foregoing, Tesla seeks confidential treatment in perpetuity for all of the information in the
+Submission that is marked with the phrase “Confidential Business Information” in a page header or tab or
+“CBI” in a file name. Thank you for your consideration. If you have any questions regarding this request,
+you may contact me at cblaine@tesla.com.
+
+
+Sincerely,
+
+
+
+
+Casey Blaine
+Senior Counsel, Regulatory
+===== NHTSA/Investigations/PE24031/INRL-PE24031-42588.pdf =====
+                                                                        1 Tesla Rd.
+                                                                  Austin, TX 78725
+
+                                                                  January 31, 2025
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/PE24031/INRL-PE24031-72056P1.pdf =====
+INFORMATION REDACTED
+PURSUANT TO THE FREEDOM OF
+INFORMATION ACT (FOIA), 5 U.S.C.
+552(B)(6)
+===== NHTSA/Investigations/PE24031/INRL-PE24031-72057P1.pdf =====
+                                        INFORMATION REDACTED                            13456789
+                                        PURSUANT TO THE FREEDOM OF                   53
+                                        INFORMATION ACT (FOIA), 5 U.S.C.
+                                                                                     41
+                                        552(B)(6)
+
+4457 54
+4 546
+!776"#$7%37&74% 957
+1!4$454% '4(
+)75# * 
+  4+" 4,6'4
+84+84- 45  94763474 ./0123418455 54 67/8941:7%;7
+84- 45;*(<=1>
+*47:57 54
+?@B0C32DED/0123FG@HIJK/0123LEMNC0KOEPQ3@RLSF3@TQUM1U3@NNENC0QMEVW1WE@1EDXYI8IOIZXX[JBSJ\S
+JK]?G9^_0PQNWE@\LS3@T\`OI]IaIZXb[FNCW120NN0M4- 455 4!776"#$7%37&74%
+9TPW@W1NM3NWE@JK67/89LEMNC0K9c0@HRLSDEMHE@DWT0@NW32NM03NP0@NED322 47 47 7&49
+5 d55 7 5P3Me0TfWNCNC0QCM310KOE@DWT0@NW32gU1W@011G@DEMP3NWE@L757#44794 7d 
+KOgGLW@76474h4449 447475NC0K d55LS
+347j497& 749 4 d5555547%& 947679 4$54 5 d6&6%
+7'767d647975d4467d46497&& 9#6%34567& 5 76% 4755 %54 7755'74 
+7 6475 &6546%469799 45 & 5 76%95&654 47 594 4& 57% 7j4
+5 d6&7%$7%4k&45 7 5 5 7%7'4d447947'767d64754&4557%45 5 54
+  d7#79'&47975557&4& 54679 4& 947679'5 5 7595& 5549d46$
+ 4 47& 749 4 d557%7'4d444647549 594& 5 675 94
+d9# 95&6547#4445 5674&755 5749& 94766%$ 4# '44
+7#4&45  &95&65459  & 554 4& 94767 4 47d4&7 54 4
+ d6#75 & 9476%5 549 5 5 &79'5 5 && 9#6%34567544j5& 9476474
+4 d55
+lmnopqrqrspuvwn 34 d5554649 & 9476474 d4&7 54464754 $ 69&7 54
+5 d5776& 54'47 34567 34 d554'4765 4&&7694765 /0123414k5# (
+x4'4679'7&499'475557&45%54h* y75$46675 4&&76947654#79# 4&757d645
+94'465445#79'7697 3456745 4 (x4'46<7 7499'#5%54h*y34
+8UBPW11WE@321EM0V0321/012341W@N0M@325&45545795675 9456%5 *>4- 5549d 7k'4&645
+ 54 5 d6&795
+===== NHTSA/Investigations/PE24031/INRL-PE24031-72059.pdf =====
+                                                                        1 Tesla Rd.
+                                                                  Austin, TX 78725
+
+                                                                    June 19, 2025
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/PE24031/INRL-PE24031-72061.pdf =====
+                                                                        1 Tesla Rd.
+                                                                  Austin, TX 78725
+
+                                                                    June 19, 2025
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/PE24033/INCLA-PE24033-87838.pdf =====
+                                                                                                                   OFFICE OF DEFECTS INVESTIGATION
+
+
+
+                                                                 ODI RESUME
+                                       Investigation:        PE24033
+       U.S. Department
+                                       Prompted By:          VOQ Review
+       of Transportation
+                                       Date Opened:          01/06/2025              Date             04/03/2026
+       National Highway                                                              Closed:
+       Traffic Safety
+                                       Investigator:         Kareem Habib            Reviewer:     Scott Simmons
+       Administration
+                                       Approver:             Tanya Topka
+                                       Subject:              Actually Smart Summon sessions resulting in low-speed impacts.
+
+
+                                           MANUFACTURER & PRODUCT INFORMATION
+
+        Manufacturer:              Tesla, Inc.
+        Products:                  2016-2025 Model S, X, 2017-2025 Model 3, 2020-2025 Model Y equipped with FSD
+        Population:                2,585,000 (Estimated)
+        Problem                    Actually Smart Summon sessions resulting in minor property damage due to
+        Description:               system's surveillance limitations of the vehicle's environment or vehicle response to
+                                   camera blockage or parking gates.
+
+                                                    FAILURE REPORT SUMMARY
+
+                                     ODI       Manufacturer             EWR D&I      Other       Total     EWR Field Reports
+
+        All Incidents:                17               142                  0           0        159*                    0
+
+        Crashes/Fires:                15               82                   0           0        97*                     0
+
+        Injury Incidents:              0                0                   0           0         0                      0
+
+        Number of Injuries:            0                0                   0           0         0                      0
+
+        Fatality Incidents:            0                0                   0           0         0                      0
+
+        Number of
+                                       0                0                   0           0         0                      0
+        Fatalities:
+
+        Description of Other:
+
+        *Total eliminates duplicates received by the manufacturer
+
+
+                                                 ACTION/SUMMARY INFORMATION
+
+        Action:          This Preliminary Evaluation (PE) is closed with manufacturer Over-the-Air (OTA) updates.
+        Summary:
+        On January 6, 2025, the Office of Defects Investigations (ODI) opened Preliminary Evaluation 24003
+        (PE24033) to investigate Actually Smart Summon (Summon) sessions resulting in crashes during active
+        sessions. According to Tesla, Summon is a short-distance SAE Level 2 system, controlled by the user from a
+
+
+Investigation: PE24033                                                                                                       Close Resume Page 1 of 2
+        cell phone within a certain distance and intended for use in parking lots and on private property. ODI analyzed
+        complaint data provided by Tesla as well as complaints submitted to ODI from consumers to identify Summon
+        incidents resulting in crashes. ODI's analysis indicates that almost all Summon reported crashes involved minor
+        property damage claims with no reported incidents involving a vulnerable road user, injury, fatality, or major
+        property damage as indicated by an air bag deployment or vehicle tow away.
+
+        Out of millions of Summon sessions, a fraction of 1% resulted in an incident. Almost all those incidents took
+        place where, typically early in a Summon session, the system or person using the app failed to fully detect or
+        respond appropriately to vehicle surroundings resulting in minor impacts. Incidents took place when app users
+        did not have a complete 360-degree view of the surroundings in the app to assess situational awareness. This
+        limited the app user’s ability to determine whether an impact was imminent during initial vehicle maneuvers
+        such as reversing in close proximity to an obstacle or a curb. ODI found that the impacts most often occurred
+        with parking gates, adjacently parked vehicles, and short parking bollards.
+
+        During this investigation, ODI identified two Summon crashes related to camera blockages. In both crashes,
+        Summon attempted to navigate a snowy parking lot with snow partially or fully obstructing the forward-facing
+        cameras. Summon did not detect the camera blockage and the vehicles collided with unoccupied parked
+        vehicles while navigating the parking lot. App users in both instances did not command a vehicle stop or pause
+        despite the obstructed camera visible in the camera stream in the app.
+
+        On January 15, 2025, Tesla released Over-the-Air (OTA) Software (SW) Update Action numbers 578998 and
+        579185 for vehicles in service to implement a camera blockage detection condition. Both OTAs improve camera
+        blockage detection mechanisms. Additionally, on January 20, 2025, and January 30, 2025, Tesla identified
+        additional system requirements associated with camera visibility checks and released OTA SW-578752 and
+        SW-580322, respectively. These firmware updates reduce false negative camera blockage detections due to
+        snow or condensation.
+
+        In its investigation, ODI identified one Summon incident where the vehicle did not yield for a gate arm blocking
+        a garage exit lane and the app user did not command a vehicle stop or pause, resulting in an impact. On
+        February 6, 2025, Tesla deployed OTA SW-578839 to improve vehicle reaction to dynamic gates. This OTA
+        update upgraded vehicle perception systems through a high-fidelity occupancy determination network, which
+        uses data from vehicle sensory systems to improve reconstruction of field objects with high accuracy. On
+        November 20, 2025, Tesla further improved vehicle performance by adding object detections from a separate
+        neural network through OTA SW-580514. Owners of the affected vehicles received all six OTA SW updates.
+        Tesla also released these SW updates to production vehicles. See online public file for detailed descriptions of
+        all six OTA SW updates.
+
+        Due to low incident occurrence and low incident severity, this preliminary evaluation is closed. The closing of
+        this investigation does not constitute a finding that a safety-related defect does not exist. The agency reserves
+        the right to take additional action if warranted by future circumstances. For additional information regarding this
+        investigation, see the complete online public file.
+
+
+
+
+Investigation: PE24033                                                                                           Close Resume Page 2 of 2
+===== NHTSA/Investigations/PE24033/INOA-PE24033-35917.pdf =====
+                                                                                         OFFICE OF DEFECTS INVESTIGATION
+
+
+
+                                              ODI RESUME
+                            Investigation:PE24033
+      U.S. Department
+                            Prompted By: VOQ and Media Report Review
+      of Transportation
+                            Date Opened: 01/06/2025
+      National              Investigator: Kareem Habib          Reviewer: Scott Simmons
+      Highway               Approver:     Tanya Topka
+      Traffic Safety        Subject:      Crash incidents during Actually Smart Summon sessions
+      Administration
+
+                             MANUFACTURER & PRODUCT INFORMATION
+       Manufacturer:      Tesla, Inc.
+       Products:          2016-2025 Model S, X, 2017-2025 Model 3, 2020-2025 Model Y equipped
+                          with FSD
+       Population:        2,585,000 (Estimated)
+       Problem            Actually Smart Summon sessions resulting in crashes during the session,
+       Description:       including where the operator does not have enough time to react due to
+                          vehicle proximity or line of sight.
+
+                                      FAILURE REPORT SUMMARY
+
+                           ODI    Manufacturer       EWR D&I      Other    Total     EWR Field Reports
+
+       All Incidents:       1            0               0          15      16                   0
+
+       Crashes/Fires:       1            0               0          15      16                   0
+
+       Injury
+                            0            0               0          0        0                   0
+       Incidents:
+
+       Number of
+                            0            0               0          0        0                   0
+       Injuries:
+
+       Fatality
+                            0            0               0          0        0                   0
+       Incidents:
+
+       Number of
+                            0            0               0          0        0                   0
+       Fatalities:
+
+       Description of Other:
+       Incidents related to Actually Smart Summon crashes reported in the media or
+       Smart Summon crashes related to operator reaction time within the available
+       line of sight.
+
+
+                                   ACTION/SUMMARY INFORMATION
+
+
+
+Investigation: PE24033                                                                           Open Resume Page 1 of 2
+       Action: ODI has opened a Preliminary Evaluation.
+       Summary:
+       Smart Summon and Actually Smart Summon are features on certain Tesla vehicles that allow a
+       user to remotely move the vehicle to the user or to another designated location, through use of a
+       phone app. The Oﬃce of Defects Investigation (ODI) has received 1 complaint (VOQ) alleging that
+       an Actually Smart Summon session resulted in a crash and has reviewed at least 3 media
+       reports of apparently similar crashes. All four incidents involve the subject Tesla vehicles
+       operating in Actually Smart Summon failing to detect posts or parked vehicles, resulting in a
+       crash.
+
+       Actually Smart Summon replaced Smart Summon and provided users with extended vehicle
+       operating range while expanding vehicle connectivity through phone app live camera feeds and
+       increased user latency experience. ODI has received 12 Smart Summon related VOQs alleging
+       crash typology similar to the crashes experienced by users of Actually Smart Summon during
+       sessions with little time for operators to react.
+
+
+       ODI is aware of multiple crash allegations, involving both Smart Summon and Actually Smart
+       Summon, where the user had too little reaction time to avoid a crash, either with the available
+       line of sight or releasing the phone app button, which stops the vehicle’s movement.
+
+       Tesla has not reported any Smart Summon or Actually Smart Summon crashes through the
+       Standing General Order for crashes involving ADS or Level 2 ADAS, which requires reporting of
+       crashes on publicly accessible roads.
+
+       ODI is opening this preliminary evaluation to investigate Actually Smart Summon’s capabilities as
+       they relate to the subject and similar crashes, including the system's operation and ﬁeld
+       performance in FSD equipped vehicles and vehicles included in free trial offers. NHTSA will
+       evaluate the top speed that a vehicle can attain while Actually Smart Summon is engaged,
+       designed-in operating restrictions for usage on public roads, and line of sight requirements.
+       NHTSA expects this preliminary evaluation to include review of remote vehicle control through the
+       phone app at various distances and lines of sight, including app connectivity delays resulting in
+       increased stopping distance and the ability to utilize Actually Smart Summon in roadway
+       environments or operating conditions for which the current version of the system is neither
+       intended nor designed.
+
+       To review the ODI reports cited in the Opening Resume ODI Report Identiﬁcation Number
+       document, go to NHTSA.gov.
+
+
+
+
+Investigation: PE24033                                                                         Open Resume Page 2 of 2
+===== NHTSA/Investigations/PE24033/INRL-PE24033-60141P1.pdf =====
+          INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)
+                                                                                                               1 Tesla Rd.
+                                                                                                         Austin, TX 78725
+
+                                                                                                        February 28, 2025
+
+
+
+
+                  CERTIFICATE IN SUPPORT OF REQUEST FOR CONFIDENTIALITY
+
+
+I, Casey Blaine, pursuant to the provisions of 49 C.F.R. § 512, state as follows:
+
+
+        (1)      I am the Senior Counsel, Regulatory, for Tesla, Inc. (“Tesla”), and I am authorized by the
+company to execute documents on its behalf;
+
+
+        (2)      The information contained in Tesla’s February 28, 2025, submission, marked with
+“Confidential Business Information” in a page header or “CBI” in a file name, is confidential and
+proprietary and is being submitted with the claim that it is entitled to confidential treatment under 5 U.S.C.
+§522(b)(4), as modified pursuant to 49 C.F.R. § 512;
+
+
+        (3)      I have personally inquired of the responsible Tesla personnel who have authority in the
+normal course of business to release the information for which a claim of confidentiality has been made to
+ascertain whether such information has ever been released outside of Tesla;
+
+
+        (4)      Based upon such inquiries, to the best of my knowledge, information, and belief, the
+information for which Tesla has claimed confidential treatment has never been released or been made
+available outside of Tesla except as hereinafter specified: the information or portions of it may have been
+made available as necessary for the purpose of obtaining advice and assistance from counsel and other
+confidential advisers, or to outside testing laboratories and suppliers who have signed written non-
+disclosure agreements, or to foreign regulatory bodies who have requested such information where such
+submissions have been provided with a request for confidential treatment, or as otherwise discussed in
+the request for confidentiality;
+
+
+        (5)      I made no representations beyond those contained in this certificate and, in particular, no
+representations as to whether this information may become available outside of Tesla because of
+unauthorized or inadvertent disclosure except as state in paragraph 4; and
+
+
+        (6)      I certify under penalty of perjury that the foregoing is true and correct.
+
+
+Executed on this 28th day of February 2025.
+
+
+
+                                                            ___                                    _____
+
+                                                            Casey Blaine
+===== NHTSA/Investigations/PE24033/INRL-PE24033-60189P1.pdf =====
+        INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)
+
+                                                                                                                1 Tesla Rd.
+                                                                                                          Austin, TX 78725
+
+                                                                                                         February 28, 2025
+
+
+
+
+Peter Simshauser
+Chief Counsel
+National Highway Traffic Safety Administration
+1200 New Jersey Ave, S.E.
+Washington, D.C. 20590
+Attention: Sarah Kohlhofer
+
+
+Re: Request for Confidential Treatment – Tesla’s Initial Response to NHTSA’s January 16, 2025,
+Information Request Regarding Preliminary Evaluation (PE) 24033-01
+
+
+Dear Mr. Simshauser,
+
+On behalf of Tesla, Inc. (“Tesla” or the “Company”), and pursuant to the provisions of 5 U.S.C. § 552(b)(4)
+(“FOIA Exemption 4”) and 49 C.F.R. § 512, this letter requests the National Highway Traffic Safety
+Administration (“NHTSA” or the “Agency”) for confidential treatment of all of the information in the
+attached submission that is marked with the phrase “Confidential Business Information” in a page header
+or tab or “CBI” in a file name (referred to hereinafter as the “Submission”).
+
+
+The marked information contained in the Submission is proprietary, confidential, and otherwise not
+publicly available, and has been labeled accordingly. Tesla customarily treats this type of information as
+private, or at least closely held, and it does not customarily disclose the information outside of the
+company or make it public in any way, except that portions of it may have been made available as
+necessary for the purpose of obtaining advice and assistance from counsel and other confidential
+advisors, or as discussed below. Some of the information contained in the Submission may have been
+released to outside consultants under binding nondisclosure agreements or similar mechanisms, or
+shared confidentially with other government agencies. Such disclosures do not compromise the
+confidential nature of the information because of the obligations of confidentiality imposed upon such
+advisors. Accordingly, Tesla seeks confidential treatment for the Submission.
+
+
+Competitive Harm. The Submission is entitled to confidential treatment because release of it would
+cause substantial competitive harm to Tesla. The Submission contains production data regarding the
+subject vehicles and subject system at issue in Preliminary Evaluation (PE) 24033-01. The Submission
+also reveals details of Tesla’s SAE Level 2 advanced driver-assistance feature, Actually Smart Summon,
+available with FSD-Supervised. The Submission discloses how Actually Smart Summon operates and
+transmits data, including the number and duration of Actually Smart Summon sessions and total distance
+covered during a specific timeframe.
+Tesla considers all of the information in the Submission that is marked with the phrase “Confidential
+Business Information” in a page header or tab or “CBI” in a file name to be wholly confidential and
+proprietary. We take extensive measures to guard and protect this marked information, even internally.
+Public disclosure would enable competitors to gain substantial competitive knowledge and an unfair
+advantage over Tesla. The marked information in the Submission is commercially valuable because it
+would provide competitors with insights into production data of Tesla vehicles, which may provide
+commercial advantages otherwise unavailable. The Submission may also provide competitors with means
+to improve their own vehicle technology. Nefarious actors could also use the marked information to smear
+Tesla’s brand for the sake of notoriety, much to the Company’s detriment. Absent public disclosure,
+access to the marked information and all of the knowledge gained from it would require significant
+expenditure of time and resources and very intimate knowledge about Tesla.
+
+
+In addition, NHTSA has provided at least some assurances to Tesla that the Agency will keep this type of
+marked information private. Tesla regularly requests confidential treatment for information of this nature,
+and NHTSA has a long history of categorically treating this kind of information as confidential.
+Accordingly, the Submission should be deemed “confidential” within the meaning of FOIA Exemption 4.
+See Food Marketing Institute v. Argus Leader Media, 139 S.Ct. 2356, 2366 (2019) (“[W]here commercial
+or financial information is both customarily and actually treated as private by its owner and provided to the
+government under an assurance of privacy, the information is ‘confidential’ within the meaning of
+Exemption 4.”).
+
+
+                                                    ***
+Based on the foregoing, Tesla seeks confidential treatment in perpetuity for all of the information in the
+Submission that is marked with the phrase “Confidential Business Information” in a page header or tab or
+“CBI” in a file name. Thank you for your consideration. If you have any questions regarding this request,
+you may contact me at cblaine@tesla.com.
+
+
+Sincerely,
+
+
+
+
+Casey Blaine
+Senior Counsel, Regulatory
+===== NHTSA/Investigations/PE24033/INRL-PE24033-60193.pdf =====
+                                                                         1 Tesla Rd.
+                                                                   Austin, TX 78725
+
+                                                                  February 28, 2025
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/PE24033/INRL-PE24033-60656P1.pdf =====
+     INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)
+
+                                                                                                                   1 Tesla Rd.
+                                                                                                             Austin, TX 78725
+
+                                                                                                              March 28, 2025
+
+
+
+
+Peter Simshauser
+Chief Counsel
+National Highway Traffic Safety Administration
+1200 New Jersey Ave, S.E.
+Washington, D.C. 20590
+Attention: Sarah Kohlhofer
+
+
+Re: Request for Confidential Treatment – Tesla’s Second Response to NHTSA’s January 16, 2025,
+Information Request Regarding Preliminary Evaluation (PE) 24033-01
+
+
+Dear Mr. Simshauser,
+
+On behalf of Tesla, Inc. (“Tesla” or the “Company”), and pursuant to the provisions of 5 U.S.C. § 552(b)(4)
+(“FOIA Exemption 4”) and 49 C.F.R. § 512, this letter requests the National Highway Traffic Safety
+Administration (“NHTSA” or the “Agency”) for confidential treatment of all of the information in the
+attached submission that is marked with the phrase “Confidential Business Information” in a page header
+or tab or “CBI” in a file name (referred to hereinafter as the “Submission”).
+
+
+The marked information contained in the Submission is proprietary, confidential, and otherwise not
+publicly available, and has been labeled accordingly. Tesla customarily treats this type of information as
+private, or at least closely held, and it does not customarily disclose the information outside of the
+company or make it public in any way, except that portions of it may have been made available as
+necessary for the purpose of obtaining advice and assistance from counsel and other confidential
+advisors, or as discussed below. Some of the information contained in the Submission may have been
+released to outside consultants under binding nondisclosure agreements or similar mechanisms, or
+shared confidentially with other government agencies. Such disclosures do not compromise the
+confidential nature of the information because of the obligations of confidentiality imposed upon such
+advisors. Accordingly, Tesla seeks confidential treatment for the Submission.
+
+
+Competitive Harm. The Submission is entitled to confidential treatment because release of it would
+cause substantial competitive harm to Tesla. The Submission reveals details of Tesla’s SAE Level 2
+advanced driver-assistance feature, Actually Smart Summon, available with FSD-Supervised. The
+Submission discloses how Actually Smart Summon operates and transmits data, including the number
+and duration of Actually Smart Summon sessions and total distance covered during a specific timeframe,
+as well as Tesla’s internal investigative processes of field incidents involving the feature. Finally, the
+Submission contains Tesla’s assessment of the alleged defect at issue in Preliminary Evaluation (PE)
+24033-01.
+
+
+Tesla considers all of the information in the Submission that is marked with the phrase “Confidential
+Business Information” in a page header or tab or “CBI” in a file name to be wholly confidential and
+proprietary. We take extensive measures to guard and protect this marked information, even internally.
+Public disclosure would enable competitors to gain substantial competitive knowledge and an unfair
+advantage over Tesla. The marked information in the Submission is commercially valuable because it
+would provide competitors with means to improve their own vehicle technology and internal investigative
+processes and assessments. Nefarious actors could also use the marked information to smear Tesla’s
+brand for the sake of notoriety, much to the Company’s detriment. Absent public disclosure, access to the
+marked information and all of the knowledge gained from it would require significant expenditure of time
+and resources and very intimate knowledge about Tesla.
+
+
+In addition, NHTSA has provided at least some assurances to Tesla that the Agency will keep this type of
+marked information private. Tesla regularly requests confidential treatment for information of this nature,
+and NHTSA has a long history of categorically treating this kind of information as confidential.
+Accordingly, the Submission should be deemed “confidential” within the meaning of FOIA Exemption 4.
+See Food Marketing Institute v. Argus Leader Media, 139 S.Ct. 2356, 2366 (2019) (“[W]here commercial
+or financial information is both customarily and actually treated as private by its owner and provided to the
+government under an assurance of privacy, the information is ‘confidential’ within the meaning of
+Exemption 4.”).
+
+
+Personal Identifying Information. Finally, NHTSA has stated that the Agency will protect personally
+identifying information, such as a name, address, telephone number, or the last six digits of any vehicle
+identification number (“VIN”). The Submission contains a full VIN which could make one or more persons
+identifiable. We believe all this information should be treated confidentially because a reasonable person
+would not have intended for it to be released to the general public. We believe this is further reason for
+NHTSA to protect the confidentiality of the Submission in entirety.
+
+
+                                                    ***
+Based on the foregoing, Tesla seeks confidential treatment in perpetuity for all of the information in the
+Submission that is marked with the phrase “Confidential Business Information” in a page header or tab or
+“CBI” in a file name. Thank you for your consideration. If you have any questions regarding this request,
+you may contact me at cblaine@tesla.com.
+
+
+Sincerely,
+Casey Blaine
+Senior Counsel, Regulatory
+===== NHTSA/Investigations/PE24033/INRL-PE24033-60657P1.pdf =====
+    INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)
+
+                                                                                                               1 Tesla Rd.
+                                                                                                         Austin, TX 78725
+
+                                                                                                          March 28, 2025
+
+
+
+
+                  CERTIFICATE IN SUPPORT OF REQUEST FOR CONFIDENTIALITY
+
+
+I, Casey Blaine, pursuant to the provisions of 49 C.F.R. § 512, state as follows:
+
+
+        (1)      I am the Senior Counsel, Regulatory, for Tesla, Inc. (“Tesla”), and I am authorized by the
+company to execute documents on its behalf;
+
+
+        (2)      The information contained in Tesla’s March 28, 2025, submission, marked with
+“Confidential Business Information” in a page header or “CBI” in a file name, is confidential and
+proprietary and is being submitted with the claim that it is entitled to confidential treatment under 5 U.S.C.
+§522(b)(4), as modified pursuant to 49 C.F.R. § 512;
+
+
+        (3)      I have personally inquired of the responsible Tesla personnel who have authority in the
+normal course of business to release the information for which a claim of confidentiality has been made to
+ascertain whether such information has ever been released outside of Tesla;
+
+
+        (4)      Based upon such inquiries, to the best of my knowledge, information, and belief, the
+information for which Tesla has claimed confidential treatment has never been released or been made
+available outside of Tesla except as hereinafter specified: the information or portions of it may have been
+made available as necessary for the purpose of obtaining advice and assistance from counsel and other
+confidential advisers, or to outside testing laboratories and suppliers who have signed written non-
+disclosure agreements, or to foreign regulatory bodies who have requested such information where such
+submissions have been provided with a request for confidential treatment, or as otherwise discussed in
+the request for confidentiality;
+
+
+        (5)      I made no representations beyond those contained in this certificate and, in particular, no
+representations as to whether this information may become available outside of Tesla because of
+unauthorized or inadvertent disclosure except as state in paragraph 4; and
+
+
+        (6)      I certify under penalty of perjury that the foregoing is true and correct.
+
+
+Executed on this 28th day of March 2025.
+
+
+
+
+                                                            Casey Blaine
+===== NHTSA/Investigations/PE24033/INRL-PE24033-60867.pdf =====
+                                                                        1 Tesla Rd.
+                                                                  Austin, TX 78725
+
+                                                                   March 28, 2025
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/PE24033/INRL-PE24033-62868P1.pdf =====
+          INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)
+
+                                                                                                               1 Tesla Rd.
+                                                                                                         Austin, TX 78725
+
+                                                                                                            April 25, 2025
+
+
+
+
+                  CERTIFICATE IN SUPPORT OF REQUEST FOR CONFIDENTIALITY
+
+
+I, Casey Blaine, pursuant to the provisions of 49 C.F.R. § 512, state as follows:
+
+
+        (1)      I am the Senior Counsel, Regulatory, for Tesla, Inc. (“Tesla”), and I am authorized by the
+company to execute documents on its behalf;
+
+
+        (2)      The information contained in Tesla’s April 25, 2025, submission, marked with
+“Confidential Business Information” in a page header or “CBI” in a file name, is confidential and
+proprietary and is being submitted with the claim that it is entitled to confidential treatment under 5 U.S.C.
+§522(b)(4), as modified pursuant to 49 C.F.R. § 512;
+
+
+        (3)      I have personally inquired of the responsible Tesla personnel who have authority in the
+normal course of business to release the information for which a claim of confidentiality has been made to
+ascertain whether such information has ever been released outside of Tesla;
+
+
+        (4)      Based upon such inquiries, to the best of my knowledge, information, and belief, the
+information for which Tesla has claimed confidential treatment has never been released or been made
+available outside of Tesla except as hereinafter specified: the information or portions of it may have been
+made available as necessary for the purpose of obtaining advice and assistance from counsel and other
+confidential advisers, or to outside testing laboratories and suppliers who have signed written non-
+disclosure agreements, or to foreign regulatory bodies who have requested such information where such
+submissions have been provided with a request for confidential treatment, or as otherwise discussed in
+the request for confidentiality;
+
+
+        (5)      I made no representations beyond those contained in this certificate and, in particular, no
+representations as to whether this information may become available outside of Tesla because of
+unauthorized or inadvertent disclosure except as state in paragraph 4; and
+
+
+        (6)      I certify under penalty of perjury that the foregoing is true and correct.
+
+
+Executed on this 25th day of April 2025.
+
+
+
+                                                            ____                                _______
+
+                                                            Casey Blaine
+===== NHTSA/Investigations/PE24033/INRL-PE24033-62869P1.pdf =====
+          INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)
+
+                                                                                                               1 Tesla Rd.
+                                                                                                         Austin, TX 78725
+
+                                                                                                            April 25, 2025
+
+
+
+
+Peter Simshauser
+Chief Counsel
+National Highway Traffic Safety Administration
+1200 New Jersey Ave, S.E.
+Washington, D.C. 20590
+Attention: Hunter Oliver
+
+
+Re: Request for Confidential Treatment – Tesla’s Final Response to NHTSA’s January 16, 2025,
+Information Request Regarding Preliminary Evaluation (PE) 24033-01
+
+
+Dear Mr. Simshauser,
+
+On behalf of Tesla, Inc. (“Tesla” or the “Company”), and pursuant to the provisions of 5 U.S.C. § 552(b)(4)
+(“FOIA Exemption 4”) and 49 C.F.R. § 512, this letter requests the National Highway Traffic Safety
+Administration (“NHTSA” or the “Agency”) for confidential treatment of all of the information in the
+attached submission that is marked with the phrase “Confidential Business Information” in a page header
+or tab and/or “CBI” in a file name (referred to hereinafter as the “Submission”).
+
+
+The marked information contained in the Submission is proprietary, confidential, and otherwise not
+publicly available, and has been labeled accordingly. Tesla customarily treats this type of information as
+private, or at least closely held, and it does not customarily disclose the information outside of the
+company or make it public in any way, except that portions of it may have been made available as
+necessary for the purpose of obtaining advice and assistance from counsel and other confidential
+advisors, or as discussed below. Some of the information contained in the Submission may have been
+released to outside consultants under binding nondisclosure agreements or similar mechanisms, or
+shared confidentially with other government agencies. Such disclosures do not compromise the
+confidential nature of the information because of the obligations of confidentiality imposed upon such
+advisors. Accordingly, Tesla seeks confidential treatment for the Submission.
+
+
+Competitive Harm. The Submission is entitled to confidential treatment because release of it would
+cause substantial competitive harm to Tesla. The Submission reveals details of Tesla’s SAE Level 2
+advanced driver-assistance feature, Actually Smart Summon, available with FSD (Supervised). The
+Submission discloses Tesla’s internal design, testing, and validation methodology for Actually Smart
+Summon, including details of the feature’s capabilities, designed-in restrictions, and safeguards. The
+Submission contains details regarding how the feature operates and transmits data.
+Tesla considers all of the information in the Submission that is marked with the phrase “Confidential
+Business Information” in a page header or tab or “CBI” in a file name to be wholly confidential and
+proprietary. We take extensive measures to guard and protect this marked information, even internally.
+Public disclosure would enable competitors to gain substantial competitive knowledge and an unfair
+advantage over Tesla. The marked information in the Submission is commercially valuable because it
+would provide competitors with means to improve their own internal development, testing, and validation
+methods and vehicle technology. Nefarious actors could also use the marked information to smear
+Tesla’s brand for the sake of notoriety, much to the Company’s detriment. Absent public disclosure,
+access to the marked information and all of the knowledge gained from it would require significant
+expenditure of time and resources and very intimate knowledge about Tesla.
+
+
+In addition, NHTSA has provided at least some assurances to Tesla that the Agency will keep this type of
+marked information private. Tesla regularly requests confidential treatment for information of this nature,
+and NHTSA has a long history of categorically treating this kind of information as confidential.
+Accordingly, the Submission should be deemed “confidential” within the meaning of FOIA Exemption 4.
+See Food Marketing Institute v. Argus Leader Media, 139 S.Ct. 2356, 2366 (2019) (“[W]here commercial
+or financial information is both customarily and actually treated as private by its owner and provided to the
+government under an assurance of privacy, the information is ‘confidential’ within the meaning of
+Exemption 4.”).
+
+
+Personal Identifying Information. Finally, NHTSA has stated that the Agency will protect personally
+identifying information, such as a name, address, telephone number, or the last six digits of any vehicle
+identification number (“VIN”). The Submission may contain a full VIN which could make one or more
+persons identifiable. We believe all this information should be treated confidentially because a reasonable
+person would not have intended for it to be released to the general public. We believe this is further
+reason for NHTSA to protect the confidentiality of the Submission in entirety.
+
+
+                                                    ***
+Based on the foregoing, Tesla seeks confidential treatment in perpetuity for all of the information in the
+Submission that is marked with the phrase “Confidential Business Information” in a page header or tab or
+“CBI” in a file name. Thank you for your consideration. If you have any questions regarding this request,
+you may contact me at cblaine@tesla.com.
+
+
+Sincerely,
+
+
+
+
+Casey Blaine
+Senior Counsel, Regulatory
+===== NHTSA/Investigations/PE24033/INRL-PE24033-62871.pdf =====
+                                                                        1 Tesla Rd.
+                                                                  Austin, TX 78725
+
+                                                                     April 25, 2025
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/PE24033/INRL-PE24033-62875.pdf =====
+                                                                        1 Tesla Rd.
+                                                                  Austin, TX 78725
+
+                                                                     April 25, 2025
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/PE25012/INOA-PE25012-19171.pdf =====
+                                                                                            OFFICE OF DEFECTS INVESTIGATION
+
+
+
+                                               ODI RESUME
+                            Investigation:PE25012
+      U.S. Department
+                            Prompted By: VOQs, Standing General Order (SGO) reports and media
+      of Transportation
+                                          reports
+      National              Date Opened: 10/07/2025
+      Highway               Investigator: Thomas Haugh             Reviewer: Scott Simmons
+      Traffic Safety        Approver:     Tanya Topka
+      Administration
+                            Subject:      Traffic safety violations while Full Self Driving ("FSD") is
+                                          engaged
+
+                             MANUFACTURER & PRODUCT INFORMATION
+       Manufacturer:      Tesla, Inc.
+       Products:          All Tesla vehicles that have been equipped with FSD (Supervised) or FSD
+                          (Beta)
+       Population:        2,882,566 (Estimated)
+       Problem            Traffic safety law violations involving Tesla vehicles operating with FSD
+       Description:       engaged, including proceeding through red traffic signals and driving
+                          against the proper direction of travel on public roadways.
+
+                                       FAILURE REPORT SUMMARY
+
+                           ODI     Manufacturer        EWR D&I      Other     Total   EWR Field Reports
+
+       All Incidents:       44            0                0          14       58                   0
+
+       Crashes/Fires:        3            0                0          11       14                   0
+
+       Injury
+                             3            0                0           7       10                   0
+       Incidents:
+
+       Number of
+                             5            0                0          18       23                   0
+       Injuries:
+
+       Fatality
+                             0            0                0           0        0                   0
+       Incidents:
+
+       Number of
+                             0            0                0           0        0                   0
+       Fatalities:
+
+       Description of Other:
+       SGO and media reports
+
+
+                                    ACTION/SUMMARY INFORMATION
+
+       Action: ODI has opened a Preliminary Evaluation
+
+
+
+Investigation: PE25012                                                                              Open Resume Page 1 of 3
+       Summary:
+       The Office of Defects Investigation (“ODI”) is opening this Preliminary Evaluation (PE) to assess
+       the scope, frequency, and potential safety consequences of FSD executing driving maneuvers
+       that constitute traﬃc safety violations. This investigation concerns versions of FSD that Tesla has
+       labeled as "FSD (Supervised)" and "FSD (Beta)." Tesla characterizes FSD as an SAE Level 2 partial
+       automation system requiring a fully attentive driver who is engaged in the driving task at all
+       times. Level 2 partial automation systems are designed to support and assist the driver in
+       performing certain aspects of the driving task, requiring a driver to supervise and intervene as
+       necessary. The driver remains fully responsible at all times for driving the vehicle, including
+       complying with applicable traﬃc laws. ODI’s investigation will therefore focus, in particular, on
+       whether certain driving inputs within the control authority of FSD forestall the driver’s supervision
+       when they are unexpectedly performed.
+
+       ODI has identiﬁed a number of incidents in which the inputs to the dynamic driving task
+       commanded by FSD induced vehicle behavior that violated traﬃc safety laws. Although reports of
+       this nature span a variety of behaviors, the reports appear to most commonly involve two types
+       of scenarios. The ﬁrst type of scenario involves a vehicle operating with FSD proceeding into an
+       intersection in violation of a red traﬃc signal. The second type of scenario involves FSD
+       commanding a lane change into an opposing lane of traﬃc.
+
+       With respect to the ﬁrst type of scenario, ODI has identiﬁed 18 complaints and 1 media report
+       alleging that a Tesla vehicle, operating at an intersection with FSD engaged, failed to remain
+       stopped for the duration of a red traﬃc signal, failed to stop fully, or failed to accurately detect
+       and display the correct traﬃc signal state in the vehicle interface. Some complainants also
+       alleged that FSD did not provide warnings of the system's intended behavior as the vehicle was
+       approaching a red traﬃc signal.
+
+       ODI has identiﬁed six Standing General Order ("SGO") reports in which a Tesla vehicle, operating
+       with FSD engaged, approached an intersection with a red traﬃc signal, continued to travel into
+       the intersection against the red light and was subsequently involved in a crash with other motor
+       vehicles in the intersection. Of these incidents, four crashes resulted in one or more reported
+       injuries. At least some of the incidents appeared to involve FSD proceeding into the intersection
+       after coming to a complete stop. ODI's pre-investigative work, including coordination with the
+       Maryland Transportation Authority and State Police, indicated that the problem may be
+       repeatable, given that multiple subject incidents occurred at the same intersection in Joppa,
+       Maryland. NHTSA understands that Tesla has since taken action to address the issue at this
+       intersection.
+
+       With respect to the second type of scenario, ODI has identiﬁed 2 SGO reports, 18 complaints, and
+       2 media reports alleging that a Tesla vehicle, operating with FSD engaged, entered opposing
+       lanes of travel during or following a turn, crossed double-yellow lane markings while proceeding
+       straight, or attempted to turn onto a road in the wrong direction despite the presence of wrong-
+       way road signs. Likewise, ODI has identiﬁed 4 SGO reports, 6 complaints, and 1 media report
+       alleging that a Tesla vehicle, operating with FSD engaged, proceeded straight through an
+       intersection in a turn-only lane or executed a turn at an intersection in a through lane despite the
+       presence of lane markings or signals. Complaints also alleged that FSD did not provide warnings
+       of the system's intended behavior. Some complaints alleged that more than one of these failures
+       occurred and, as such, the numbers are not cumulative. Some of the reported incidents appeared
+
+
+Investigation: PE25012                                                                             Open Resume Page 2 of 3
+       to involve FSD executing a lane change into an opposing lane of travel with little notice to a driver
+       or opportunity to intervene.
+
+       ODI’s review will assess whether there was prior warning or adequate time for the driver to
+       respond to the unexpected behavior or to safely supervise the automated driving task. This
+       review will assess any warnings to the driver about the system's impending behavior; the time
+       given to drivers to respond; the capability of FSD to detect, display to the driver, and respond
+       appropriately to traffic signals; and the capability of FSD to detect and respond to lane markings
+       and wrong-way signage. NHTSA's review will also consider any updates or modifications to the
+       system(s) that may affect the performance of FSD with respect to obeying traffic safety laws and
+       signals.
+
+       This assessment will focus, in particular, on the types of traffic safety violations described above,
+       as most reports identified thus far have centered around those behaviors. While the behaviors
+       under investigation appear to occur most frequently at intersections, NHTSA’s investigation will
+       encompass any other types of situations in which this behavior may arise, such as when traveling
+       adjacent to a lane of opposing traffic or when approaching railroad crossings. If other evidence
+       received during this investigation involve other types of traffic safety violations, those may be
+       considered as part of this assessment as well.
+
+
+
+       To review the ODI reports cited in the Opening Resume ODI Report Identification Number
+       document, go to NHTSA.gov. The SGO reports cited in this Resume are listed below by report ID
+       and are available for download at NHTSA.gov/laws-regulations/standing-general-order-crash-
+       reporting.
+       13781-8739-1, 13781-8995-1, 13781-9623-1, 13781-10333-1, 13781-10872-1, 13781-10930-1,
+       13781-10939-1, 13781-10941-1, 13781-11069-1, 13781-11305-1, 13781-11579-1
+
+
+
+       Media reported allegations included as a separate attachment.
+
+
+
+
+Investigation: PE25012                                                                           Open Resume Page 3 of 3
+===== NHTSA/Investigations/PE25012/INRL-PE25012-35035.pdf =====
+                                                                        1 Tesla Rd.
+                                                                  Austin, TX 78725
+
+                                                                  January 16, 2026
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/PE25012/INRL-PE25012-38359.pdf =====
+                                                                        1 Tesla Rd.
+                                                                  Austin, TX 78725
+
+                                                                  February 23, 2026
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/PE25012/INRL-PE25012-38361.pdf =====
+                                                                        1 Tesla Rd.
+                                                                  Austin, TX 78725
+
+                                                                  February 23, 2026
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/PE25012/INRL-PE25012-40676.pdf =====
+                                                                        1 Tesla Rd.
+                                                                  Austin, TX 78725
+
+                                                                      April 3, 2026
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/PE25012/INRL-PE25012-41298.pdf =====
+                                                                        1 Tesla Rd.
+                                                                  Austin, TX 78725
+
+                                                                     April 10, 2026
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/PE25012/INRL-PE25012-41546.pdf =====
+                                                                        1 Tesla Rd.
+                                                                  Austin, TX 78725
+
+                                                                     April 13, 2026
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/PE26006/INOA-PE26006-16559.pdf =====
+                                                                                                                OFFICE OF DEFECTS INVESTIGATION
+
+
+
+                                                               ODI RESUME
+                                      Investigation:       PE26006
+       U.S. Department
+                                      Prompted By:         VOQ Review
+       of Transportation
+                                      Date Opened:         07/29/2026
+       National Highway               Investigator:        Stefanie Oldenburg       Reviewer:        Sharon Yukevich
+       Traffic Safety
+                                      Approver:            Tanya Topka
+       Administration
+                                      Subject:             Lower Lateral Link detachment
+
+
+                                           MANUFACTURER & PRODUCT INFORMATION
+
+        Manufacturer:              Tesla, Inc.
+        Products:                  2018-2020 Model 3, 2021-2023 Model Y
+        Population:                1,198,300 (Estimated)
+        Problem                    Lower Lateral Link detaches, potentially causing a loss of vehicle directional control
+        Description:
+
+                                                    FAILURE REPORT SUMMARY
+
+                                     ODI       Manufacturer          EWR D&I        Other       Total     EWR Field Reports
+
+        All Incidents:               156               0                 0            0         156                   0
+
+        Crashes/Fires:                 0               0                 0            0          0                    0
+
+        Injury Incidents:              0               0                 0            0          0                    0
+
+        Fatality Incidents:            0               0                 0            0          0                    0
+
+                                                 ACTION/SUMMARY INFORMATION
+
+        Action:          Open this Preliminary Evaluation (PE)
+        Summary:
+        The Office of Defects Investigation (ODI) has received 156 complaints alleging a suspension failure in model
+        year (MY) 2018-2020 Model 3 and MY 2021-2023 Model Y vehicles. The suspension failure involves the
+        detachment of the front lower lateral link, which potentially causes a loss of vehicle directional control.
+
+        In most cases, there was no advance warning or indication that the suspension failure would occur. Some
+        cases cite noises occurring prior to failure, but note that the vehicle provides no visual warnings. Once the
+        failure occurs, the vehicle may not be drivable, thus requiring a tow.
+
+        Tesla has previously recalled vehicles for lateral link detachments through two recalls. Recall 21V-835
+        addressed 2,791 MY2019-2021 Tesla Model 3 vehicles due to a production issue. Recall 23V-235 addressed
+        422 2018-2019 Tesla Model 3 vehicles that had experienced similar failures to those recalled under 21V-835.
+        The subject failures for this investigation exceed the scope of these recalls and do not appear to be related to
+        the production issue that prompted those recalls.
+
+
+Investigation: PE26006                                                                                                    Open Resume Page 1 of 2
+        ODI is opening this Preliminary Evaluation to determine the underlying cause, scope, and severity of the
+        potential problem and to fully assess the potential safety-related issues. To review the ODI reports cited in the
+        Opening Resume ODI Report Identification Number document, go to NHTSA.gov.
+
+
+
+
+Investigation: PE26006                                                                                          Open Resume Page 2 of 2
+===== NHTSA/Investigations/PE26006/INRL-PE26006-17273.pdf =====
+                                                                          1 Tesla Rd.
+                                                                    Austin, TX 78725
+
+                                                                  September 18, 2026
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/PE26006/INRL-PE26006-19154.pdf =====
+                                                                        1 Tesla Rd.
+                                                                  Austin, TX 78725
+
+                                                                   October 5, 2026
+
+
+
+
+The entirety of this file is confidential business information.
+===== NHTSA/Investigations/RQ24009/INOA-RQ24009-12046.pdf =====
+                                                                                                         OFFICE OF DEFECTS INVESTIGATION
+
+
+
+                                                           ODI RESUME
+
+      U.S. Department                Investigation: RQ24009
+      of Transportation              Prompted By: 23V838
+                                     Date Opened: 04/25/2024
+      National Highway
+      Traffic Safety                 Investigator: Alexa Ardron           Reviewer:       Gregory Magno
+      Administration                 Approver:      Tanya Topka
+                                     Subject:       Recall 23V838 Remedy Effectiveness
+
+
+                                         MANUFACTURER & PRODUCT INFORMATION
+       Manufacturer:              Tesla, Inc.
+       Products:                  2012 – 2024 Model Y, X, S, 3 and Cybertruck equipped w/ Autopilot
+       Population:                2,031,220 (Estimated)
+       Problem Description: Evaluate the adequacy of Recall 23V838, including the prominence and scope of
+                            Autopilot controls to address misuse, mode confusion, or usage in environments
+                            the system is not designed for.
+
+                                                 FAILURE REPORT SUMMARY
+
+                                       ODI     Manufacturer      EWR D&I       Other     Total        EWR Field Reports
+
+       All Incidents:                   0            0               0           20       20                       0
+
+       Crashes/Fires:                   0            0               0           20       20                       0
+
+       Injury Incidents:                0            0               0           0        0                        0
+
+       Number of Injuries:              0            0               0           0        0                        0
+
+       Fatality Incidents:              0            0               0           0        0                        0
+
+       Description of Other: Crashes falling within the three primary categories, reported primarily to the SGO.
+
+
+                                               ACTION/SUMMARY INFORMATION
+
+       Action:           A Recall Query has been opened.
+       Summary:
+       The Office of Defects Investigation (ODI) is opening a Recall Query to assess the remedy adequacy of Recall
+       23V838. On December 12, 2023, Tesla filed a Defect Information Report (Recall 23V838) applicable to all
+       Tesla models produced and equipped with any version of its Autopilot system, which Tesla described as an
+       SAE Level 2 (L2) Advanced Driver Assistance System (ADAS). Autopilot is the simultaneous engagement of
+       Tesla’s Traffic-Aware Cruise Control (TACC) and Autosteer. In describing the safety defect, Tesla’s Defect
+       Information Report (DIR) explained that “the prominence and scope of the system’s controls may be
+       insufficient to prevent driver misuse,” and Tesla committed to the deployment of a multipart remedy aimed at
+
+
+
+
+Investigation: RQ24009                                                                                            Open Resume Page 1 of 2
+       improving system and engagement controls and reducing mode confusion.
+
+       EA22002 (upgraded from PE21020) was opened to investigate whether Tesla’s Autopilot contained a defect
+       that created an unreasonable risk to motor vehicle safety and involved extensive crash analysis, human
+       factors analysis, vehicle evaluations, and assessment of vehicle control authority and driver engagement
+       technologies. The work conducted in these investigations aligns with Tesla’s conclusion in its 23V838 recall
+       filing. During EA22002, ODI identified at least 13 crashes involving one or more fatalities and many more
+       involving serious injuries in which foreseeable driver misuse of the system played an apparent role.
+
+
+
+       Tesla filed Recall 23V838 to address concerns regarding the Autopilot system investigated in EA22002.
+       Following deployment of the remedy in Recall 23V838, ODI identified concerns due to post-remedy crash
+       events and results from preliminary NHTSA tests of remedied vehicles. Also, Tesla has stated that a portion of
+       the remedy both requires the owner to opt in and allows a driver to readily reverse it. Tesla has also deployed
+       non-remedy updates to address issues that appear related to ODI’s concerns under EA22002. This
+       investigation will consider why these updates were not a part of the recall or otherwise determined to remedy
+       a defect that poses an unreasonable safety risk.
+
+
+
+
+       ODI is therefore opening this Recall Query investigation to further evaluate the adequacy of the remedy for
+       recall 23V838.
+
+
+
+
+Investigation: RQ24009                                                                                   Open Resume Page 2 of 2
+

@@ -1,0 +1,4614 @@
+[
+ {
+  "id": 1965229,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": false,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-24-17-003",
+  "nhtsaCampaignNumber": "26V507000",
+  "reportReceivedDate": "2026-08-05T06:14:55Z",
+  "subject": "Low Beam Headlights May Be Too Bright/FMVSS 108",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2017-2023 Model 3 and 2020-2023 Model Y vehicles. The headlight low beams may be too bright and exceed the maximum light output. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 108, \"Lamps, Reflective Devices, and Associated Equipment.\"",
+  "consequence": "Headlight low beams that are too bright can reduce visibility for oncoming drivers, increasing the risk of a crash.",
+  "correctiveAction": "Tesla Service will replace the headlights, free of charge. Interim owner notification letters explaining the safety risk were be mailed October 3, 2026. Another notice will be sent once the repair becomes available. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-24-17-003.",
+  "potentialNumberOfUnitsAffected": 20349,
+  "notes": null,
+  "associatedDocumentsCount": 6,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=26V507000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 11,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=26V507000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 417,
+    "name": "EXTERIOR LIGHTING",
+    "description": "121000 EXTERIOR LIGHTING"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 807545,
+    "fileSize": 366,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report",
+    "fileName": "RCLRPT-26V507-2774.pdf",
+    "loadDate": "2026-08-11T11:00:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V507-2774.pdf"
+   },
+   {
+    "id": 807546,
+    "fileSize": 321,
+    "mimeType": "application/pdf",
+    "summary": "RCAK - Recall Acknowledgement",
+    "fileName": "RCAK-26V507-2895.pdf",
+    "loadDate": "2026-08-11T11:00:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2026/RCAK-26V507-2895.pdf"
+   },
+   {
+    "id": 807547,
+    "fileSize": 76,
+    "mimeType": "application/pdf",
+    "summary": "Chronology",
+    "fileName": "RCHRN-26V507-7003.pdf",
+    "loadDate": "2026-08-11T11:00:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2026/RCHRN-26V507-7003.pdf"
+   },
+   {
+    "id": 810037,
+    "fileSize": 381,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 1 - 09/01/2026",
+    "fileName": "RCLRPT-26V507-7698.pdf",
+    "loadDate": "2026-09-03T11:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V507-7698.pdf"
+   },
+   {
+    "id": 812965,
+    "fileSize": 382,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 2 - 09/29/2026",
+    "fileName": "RCLRPT-26V507-4585.pdf",
+    "loadDate": "2026-10-01T11:00:31Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V507-4585.pdf"
+   },
+   {
+    "id": 815339,
+    "fileSize": 127,
+    "mimeType": "application/pdf",
+    "summary": "Interim Owner Notification Letter - Mailed",
+    "fileName": "RIONL-26V507-0631.pdf",
+    "loadDate": "2026-10-17T11:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2026/RIONL-26V507-0631.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1941463,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": false,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-26-00-001",
+  "nhtsaCampaignNumber": "26V283000",
+  "reportReceivedDate": "2026-05-05T04:49:39Z",
+  "subject": "Rearview Camera Image May Not Display/FMVSS 111",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2017, 2021-2023 Model 3, 2020-2023 Model Y, 2021-2023 Model S, and Model X vehicles operating software version 2026.8.6. The rearview camera image may be delayed when the vehicle is placed in reverse. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 111, \"Rear Visibility.\"",
+  "consequence": "A delayed rearview image reduces the driver's view behind the vehicle, increasing the risk of a crash.",
+  "correctiveAction": "Tesla has released an over-the-air (OTA) software update, free of charge. Owner notification letters were mailed July 3, 2026. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-26-00-001.",
+  "potentialNumberOfUnitsAffected": 218868,
+  "notes": null,
+  "associatedDocumentsCount": 6,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=26V283000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 14,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=26V283000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 78,
+    "name": "BACK OVER PREVENTION",
+    "description": "280100 BACK OVER PREVENTION"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 791423,
+    "fileSize": 321,
+    "mimeType": "application/pdf",
+    "summary": "RCAK - Recall Acknowledgement",
+    "fileName": "RCAK-26V283-8069.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-05-06T11:00:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2026/RCAK-26V283-8069.pdf"
+   },
+   {
+    "id": 791424,
+    "fileSize": 689,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report",
+    "fileName": "RCLRPT-26V283-7135.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-05-06T11:00:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V283-7135.pdf"
+   },
+   {
+    "id": 793997,
+    "fileSize": 200,
+    "mimeType": "application/pdf",
+    "summary": "Service Bulletin",
+    "fileName": "RCSB-26V283-0850.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-05-22T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2026/RCSB-26V283-0850.pdf"
+   },
+   {
+    "id": 794538,
+    "fileSize": 689,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report - 05/21/2026",
+    "fileName": "RCLRPT-26V283-8114.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-05-29T11:00:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V283-8114.pdf"
+   },
+   {
+    "id": 801370,
+    "fileSize": 104,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Owner Notification Letter - Mailed",
+    "fileName": "RCONL-26V283-2341.pdf",
+    "loadDate": "2026-07-15T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2026/RCONL-26V283-2341.pdf"
+   },
+   {
+    "id": 828902,
+    "fileSize": 122,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-26V283-5274.pdf",
+    "loadDate": "2026-11-14T08:00:26Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2026/RCLQRT-26V283-5274.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1817558,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": true,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-24-00-018",
+  "nhtsaCampaignNumber": "24V935000",
+  "reportReceivedDate": "2024-12-17T05:00:00Z",
+  "subject": "TPMS Light May Not Remain Illuminated/FMVSS 138",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2024 Cybertruck, 2017-2025 Model 3, and 2020-2025 Model Y vehicles.  The tire pressure monitoring system (TPMS) warning light may not remain illuminated between drive cycles, failing to warn the driver of low tire pressure.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 138, \"Tire Pressure Monitoring Systems.\"",
+  "consequence": "Driving with improperly inflated tires increases the risk of a crash.",
+  "correctiveAction": "Tesla released an over-the-air (OTA) software update, free of charge.  Owner notification letters were mailed February 15, 2025.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-24-00-018.",
+  "potentialNumberOfUnitsAffected": 696281,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 14,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=24V935000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 16,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=24V935000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 594,
+    "name": "TIRES",
+    "description": "199000 TIRES"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 715890,
+    "fileSize": 215772,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report",
+    "fileName": "RCLRPT-24V935-1846.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-12-20T08:00:03Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLRPT-24V935-1846.PDF"
+   },
+   {
+    "id": 715893,
+    "fileSize": 645385,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-24V935-6704.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-12-20T08:00:03Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCAK-24V935-6704.pdf"
+   },
+   {
+    "id": 716384,
+    "fileSize": 215769,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 1 - 12/20/2024",
+    "fileName": "RCLRPT-24V935-4069.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-01-03T05:05:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLRPT-24V935-4069.PDF"
+   },
+   {
+    "id": 716402,
+    "fileSize": 215749,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 2 - 12/23/2024",
+    "fileName": "RCLRPT-24V935-7885.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-01-03T05:05:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLRPT-24V935-7885.PDF"
+   },
+   {
+    "id": 717725,
+    "fileSize": 81230,
+    "mimeType": "application/pdf",
+    "summary": "Update Vehicle Firmware to Correct TPMS Malfunction",
+    "fileName": "RMISC-24V935-6316.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-01-15T10:05:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RMISC-24V935-6316.pdf"
+   },
+   {
+    "id": 717737,
+    "fileSize": 174240,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB - SB-24-00-018\nDecember 23, 2024",
+    "fileName": "RCRIT-24V935-7529.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-01-15T10:05:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCRIT-24V935-7529.pdf"
+   },
+   {
+    "id": 721453,
+    "fileSize": 150727,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-24V935-1570.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-02-22T05:05:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCONL-24V935-1570.pdf"
+   },
+   {
+    "id": 733378,
+    "fileSize": 211355,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2025-1",
+    "fileName": "RCLQRT-24V935-9449.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-05-02T04:05:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V935-9449.PDF"
+   },
+   {
+    "id": 749618,
+    "fileSize": 126,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V935-8652.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-08-01T11:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V935-8652.pdf"
+   },
+   {
+    "id": 762493,
+    "fileSize": 128,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V935-8014.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-11-04T13:00:26Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V935-8014.pdf"
+   },
+   {
+    "id": 774790,
+    "fileSize": 131,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V935-8592.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-02-05T13:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V935-8592.pdf"
+   },
+   {
+    "id": 790482,
+    "fileSize": 134,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V935-5574.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-05-01T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V935-5574.pdf"
+   },
+   {
+    "id": 804451,
+    "fileSize": 136,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V935-7854.pdf",
+    "loadDate": "2026-07-29T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V935-7854.pdf"
+   },
+   {
+    "id": 828887,
+    "fileSize": 139,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V935-7044.pdf",
+    "loadDate": "2026-11-14T08:00:26Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V935-7044.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1783987,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": true,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-24-00-012",
+  "nhtsaCampaignNumber": "24V554000",
+  "reportReceivedDate": "2024-07-24T04:00:00Z",
+  "subject": "Software May Fail to Detect Unlatched Hood",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2021-2024 Model 3, Model S, Model X, and 2020-2024 Model Y vehicles.  The hood latch assembly may fail to detect an unlatched hood condition after the hood has been opened.",
+  "consequence": "An unlatched hood can fully open, obstructing the driver's view and increasing the risk of a crash.",
+  "correctiveAction": "Tesla has released an over-the-air (OTA) software update, free of charge.  Owner notification letters were mailed September 24, 2024.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-24-00-012.",
+  "potentialNumberOfUnitsAffected": 1849638,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 14,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=24V554000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 17,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=24V554000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 175,
+    "name": "LATCHES/LOCKS/LINKAGES",
+    "description": "176100 LATCHES/LOCKS/LINKAGES"
+   },
+   {
+    "id": 655,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "118000 ELECTRICAL SYSTEM"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 698439,
+    "fileSize": 645434,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-24V554-4901.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-30T11:05:48Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCAK-24V554-4901.pdf"
+   },
+   {
+    "id": 698440,
+    "fileSize": 215871,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report",
+    "fileName": "RCLRPT-24V554-9039.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-30T11:05:48Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLRPT-24V554-9039.PDF"
+   },
+   {
+    "id": 698441,
+    "fileSize": 215932,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 1 - 07/25/2024",
+    "fileName": "RCLRPT-24V554-1225.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-30T11:05:48Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLRPT-24V554-1225.PDF"
+   },
+   {
+    "id": 699836,
+    "fileSize": 216016,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 2 - 08/05/2024",
+    "fileName": "RCLRPT-24V554-6569.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-08-06T08:14:17Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLRPT-24V554-6569.PDF"
+   },
+   {
+    "id": 700824,
+    "fileSize": 218201,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB - SB-24-00-012\nAugust 7, 2024",
+    "fileName": "RCRIT-24V554-0717.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-08-10T08:16:17Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCRIT-24V554-0717.pdf"
+   },
+   {
+    "id": 704689,
+    "fileSize": 199733,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577) - Redacted",
+    "fileName": "RCONL-24V554-3320.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-09-26T08:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCONL-24V554-3320.pdf"
+   },
+   {
+    "id": 709339,
+    "fileSize": 211346,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2024-3",
+    "fileName": "RCLQRT-24V554-3521.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-29T08:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V554-3521.PDF"
+   },
+   {
+    "id": 720503,
+    "fileSize": 211451,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #2, 2024-4",
+    "fileName": "RCLQRT-24V554-1830.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-02-01T10:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V554-1830.PDF"
+   },
+   {
+    "id": 733335,
+    "fileSize": 211546,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #3, 2025-1",
+    "fileName": "RCLQRT-24V554-3878.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-05-02T04:05:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V554-3878.PDF"
+   },
+   {
+    "id": 749585,
+    "fileSize": 129,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V554-7156.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-08-01T11:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V554-7156.pdf"
+   },
+   {
+    "id": 762481,
+    "fileSize": 132,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V554-5505.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-11-04T13:00:26Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V554-5505.pdf"
+   },
+   {
+    "id": 774765,
+    "fileSize": 135,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V554-8506.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-02-05T13:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V554-8506.pdf"
+   },
+   {
+    "id": 790460,
+    "fileSize": 137,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V554-9672.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-05-01T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V554-9672.pdf"
+   },
+   {
+    "id": 804428,
+    "fileSize": 140,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V554-6865.pdf",
+    "loadDate": "2026-07-29T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V554-6865.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1770644,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": true,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-24-00-008",
+  "nhtsaCampaignNumber": "24V376000",
+  "reportReceivedDate": "2024-05-28T04:00:00Z",
+  "subject": "Seat Belt Warning System Malfunction/FMVSS 208",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2012-2024 Model S, 2015-2024 Model X, 2017-2023 Model 3, and 2020-2023 Model Y vehicles.  In the event of an unbelted driver, the seat belt warning light and audible chime may not activate as intended.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 208, \"Occupant Crash Protection.\"",
+  "consequence": "A seat belt warning system that fails to alert occupants of an unbelted seat belt can increase the risk of injury during a crash.",
+  "correctiveAction": "Tesla will release an over-the-air (OTA) software update.  Owner notification letters were mailed July 26, 2024.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-24-00-008.",
+  "potentialNumberOfUnitsAffected": 125233,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 14,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=24V376000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 34,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=24V376000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 226,
+    "name": "SEAT BELTS",
+    "description": "151600 SEAT BELTS"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 691685,
+    "fileSize": 216411,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 1 - 05/30/2024",
+    "fileName": "RCLRPT-24V376-3527.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-31T11:01:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLRPT-24V376-3527.PDF"
+   },
+   {
+    "id": 691694,
+    "fileSize": 645376,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-24V376-1693.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-31T11:01:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCAK-24V376-1693.pdf"
+   },
+   {
+    "id": 691719,
+    "fileSize": 216407,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report",
+    "fileName": "RCLRPT-24V376-9242.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-31T11:01:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLRPT-24V376-9242.PDF"
+   },
+   {
+    "id": 693762,
+    "fileSize": 159437,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB - SB-24-00-008\nJune 17, 2024",
+    "fileName": "RCRIT-24V376-2670.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-06-26T08:07:45Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCRIT-24V376-2670.pdf"
+   },
+   {
+    "id": 695876,
+    "fileSize": 217130,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 2 - 07/10/2024",
+    "fileName": "RCLRPT-24V376-6279.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-12T08:15:42Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLRPT-24V376-6279.PDF"
+   },
+   {
+    "id": 699043,
+    "fileSize": 69849,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-24V376-3153.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-08-01T08:11:47Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCONL-24V376-3153.pdf"
+   },
+   {
+    "id": 709252,
+    "fileSize": 211346,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2024-3",
+    "fileName": "RCLQRT-24V376-9653.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-29T08:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V376-9653.PDF"
+   },
+   {
+    "id": 720465,
+    "fileSize": 211453,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #2, 2024-4",
+    "fileName": "RCLQRT-24V376-4275.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-02-01T10:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V376-4275.PDF"
+   },
+   {
+    "id": 733529,
+    "fileSize": 211548,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #3, 2025-1",
+    "fileName": "RCLQRT-24V376-4499.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-05-02T04:05:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V376-4499.PDF"
+   },
+   {
+    "id": 749564,
+    "fileSize": 131,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V376-0109.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-08-01T11:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V376-0109.pdf"
+   },
+   {
+    "id": 762475,
+    "fileSize": 134,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V376-9699.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-11-04T13:00:26Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V376-9699.pdf"
+   },
+   {
+    "id": 774748,
+    "fileSize": 136,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V376-9998.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-02-05T13:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V376-9998.pdf"
+   },
+   {
+    "id": 790451,
+    "fileSize": 139,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V376-9825.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-05-01T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V376-9825.pdf"
+   },
+   {
+    "id": 804420,
+    "fileSize": 142,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V376-9223.pdf",
+    "loadDate": "2026-07-29T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V376-9223.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1752255,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": true,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-24-00-006",
+  "nhtsaCampaignNumber": "24V153000",
+  "reportReceivedDate": "2024-02-27T05:00:00Z",
+  "subject": "Muted Pedestrian Warning Sound/FMVSS 141",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2013, 2018-2021 Model S, 2020-2021 Model X, 2018-2022 Model 3, and 2020-2022 Model Y vehicles.  A factory reset muted the Pedestrian Warning System (PWS) sounds.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 141, \"Minimum Sound Requirements for Hybrid and Electric Vehicles.\"",
+  "consequence": "Pedestrians may be unaware of an approaching vehicle if the PWS sounds are muted, increasing the risk of a crash.",
+  "correctiveAction": "Tesla released an over-the-air (OTA) software update, release 2023.44.30.14, free of charge.  Owner notification letters were mailed April 27, 2024.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-24-00-006.",
+  "potentialNumberOfUnitsAffected": 6557,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 13,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=24V153000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 15,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=24V153000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 891,
+    "name": "FORWARD COLLISION AVOIDANCE",
+    "description": "265100 FORWARD COLLISION AVOIDANCE"
+   },
+   {
+    "id": 655,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "118000 ELECTRICAL SYSTEM"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2021,
+   2022
+  ],
+  "documents": [
+   {
+    "id": 681413,
+    "fileSize": 217821,
+    "mimeType": "application/pdf",
+    "summary": "Noncompliance Notice 573 Report",
+    "fileName": "RCLRPT-24V153-5946.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-03-15T11:00:16Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLRPT-24V153-5946.PDF"
+   },
+   {
+    "id": 681414,
+    "fileSize": 694118,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-24V153-1586.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-03-15T11:00:16Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCAK-24V153-1586.pdf"
+   },
+   {
+    "id": 681435,
+    "fileSize": 217082,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 1 - 03/01/2024",
+    "fileName": "RCLRPT-24V153-2559.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-03-15T11:00:16Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLRPT-24V153-2559.PDF"
+   },
+   {
+    "id": 681858,
+    "fileSize": 137697,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-24V153-5437.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-03-21T08:05:26Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCRIT-24V153-5437.pdf"
+   },
+   {
+    "id": 687310,
+    "fileSize": 629086,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-24V153-1800.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-04-30T08:05:17Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCONL-24V153-1800.pdf"
+   },
+   {
+    "id": 698638,
+    "fileSize": 211342,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2024-2",
+    "fileName": "RCLQRT-24V153-4401.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-31T08:11:17Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V153-4401.PDF"
+   },
+   {
+    "id": 708799,
+    "fileSize": 211438,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #2, 2024-3",
+    "fileName": "RCLQRT-24V153-9619.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-25T08:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V153-9619.PDF"
+   },
+   {
+    "id": 720353,
+    "fileSize": 211537,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #3, 2024-4",
+    "fileName": "RCLQRT-24V153-8574.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-02-01T10:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V153-8574.PDF"
+   },
+   {
+    "id": 732961,
+    "fileSize": 211632,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #4, 2025-1",
+    "fileName": "RCLQRT-24V153-8639.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-05-01T04:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V153-8639.PDF"
+   },
+   {
+    "id": 749086,
+    "fileSize": 133,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V153-6915.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-07-31T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V153-6915.pdf"
+   },
+   {
+    "id": 762469,
+    "fileSize": 136,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V153-0796.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-11-04T13:00:26Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V153-0796.pdf"
+   },
+   {
+    "id": 774732,
+    "fileSize": 139,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V153-7507.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-02-05T13:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V153-7507.pdf"
+   },
+   {
+    "id": 790440,
+    "fileSize": 141,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V153-7955.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-05-01T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V153-7955.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1741271,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": true,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-24-00-003",
+  "nhtsaCampaignNumber": "24V051000",
+  "reportReceivedDate": "2024-01-30T10:00:00Z",
+  "subject": "Incorrect Font Size on Warning Lights/FMVSS 105",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2012-2023 Model S, 2016-2024 Model X, 2017-2023 Model 3, 2019-2024 Model Y, and 2024 Cybertruck vehicles.  An incorrect font size is displayed on the instrument panel for the Brake, Park, and Antilock Brake System (ABS) warning lights.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 105, \"Hydraulic and Electric Brake Systems\" and 135, \"Light Vehicle Brake Systems.\"",
+  "consequence": "Warning lights with a smaller font size can make critical safety information on the instrument panel difficult to read, increasing the risk of a crash.",
+  "correctiveAction": "Tesla began releasing an over-the-air (OTA) software update, free of charge.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-24-00-003.",
+  "potentialNumberOfUnitsAffected": 2193869,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 12,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=24V051000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 35,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=24V051000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 644,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "117000 ELECTRICAL SYSTEM"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 676196,
+    "fileSize": 216394,
+    "mimeType": "application/pdf",
+    "summary": "Noncompliance Notice 573 Report",
+    "fileName": "RCLRPT-24V051-2023.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-02-02T12:59:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLRPT-24V051-2023.PDF"
+   },
+   {
+    "id": 676222,
+    "fileSize": 691547,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-24V051-8380.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-02-02T12:59:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCAK-24V051-8380.pdf"
+   },
+   {
+    "id": 676325,
+    "fileSize": 48151,
+    "mimeType": "application/pdf",
+    "summary": "Release Notes",
+    "fileName": "RMISC-24V051-5100.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-02-03T10:04:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RMISC-24V051-5100.pdf"
+   },
+   {
+    "id": 679163,
+    "fileSize": 196987,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-24V051-9843.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-02-27T10:04:46Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCRIT-24V051-9843.pdf"
+   },
+   {
+    "id": 698621,
+    "fileSize": 211435,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2024-1",
+    "fileName": "RCLQRT-24V051-6703.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-31T08:11:17Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V051-6703.PDF"
+   },
+   {
+    "id": 698811,
+    "fileSize": 211435,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #2, 2024-2",
+    "fileName": "RCLQRT-24V051-9345.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-31T08:11:17Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V051-9345.PDF"
+   },
+   {
+    "id": 708808,
+    "fileSize": 211530,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #3, 2024-3",
+    "fileName": "RCLQRT-24V051-0426.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-25T08:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V051-0426.PDF"
+   },
+   {
+    "id": 720398,
+    "fileSize": 211642,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #4, 2024-4",
+    "fileName": "RCLQRT-24V051-0194.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-02-01T10:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V051-0194.PDF"
+   },
+   {
+    "id": 732981,
+    "fileSize": 211756,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #5, 2025-1",
+    "fileName": "RCLQRT-24V051-3277.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-05-01T04:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V051-3277.PDF"
+   },
+   {
+    "id": 749073,
+    "fileSize": 136,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V051-5496.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-07-31T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V051-5496.pdf"
+   },
+   {
+    "id": 762467,
+    "fileSize": 139,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V051-2780.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-11-04T13:00:26Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V051-2780.pdf"
+   },
+   {
+    "id": 774725,
+    "fileSize": 142,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-24V051-7165.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-02-05T13:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V051-7165.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1729048,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": true,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-23-00-008",
+  "nhtsaCampaignNumber": "23V838000",
+  "reportReceivedDate": "2023-12-12T05:00:00Z",
+  "subject": "Autopilot Controls Insufficient to Prevent Misuse",
+  "summary": "Tesla, Inc. (Tesla) is recalling 2012-2023 Model S, 2016-2023 Model X, 2017-2023 Model 3, and 2020-2023 Model Y vehicles equipped with all versions of Autosteer leading up to the version(s) that contains the recall remedy.  In certain circumstances when Autosteer is engaged, the prominence and scope of the feature's controls may not be sufficient to prevent driver misuse of the SAE Level 2 advanced driver-assistance feature.",
+  "consequence": "In certain circumstances when Autosteer is engaged, and the driver does not maintain responsibility for vehicle operation and is unprepared to intervene as necessary or fails to recognize when Autosteer is canceled or not engaged, there may be an increased risk of a crash.",
+  "correctiveAction": "Tesla will release an over-the-air (OTA) software update, free of charge.  Owner notification letters were mailed February 10, 2024.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-23-00-008.",
+  "potentialNumberOfUnitsAffected": 2031220,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 15,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=23V838000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 31,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=23V838000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 855,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "118910 ELECTRICAL SYSTEM"
+   }
+  ],
+  "investigations": [
+   {
+    "id": 1605705,
+    "openDate": "2022-06-08T08:00:00Z",
+    "artemisId": 38708,
+    "investigationType": "EA",
+    "issueYear": "22",
+    "status": "C",
+    "latestActivityDate": "2024-04-26T01:09:02Z",
+    "description": "<p>The Office of Defects Investigation (ODI) upgraded PE21020 to EA22002 on June 8, 2022, to extend work and deepen the PE21020 crash analysis, to supplement that analysis with additional data, and to perform vehicle evaluations to understand how Tesla’s Autopilot system may exacerbate human factors or behavioral safety risks by undermining the effectiveness of the driver’s supervision. To support this work, ODI collected additional crash information and assessed vehicle control authority, driver engagement technologies, and related human factors considerations associated with partial automation via analysis of peer vehicle data and hands-on vehicle evaluation, assessments from NHTSA human factors subject matter experts, and reviews of related publications dedicated to partial driving automation. </p><p>Autopilot is the simultaneous use of the features that Tesla calls Traffic-Aware Cruise Control (TACC) and Autosteer. TACC is a type of adaptive cruise control that, like traditional cruise control, maintains a set speed but also slows or accelerates as necessary to maintain the vehicle’s following distance from a vehicle in front. As designed, Autosteer detects lane markings and the presence of other nearby vehicles and objects to keep the vehicle in its driving lane. </p><p>Autopilot is characterized by Tesla as an SAE Level 2 (“L2 system”) partial driving automation system that provides driver assistance through steering, propulsion, and braking within a specified driving environment under direct supervision of the driver. L2 systems should be designed to support the driver’s need to monitor the system in response to the constantly changing driving environment and, if necessary, take over the dynamic driving task. To ensure sufficient driver engagement, vehicles with L2 systems should employ driver engagement systems and usage controls that are appropriate and sufficient for the L2 system design and driver expectations.</p><p>ODI completed an analysis of 956 crashes reported up to August 30, 2023. In approximately half (489) of those crashes, ODI found: 1.) that there was insufficient data to make an assessment; 2.) the other vehicle was at fault; 3.) Autopilot was found to not be in use; or 4.) the crash was otherwise unrelated to EA22002. Of the remaining 467 crashes, ODI identified trends resulting in three categories: collisions in which the frontal plane of the Tesla struck another vehicle or obstacle with adequate time for an attentive driver to respond to avoid or mitigate the crash (211), roadway departures where Autosteer  was inadvertently disengaged by the driver’s inputs (111), and roadway departures in low traction conditions such as wet roadways (145). ODI observed this pattern across all Tesla models and hardware versions. Crash and human factors assessment showed that Autopilot controls did not sufficiently ensure driver attention and appropriate use. At the same time, peer analysis and vehicle evaluations established that Autopilot invited greater driver confidence via its higher control authority and ease of engagement. This mismatch of weak usage controls and high control authority was evident in these crash categories, which included indications of driver disengagement from the driving task. This mismatch was also evident in roadway departures when the system was engaged in low traction conditions outside of Tesla’s recommendations.  Additional information regarding NHTSA’s crash analysis is available in the EA22002 file.</p><p>ODI reviewed these findings with Tesla during several conversations in Quarter 4 of 2023. On December 12, 2023, Tesla filed a Defect Information Report (DIR) (Recall 23V838) applicable to all Tesla models produced and equipped with any version of its Autopilot system. Tesla’s DIR described the functionality of this system, stated that the prominence and scope of the system’s controls may be insufficient to prevent driver misuse, and described a remedy to improve the effectiveness of driver warnings and to reduce mode confusion. </p><p>ODI completed an extensive body of work via PE21020 and EA22002, which showed evidence that Tesla’s weak driver engagement system was not appropriate for Autopilot’s permissive operating capabilities. This mismatch resulted in a critical safety gap between drivers’ expectations of the L2 system’s operating capabilities and the system’s true capabilities. This gap led to foreseeable misuse and avoidable crashes. During EA220002, ODI identified at least 13 crashes involving one or more fatalities and many more involving serious injuries, in which foreseeable driver misuse of the system played an apparent role. ODI’s analysis conducted during this investigation, which aligns with Tesla’s conclusion in its Defect Information Report, indicated that in certain circumstances, Autopilot’s system controls and warnings were insufficient for a driver assistance system that requires constant supervision by a human driver. </p><p>Given Tesla’s recall (23V838) of all vehicles equipped with Autopilot for insufficient controls to prevent misuse, ODI is closing EA22002. Concurrent with that closing, ODI has opened a Recall Query (RQ24009) to assess the effectiveness of the 23V838 remedy.</p><p>&nbsp;To review the ODI reports cited in the Closing Resume ODI Report Identification Number document, go to NHTSA.gov.</p>",
+    "subject": "Autopilot System Driver Controls",
+    "investigationNumber": "002",
+    "nhtsaId": "EA22002",
+    "closeDate": "2024-04-26T01:09:02Z"
+   }
+  ],
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 669954,
+    "fileSize": 687787,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-23V838-3395.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-12-13T12:59:49Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCAK-23V838-3395.pdf"
+   },
+   {
+    "id": 669985,
+    "fileSize": 217797,
+    "mimeType": "application/pdf",
+    "summary": "Defect Notice 573 Report",
+    "fileName": "RCLRPT-23V838-8276.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-12-13T12:59:49Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V838-8276.PDF"
+   },
+   {
+    "id": 671885,
+    "fileSize": 132232,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB - SB-23-00-008\nDecember 20, 2023\nUpdate Vehicle Software to Incorporate Additional Autosteer Controls",
+    "fileName": "RCRIT-23V838-7985.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-01-06T10:05:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V838-7985.pdf"
+   },
+   {
+    "id": 671888,
+    "fileSize": 1046031,
+    "mimeType": "application/pdf",
+    "summary": "2023.44.30 Release Notes",
+    "fileName": "RMISC-23V838-5786.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-01-06T10:05:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RMISC-23V838-5786.pdf"
+   },
+   {
+    "id": 677535,
+    "fileSize": 155983,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577) - OTA Incomplete",
+    "fileName": "RCONL-23V838-9183.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-02-14T10:04:23Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V838-9183.pdf"
+   },
+   {
+    "id": 677539,
+    "fileSize": 114749,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577) - OTA Completed",
+    "fileName": "RCONL-23V838-4168.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-02-14T10:04:23Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V838-4168.pdf"
+   },
+   {
+    "id": 677809,
+    "fileSize": 129689,
+    "mimeType": "application/pdf",
+    "summary": "Interim Owner Notification Letter(Part 577)",
+    "fileName": "RIONL-23V838-1717.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-02-15T10:04:24Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RIONL-23V838-1717.pdf"
+   },
+   {
+    "id": 687970,
+    "fileSize": 211274,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2024-1",
+    "fileName": "RCLQRT-23V838-2232.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-02T08:05:20Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V838-2232.PDF"
+   },
+   {
+    "id": 698878,
+    "fileSize": 211448,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #2, 2024-2",
+    "fileName": "RCLQRT-23V838-0414.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-31T08:11:17Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V838-0414.PDF"
+   },
+   {
+    "id": 708439,
+    "fileSize": 211547,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #3, 2024-3",
+    "fileName": "RCLQRT-23V838-5309.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-25T08:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V838-5309.PDF"
+   },
+   {
+    "id": 720484,
+    "fileSize": 211656,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #4, 2024-4",
+    "fileName": "RCLQRT-23V838-0563.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-02-01T10:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V838-0563.PDF"
+   },
+   {
+    "id": 733329,
+    "fileSize": 211773,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #5, 2025-1",
+    "fileName": "RCLQRT-23V838-3551.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-05-02T04:05:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V838-3551.PDF"
+   },
+   {
+    "id": 749055,
+    "fileSize": 135,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-23V838-9544.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-07-31T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V838-9544.pdf"
+   },
+   {
+    "id": 762460,
+    "fileSize": 138,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-23V838-4736.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-11-04T13:00:26Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V838-4736.pdf"
+   },
+   {
+    "id": 774713,
+    "fileSize": 141,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-23V838-8665.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-02-05T13:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V838-8665.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1660913,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": true,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-23-00-001",
+  "nhtsaCampaignNumber": "23V085000",
+  "reportReceivedDate": "2023-02-15T10:00:00Z",
+  "subject": "Full Self-Driving Software May Cause Crash",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2016-2023 Model S, Model X, 2017-2023 Model 3, and 2020-2023 Model Y vehicles equipped with Full Self-Driving Beta (FSD Beta) software or pending installation.  The FSD Beta system may allow the vehicle to act unsafe around intersections, such as traveling straight through an intersection while in a turn-only lane, entering a stop sign-controlled intersection without coming to a complete stop, or proceeding into an intersection during a steady yellow traffic signal without due caution. In addition, the system may respond insufficiently to changes in posted speed limits or not adequately account for the driver's adjustment of the vehicle's speed to exceed posted speed limits.",
+  "consequence": "FSD Beta software that allows a vehicle to exceed speed limits or travel through intersections in an unlawful or unpredictable manner increases the risk of a crash.",
+  "correctiveAction": "Tesla will release an over-the-air (OTA) software update, free of charge.  Owner notification letters were mailed April 15, 2023.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-23-00-001.",
+  "potentialNumberOfUnitsAffected": 362758,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 17,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=23V085000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 27,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=23V085000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 659,
+    "name": "STEERING",
+    "description": "018000 STEERING"
+   }
+  ],
+  "investigations": [
+   {
+    "id": 1605705,
+    "openDate": "2022-06-08T08:00:00Z",
+    "artemisId": 38708,
+    "investigationType": "EA",
+    "issueYear": "22",
+    "status": "C",
+    "latestActivityDate": "2024-04-26T01:09:02Z",
+    "description": "<p>The Office of Defects Investigation (ODI) upgraded PE21020 to EA22002 on June 8, 2022, to extend work and deepen the PE21020 crash analysis, to supplement that analysis with additional data, and to perform vehicle evaluations to understand how Tesla’s Autopilot system may exacerbate human factors or behavioral safety risks by undermining the effectiveness of the driver’s supervision. To support this work, ODI collected additional crash information and assessed vehicle control authority, driver engagement technologies, and related human factors considerations associated with partial automation via analysis of peer vehicle data and hands-on vehicle evaluation, assessments from NHTSA human factors subject matter experts, and reviews of related publications dedicated to partial driving automation. </p><p>Autopilot is the simultaneous use of the features that Tesla calls Traffic-Aware Cruise Control (TACC) and Autosteer. TACC is a type of adaptive cruise control that, like traditional cruise control, maintains a set speed but also slows or accelerates as necessary to maintain the vehicle’s following distance from a vehicle in front. As designed, Autosteer detects lane markings and the presence of other nearby vehicles and objects to keep the vehicle in its driving lane. </p><p>Autopilot is characterized by Tesla as an SAE Level 2 (“L2 system”) partial driving automation system that provides driver assistance through steering, propulsion, and braking within a specified driving environment under direct supervision of the driver. L2 systems should be designed to support the driver’s need to monitor the system in response to the constantly changing driving environment and, if necessary, take over the dynamic driving task. To ensure sufficient driver engagement, vehicles with L2 systems should employ driver engagement systems and usage controls that are appropriate and sufficient for the L2 system design and driver expectations.</p><p>ODI completed an analysis of 956 crashes reported up to August 30, 2023. In approximately half (489) of those crashes, ODI found: 1.) that there was insufficient data to make an assessment; 2.) the other vehicle was at fault; 3.) Autopilot was found to not be in use; or 4.) the crash was otherwise unrelated to EA22002. Of the remaining 467 crashes, ODI identified trends resulting in three categories: collisions in which the frontal plane of the Tesla struck another vehicle or obstacle with adequate time for an attentive driver to respond to avoid or mitigate the crash (211), roadway departures where Autosteer  was inadvertently disengaged by the driver’s inputs (111), and roadway departures in low traction conditions such as wet roadways (145). ODI observed this pattern across all Tesla models and hardware versions. Crash and human factors assessment showed that Autopilot controls did not sufficiently ensure driver attention and appropriate use. At the same time, peer analysis and vehicle evaluations established that Autopilot invited greater driver confidence via its higher control authority and ease of engagement. This mismatch of weak usage controls and high control authority was evident in these crash categories, which included indications of driver disengagement from the driving task. This mismatch was also evident in roadway departures when the system was engaged in low traction conditions outside of Tesla’s recommendations.  Additional information regarding NHTSA’s crash analysis is available in the EA22002 file.</p><p>ODI reviewed these findings with Tesla during several conversations in Quarter 4 of 2023. On December 12, 2023, Tesla filed a Defect Information Report (DIR) (Recall 23V838) applicable to all Tesla models produced and equipped with any version of its Autopilot system. Tesla’s DIR described the functionality of this system, stated that the prominence and scope of the system’s controls may be insufficient to prevent driver misuse, and described a remedy to improve the effectiveness of driver warnings and to reduce mode confusion. </p><p>ODI completed an extensive body of work via PE21020 and EA22002, which showed evidence that Tesla’s weak driver engagement system was not appropriate for Autopilot’s permissive operating capabilities. This mismatch resulted in a critical safety gap between drivers’ expectations of the L2 system’s operating capabilities and the system’s true capabilities. This gap led to foreseeable misuse and avoidable crashes. During EA220002, ODI identified at least 13 crashes involving one or more fatalities and many more involving serious injuries, in which foreseeable driver misuse of the system played an apparent role. ODI’s analysis conducted during this investigation, which aligns with Tesla’s conclusion in its Defect Information Report, indicated that in certain circumstances, Autopilot’s system controls and warnings were insufficient for a driver assistance system that requires constant supervision by a human driver. </p><p>Given Tesla’s recall (23V838) of all vehicles equipped with Autopilot for insufficient controls to prevent misuse, ODI is closing EA22002. Concurrent with that closing, ODI has opened a Recall Query (RQ24009) to assess the effectiveness of the 23V838 remedy.</p><p>&nbsp;To review the ODI reports cited in the Closing Resume ODI Report Identification Number document, go to NHTSA.gov.</p>",
+    "subject": "Autopilot System Driver Controls",
+    "investigationNumber": "002",
+    "nhtsaId": "EA22002",
+    "closeDate": "2024-04-26T01:09:02Z"
+   }
+  ],
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 619780,
+    "fileSize": 645672,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-23V085-2525.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-02-16T22:05:40Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCAK-23V085-2525.pdf"
+   },
+   {
+    "id": 619781,
+    "fileSize": 216734,
+    "mimeType": "application/pdf",
+    "summary": "Defect Notice 573 Report",
+    "fileName": "RCLRPT-23V085-3451.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-02-16T22:05:18Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V085-3451.PDF"
+   },
+   {
+    "id": 621893,
+    "fileSize": 118286,
+    "mimeType": "application/pdf",
+    "summary": "Recall ID: 23V085 - Recall Remedy Description from Vehicle Software Release Notes for 2022.45.10*\nTitle: Over-the-Air (OTA) recall",
+    "fileName": "RMISC-23V085-7352.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-03-09T10:06:44Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RMISC-23V085-7352.pdf"
+   },
+   {
+    "id": 622174,
+    "fileSize": 216754,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 2 - 03/09/2023",
+    "fileName": "RCLRPT-23V085-5358.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-03-11T10:06:48Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V085-5358.PDF"
+   },
+   {
+    "id": 626004,
+    "fileSize": 216756,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 3 - 04/11/2023",
+    "fileName": "RCLRPT-23V085-9893.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-04-13T08:07:59Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V085-9893.PDF"
+   },
+   {
+    "id": 626541,
+    "fileSize": 202355,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-23V085-2460.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-04-18T08:08:11Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V085-2460.pdf"
+   },
+   {
+    "id": 626943,
+    "fileSize": 105594,
+    "mimeType": "application/pdf",
+    "summary": "Interim Owner Notification Letter(Part 577)",
+    "fileName": "RIONL-23V085-9414.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-04-20T08:08:16Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RIONL-23V085-9414.pdf"
+   },
+   {
+    "id": 626981,
+    "fileSize": 106692,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-23V085-7530.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-04-20T08:08:16Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V085-7530.pdf"
+   },
+   {
+    "id": 639224,
+    "fileSize": 211144,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2023-2",
+    "fileName": "RCLQRT-23V085-2089.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-08-02T08:05:25Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V085-2089.PDF"
+   },
+   {
+    "id": 665585,
+    "fileSize": 211379,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #2, 2023-3",
+    "fileName": "RCLQRT-23V085-2465.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-11-01T08:05:18Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V085-2465.PDF"
+   },
+   {
+    "id": 676130,
+    "fileSize": 211467,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #3, 2023-4",
+    "fileName": "RCLQRT-23V085-6520.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-02-02T10:04:00Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V085-6520.PDF"
+   },
+   {
+    "id": 688794,
+    "fileSize": 211570,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #4, 2024-1",
+    "fileName": "RCLQRT-23V085-9412.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-07T08:05:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V085-9412.PDF"
+   },
+   {
+    "id": 698583,
+    "fileSize": 211756,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #5, 2024-2",
+    "fileName": "RCLQRT-23V085-1104.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-31T08:11:17Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V085-1104.PDF"
+   },
+   {
+    "id": 708976,
+    "fileSize": 211842,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #6, 2024-3",
+    "fileName": "RCLQRT-23V085-3897.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-26T08:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V085-3897.PDF"
+   },
+   {
+    "id": 720435,
+    "fileSize": 211925,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #7, 2024-4",
+    "fileName": "RCLQRT-23V085-2267.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-02-01T10:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V085-2267.PDF"
+   },
+   {
+    "id": 733423,
+    "fileSize": 212007,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #8, 2025-1",
+    "fileName": "RCLQRT-23V085-0855.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-05-02T08:05:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V085-0855.PDF"
+   },
+   {
+    "id": 790431,
+    "fileSize": 149,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report",
+    "fileName": "RCLYLY-23V085-8108.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-05-01T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLYLY-23V085-8108.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1636535,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": false,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-22-20-004",
+  "nhtsaCampaignNumber": "22V798000",
+  "reportReceivedDate": "2022-10-21T08:00:00Z",
+  "subject": "Seat Belt Buckle, Anchor Incorrectly Reassembled",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2017-2022 Model 3 vehicles.  The second-row left seat belt buckle and second-row center seat\r\nbelt anchor may have been incorrectly reassembled during vehicle service.",
+  "consequence": "An incorrectly reassembled seat belt anchor can impair the performance of the seat belt during a crash, increasing the risk of injury.",
+  "correctiveAction": "Tesla Service will inspect and reassemble the seat belt anchors as necessary, free of charge.  Owner notification letters were mailed December 20, 2022.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-22-20-004.",
+  "potentialNumberOfUnitsAffected": 24064,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 16,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V798000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 6,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V798000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 140,
+    "name": "SEAT BELTS",
+    "description": "152100 SEAT BELTS"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2021,
+   2022
+  ],
+  "documents": [
+   {
+    "id": 601957,
+    "fileSize": 821528,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-22V798-5607.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-10-27T11:02:50Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCAK-22V798-5607.pdf"
+   },
+   {
+    "id": 601970,
+    "fileSize": 214025,
+    "mimeType": "application/pdf",
+    "summary": "Defect Notice 573 Report",
+    "fileName": "RCLRPT-22V798-9487.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-10-27T11:02:50Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V798-9487.PDF"
+   },
+   {
+    "id": 603120,
+    "fileSize": 533276,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-22V798-1443.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-11-04T08:08:08Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCRIT-22V798-1443.pdf"
+   },
+   {
+    "id": 603198,
+    "fileSize": 122708,
+    "mimeType": "application/pdf",
+    "summary": "Owner Email Notice",
+    "fileName": "RMISC-22V798-8635.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-11-05T08:08:09Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RMISC-22V798-8635.pdf"
+   },
+   {
+    "id": 614425,
+    "fileSize": 20884,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-22V798-9791.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-01-11T10:07:06Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCONL-22V798-9791.pdf"
+   },
+   {
+    "id": 617681,
+    "fileSize": 211143,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2022-4",
+    "fileName": "RCLQRT-22V798-1354.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-02-01T10:05:30Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V798-1354.PDF"
+   },
+   {
+    "id": 629426,
+    "fileSize": 211240,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #2, 2023-1",
+    "fileName": "RCLQRT-22V798-9004.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-05-03T08:05:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V798-9004.PDF"
+   },
+   {
+    "id": 639271,
+    "fileSize": 211328,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #3, 2023-2",
+    "fileName": "RCLQRT-22V798-7486.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-08-02T08:05:25Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V798-7486.PDF"
+   },
+   {
+    "id": 665755,
+    "fileSize": 211573,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #4, 2023-3",
+    "fileName": "RCLQRT-22V798-3440.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-11-01T08:05:18Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V798-3440.PDF"
+   },
+   {
+    "id": 676095,
+    "fileSize": 211686,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #5, 2023-4",
+    "fileName": "RCLQRT-22V798-8076.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-02-02T10:04:00Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V798-8076.PDF"
+   },
+   {
+    "id": 685837,
+    "fileSize": 214267,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 1 (22V798) - 04/16/2024",
+    "fileName": "RCLRPT-22V798-6274.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-04-23T08:05:07Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V798-6274.PDF"
+   },
+   {
+    "id": 688617,
+    "fileSize": 211774,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #6, 2024-1",
+    "fileName": "RCLQRT-22V798-7101.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-07T08:05:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V798-7101.PDF"
+   },
+   {
+    "id": 698851,
+    "fileSize": 211924,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #7, 2024-2",
+    "fileName": "RCLQRT-22V798-5574.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-31T08:11:17Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V798-5574.PDF"
+   },
+   {
+    "id": 709000,
+    "fileSize": 212004,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #8, 2024-3",
+    "fileName": "RCLQRT-22V798-2036.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-26T08:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V798-2036.PDF"
+   },
+   {
+    "id": 763098,
+    "fileSize": 148,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report",
+    "fileName": "RCLYLY-22V798-5157.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-11-06T13:00:26Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLYLY-22V798-5157.pdf"
+   },
+   {
+    "id": 829104,
+    "fileSize": 151,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report",
+    "fileName": "RCLYLY-22V798-0787.pdf",
+    "loadDate": "2026-11-17T08:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLYLY-22V798-0787.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1628742,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": true,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-22-00-013",
+  "nhtsaCampaignNumber": "22V702000",
+  "reportReceivedDate": "2022-09-19T04:00:00Z",
+  "subject": "Power Windows May Pinch/FMVSS 118",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2017-2022 Model 3, 2020-2022 Model Y, and 2021-2022 Model S and Model X vehicles.  The window automatic reversal system may not react correctly after detecting an obstruction.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 118, \"Power-Operated Window Systems.\"",
+  "consequence": "A closing window may exert excessive force by pinching a driver or passenger before retracting, increasing the risk of injury.",
+  "correctiveAction": "Tesla will perform an over-the-air (OTA) software update of the automatic window reversal system, free of charge.  Owner notification letters were mailed March 31, 2032.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-22-00-013.",
+  "potentialNumberOfUnitsAffected": 1096762,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 19,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V702000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 13,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V702000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 615,
+    "name": "VISIBILITY",
+    "description": "133000 VISIBILITY"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2021,
+   2022
+  ],
+  "documents": [
+   {
+    "id": 599306,
+    "fileSize": 745291,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-22V702-7969.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-09-22T11:01:21Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCAK-22V702-7969.pdf"
+   },
+   {
+    "id": 599310,
+    "fileSize": 244591,
+    "mimeType": "application/pdf",
+    "summary": "Noncompliance Notice 573 Report",
+    "fileName": "RCLRPT-22V702-4365.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-09-22T11:01:21Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V702-4365.PDF"
+   },
+   {
+    "id": 599328,
+    "fileSize": 244592,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 1 - 09/22/2022",
+    "fileName": "RCLRPT-22V702-6907.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-09-23T01:15:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V702-6907.PDF"
+   },
+   {
+    "id": 602826,
+    "fileSize": 216138,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 2 - 10/21/2022",
+    "fileName": "RCLRPT-22V702-6621.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-11-03T08:08:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V702-6621.PDF"
+   },
+   {
+    "id": 602877,
+    "fileSize": 216304,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 3 - 11/01/2022",
+    "fileName": "RCLRPT-22V702-6216.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-11-03T08:08:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V702-6216.PDF"
+   },
+   {
+    "id": 603492,
+    "fileSize": 77886,
+    "mimeType": "application/pdf",
+    "summary": "Email Communication to Rental Companies",
+    "fileName": "RMISC-22V702-4358.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-11-10T10:08:21Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RMISC-22V702-4358.pdf"
+   },
+   {
+    "id": 610216,
+    "fileSize": 71503,
+    "mimeType": "application/pdf",
+    "summary": "Interim Owner Notification Letter(Part 577)",
+    "fileName": "RIONL-22V702-6217.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-11-24T05:05:16Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RIONL-22V702-6217.pdf"
+   },
+   {
+    "id": 623165,
+    "fileSize": 79858,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-22V702-5192.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-03-24T08:07:15Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCRIT-22V702-5192.pdf"
+   },
+   {
+    "id": 624741,
+    "fileSize": 106282,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-22V702-3383.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-04-04T08:07:39Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCONL-22V702-3383.pdf"
+   },
+   {
+    "id": 624756,
+    "fileSize": 108217,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577) - PR",
+    "fileName": "RCONL-22V702-1819.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-04-04T08:07:39Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCONL-22V702-1819.pdf"
+   },
+   {
+    "id": 629286,
+    "fileSize": 211144,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2023-1",
+    "fileName": "RCLQRT-22V702-5981.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-05-03T08:05:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V702-5981.PDF"
+   },
+   {
+    "id": 639202,
+    "fileSize": 211244,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #2, 2023-2",
+    "fileName": "RCLQRT-22V702-5677.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-08-02T08:05:25Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V702-5677.PDF"
+   },
+   {
+    "id": 665536,
+    "fileSize": 211463,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #3, 2023-3",
+    "fileName": "RCLQRT-22V702-7071.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-11-01T08:05:18Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V702-7071.PDF"
+   },
+   {
+    "id": 676010,
+    "fileSize": 211576,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #4, 2023-4",
+    "fileName": "RCLQRT-22V702-7598.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-02-02T10:04:00Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V702-7598.PDF"
+   },
+   {
+    "id": 688270,
+    "fileSize": 211681,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #5, 2024-1",
+    "fileName": "RCLQRT-22V702-6214.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-03T08:05:21Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V702-6214.PDF"
+   },
+   {
+    "id": 698731,
+    "fileSize": 211847,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #6, 2024-2",
+    "fileName": "RCLQRT-22V702-6663.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-31T08:11:17Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V702-6663.PDF"
+   },
+   {
+    "id": 709009,
+    "fileSize": 211925,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #7, 2024-3",
+    "fileName": "RCLQRT-22V702-5800.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-26T08:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V702-5800.PDF"
+   },
+   {
+    "id": 720418,
+    "fileSize": 212010,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #8, 2024-4",
+    "fileName": "RCLQRT-22V702-5771.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-02-01T10:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V702-5771.PDF"
+   },
+   {
+    "id": 774672,
+    "fileSize": 147,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report",
+    "fileName": "RCLYLY-22V702-7845.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-02-05T13:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLYLY-22V702-7845.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1599877,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": false,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-22-17-007",
+  "nhtsaCampaignNumber": "22V317000",
+  "reportReceivedDate": "2022-05-09T08:00:00Z",
+  "subject": "Fisheye and Narrow Camera Views Swapped",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2020-2021 Model 3 and 2021 Model Y vehicles.  The fisheye and narrow camera cable terminals were incorrectly installed in the cable harness connector, resulting in swapped camera views.",
+  "consequence": "Swapped camera views can prevent the vehicle's cameras from detecting crossing objects and high-curvature lane lines, impairing the Autosteer and Automatic Emergency Braking (AEB) performance, and increasing the risk of a crash.",
+  "correctiveAction": "Tesla Service will correct the swapped terminals and recalibrate the cameras, free of charge.  Owner notification letters were mailed July 8, 2022.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-22-17-007.",
+  "potentialNumberOfUnitsAffected": 7,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 11,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V317000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 2,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V317000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 512,
+    "name": "FORWARD COLLISION AVOIDANCE",
+    "description": "266000 FORWARD COLLISION AVOIDANCE"
+   },
+   {
+    "id": 526,
+    "name": "LANE DEPARTURE",
+    "description": "274100 LANE DEPARTURE"
+   },
+   {
+    "id": 765,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "118320 ELECTRICAL SYSTEM"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2021
+  ],
+  "documents": [
+   {
+    "id": 586260,
+    "fileSize": 214036,
+    "mimeType": "application/pdf",
+    "summary": "Defect Notice 573 Report",
+    "fileName": "RCLRPT-22V317-5187.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-05-13T11:00:04Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V317-5187.PDF"
+   },
+   {
+    "id": 586300,
+    "fileSize": 204884,
+    "mimeType": "application/pdf",
+    "summary": "May 9, 2022\nChronology of Defect Determination",
+    "fileName": "RMISC-22V317-6766.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-05-13T11:00:04Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RMISC-22V317-6766.pdf"
+   },
+   {
+    "id": 586325,
+    "fileSize": 645274,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-22V317-9645.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-05-13T11:00:04Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCAK-22V317-9645.pdf"
+   },
+   {
+    "id": 587003,
+    "fileSize": 648656,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-22V317-4389.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-05-20T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCRIT-22V317-4389.pdf"
+   },
+   {
+    "id": 590775,
+    "fileSize": 214055,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 1-06/28/2022",
+    "fileName": "RCLRPT-22V317-3979.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-06-30T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V317-3979.PDF"
+   },
+   {
+    "id": 591181,
+    "fileSize": 245475,
+    "mimeType": "application/pdf",
+    "summary": "Chronology of Defect Determination\nMay 9, 2022",
+    "fileName": "RMISC-22V317-5595.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-07-06T08:05:08Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RMISC-22V317-5595.pdf"
+   },
+   {
+    "id": 591982,
+    "fileSize": 117997,
+    "mimeType": "application/pdf",
+    "summary": "ISSUED Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-22V317-6988.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-07-14T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCONL-22V317-6988.pdf"
+   },
+   {
+    "id": 592290,
+    "fileSize": 214064,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 2 - 07/14/2022",
+    "fileName": "RCLRPT-22V317-7162.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-07-16T08:05:11Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V317-7162.PDF"
+   },
+   {
+    "id": 592494,
+    "fileSize": 245837,
+    "mimeType": "application/pdf",
+    "summary": "Chronology of Defect Determination\nJuly 14, 2022",
+    "fileName": "RMISC-22V317-6260.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-07-16T08:05:11Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RMISC-22V317-6260.pdf"
+   },
+   {
+    "id": 594351,
+    "fileSize": 211130,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2022-3",
+    "fileName": "RCLQRT-22V317-6342.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-07-30T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V317-6342.PDF"
+   },
+   {
+    "id": 641932,
+    "fileSize": 211230,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #2, 2022-4",
+    "fileName": "RCLQRT-22V317-2077.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-08-29T08:05:21Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V317-2077.PDF"
+   }
+  ]
+ },
+ {
+  "id": 1597692,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": true,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-22-00-008",
+  "nhtsaCampaignNumber": "22V263000",
+  "reportReceivedDate": "2022-04-18T04:00:00Z",
+  "subject": "Unit of Speed May Fail to Display/FMVSS 101",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2018-2022 Model 3 Performance vehicles.  The unit of speed (mph or km/h) may fail to display on the speedometer while in Track Mode.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 101, \"Control and Displays.\"",
+  "consequence": "The driver may not know how fast the vehicle is traveling without the mph or km/h unit display, increasing the risk of a crash.",
+  "correctiveAction": "Tesla will perform an over-the-air (OTA) software update, free of charge.  Owner notification letters were mailed June 17, 2022.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-22-00-008.",
+  "potentialNumberOfUnitsAffected": 48184,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 14,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V263000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 5,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V263000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 644,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "117000 ELECTRICAL SYSTEM"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2021,
+   2022
+  ],
+  "documents": [
+   {
+    "id": 584624,
+    "fileSize": 692924,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement Letter",
+    "fileName": "RCAK-22V263-2707.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-04-29T11:00:04Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCAK-22V263-2707.pdf"
+   },
+   {
+    "id": 584644,
+    "fileSize": 213954,
+    "mimeType": "application/pdf",
+    "summary": "Noncompliance Notice 573 Report",
+    "fileName": "RCLRPT-22V263-7612.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-04-29T11:00:04Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V263-7612.PDF"
+   },
+   {
+    "id": 584650,
+    "fileSize": 83467,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-22V263-4573.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-04-29T11:00:04Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCRIT-22V263-4573.pdf"
+   },
+   {
+    "id": 590296,
+    "fileSize": 71839,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-22V263-8713.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-06-24T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCONL-22V263-8713.pdf"
+   },
+   {
+    "id": 594157,
+    "fileSize": 211144,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2022-2",
+    "fileName": "RCLQRT-22V263-9489.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-07-29T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V263-9489.PDF"
+   },
+   {
+    "id": 603243,
+    "fileSize": 211243,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #2, 2022-3",
+    "fileName": "RCLQRT-22V263-4208.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-11-05T08:08:09Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V263-4208.PDF"
+   },
+   {
+    "id": 629259,
+    "fileSize": 211426,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #3, 2022-4",
+    "fileName": "RCLQRT-22V263-2938.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-05-03T08:05:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V263-2938.PDF"
+   },
+   {
+    "id": 629361,
+    "fileSize": 211426,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #4, 2023-1",
+    "fileName": "RCLQRT-22V263-3878.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-05-03T08:05:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V263-3878.PDF"
+   },
+   {
+    "id": 639149,
+    "fileSize": 211531,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #5, 2023-2",
+    "fileName": "RCLQRT-22V263-3941.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-08-02T08:05:25Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V263-3941.PDF"
+   },
+   {
+    "id": 665838,
+    "fileSize": 211752,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #6, 2023-3",
+    "fileName": "RCLQRT-22V263-5764.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-11-01T08:05:18Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V263-5764.PDF"
+   },
+   {
+    "id": 676155,
+    "fileSize": 211837,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #7, 2023-4",
+    "fileName": "RCLQRT-22V263-2806.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-02-02T10:04:00Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V263-2806.PDF"
+   },
+   {
+    "id": 688828,
+    "fileSize": 211911,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #8, 2024-1",
+    "fileName": "RCLQRT-22V263-5652.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-07T08:05:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V263-5652.PDF"
+   },
+   {
+    "id": 733487,
+    "fileSize": 212193,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report #1, 2024-2 to 2025-1",
+    "fileName": "RCLYLY-22V263-2140.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-05-02T04:05:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLYLY-22V263-2140.PDF"
+   },
+   {
+    "id": 790428,
+    "fileSize": 150,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report",
+    "fileName": "RCLYLY-22V263-6405.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-05-01T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLYLY-22V263-6405.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1595074,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": true,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-22-00-003",
+  "nhtsaCampaignNumber": "22V235000",
+  "reportReceivedDate": "2022-04-12T04:00:00Z",
+  "subject": "Pedestrian Warning Sound May Be Obscured/FMVSS 141",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2020-2022 Model Y, Model X, Model S, and 2017-2022 Model 3 vehicles.  The Boombox function allows sounds to be played through an external speaker while the vehicle is in motion, which may obscure the Pedestrian Warning System (PWS) sounds.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 141, \"Minimum Sound Requirements for Hybrid and Electric Vehicles.\"",
+  "consequence": "Pedestrians may be unaware of an approaching vehicle if the PWS sounds are obscured, increasing the risk of a crash.",
+  "correctiveAction": "Tesla will perform an over-the-air (OTA) software update that will disable the Boombox functionality when the vehicle is in Drive, Neutral and Reverse modes, including Summon and Smart Summon, free of charge.  Owner notification letters were mailed June 6, 2022.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-22-00-003.  Note: This recall supersedes recall 22V-063.  Vehicles configured with Summon or Smart Summon and already remedied under 22V-063 will need to have the new remedy software installed.",
+  "potentialNumberOfUnitsAffected": 594894,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 16,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V235000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 15,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V235000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 655,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "118000 ELECTRICAL SYSTEM"
+   },
+   {
+    "id": 891,
+    "name": "FORWARD COLLISION AVOIDANCE",
+    "description": "265100 FORWARD COLLISION AVOIDANCE"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2021,
+   2022
+  ],
+  "documents": [
+   {
+    "id": 582853,
+    "fileSize": 216262,
+    "mimeType": "application/pdf",
+    "summary": "Noncompliance Notice 573 Report",
+    "fileName": "RCLRPT-22V235-8842.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-04-14T11:00:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V235-8842.PDF"
+   },
+   {
+    "id": 582856,
+    "fileSize": 698757,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-22V235-3017.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-04-14T11:00:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCAK-22V235-3017.pdf"
+   },
+   {
+    "id": 582949,
+    "fileSize": 208346,
+    "mimeType": "application/pdf",
+    "summary": "April 12, 2022\nChronology",
+    "fileName": "RMISC-22V235-4317.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-04-15T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RMISC-22V235-4317.pdf"
+   },
+   {
+    "id": 583265,
+    "fileSize": 216260,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 1-04/15/2022",
+    "fileName": "RCLRPT-22V235-1744.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-04-19T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V235-1744.PDF"
+   },
+   {
+    "id": 583778,
+    "fileSize": 282453,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-22V235-7316.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-04-22T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCRIT-22V235-7316.pdf"
+   },
+   {
+    "id": 589014,
+    "fileSize": 72322,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-22V235-2686.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-06-10T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCONL-22V235-2686.pdf"
+   },
+   {
+    "id": 594417,
+    "fileSize": 211149,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2022-2",
+    "fileName": "RCLQRT-22V235-8248.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-07-30T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V235-8248.PDF"
+   },
+   {
+    "id": 603208,
+    "fileSize": 211253,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #2, 2022-3",
+    "fileName": "RCLQRT-22V235-6407.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-11-05T08:08:09Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V235-6407.PDF"
+   },
+   {
+    "id": 617647,
+    "fileSize": 211342,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #3, 2022-4",
+    "fileName": "RCLQRT-22V235-4586.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-02-01T10:05:30Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V235-4586.PDF"
+   },
+   {
+    "id": 629386,
+    "fileSize": 211450,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #4, 2023-1",
+    "fileName": "RCLQRT-22V235-9097.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-05-03T08:05:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V235-9097.PDF"
+   },
+   {
+    "id": 639174,
+    "fileSize": 211558,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #5, 2023-2",
+    "fileName": "RCLQRT-22V235-2860.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-08-02T08:05:25Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V235-2860.PDF"
+   },
+   {
+    "id": 665825,
+    "fileSize": 211781,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #6, 2023-3",
+    "fileName": "RCLQRT-22V235-3798.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-11-01T08:05:18Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V235-3798.PDF"
+   },
+   {
+    "id": 676064,
+    "fileSize": 211863,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #7, 2023-4",
+    "fileName": "RCLQRT-22V235-1134.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-02-02T10:04:00Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V235-1134.PDF"
+   },
+   {
+    "id": 688732,
+    "fileSize": 211941,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #8, 2024-1",
+    "fileName": "RCLQRT-22V235-7306.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-07T08:05:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V235-7306.PDF"
+   },
+   {
+    "id": 733441,
+    "fileSize": 212221,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report #1, 2024-2 to 2025-1",
+    "fileName": "RCLYLY-22V235-8120.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-05-02T04:05:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLYLY-22V235-8120.PDF"
+   },
+   {
+    "id": 790427,
+    "fileSize": 150,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report",
+    "fileName": "RCLYLY-22V235-9162.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-05-01T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLYLY-22V235-9162.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1582653,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": true,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-22-00-003",
+  "nhtsaCampaignNumber": "22V063000",
+  "reportReceivedDate": "2022-02-04T05:00:00Z",
+  "subject": "Pedestrian Warning Sound May Be Obscured/FMVSS 141",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2020-2022 Model S, Model X, Model Y, and 2017-2022 Model 3 vehicles.  The Boombox function allows sounds to be played through an external speaker while the vehicle is in motion, which may obscure the Pedestrian Warning System (PWS) sounds.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 141, \"Minimum Sound Requirements for Hybrid and Electric Vehicles.\"",
+  "consequence": "Pedestrians may be unaware of an approaching vehicle if the PWS sounds are obscured, increasing the risk of a crash.",
+  "correctiveAction": "Tesla will perform an over-the-air (OTA) software update that will disable the Boombox functionality when the vehicle is in Drive, Neutral and Reverse modes, free of charge.  Owner notification letters are expected to be mailed April 5, 2022.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-22-00-003.  Note: This recall has been superseded by Recall 22V-235.  Tesla's number for the new recall is SB-22-00-003.",
+  "potentialNumberOfUnitsAffected": 578607,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 3,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V063000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 15,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V063000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 655,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "118000 ELECTRICAL SYSTEM"
+   },
+   {
+    "id": 891,
+    "name": "FORWARD COLLISION AVOIDANCE",
+    "description": "265100 FORWARD COLLISION AVOIDANCE"
+   }
+  ],
+  "investigations": [
+   {
+    "id": 1657377,
+    "openDate": "2023-01-27T10:00:00Z",
+    "artemisId": 39320,
+    "investigationType": "DP",
+    "issueYear": "22",
+    "status": "C",
+    "latestActivityDate": "2023-08-07T20:17:08Z",
+    "description": "NHTSA received a petition on or about July 18, 2022, requesting that Federal Motor Vehicle Safety Standard (FMVSS) 141 be applied to all electric and hybrid vehicles operating in the United States. The petition can be reviewed at NHTSA.gov under ODI Number 11486072. \r\rFMVSS 141 establishes performance requirements for pedestrian alert sounds for motor vehicles. The standard applies to hybrid and electric vehicles that have a gross vehicle weight rating of 4,536 KG or less or are defined as low-speed vehicles. The standard became fully applicable to all such vehicles manufactured on or after March 1, 2021.  \r\rOn January 27, 2023, NHTSA opened Defect Petition (DP) 22-005 to evaluate the subject matter described in the petition. \r\rOn June 24, 2023 and as supplemented on June 25, 2023, the petitioner notified NHTSA he was withdrawing his petition. The petitioner indicated that, based on his review of data, \"there is no justification for asserting potential benefits that could be derived from actions sought by my petition.\" Based on the petitioner's withdrawal, DP22-005 is closed. Closure of this DP does not represent a determination by NHTSA regarding the subject matter of the petition.",
+    "subject": "Pedestrian alert sounds",
+    "investigationNumber": "005",
+    "nhtsaId": "DP22005",
+    "closeDate": "2023-08-07T20:17:08Z"
+   }
+  ],
+  "modelYears": [
+   2021,
+   2022
+  ],
+  "documents": [
+   {
+    "id": 577354,
+    "fileSize": 216948,
+    "mimeType": "application/pdf",
+    "summary": "Noncompliance Notice 573 Report",
+    "fileName": "RCLRPT-22V063-8773.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-02-10T13:00:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V063-8773.PDF"
+   },
+   {
+    "id": 577415,
+    "fileSize": 693842,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-22V063-7336.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-02-10T13:00:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCAK-22V063-7336.pdf"
+   },
+   {
+    "id": 580012,
+    "fileSize": 78291,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-22V063-7888.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-03-11T10:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCRIT-22V063-7888.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1582649,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": true,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-22-18-002",
+  "nhtsaCampaignNumber": "22V050000",
+  "reportReceivedDate": "2022-02-02T05:00:00Z",
+  "subject": "Windshield May Not Defrost Properly/FMVSS 103",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2021-2022 Model 3, Model S, Model X, and 2020-2022 Model Y vehicles.  A software error may cause a valve in the heat pump to open unintentionally and trap the refrigerant inside the evaporator, resulting in decreased defrosting performance.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 103, \"Windshield Defrosting and Defogging Systems.\"",
+  "consequence": "Decreased defrosting performance may reduce the driver's visibility, increasing the risk of a crash.",
+  "correctiveAction": "Tesla will perform an over-the-air (OTA) software update, free of charge.  Owner notification letters were mailed April 1, 2022.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-22-18-002.",
+  "potentialNumberOfUnitsAffected": 26681,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 15,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V050000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 9,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V050000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 655,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "118000 ELECTRICAL SYSTEM"
+   },
+   {
+    "id": 52,
+    "name": "VISIBILITY",
+    "description": "138900 VISIBILITY"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2021,
+   2022
+  ],
+  "documents": [
+   {
+    "id": 577516,
+    "fileSize": 217700,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 1 02/07/2022",
+    "fileName": "RCLRPT-22V050-2023.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-02-09T13:00:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V050-2023.PDF"
+   },
+   {
+    "id": 577561,
+    "fileSize": 217680,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 2 02/07/2022",
+    "fileName": "RCLRPT-22V050-5142.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-02-09T13:00:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V050-5142.PDF"
+   },
+   {
+    "id": 577574,
+    "fileSize": 645279,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-22V050-1936.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-02-09T13:00:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCAK-22V050-1936.pdf"
+   },
+   {
+    "id": 577587,
+    "fileSize": 217498,
+    "mimeType": "application/pdf",
+    "summary": "Noncompliance Notice 573 Report",
+    "fileName": "RCLRPT-22V050-2760.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-02-09T13:00:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V050-2760.PDF"
+   },
+   {
+    "id": 578733,
+    "fileSize": 78856,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-22V050-3360.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-02-25T10:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCRIT-22V050-3360.pdf"
+   },
+   {
+    "id": 582043,
+    "fileSize": 72241,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-22V050-9970.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-04-06T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCONL-22V050-9970.pdf"
+   },
+   {
+    "id": 594407,
+    "fileSize": 211239,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #2, 2022-3",
+    "fileName": "RCLQRT-22V050-7313.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-07-30T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V050-7313.PDF"
+   },
+   {
+    "id": 617696,
+    "fileSize": 211327,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #3, 2022-4",
+    "fileName": "RCLQRT-22V050-0175.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-02-01T10:05:30Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V050-0175.PDF"
+   },
+   {
+    "id": 629283,
+    "fileSize": 211432,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #4, 2023-1",
+    "fileName": "RCLQRT-22V050-1999.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-05-03T08:05:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V050-1999.PDF"
+   },
+   {
+    "id": 639236,
+    "fileSize": 211537,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #5, 2023-2",
+    "fileName": "RCLQRT-22V050-0398.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-08-02T08:05:25Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V050-0398.PDF"
+   },
+   {
+    "id": 665736,
+    "fileSize": 211765,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #6, 2023-3",
+    "fileName": "RCLQRT-22V050-4981.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-11-01T08:05:18Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V050-4981.PDF"
+   },
+   {
+    "id": 676125,
+    "fileSize": 211835,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #7, 2023-4",
+    "fileName": "RCLQRT-22V050-4537.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-02-02T10:04:00Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V050-4537.PDF"
+   },
+   {
+    "id": 688759,
+    "fileSize": 211916,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #8, 2024-1",
+    "fileName": "RCLQRT-22V050-6850.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-07T08:05:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V050-6850.PDF"
+   },
+   {
+    "id": 733383,
+    "fileSize": 212196,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report #1, 2024-2 to 2025-1",
+    "fileName": "RCLYLY-22V050-2144.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-05-02T04:05:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLYLY-22V050-2144.PDF"
+   },
+   {
+    "id": 790425,
+    "fileSize": 150,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report",
+    "fileName": "RCLYLY-22V050-8587.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-05-01T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLYLY-22V050-8587.pdf"
+   }
+  ]
+ },
+ {
+  "id": 24785,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": true,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-22-00-002",
+  "nhtsaCampaignNumber": "22V045000",
+  "reportReceivedDate": "2022-02-01T05:00:00Z",
+  "subject": "Seat Belt Chime May Not Activate/FMVSS 208",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2021-2022 Model S and Model X, 2017-2022 Model 3, and 2020-2022 Model Y vehicles.  The audible chime may not activate when the vehicle starts and the driver has not buckled their seat belt.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 208, \"Occupant Crash Protection.\"",
+  "consequence": "The driver may be unaware that their seat belt is not fastened, increasing the risk of injury during a crash.",
+  "correctiveAction": "Tesla will perform an over-the-air (OTA) software update, free of charge.  Owner notification letters were mailed April 1, 2022.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-22-00-002.",
+  "potentialNumberOfUnitsAffected": 817143,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 14,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V045000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 13,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V045000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 655,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "118000 ELECTRICAL SYSTEM"
+   },
+   {
+    "id": 222,
+    "name": "SEAT BELTS",
+    "description": "151000 SEAT BELTS"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2021,
+   2022
+  ],
+  "documents": [
+   {
+    "id": 340670,
+    "fileSize": 645157,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-22V045-4485.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-02-03T08:00:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCAK-22V045-4485.pdf"
+   },
+   {
+    "id": 341855,
+    "fileSize": 216322,
+    "mimeType": "application/pdf",
+    "summary": "Noncompliance Notice 573 Report",
+    "fileName": "RCLRPT-22V045-3599.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-02-03T08:00:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V045-3599.PDF"
+   },
+   {
+    "id": 580411,
+    "fileSize": 191655,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-22V045-4582.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-03-16T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCRIT-22V045-4582.pdf"
+   },
+   {
+    "id": 582042,
+    "fileSize": 73215,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-22V045-1261.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-04-06T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCONL-22V045-1261.pdf"
+   },
+   {
+    "id": 594418,
+    "fileSize": 211244,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #2, 2022-3",
+    "fileName": "RCLQRT-22V045-0915.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-07-30T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V045-0915.PDF"
+   },
+   {
+    "id": 617611,
+    "fileSize": 211333,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #3, 2022-4",
+    "fileName": "RCLQRT-22V045-1993.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-02-01T10:05:30Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V045-1993.PDF"
+   },
+   {
+    "id": 629267,
+    "fileSize": 211433,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #4, 2023-1",
+    "fileName": "RCLQRT-22V045-2205.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-05-03T08:05:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V045-2205.PDF"
+   },
+   {
+    "id": 629373,
+    "fileSize": 211433,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #3, 2022-4",
+    "fileName": "RCLQRT-22V045-9712.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-05-03T08:05:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V045-9712.PDF"
+   },
+   {
+    "id": 639169,
+    "fileSize": 211543,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #5, 2023-2",
+    "fileName": "RCLQRT-22V045-5903.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-08-02T08:05:25Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V045-5903.PDF"
+   },
+   {
+    "id": 665555,
+    "fileSize": 211769,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #6, 2023-3",
+    "fileName": "RCLQRT-22V045-4440.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-11-01T08:05:18Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V045-4440.PDF"
+   },
+   {
+    "id": 676139,
+    "fileSize": 211856,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #7, 2023-4",
+    "fileName": "RCLQRT-22V045-9601.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-02-02T10:04:00Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V045-9601.PDF"
+   },
+   {
+    "id": 688817,
+    "fileSize": 211933,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #8, 2024-1",
+    "fileName": "RCLQRT-22V045-1930.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-07T08:05:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V045-1930.PDF"
+   },
+   {
+    "id": 733342,
+    "fileSize": 212218,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report #1, 2024-2 to 2025-1",
+    "fileName": "RCLYLY-22V045-3660.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-05-02T04:05:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLYLY-22V045-3660.PDF"
+   },
+   {
+    "id": 790424,
+    "fileSize": 150,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report",
+    "fileName": "RCLYLY-22V045-5552.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-05-01T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLYLY-22V045-5552.pdf"
+   }
+  ]
+ },
+ {
+  "id": 25098,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": true,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-22-00-001",
+  "nhtsaCampaignNumber": "22V037000",
+  "reportReceivedDate": "2022-01-27T05:00:00Z",
+  "subject": "Vehicle May Fail to Stop at Stop Sign",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2016-2022 Model S and Model X, 2017-2022 Model 3, and 2020-2022 Model Y vehicles.  The \"rolling stop\" functionality available as part of the Full Self-Driving (Beta) software may allow the vehicle to travel through an all-way stop intersection without first coming to a stop.",
+  "consequence": "Failing to stop at a stop sign can increase the risk of a crash.",
+  "correctiveAction": "Tesla will perform an over-the-air (OTA) software update that disables the \"rolling stop\" functionality, free of charge.  Owner notification letters were mailed March 28, 2022.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-22-00-001.",
+  "potentialNumberOfUnitsAffected": 53822,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 5,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V037000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 23,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V037000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 855,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "118910 ELECTRICAL SYSTEM"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2021,
+   2022
+  ],
+  "documents": [
+   {
+    "id": 352558,
+    "fileSize": 216107,
+    "mimeType": "application/pdf",
+    "summary": "Defect Notice 573 Report",
+    "fileName": "RCLRPT-22V037-4462.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-02-01T08:00:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V037-4462.PDF"
+   },
+   {
+    "id": 352725,
+    "fileSize": 711673,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-22V037-9109.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-02-01T08:00:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCAK-22V037-9109.pdf"
+   },
+   {
+    "id": 580434,
+    "fileSize": 196933,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-22V037-5298.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-03-16T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCRIT-22V037-5298.pdf"
+   },
+   {
+    "id": 581709,
+    "fileSize": 71412,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-22V037-8566.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-03-31T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCONL-22V037-8566.pdf"
+   },
+   {
+    "id": 594595,
+    "fileSize": 211233,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #2, 2022-2",
+    "fileName": "RCLQRT-22V037-9233.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-08-02T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V037-9233.PDF"
+   }
+  ]
+ },
+ {
+  "id": 25432,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": true,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-21-00-004",
+  "nhtsaCampaignNumber": "21V846000",
+  "reportReceivedDate": "2021-10-29T04:00:00Z",
+  "subject": "Unexpected Activation of Automatic Emergency Brake",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2017-2021 Model S, Model 3, Model X, and 2020-2021 Model Y vehicles operating software version 2021.36.5.2.  A communication error may cause false forward-collision warning (FCW) or unexpected activation of the automatic emergency brake (AEB) system.",
+  "consequence": "Unexpected activation of the AEB system may cause the car to stop suddenly, increasing the risk of a crash.",
+  "correctiveAction": "Tesla Service has released an over-the-air (OTA) software update, free of charge.  The recall began October 25, 2021.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-21-00-004.",
+  "potentialNumberOfUnitsAffected": 11728,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 7,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=21V846000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 17,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=21V846000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 519,
+    "name": "FORWARD COLLISION AVOIDANCE",
+    "description": "264100 FORWARD COLLISION AVOIDANCE"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2021
+  ],
+  "documents": [
+   {
+    "id": 339626,
+    "fileSize": 216253,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 2",
+    "fileName": "RCLRPT-21V846-2030.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-12-24T05:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLRPT-21V846-2030.PDF"
+   },
+   {
+    "id": 340274,
+    "fileSize": 192817,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-21V846-6645.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-11-03T04:05:07Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCRIT-21V846-6645.pdf"
+   },
+   {
+    "id": 346830,
+    "fileSize": 211143,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2021-4",
+    "fileName": "RCLQRT-21V846-6853.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-12-17T05:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V846-6853.PDF"
+   },
+   {
+    "id": 347071,
+    "fileSize": 216227,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 1",
+    "fileName": "RCLRPT-21V846-4911.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-12-17T05:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLRPT-21V846-4911.PDF"
+   },
+   {
+    "id": 347578,
+    "fileSize": 211150,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2021-4",
+    "fileName": "RCLQRT-21V846-1805.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-01-08T05:05:10Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V846-1805.PDF"
+   },
+   {
+    "id": 353234,
+    "fileSize": 215898,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report",
+    "fileName": "RCLRPT-21V846-7836.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-11-02T07:00:03Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLRPT-21V846-7836.PDF"
+   },
+   {
+    "id": 353374,
+    "fileSize": 1048053,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-21V846-6961.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-11-02T07:00:03Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCAK-21V846-6961.pdf"
+   }
+  ]
+ },
+ {
+  "id": 25123,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": false,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-21-31-003",
+  "nhtsaCampaignNumber": "21V835000",
+  "reportReceivedDate": "2021-10-25T08:00:00Z",
+  "subject": "Front Suspension Lateral Link May Separate",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2020-2021 Model Y and 2019-2021 Model 3 vehicles.  The front suspension lateral link fasteners may loosen, allowing the lateral link to separate from the sub-frame.",
+  "consequence": "A lateral link separation could shift the wheel alignment, causing instability and increasing the risk of a crash.",
+  "correctiveAction": "Tesla Service will tighten or replace the lateral link fasteners as necessary, free of charge.  Owner notification letters were mailed December 20, 2021.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-21-31-003.",
+  "potentialNumberOfUnitsAffected": 2791,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 19,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=21V835000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 5,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=21V835000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 533,
+    "name": "SUSPENSION",
+    "description": "020100 SUSPENSION"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2021
+  ],
+  "documents": [
+   {
+    "id": 339199,
+    "fileSize": 214719,
+    "mimeType": "application/pdf",
+    "summary": "Defect Notice 573 Report",
+    "fileName": "RCLRPT-21V835-2749.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-10-29T07:00:04Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLRPT-21V835-2749.PDF"
+   },
+   {
+    "id": 339201,
+    "fileSize": 214720,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 1",
+    "fileName": "RCLRPT-21V835-8925.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-10-29T07:00:04Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLRPT-21V835-8925.PDF"
+   },
+   {
+    "id": 339208,
+    "fileSize": 646203,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-21V835-5638.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-10-29T07:00:04Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCAK-21V835-5638.pdf"
+   },
+   {
+    "id": 340339,
+    "fileSize": 345007,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-21V835-6805.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-11-03T04:05:07Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCRIT-21V835-6805.pdf"
+   },
+   {
+    "id": 342190,
+    "fileSize": 215428,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 2",
+    "fileName": "RCLRPT-21V835-2001.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-01-27T05:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLRPT-21V835-2001.PDF"
+   },
+   {
+    "id": 345222,
+    "fileSize": 199171,
+    "mimeType": "application/pdf",
+    "summary": "Lateral Link Bolt Torque - Courtesy Customer Notice",
+    "fileName": "RMISC-21V835-6057.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-11-05T04:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RMISC-21V835-6057.pdf"
+   },
+   {
+    "id": 347336,
+    "fileSize": 20058,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-21V835-6128.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-01-06T05:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCONL-21V835-6128.pdf"
+   },
+   {
+    "id": 351628,
+    "fileSize": 211141,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2021-4",
+    "fileName": "RCLQRT-21V835-2935.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-02-02T05:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V835-2935.PDF"
+   },
+   {
+    "id": 594534,
+    "fileSize": 211325,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #3, 2022-2",
+    "fileName": "RCLQRT-21V835-4782.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-08-02T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V835-4782.PDF"
+   },
+   {
+    "id": 603190,
+    "fileSize": 211430,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #4, 2022-3",
+    "fileName": "RCLQRT-21V835-7134.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-11-05T08:08:09Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V835-7134.PDF"
+   },
+   {
+    "id": 617749,
+    "fileSize": 211535,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #5, 2022-4",
+    "fileName": "RCLQRT-21V835-0892.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-02-01T10:05:30Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V835-0892.PDF"
+   },
+   {
+    "id": 629263,
+    "fileSize": 211628,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #6, 2023-1",
+    "fileName": "RCLQRT-21V835-4048.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-05-03T08:05:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V835-4048.PDF"
+   },
+   {
+    "id": 639199,
+    "fileSize": 211701,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #7, 2023-2",
+    "fileName": "RCLQRT-21V835-1713.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-08-02T08:05:25Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V835-1713.PDF"
+   },
+   {
+    "id": 667593,
+    "fileSize": 211924,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #8, 2023-3",
+    "fileName": "RCLQRT-21V835-4526.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-11-21T10:05:53Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V835-4526.PDF"
+   },
+   {
+    "id": 676093,
+    "fileSize": 212004,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #9, 2023-4",
+    "fileName": "RCLQRT-21V835-8235.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-02-02T10:04:00Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V835-8235.PDF"
+   },
+   {
+    "id": 688813,
+    "fileSize": 212083,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #10, 2024-1",
+    "fileName": "RCLQRT-21V835-7530.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-07T08:05:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V835-7530.PDF"
+   },
+   {
+    "id": 709326,
+    "fileSize": 212358,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report #1, 2023-4 to 2024-3",
+    "fileName": "RCLYLY-21V835-2977.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-29T08:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLYLY-21V835-2977.PDF"
+   },
+   {
+    "id": 763077,
+    "fileSize": 157,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report",
+    "fileName": "RCLYLY-21V835-5082.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-11-06T13:00:26Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLYLY-21V835-5082.pdf"
+   },
+   {
+    "id": 829099,
+    "fileSize": 159,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report",
+    "fileName": "RCLYLY-21V835-7560.pdf",
+    "loadDate": "2026-11-17T08:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLYLY-21V835-7560.pdf"
+   }
+  ]
+ },
+ {
+  "id": 25124,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": false,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-21-20-006",
+  "nhtsaCampaignNumber": "21V834000",
+  "reportReceivedDate": "2021-10-25T08:00:00Z",
+  "subject": "Side Curtain Air Bag May Be Twisted/FMVSS 214, 226",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2020-2021, 2023 Model 3 vehicles.  The left and/or right side curtain air bag may have been improperly secured to the roof rail, which could result in a twisted air bag.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard numbers 214, \"Side Impact Protection\" and 226, \"Ejection Mitigation.\"",
+  "consequence": "A twisted side curtain air bag may improperly deploy, increasing the risk of injury or occupant ejection during a crash.",
+  "correctiveAction": "Tesla Service will inspect and realign the left and right side curtain air bag as necessary, free of charge.  Owner notification letters were mailed December 23, 2021.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-21-20-006.",
+  "potentialNumberOfUnitsAffected": 3,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 13,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=21V834000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 3,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=21V834000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 57,
+    "name": "AIR BAGS",
+    "description": "142100 AIR BAGS"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2021,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 339188,
+    "fileSize": 645792,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-21V834-1999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-10-29T07:00:04Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCAK-21V834-1999.pdf"
+   },
+   {
+    "id": 339193,
+    "fileSize": 214088,
+    "mimeType": "application/pdf",
+    "summary": "Noncompliance Notice 573 Report",
+    "fileName": "RCLRPT-21V834-2010.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-10-29T07:00:04Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLRPT-21V834-2010.PDF"
+   },
+   {
+    "id": 340335,
+    "fileSize": 421351,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-21V834-7467.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-11-03T04:05:07Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCRIT-21V834-7467.pdf"
+   },
+   {
+    "id": 342038,
+    "fileSize": 214324,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report - 12/15/2021",
+    "fileName": "RCLRPT-21V834-7034.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-01-27T05:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLRPT-21V834-7034.PDF"
+   },
+   {
+    "id": 347516,
+    "fileSize": 18585,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-21V834-5396.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-01-06T05:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCONL-21V834-5396.pdf"
+   },
+   {
+    "id": 351651,
+    "fileSize": 211141,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2021-4",
+    "fileName": "RCLQRT-21V834-3030.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-02-02T05:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V834-3030.PDF"
+   },
+   {
+    "id": 617255,
+    "fileSize": 214743,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report- 01/12/2023",
+    "fileName": "RCLRPT-21V834-7622.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-01-28T10:05:21Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLRPT-21V834-7622.PDF"
+   },
+   {
+    "id": 623592,
+    "fileSize": 18585,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-21V834-6201.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-03-29T08:07:25Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCONL-21V834-6201.pdf"
+   },
+   {
+    "id": 751995,
+    "fileSize": 130,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-21V834-3914.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-08-26T11:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V834-3914.pdf"
+   },
+   {
+    "id": 751996,
+    "fileSize": 135,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-21V834-8195.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-08-26T11:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V834-8195.pdf"
+   },
+   {
+    "id": 751997,
+    "fileSize": 133,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-21V834-7167.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-08-26T11:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V834-7167.pdf"
+   },
+   {
+    "id": 751998,
+    "fileSize": 125,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-21V834-8185.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-08-26T11:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V834-8185.pdf"
+   },
+   {
+    "id": 751999,
+    "fileSize": 128,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-21V834-1618.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-08-26T11:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V834-1618.pdf"
+   }
+  ]
+ },
+ {
+  "id": 25587,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": false,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-21-33-002",
+  "nhtsaCampaignNumber": "21V387000",
+  "reportReceivedDate": "2021-05-25T04:00:00Z",
+  "subject": "Loose Brake Caliper Bolts",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2019-2021 Model 3 and 2020-2021 Model Y vehicles.  The brake caliper bolts may be loose, allowing the brake caliper to separate and contact the wheel rim.",
+  "consequence": "Contact with the rim may cause a loss of tire pressure, increasing the risk of a crash.",
+  "correctiveAction": "Tesla Service will inspect and tighten, or replace the caliper bolts as necessary, free of charge.  Owner notification letters were mailed July 23, 2021.  Owners may contact Tesla customer service online by visiting www.tesla.com/support/contact or by calling 1-877-79-TESLA (or 1-877-798-3752).  Tesla's number for this recall is SB-21-33-002.",
+  "potentialNumberOfUnitsAffected": 5974,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.",
+  "associatedDocumentsCount": 15,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=21V387000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 5,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=21V387000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 274,
+    "name": "SERVICE BRAKES, HYDRAULIC",
+    "description": "034510 SERVICE BRAKES, HYDRAULIC"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2021
+  ],
+  "documents": [
+   {
+    "id": 304857,
+    "fileSize": 219947,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-21V387-7012.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-07-31T04:05:09Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCRIT-21V387-7012.pdf"
+   },
+   {
+    "id": 308791,
+    "fileSize": 215704,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report- Amendment 1",
+    "fileName": "RCLRPT-21V387-8391.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-07-10T04:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLRPT-21V387-8391.PDF"
+   },
+   {
+    "id": 329632,
+    "fileSize": 18583,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-21V387-4169.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-08-03T04:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCONL-21V387-4169.pdf"
+   },
+   {
+    "id": 331195,
+    "fileSize": 704610,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-21V387-4357.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-06-02T07:00:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCAK-21V387-4357.pdf"
+   },
+   {
+    "id": 331676,
+    "fileSize": 215659,
+    "mimeType": "application/pdf",
+    "summary": "Defect Notice 573 Report",
+    "fileName": "RCLRPT-21V387-6066.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-06-02T07:00:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLRPT-21V387-6066.PDF"
+   },
+   {
+    "id": 345144,
+    "fileSize": 211130,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2021-3",
+    "fileName": "RCLQRT-21V387-2878.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-11-09T05:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V387-2878.PDF"
+   },
+   {
+    "id": 351635,
+    "fileSize": 211232,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #2, 2021-4",
+    "fileName": "RCLQRT-21V387-3777.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-02-02T05:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V387-3777.PDF"
+   },
+   {
+    "id": 594757,
+    "fileSize": 211424,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #4, 2022-2",
+    "fileName": "RCLQRT-21V387-8202.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-08-02T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V387-8202.PDF"
+   },
+   {
+    "id": 603251,
+    "fileSize": 211536,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #5, 2022-3",
+    "fileName": "RCLQRT-21V387-1199.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-11-05T08:08:09Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V387-1199.PDF"
+   },
+   {
+    "id": 617651,
+    "fileSize": 211618,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #6, 2022-4",
+    "fileName": "RCLQRT-21V387-5974.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-02-01T10:05:30Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V387-5974.PDF"
+   },
+   {
+    "id": 629289,
+    "fileSize": 211701,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #7, 2023-1",
+    "fileName": "RCLQRT-21V387-9526.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-05-03T08:05:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V387-9526.PDF"
+   },
+   {
+    "id": 639168,
+    "fileSize": 211774,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #8, 2023-2",
+    "fileName": "RCLQRT-21V387-1595.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-08-02T08:05:25Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLQRT-21V387-1595.PDF"
+   },
+   {
+    "id": 698600,
+    "fileSize": 212177,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report #1, 2023-3 to 2024-2",
+    "fileName": "RCLYLY-21V387-8489.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-31T08:11:17Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLYLY-21V387-8489.PDF"
+   },
+   {
+    "id": 749406,
+    "fileSize": 151,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report",
+    "fileName": "RCLYLY-21V387-2626.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-08-01T11:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLYLY-21V387-2626.pdf"
+   },
+   {
+    "id": 805450,
+    "fileSize": 154,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report",
+    "fileName": "RCLYLY-21V387-4110.pdf",
+    "loadDate": "2026-08-01T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2021/RCLYLY-21V387-4110.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1599148,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": true,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-22-00-009",
+  "nhtsaCampaignNumber": "22V296000",
+  "reportReceivedDate": "2022-05-03T04:00:00Z",
+  "subject": "Overheating May Cause Center Display Malfunction",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2021-2022 Model S, Model X, and 2022 Model 3 and Model Y vehicles operating certain firmware releases.  The infotainment central processing unit (CPU) may overheat during the preparation or process of fast-charging, causing the CPU to lag or restart.",
+  "consequence": "A lagging or restarting CPU may prevent the center screen from displaying the rearview camera image, gear selection, windshield visibility control settings, and warning lights, increasing the risk of a crash.",
+  "correctiveAction": "Tesla will perform an over-the-air (OTA) software update that will improve CPU temperature management, free of charge.  Owner notification letters were mailed July 1, 2022.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-22-00-009.",
+  "potentialNumberOfUnitsAffected": 129960,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 15,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V296000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 6,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V296000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 80,
+    "name": "BACK OVER PREVENTION",
+    "description": "284100 BACK OVER PREVENTION"
+   },
+   {
+    "id": 102,
+    "name": "EQUIPMENT",
+    "description": "353620 EQUIPMENT"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2022
+  ],
+  "documents": [
+   {
+    "id": 585893,
+    "fileSize": 215488,
+    "mimeType": "application/pdf",
+    "summary": "Defect Notice 573 Report",
+    "fileName": "RCLRPT-22V296-9024.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-05-10T11:00:03Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V296-9024.PDF"
+   },
+   {
+    "id": 585928,
+    "fileSize": 645379,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-22V296-6974.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-05-10T11:00:03Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCAK-22V296-6974.pdf"
+   },
+   {
+    "id": 585937,
+    "fileSize": 244434,
+    "mimeType": "application/pdf",
+    "summary": "May 3, 2022\rChronology",
+    "fileName": "RMISC-22V296-1470.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-05-10T11:00:03Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RMISC-22V296-1470.pdf"
+   },
+   {
+    "id": 586066,
+    "fileSize": 126653,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-22V296-0266.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-05-11T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCRIT-22V296-0266.pdf"
+   },
+   {
+    "id": 591205,
+    "fileSize": 73133,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-22V296-0832.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-07-07T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCONL-22V296-0832.pdf"
+   },
+   {
+    "id": 594363,
+    "fileSize": 211143,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2022-3",
+    "fileName": "RCLQRT-22V296-6566.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-07-30T08:05:05Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V296-6566.PDF"
+   },
+   {
+    "id": 603272,
+    "fileSize": 211246,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #2, 2022-4",
+    "fileName": "RCLQRT-22V296-7922.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-11-05T08:08:09Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V296-7922.PDF"
+   },
+   {
+    "id": 617708,
+    "fileSize": 211335,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #3, 2023-1",
+    "fileName": "RCLQRT-22V296-9628.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-02-01T10:05:30Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V296-9628.PDF"
+   },
+   {
+    "id": 629370,
+    "fileSize": 211442,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #4, 2023-2",
+    "fileName": "RCLQRT-22V296-5510.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-05-03T08:05:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V296-5510.PDF"
+   },
+   {
+    "id": 639132,
+    "fileSize": 211550,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #5, 2023-3",
+    "fileName": "RCLQRT-22V296-9786.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-08-02T08:05:25Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V296-9786.PDF"
+   },
+   {
+    "id": 677537,
+    "fileSize": 211780,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #6, 2023-4",
+    "fileName": "RCLQRT-22V296-6012.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-02-14T10:04:23Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V296-6012.PDF"
+   },
+   {
+    "id": 688842,
+    "fileSize": 211853,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #7, 2024-1",
+    "fileName": "RCLQRT-22V296-3205.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-07T08:05:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V296-3205.PDF"
+   },
+   {
+    "id": 698797,
+    "fileSize": 212002,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #8, 2024-2",
+    "fileName": "RCLQRT-22V296-1136.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-31T08:11:17Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V296-1136.PDF"
+   },
+   {
+    "id": 749445,
+    "fileSize": 147,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report",
+    "fileName": "RCLYLY-22V296-1731.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-08-01T11:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLYLY-22V296-1731.pdf"
+   },
+   {
+    "id": 805465,
+    "fileSize": 150,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report",
+    "fileName": "RCLYLY-22V296-9502.pdf",
+    "loadDate": "2026-08-01T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLYLY-22V296-9502.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1830404,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": true,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-25-00-004",
+  "nhtsaCampaignNumber": "25V092000",
+  "reportReceivedDate": "2025-02-15T01:21:04Z",
+  "subject": "Loss of Power Steering Assist",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2023 Model 3 and Model Y vehicles operating software prior to 2023.38.4.  The printed circuit board for the electronic power steering assist may experience an overstress condition, causing a loss of power steering assist when the vehicle reaches a stop and then accelerates again.",
+  "consequence": "A loss of power steering assist can require greater steering effort, especially at low speeds, increasing the risk of a crash.",
+  "correctiveAction": "Tesla has released an over-the-air (OTA) software update, free of charge.  Owner notification letters were mailed March 25, 2025.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-25-00-004.",
+  "potentialNumberOfUnitsAffected": 376241,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 888-275-9171) or go to nhtsa.gov.",
+  "associatedDocumentsCount": 13,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=25V092000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 2,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=25V092000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 638,
+    "name": "STEERING",
+    "description": "016000 STEERING"
+   }
+  ],
+  "investigations": [
+   {
+    "id": 1741504,
+    "openDate": "2024-02-02T00:46:45Z",
+    "artemisId": 100731,
+    "investigationType": "EA",
+    "issueYear": "24",
+    "status": "C",
+    "latestActivityDate": "2026-06-25T22:17:29Z",
+    "description": "<p>On July 28, 2023, the Office of Defects Investigation (ODI) opened a Preliminary Evaluation (PE23014) to investigate instances of loss of electronic power-assisted steering in MY 2023 Tesla Model 3 and MY 2023 Tesla Model Y vehicles manufactured by Tesla, Inc. The complaints allege a sudden and unexpected inability to turn the steering wheel or an increase in effort required to turn the steering wheel. These conditions were alleged to occur both during the drive cycle, at various speeds, and at vehicle start up. Consumers reported receiving the warning message “Steering assist reduced” either before, during, or after the loss of steering control, and some consumers described their steering begin to feel “notchy” or “clicky” either prior to or just after the incident. On February 1, 2024, PE23014 was upgraded to EA24001 to further investigate the alleged defect in the affected vehicles.</p><p>Tesla identified the cause of the increase in steering effort as an overvoltage breakdown (the voltage applied exceeds the maximum design limit), which can overstress motor drive components on the printed circuit board of the vehicle’s steering Electronic Control Unit (ECU). If the primary motor drive components experienced an overvoltage breakdown occurrence while the vehicle was traveling above 0 mph, electronic power-assisted steering would be diverted to secondary motor drive components. The secondary, or backup, motor drive components would maintain electronic power-assisted steering until the vehicle reached 0 mph. If the vehicle was operating on the secondary system and reached 0 mph, the driver would lose electronic power-assisted steering with manual steering remaining available. Only manual steering would remain until the vehicle’s steering ECU is replaced.</p><p>On February 19, 2025, Tesla filed safety recall 25V092 to address the loss of electronic power-assisted steering. The recall filing documents state that a steering ECU software update, identified as 2023.38.4, was introduced into production vehicles and provided to affected fleet vehicles through an over-the-air (OTA) update beginning in October 2023. The updated software was designed to prevent overvoltage breakdown and overstress of motor drive components on the printed circuit board.</p><p>ODI’s analysis of related Vehicle Owner Questionnaires (VOQs) and Tesla field data found that complaint traffic declined following the 2023.38.4 software release. In view of the recall action taken by Tesla, ODI is closing this EA. ODI will continue to monitor the effectiveness of the remedy as is consistent with the Agency’s authority and practice.&nbsp; NHTSA reserves the right to take additional action if warranted by future circumstances.</p><p>To review the ODI reports cited in the Opening Resume ODI Report Identification Number document, go to NHTSA.gov.</p>",
+    "subject": "Loss of steering control",
+    "investigationNumber": "001",
+    "nhtsaId": "EA24001",
+    "closeDate": "2026-06-25T22:17:29Z"
+   }
+  ],
+  "modelYears": [
+   2023
+  ],
+  "documents": [
+   {
+    "id": 721363,
+    "fileSize": 81179,
+    "mimeType": "application/pdf",
+    "summary": "Chronology",
+    "fileName": "RMISC-25V092-0449.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-02-21T08:00:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RMISC-25V092-0449.pdf"
+   },
+   {
+    "id": 721365,
+    "fileSize": 779592,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-25V092-7349.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-02-21T08:00:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCAK-25V092-7349.pdf"
+   },
+   {
+    "id": 721368,
+    "fileSize": 215865,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report",
+    "fileName": "RCLRPT-25V092-6812.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-02-21T08:00:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCLRPT-25V092-6812.PDF"
+   },
+   {
+    "id": 721431,
+    "fileSize": 63835,
+    "mimeType": "application/pdf",
+    "summary": "Public Support Page - Update Vehicle Firmware to Correct Loss of EPAS Steering",
+    "fileName": "RMISC-25V092-3513.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-02-22T05:05:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RMISC-25V092-3513.pdf"
+   },
+   {
+    "id": 721435,
+    "fileSize": 207347,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB - SB-25-00-004 February 20, 2025",
+    "fileName": "RCRIT-25V092-9618.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-02-22T05:05:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCRIT-25V092-9618.pdf"
+   },
+   {
+    "id": 723475,
+    "fileSize": 147446,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-25V092-6881.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-03-28T04:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCONL-25V092-6881.pdf"
+   },
+   {
+    "id": 749632,
+    "fileSize": 123,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-25V092-4159.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-08-01T11:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCLQRT-25V092-4159.pdf"
+   },
+   {
+    "id": 771993,
+    "fileSize": 128,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-25V092-2415.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-01-23T13:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCLQRT-25V092-2415.pdf"
+   },
+   {
+    "id": 771994,
+    "fileSize": 125,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-25V092-9940.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-01-23T13:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCLQRT-25V092-9940.pdf"
+   },
+   {
+    "id": 774799,
+    "fileSize": 131,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-25V092-8151.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-02-05T13:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCLQRT-25V092-8151.pdf"
+   },
+   {
+    "id": 790498,
+    "fileSize": 133,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-25V092-5479.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-05-01T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCLQRT-25V092-5479.pdf"
+   },
+   {
+    "id": 804457,
+    "fileSize": 136,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-25V092-4757.pdf",
+    "loadDate": "2026-07-29T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCLQRT-25V092-4757.pdf"
+   },
+   {
+    "id": 828890,
+    "fileSize": 138,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-25V092-4260.pdf",
+    "loadDate": "2026-11-14T08:00:26Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCLQRT-25V092-4260.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1689489,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": false,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-23-16-005",
+  "nhtsaCampaignNumber": "23V434000",
+  "reportReceivedDate": "2023-06-19T08:00:00Z",
+  "subject": "Defective Pyrotechnic Battery Disconnect",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2023 Model 3 and Model Y vehicles.  The pyrotechnic battery disconnect may be defective.",
+  "consequence": "A defective battery disconnect may not isolate the vehicle's high voltage battery after a crash or fault detection, increasing the risk of electrical shock and injury.",
+  "correctiveAction": "Tesla Service will replace the pyrotechnic battery disconnect, free of charge.  Owner notification letters were mailed August 18, 2023.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-23-16-005.",
+  "potentialNumberOfUnitsAffected": 26,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 13,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=23V434000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 2,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=23V434000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 657,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "119100 ELECTRICAL SYSTEM"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2023
+  ],
+  "documents": [
+   {
+    "id": 634823,
+    "fileSize": 214536,
+    "mimeType": "application/pdf",
+    "summary": "Defect Notice 573 Report",
+    "fileName": "RCLRPT-23V434-8034.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-06-23T11:02:34Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V434-8034.PDF"
+   },
+   {
+    "id": 634828,
+    "fileSize": 693555,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-23V434-5216.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-06-23T11:02:34Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCAK-23V434-5216.pdf"
+   },
+   {
+    "id": 637062,
+    "fileSize": 195297,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-23V434-9217.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-07-19T08:05:50Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V434-9217.pdf"
+   },
+   {
+    "id": 641434,
+    "fileSize": 104642,
+    "mimeType": "application/pdf",
+    "summary": "ISSUED Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-23V434-3947.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-08-22T08:05:06Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V434-3947.pdf"
+   },
+   {
+    "id": 665756,
+    "fileSize": 211269,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2023-3",
+    "fileName": "RCLQRT-23V434-9420.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-11-01T08:05:18Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V434-9420.PDF"
+   },
+   {
+    "id": 676138,
+    "fileSize": 211370,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #2, 2023-4",
+    "fileName": "RCLQRT-23V434-9929.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-02-02T10:04:00Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V434-9929.PDF"
+   },
+   {
+    "id": 688751,
+    "fileSize": 211446,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #3, 2024-1",
+    "fileName": "RCLQRT-23V434-5258.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-07T08:05:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V434-5258.PDF"
+   },
+   {
+    "id": 698837,
+    "fileSize": 211627,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #4, 2024-2",
+    "fileName": "RCLQRT-23V434-8954.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-31T08:11:17Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V434-8954.PDF"
+   },
+   {
+    "id": 708441,
+    "fileSize": 211732,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #5, 2024-3",
+    "fileName": "RCLQRT-23V434-8388.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-25T08:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V434-8388.PDF"
+   },
+   {
+    "id": 720404,
+    "fileSize": 211818,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #6, 2024-4",
+    "fileName": "RCLQRT-23V434-2086.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-02-01T10:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V434-2086.PDF"
+   },
+   {
+    "id": 733469,
+    "fileSize": 211894,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #7, 2025-1",
+    "fileName": "RCLQRT-23V434-5621.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-05-02T04:05:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V434-5621.PDF"
+   },
+   {
+    "id": 748987,
+    "fileSize": 140,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-23V434-8338.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-07-31T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V434-8338.pdf"
+   },
+   {
+    "id": 804793,
+    "fileSize": 147,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report",
+    "fileName": "RCLYLY-23V434-9719.pdf",
+    "loadDate": "2026-07-30T11:00:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLYLY-23V434-9719.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1641974,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": true,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-22-00-016",
+  "nhtsaCampaignNumber": "22V844000",
+  "reportReceivedDate": "2022-11-15T05:00:00Z",
+  "subject": "Taillight May Fail to Illuminate",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2023 Model 3 and 2020-2023 Model Y vehicles.  One or both taillights may intermittently fail to illuminate.",
+  "consequence": "A taillight that fails to illuminate may reduce the visibility of the vehicle, increasing the risk of a crash.",
+  "correctiveAction": "Tesla has released an over-the-air (OTA) software update, free of charge.  Owner notification letters were mailed January 14, 2023.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-22-00-016.",
+  "potentialNumberOfUnitsAffected": 321628,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 13,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V844000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 5,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=22V844000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 421,
+    "name": "EXTERIOR LIGHTING",
+    "description": "123000 EXTERIOR LIGHTING"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2023
+  ],
+  "documents": [
+   {
+    "id": 604553,
+    "fileSize": 214322,
+    "mimeType": "application/pdf",
+    "summary": "Defect Notice 573 Report",
+    "fileName": "RCLRPT-22V844-3313.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-11-19T08:03:38Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V844-3313.PDF"
+   },
+   {
+    "id": 604564,
+    "fileSize": 1322,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-22V844-3875.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-11-19T08:03:38Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCAK-22V844-3875.pdf"
+   },
+   {
+    "id": 609942,
+    "fileSize": 201717,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-22V844-6324.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-11-22T05:05:12Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCRIT-22V844-6324.pdf"
+   },
+   {
+    "id": 615282,
+    "fileSize": 72615,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-22V844-8618.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-01-18T10:07:22Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCONL-22V844-8618.pdf"
+   },
+   {
+    "id": 629414,
+    "fileSize": 211138,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2023-1",
+    "fileName": "RCLQRT-22V844-9406.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-05-03T08:05:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V844-9406.PDF"
+   },
+   {
+    "id": 639235,
+    "fileSize": 211235,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #2, 2023-2",
+    "fileName": "RCLQRT-22V844-3416.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-08-02T08:05:25Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V844-3416.PDF"
+   },
+   {
+    "id": 665526,
+    "fileSize": 211456,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #3, 2023-3",
+    "fileName": "RCLQRT-22V844-6568.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-11-01T08:05:18Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V844-6568.PDF"
+   },
+   {
+    "id": 676024,
+    "fileSize": 211567,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #4, 2023-4",
+    "fileName": "RCLQRT-22V844-9046.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-02-02T10:04:00Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V844-9046.PDF"
+   },
+   {
+    "id": 688254,
+    "fileSize": 211672,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #5, 2024-1",
+    "fileName": "RCLQRT-22V844-5151.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-03T08:05:21Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V844-5151.PDF"
+   },
+   {
+    "id": 698642,
+    "fileSize": 211836,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #6, 2024-2",
+    "fileName": "RCLQRT-22V844-7646.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-31T08:11:17Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V844-7646.PDF"
+   },
+   {
+    "id": 709338,
+    "fileSize": 211916,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #7, 2024-3",
+    "fileName": "RCLQRT-22V844-5615.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-29T08:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V844-5615.PDF"
+   },
+   {
+    "id": 720409,
+    "fileSize": 212000,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #8, 2024-4",
+    "fileName": "RCLQRT-22V844-6858.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-02-01T10:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLQRT-22V844-6858.PDF"
+   },
+   {
+    "id": 774675,
+    "fileSize": 147,
+    "mimeType": "application/pdf",
+    "summary": "Recall Annual Report",
+    "fileName": "RCLYLY-22V844-2745.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-02-05T13:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2022/RCLYLY-22V844-2745.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1959034,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": false,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-26-00-004",
+  "nhtsaCampaignNumber": "26V445000",
+  "reportReceivedDate": "2026-07-07T23:08:15Z",
+  "subject": "Noncompliant Vehicles Incorrectly Imported/FMVSS 208, 201",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2026 Model Y and 2024 Model 3 vehicles. The vehicles were originally built for a foreign market and do not have knee air bags, may not be equipped with certain interior safety countermeasures, and may not have been tested for bumper impact resistance procedures. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard numbers, 208, \"Occupant Crash Protection,\" 201, \"Occupant Protection in Interior Impact,\" and Part 581, \"Bumper Standards.\"",
+  "consequence": "A noncompliant vehicle may have reduced occupant protections, increasing the risk of injury during a crash.",
+  "correctiveAction": "Tesla will repurchase noncompliant vehicles currently registered in the United States, free of charge. Owner notification letters were mailed September 4, 2026. Owners may contact Tesla customer service at 1-877-798-3752 or resolutions@tesla.com. Tesla's number for this recall is SB-26-00-004.",
+  "potentialNumberOfUnitsAffected": 15,
+  "notes": null,
+  "associatedDocumentsCount": 7,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=26V445000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 2,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=26V445000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 315,
+    "name": "STRUCTURE",
+    "description": "162200 STRUCTURE"
+   },
+   {
+    "id": 355,
+    "name": "AIR BAGS",
+    "description": "146000 AIR BAGS"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2024
+  ],
+  "documents": [
+   {
+    "id": 801703,
+    "fileSize": 452,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report - 07/15/2026",
+    "fileName": "RCLRPT-26V445-6238.pdf",
+    "loadDate": "2026-07-16T11:00:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V445-6238.pdf"
+   },
+   {
+    "id": 801704,
+    "fileSize": 321,
+    "mimeType": "application/pdf",
+    "summary": "RCAK - Recall Acknowledgement",
+    "fileName": "RCAK-26V445-5130.pdf",
+    "loadDate": "2026-07-16T11:00:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2026/RCAK-26V445-5130.pdf"
+   },
+   {
+    "id": 801705,
+    "fileSize": 452,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report",
+    "fileName": "RCLRPT-26V445-3153.pdf",
+    "loadDate": "2026-07-16T11:00:29Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V445-3153.pdf"
+   },
+   {
+    "id": 804535,
+    "fileSize": 453,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report - 07/17/2026",
+    "fileName": "RCLRPT-26V445-2573.pdf",
+    "loadDate": "2026-07-29T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V445-2573.pdf"
+   },
+   {
+    "id": 810031,
+    "fileSize": 235,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB",
+    "fileName": "RCRIT-26V445-8235.pdf",
+    "loadDate": "2026-09-03T11:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2026/RCRIT-26V445-8235.pdf"
+   },
+   {
+    "id": 817548,
+    "fileSize": 107,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Owner Notification Letter - Mailed",
+    "fileName": "RCONL-26V445-2561.pdf",
+    "loadDate": "2026-10-30T07:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2026/RCONL-26V445-2561.pdf"
+   },
+   {
+    "id": 828907,
+    "fileSize": 122,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-26V445-6485.pdf",
+    "loadDate": "2026-11-14T08:00:26Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2026/RCLQRT-26V445-6485.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1820337,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": false,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-25-00-001",
+  "nhtsaCampaignNumber": "25V002000",
+  "reportReceivedDate": "2025-01-07T07:02:47Z",
+  "subject": "Rearview Camera Image May Fail/FMVSS 111",
+  "summary": "Tesla, Inc. (Tesla) is recalling certain 2024-2025 Model 3, Model S, 2023-2025 Model X, and Model Y vehicles.  The computer circuit board may short, resulting in the loss of the rearview camera image.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 111, \"Rear Visibility.\"",
+  "consequence": "A rearview camera that does not display an image reduces the driver's rear view, increasing the risk of a crash.",
+  "correctiveAction": "Tesla released an over-the-air (OTA) software update, free of charge. Tesla will also identify any vehicles that experienced a circuit board failure, or stress that may lead to a circuit board failure, and replace the affected computers, free of charge.  Owner notification letters were mailed March 7, 2025.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-25-00-001.",
+  "potentialNumberOfUnitsAffected": 239382,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153) or go to nhtsa.gov.",
+  "associatedDocumentsCount": 12,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=25V002000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 10,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=25V002000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 78,
+    "name": "BACK OVER PREVENTION",
+    "description": "280100 BACK OVER PREVENTION"
+   },
+   {
+    "id": 374,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "110000 ELECTRICAL SYSTEM"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2024
+  ],
+  "documents": [
+   {
+    "id": 717234,
+    "fileSize": 240291,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report",
+    "fileName": "RCLRPT-25V002-6930.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-01-10T13:00:03Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCLRPT-25V002-6930.PDF"
+   },
+   {
+    "id": 717235,
+    "fileSize": 703677,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-25V002-9065.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-01-10T13:00:03Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCAK-25V002-9065.pdf"
+   },
+   {
+    "id": 721477,
+    "fileSize": 225222,
+    "mimeType": "application/pdf",
+    "summary": "Remedy Instructions and TSB - SB-25-00-001 February 21, 2025",
+    "fileName": "RCRIT-25V002-2275.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-02-25T05:05:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCRIT-25V002-2275.pdf"
+   },
+   {
+    "id": 722337,
+    "fileSize": 257245,
+    "mimeType": "application/pdf",
+    "summary": "Owner Notification Letter(Part 577)",
+    "fileName": "RCONL-25V002-8417.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-03-13T04:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCONL-25V002-8417.pdf"
+   },
+   {
+    "id": 730918,
+    "fileSize": 239873,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report-Amendment 04/21/2025",
+    "fileName": "RCLRPT-25V002-7676.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-04-23T04:05:01Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCLRPT-25V002-7676.PDF"
+   },
+   {
+    "id": 733444,
+    "fileSize": 211349,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2025-1",
+    "fileName": "RCLQRT-25V002-6832.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-05-02T04:05:02Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCLQRT-25V002-6832.PDF"
+   },
+   {
+    "id": 749622,
+    "fileSize": 124,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-25V002-8585.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-08-01T11:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCLQRT-25V002-8585.pdf"
+   },
+   {
+    "id": 762495,
+    "fileSize": 127,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-25V002-3124.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-11-04T13:00:26Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCLQRT-25V002-3124.pdf"
+   },
+   {
+    "id": 774794,
+    "fileSize": 130,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-25V002-5423.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-02-05T13:00:27Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCLQRT-25V002-5423.pdf"
+   },
+   {
+    "id": 790488,
+    "fileSize": 132,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-25V002-0202.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-05-01T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCLQRT-25V002-0202.pdf"
+   },
+   {
+    "id": 804454,
+    "fileSize": 135,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-25V002-6395.pdf",
+    "loadDate": "2026-07-29T11:00:28Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCLQRT-25V002-6395.pdf"
+   },
+   {
+    "id": 828889,
+    "fileSize": 137,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report",
+    "fileName": "RCLQRT-25V002-6939.pdf",
+    "loadDate": "2026-11-14T08:00:26Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2025/RCLQRT-25V002-6939.pdf"
+   }
+  ]
+ },
+ {
+  "id": 1761490,
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": false,
+  "manufacturer": "Tesla, Inc.",
+  "mfrCampaignNumber": "SB-24-13-001",
+  "nhtsaCampaignNumber": "24V284000",
+  "reportReceivedDate": "2024-04-19T08:00:00Z",
+  "subject": "Driver's Side Air Bag May Deploy Improperly",
+  "summary": "Tesla, Inc. (Tesla) is recalling one 2024 Model 3 vehicle.  The driver seat side air bag module was assembled without a deflector that directs gas flow during deployment.",
+  "consequence": "Without a deflector, the air bag may deploy improperly, increasing the risk of injury during a crash.",
+  "correctiveAction": "Tesla service replaced the side air bag, free of charge.  The affected vehicle was repaired April 12, 2024.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's number for this recall is SB-24-13-001.",
+  "potentialNumberOfUnitsAffected": 1,
+  "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "associatedDocumentsCount": 3,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=24V284000&filter=issueType&filterValue=recalls",
+  "associatedProductsCount": 1,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=24V284000&filter=issueType&filterValue=recalls",
+  "components": [
+   {
+    "id": 60,
+    "name": "AIR BAGS",
+    "description": "142200 AIR BAGS"
+   }
+  ],
+  "investigations": [],
+  "modelYears": [
+   2024
+  ],
+  "documents": [
+   {
+    "id": 686262,
+    "fileSize": 645282,
+    "mimeType": "application/pdf",
+    "summary": "Recall Acknowledgement",
+    "fileName": "RCAK-24V284-2652.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-04-24T11:00:09Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCAK-24V284-2652.pdf"
+   },
+   {
+    "id": 686269,
+    "fileSize": 214148,
+    "mimeType": "application/pdf",
+    "summary": "Recall 573 Report",
+    "fileName": "RCLRPT-24V284-8773.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-04-24T11:00:09Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLRPT-24V284-8773.PDF"
+   },
+   {
+    "id": 701362,
+    "fileSize": 211332,
+    "mimeType": "application/pdf",
+    "summary": "Recall Quarterly Report #1, 2024-2",
+    "fileName": "RCLQRT-24V284-7916.PDF",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-08-16T08:19:17Z",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLQRT-24V284-7916.PDF"
+   }
+  ]
+ }
+]

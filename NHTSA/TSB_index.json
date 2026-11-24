@@ -1,0 +1,3576 @@
+[
+ {
+  "manufacturerCommunicationNumber": "SB-26-33-001",
+  "nhtsaIdNumber": 11033173,
+  "subject": null,
+  "summary": "On certain Model 3 vehicles, brake lines may be corroded beyond acceptable limits, which may result in loss of brake fluid. Loss of brake fluid will result in a customer facing alert if the fluid reaches the predetermined level to trigger an alert. Upon customer complaint of a low brake fluid alert, evidence of a brake fluid leak, or a failed periodic roadworthiness inspection, inspect the brake lines. If corrosion is found on any of the brake lines, replace all brake lines on the vehicle with new corrosion-resistant parts, in one combined repair. NOTE: Due to dual reduncancy, vehicle safety is not impacted by corrosion on the brake lines.",
+  "communicationDate": "2026-05-08T04:00:00Z",
+  "components": [
+   {
+    "id": 547,
+    "name": "SERVICE BRAKES",
+    "description": "030000 BRAKES (PWS)"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11033173&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 7,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11033173&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 795206,
+    "fileSize": 821,
+    "mimeType": "application/pdf",
+    "summary": "Bulletin",
+    "fileName": "MC-11033173-0001.pdf",
+    "loadDate": "2026-06-03T11:01:19Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2026/MC-11033173-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-26-33-001",
+  "nhtsaIdNumber": 11029583,
+  "subject": null,
+  "summary": "On certain Model 3 vehicles, brake lines may be corroded beyond acceptable limits, which may result in loss of brake fluid. Loss of brake fluid will result in a customer facing alert if the fluid reaches the predetermined level to trigger an alert. Upon customer complaint of a low brake fluid alert, evidence of a brake fluid leak, or a failed periodic roadworthiness inspection, inspect the brake lines. If corrosion is found on any of the brake lines, replace all brake lines on the vehicle with new corrosion-resistant parts, in one combined repair. NOTE: Due to dual reduncancy, vehicle safety is not impacted by corrosion on the brake lines.",
+  "communicationDate": "2026-02-11T05:00:00Z",
+  "components": [
+   {
+    "id": 547,
+    "name": "SERVICE BRAKES",
+    "description": "030000 BRAKES (PWS)"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11029583&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 7,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11029583&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 779167,
+    "fileSize": 759,
+    "mimeType": "application/pdf",
+    "summary": "Bulletin",
+    "fileName": "MC-11029583-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2026-03-05T13:01:04Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2026/MC-11029583-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-25-31-004",
+  "nhtsaIdNumber": 11020192,
+  "subject": null,
+  "summary": "A firmware diagnosis feature is being introduced on Model 3 and Model Y vehicles that monitors wheel alignment over time. This feature detects changes in wheel alignment that may be related to incorrect tire pressures, degraded ball joints, bushings or damaged suspension links. If the feature determines that an inspection at a Tesla Service Center is required, a customer-facing alert will appear on the touchscreen.",
+  "communicationDate": "2025-06-24T04:00:00Z",
+  "components": [
+   {
+    "id": 328,
+    "name": "SUSPENSION",
+    "description": "020000 SUSPENSION"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11020192&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 15,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11020192&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 741824,
+    "fileSize": 1329,
+    "mimeType": "application/pdf",
+    "summary": "Bulletin",
+    "fileName": "MC-11020192-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-07-04T11:01:03Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2025/MC-11020192-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.26.9_s3xy.pdf",
+  "nhtsaIdNumber": 11008776,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-09-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008776&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008776&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 706264,
+    "fileSize": 25555,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11008776-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-09T11:01:26Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11008776-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.38_s3xy.pdf",
+  "nhtsaIdNumber": 11008779,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-09-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008779&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008779&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 706267,
+    "fileSize": 27610,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11008779-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-09T11:01:29Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11008779-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "fsd-12-5-3_s3xy.pdf",
+  "nhtsaIdNumber": 11008781,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-09-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008781&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008781&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 706269,
+    "fileSize": 27480,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11008781-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-09T11:01:31Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11008781-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "fsd-12-5-4_s3xy.pdf",
+  "nhtsaIdNumber": 11008782,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-09-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008782&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008782&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 706270,
+    "fileSize": 27419,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11008782-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-09T11:01:32Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11008782-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "fsd-12-5-4-1_s3xy.pdf",
+  "nhtsaIdNumber": 11008783,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-09-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008783&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008783&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 706271,
+    "fileSize": 25529,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11008783-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-09T11:01:34Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11008783-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.26.9_s3xy.pdf",
+  "nhtsaIdNumber": 11008800,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-09-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008800&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008800&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 706288,
+    "fileSize": 25555,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11008800-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-09T11:01:42Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11008800-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.38_s3xy.pdf",
+  "nhtsaIdNumber": 11008803,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-09-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008803&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008803&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 706291,
+    "fileSize": 27610,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11008803-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-09T11:01:50Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11008803-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "fsd-12-5-3_s3xy.pdf",
+  "nhtsaIdNumber": 11008805,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-09-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008805&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008805&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 706293,
+    "fileSize": 27480,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11008805-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-09T11:01:45Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11008805-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "fsd-12-5-4_s3xy.pdf",
+  "nhtsaIdNumber": 11008806,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-09-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008806&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008806&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 706294,
+    "fileSize": 27419,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11008806-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-09T11:01:46Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11008806-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "fsd-12-5-4-1_s3xy.pdf",
+  "nhtsaIdNumber": 11008807,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-09-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008807&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008807&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 706295,
+    "fileSize": 25529,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11008807-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-09T11:01:48Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11008807-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.26.9_s3xy.pdf",
+  "nhtsaIdNumber": 11008824,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-09-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008824&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008824&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 706312,
+    "fileSize": 25555,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11008824-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-09T11:02:06Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11008824-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.38_s3xy.pdf",
+  "nhtsaIdNumber": 11008827,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-09-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008827&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008827&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 706315,
+    "fileSize": 27610,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11008827-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-09T11:01:59Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11008827-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "fsd-12-5-3_s3xy.pdf",
+  "nhtsaIdNumber": 11008829,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-09-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008829&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008829&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 706317,
+    "fileSize": 27480,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11008829-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-09T11:02:08Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11008829-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "fsd-12-5-4_s3xy.pdf",
+  "nhtsaIdNumber": 11008830,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-09-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008830&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008830&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 706318,
+    "fileSize": 27419,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11008830-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-09T11:02:00Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11008830-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "fsd-12-5-4-1_s3xy.pdf",
+  "nhtsaIdNumber": 11008831,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-09-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008831&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008831&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 706319,
+    "fileSize": 25529,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11008831-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-09T11:02:01Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11008831-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.26.11_0824.pdf",
+  "nhtsaIdNumber": 11006910,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-08-31T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11006910&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 37,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11006910&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 702519,
+    "fileSize": 16577,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11006910-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-09-04T11:02:05Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11006910-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "fsd_12-5-1-2_082024.pdf",
+  "nhtsaIdNumber": 11006911,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-08-31T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11006911&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 25,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11006911&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 702520,
+    "fileSize": 48626,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11006911-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-09-04T11:02:07Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11006911-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.26.100_082024.pdf",
+  "nhtsaIdNumber": 11006912,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-08-31T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11006912&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 37,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11006912&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 702521,
+    "fileSize": 16400,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11006912-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-09-04T11:02:08Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11006912-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.32.3_082024.pdf",
+  "nhtsaIdNumber": 11006913,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-08-31T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11006913&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 37,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11006913&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 702522,
+    "fileSize": 49882,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11006913-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-09-04T11:02:10Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11006913-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.32_0824.pdf",
+  "nhtsaIdNumber": 11006914,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-08-31T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11006914&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 37,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11006914&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 702523,
+    "fileSize": 33017,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11006914-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-09-04T11:02:11Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11006914-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.20.200_0724.pdf",
+  "nhtsaIdNumber": 11005737,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-07-31T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11005737&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 37,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11005737&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 700034,
+    "fileSize": 26156,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11005737-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-08-06T11:02:11Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11005737-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.26.3_0724.pdf",
+  "nhtsaIdNumber": 11005738,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-07-31T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11005738&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 26,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11005738&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 700035,
+    "fileSize": 27925,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11005738-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-08-06T11:02:12Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11005738-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.26_0624.pdf",
+  "nhtsaIdNumber": 11005740,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-07-31T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11005740&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11005740&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 700037,
+    "fileSize": 48030,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11005740-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-08-06T11:02:16Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11005740-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "fsd_12-4-4_0724.pdf",
+  "nhtsaIdNumber": 11005741,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-07-31T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11005741&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11005741&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 700038,
+    "fileSize": 27782,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11005741-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-08-06T11:02:17Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11005741-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "fsd-12-5_072024.pdf",
+  "nhtsaIdNumber": 11005742,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-07-31T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11005742&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11005742&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 700039,
+    "fileSize": 48023,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11005742-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-08-06T11:02:20Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11005742-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.20.1_0624.pdf",
+  "nhtsaIdNumber": 11003084,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-06-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11003084&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 37,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11003084&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 694896,
+    "fileSize": 47794,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11003084-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-03T11:03:14Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11003084-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.20.3_0624.pdf",
+  "nhtsaIdNumber": 11003085,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-06-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11003085&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 37,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11003085&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 694897,
+    "fileSize": 50647,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11003085-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-03T11:03:16Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11003085-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.20.6_0624.pdf",
+  "nhtsaIdNumber": 11003086,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-06-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11003086&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 37,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11003086&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 694898,
+    "fileSize": 47497,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11003086-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-03T11:03:17Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11003086-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "fsd_12-4-1_062024.pdf",
+  "nhtsaIdNumber": 11003087,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-06-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11003087&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11003087&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 694899,
+    "fileSize": 47497,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11003087-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-03T11:03:18Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11003087-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.14.5_0524.pdf",
+  "nhtsaIdNumber": 11001844,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-05-31T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001844&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 38,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001844&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 693540,
+    "fileSize": 47449,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11001844-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-06-19T11:01:07Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11001844-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.14.8_0524.pdf",
+  "nhtsaIdNumber": 11001845,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-05-31T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001845&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 38,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001845&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 693541,
+    "fileSize": 47534,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11001845-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-06-19T11:01:08Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11001845-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.20.1_0524.pdf",
+  "nhtsaIdNumber": 11001846,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-05-31T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001846&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 38,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001846&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 693542,
+    "fileSize": 47490,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11001846-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-06-19T11:01:10Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11001846-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.20_0524.pdf",
+  "nhtsaIdNumber": 11001847,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-05-31T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001847&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 37,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001847&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 693543,
+    "fileSize": 47498,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11001847-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-06-19T11:01:11Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11001847-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "fsd-12-4_0524.pdf",
+  "nhtsaIdNumber": 11001848,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-05-31T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001848&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 37,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001848&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 693544,
+    "fileSize": 47283,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11001848-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-06-19T11:01:12Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11001848-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "fsd_12-4-2_062024.pdf",
+  "nhtsaIdNumber": 11003088,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-05-31T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11003088&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11003088&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 694900,
+    "fileSize": 50305,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11003088-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-07-03T11:03:20Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11003088-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.14_0524.pdf",
+  "nhtsaIdNumber": 11001927,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-04-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001927&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 37,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001927&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 693601,
+    "fileSize": 47303,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11001927-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-06-21T11:00:49Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11001927-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.8.100_0524.pdf",
+  "nhtsaIdNumber": 11001928,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-04-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001928&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 37,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001928&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 693602,
+    "fileSize": 47101,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11001928-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-06-21T11:00:51Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11001928-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "2024.8.200_0524.pdf",
+  "nhtsaIdNumber": 11001929,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-04-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001929&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 37,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001929&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 693603,
+    "fileSize": 47052,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11001929-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-06-21T11:00:53Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11001929-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "fsd-12-3-4_0524.pdf",
+  "nhtsaIdNumber": 11001930,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-04-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001930&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001930&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 693604,
+    "fileSize": 47003,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11001930-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-06-21T11:00:54Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11001930-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "fsd-12-4_0524.pdf",
+  "nhtsaIdNumber": 11001931,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner’s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner’s manual content for the vehicle converted to PDF format, and given the distribution method and NHTSA’s submission format requirements, it is the best available representative copy of owner’s manual content. However, a customer who accesses the owner’s manual via their vehicle’s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-04-30T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001931&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 36,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001931&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 693605,
+    "fileSize": 47199,
+    "mimeType": "application/pdf",
+    "summary": "Other",
+    "fileName": "MC-11001931-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-06-21T11:00:56Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11001931-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-24-10-005",
+  "nhtsaIdNumber": 11001923,
+  "subject": null,
+  "summary": "Certain Standard Range Model 3 and Model Y vehicles that received the Lithium Iron Phosphate (LFP) HV Battery Retrofit did not receive the 2nd row floor reinforcement plate, which provides additional protection for the LFP HV Battery.",
+  "communicationDate": "2024-04-16T04:00:00Z",
+  "components": [
+   {
+    "id": 314,
+    "name": "STRUCTURE",
+    "description": "162000 STRUCTURE"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001923&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 8,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11001923&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 693597,
+    "fileSize": 320,
+    "mimeType": "application/pdf",
+    "summary": "Bulletin",
+    "fileName": "MC-11001923-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-06-21T11:00:46Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11001923-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "OwnersD",
+  "nhtsaIdNumber": 10253670,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner?s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner?s manual content for Model 3 vehicles converted to PDF format, and given the distribution method and NHTSA?s submission format requirements, it is the best available representative copy of owner?s manual content. However, a customer who accesses the owner?s manual via their vehicle?s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-03-30T08:00:00Z",
+  "components": [
+   {
+    "id": 399,
+    "name": "EQUIPMENT",
+    "description": "355200 EQUIPMENT"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10253670&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 8,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10253670&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 688342,
+    "fileSize": 10863573,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10253670-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-03T11:00:24Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-10253670-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "Index390",
+  "nhtsaIdNumber": 10253666,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner?s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner?s manual content for Model 3 vehicles converted to PDF format, and given the distribution method and NHTSA?s submission format requirements, it is the best available representative copy of owner?s manual content. However, a customer who accesses the owner?s manual via their vehicle?s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-03-27T08:00:00Z",
+  "components": [
+   {
+    "id": 569,
+    "name": "EQUIPMENT",
+    "description": "350000 EQUIPMENT"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10253666&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 7,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10253666&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 688335,
+    "fileSize": 10822905,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10253666-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-03T11:00:24Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-10253666-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "Owners",
+  "nhtsaIdNumber": 10253657,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner?s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner?s manual content for Model 3 vehicles converted to PDF format, and given the distribution method and NHTSA?s submission format requirements, it is the best available representative copy of owner?s manual content. However, a customer who accesses the owner?s manual via their vehicle?s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-03-26T08:00:00Z",
+  "components": [
+   {
+    "id": 102,
+    "name": "EQUIPMENT",
+    "description": "353620 EQUIPMENT"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10253657&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 8,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10253657&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 688424,
+    "fileSize": 10857362,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10253657-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-03T11:00:24Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-10253657-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "Index389",
+  "nhtsaIdNumber": 10253655,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner?s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner?s manual content for Model 3 vehicles converted to PDF format, and given the distribution method and NHTSA?s submission format requirements, it is the best available representative copy of owner?s manual content. However, a customer who accesses the owner?s manual via their vehicle?s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-03-23T08:00:00Z",
+  "components": [
+   {
+    "id": 102,
+    "name": "EQUIPMENT",
+    "description": "353620 EQUIPMENT"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10253655&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 8,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10253655&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 688418,
+    "fileSize": 10816508,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10253655-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-03T11:00:24Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-10253655-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB2118002",
+  "nhtsaIdNumber": 10253653,
+  "subject": null,
+  "summary": "Certain Model 3 and Model Y vehicles may be equipped with refrigerant pressure/temperature (P/T) sensors in the heat pump that can fault over time.",
+  "communicationDate": "2024-03-21T08:00:00Z",
+  "components": [
+   {
+    "id": 609,
+    "name": "VISIBILITY",
+    "description": "138000 VISIBILITY"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10253653&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 4,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10253653&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021
+  ],
+  "documents": [
+   {
+    "id": 688280,
+    "fileSize": 940753,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10253653-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-03T11:00:24Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-10253653-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "terminal",
+  "nhtsaIdNumber": 10252961,
+  "subject": null,
+  "summary": "Owner's Manual.",
+  "communicationDate": "2024-02-19T10:00:00Z",
+  "components": [
+   {
+    "id": 399,
+    "name": "EQUIPMENT",
+    "description": "355200 EQUIPMENT"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10252961&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 7,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10252961&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 684117,
+    "fileSize": 10797165,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10252961-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-04-11T11:00:30Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-10252961-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "developF",
+  "nhtsaIdNumber": 10252956,
+  "subject": null,
+  "summary": "Owner's Manual.",
+  "communicationDate": "2024-02-13T10:00:00Z",
+  "components": [
+   {
+    "id": 399,
+    "name": "EQUIPMENT",
+    "description": "355200 EQUIPMENT"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10252956&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 8,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10252956&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 684206,
+    "fileSize": 10849936,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10252956-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-04-11T11:00:30Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-10252956-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "develop",
+  "nhtsaIdNumber": 10252948,
+  "subject": null,
+  "summary": "Owner's Manual",
+  "communicationDate": "2024-02-07T10:00:00Z",
+  "components": [
+   {
+    "id": 399,
+    "name": "EQUIPMENT",
+    "description": "355200 EQUIPMENT"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10252948&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 8,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10252948&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 684078,
+    "fileSize": 10839010,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10252948-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-04-11T11:00:30Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-10252948-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "Owners documenta",
+  "nhtsaIdNumber": 10251056,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner?s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner?s manual content for Model 3 vehicles converted to PDF format, and given the distribution method and NHTSA?s submission format requirements, it is the best available representative copy of owner?s manual content. However, a customer who accesses the owner?s manual via their vehicle?s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-01-28T10:00:00Z",
+  "components": [
+   {
+    "id": 569,
+    "name": "EQUIPMENT",
+    "description": "350000 EQUIPMENT"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10251056&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 7,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10251056&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 680455,
+    "fileSize": 10867078,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10251056-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-03-08T13:00:06Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-10251056-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "Owners documenta",
+  "nhtsaIdNumber": 10251046,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner?s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner?s manual content for Model 3 vehicles converted to PDF format, and given the distribution method and NHTSA?s submission format requirements, it is the best available representative copy of owner?s manual content. However, a customer who accesses the owner?s manual via their vehicle?s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-01-18T10:00:00Z",
+  "components": [
+   {
+    "id": 569,
+    "name": "EQUIPMENT",
+    "description": "350000 EQUIPMENT"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10251046&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 7,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10251046&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 680420,
+    "fileSize": 10802971,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10251046-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-03-08T13:00:06Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-10251046-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "ManualF",
+  "nhtsaIdNumber": 10250486,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner?s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner?s manual content for Model 3 vehicles converted to PDF format, and given the distribution method and NHTSA?s submission format requirements, it is the best available representative copy of owner?s manual content. However, a customer who accesses the owner?s manual via their vehicle?s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2023-12-15T10:00:00Z",
+  "components": [
+   {
+    "id": 569,
+    "name": "EQUIPMENT",
+    "description": "350000 EQUIPMENT"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10250486&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 7,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10250486&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 681076,
+    "fileSize": 10799851,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10250486-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-03-13T11:00:14Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10250486-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "Manual",
+  "nhtsaIdNumber": 10250480,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner?s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner?s manual content for Model 3 vehicles converted to PDF format, and given the distribution method and NHTSA?s submission format requirements, it is the best available representative copy of owner?s manual content. However, a customer who accesses the owner?s manual via their vehicle?s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2023-12-01T10:00:00Z",
+  "components": [
+   {
+    "id": 569,
+    "name": "EQUIPMENT",
+    "description": "350000 EQUIPMENT"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10250480&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 7,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10250480&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022
+  ],
+  "documents": [
+   {
+    "id": 681050,
+    "fileSize": 9234051,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10250480-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-03-13T11:00:14Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10250480-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "ManualN",
+  "nhtsaIdNumber": 10247839,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner?s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner?s manual content for Model 3 vehicles converted to PDF format, and given the distribution method and NHTSA?s submission format requirements, it is the best available representative copy of owner?s manual content. However, a customer who accesses the owner?s manual via their vehicle?s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2023-11-22T10:00:00Z",
+  "components": [
+   {
+    "id": 569,
+    "name": "EQUIPMENT",
+    "description": "350000 EQUIPMENT"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10247839&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 7,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10247839&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 674346,
+    "fileSize": 9377560,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10247839-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-01-26T12:58:50Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10247839-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "Manual",
+  "nhtsaIdNumber": 10247832,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner?s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner?s manual content for Model 3 vehicles converted to PDF format, and given the distribution method and NHTSA?s submission format requirements, it is the best available representative copy of owner?s manual content. However, a customer who accesses the owner?s manual via their vehicle?s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2023-10-24T08:00:00Z",
+  "components": [
+   {
+    "id": 102,
+    "name": "EQUIPMENT",
+    "description": "353620 EQUIPMENT"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10247832&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 7,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10247832&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 675101,
+    "fileSize": 9394180,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10247832-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-01-31T12:58:59Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10247832-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "Documentation",
+  "nhtsaIdNumber": 10247390,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner?s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner?s manual content for Model 3 vehicles converted to PDF format, and given the distribution method and NHTSA?s submission format requirements, it is the best available representative copy of owner?s manual content. However, a customer who accesses the owner?s manual via their vehicle?s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2023-10-15T08:00:00Z",
+  "components": [
+   {
+    "id": 569,
+    "name": "EQUIPMENT",
+    "description": "350000 EQUIPMENT"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10247390&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 7,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10247390&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 673243,
+    "fileSize": 9812531,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10247390-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-01-18T12:59:16Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10247390-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-23-32-003",
+  "nhtsaIdNumber": 10245512,
+  "subject": null,
+  "summary": "On some Model 3 and Model Y vehicles, the steering wheel cover material may separate from the steering wheel at the 3 o'clock and 9 o'clock position (Figures 1 and 2). NOTE: The material separation of the steering wheel cover is cosmetic only and does not affect the performance or function of the steering wheel.",
+  "communicationDate": "2023-10-11T08:00:00Z",
+  "components": [
+   {
+    "id": 291,
+    "name": "STEERING",
+    "description": "010000 STEERING"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10245512&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 8,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10245512&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 668690,
+    "fileSize": 115119,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10245512-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-12-01T13:01:13Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10245512-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB23-32-003",
+  "nhtsaIdNumber": 10247387,
+  "subject": null,
+  "summary": "On some Model 3 and Model Y vehicles, the steering wheel cover material may separate from the steering wheel at the 3 o'clock and 9 o'clock position (Figures 1 and 2). NOTE: The material separation of the steering wheel cover is cosmetic only and does not affect the performance or function of the steering wheel.",
+  "communicationDate": "2023-10-11T08:00:00Z",
+  "components": [
+   {
+    "id": 291,
+    "name": "STEERING",
+    "description": "010000 STEERING"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10247387&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 8,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10247387&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 673246,
+    "fileSize": 115119,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10247387-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-01-18T12:59:16Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10247387-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB2320002R6",
+  "nhtsaIdNumber": 10243082,
+  "subject": null,
+  "summary": "Certain Model 3 and Model Y vehicles may need a different Occupant Classification System (OCS) installed in the front passenger seat before servicing its subcomponents.",
+  "communicationDate": "2023-08-02T08:00:00Z",
+  "components": [
+   {
+    "id": 312,
+    "name": "STRUCTURE",
+    "description": "160000 STRUCTURE"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10243082&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 12,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10243082&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 663412,
+    "fileSize": 872324,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10243082-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-10-18T11:02:04Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10243082-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB2320002R5",
+  "nhtsaIdNumber": 10240953,
+  "subject": null,
+  "summary": "Certain Model 3 and Model Y vehicles may need a different Occupant Classification System (OCS) installed in the front passenger seat before servicing its subcomponents.",
+  "communicationDate": "2023-06-16T08:00:00Z",
+  "components": [
+   {
+    "id": 312,
+    "name": "STRUCTURE",
+    "description": "160000 STRUCTURE"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10240953&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 12,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10240953&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 641990,
+    "fileSize": 873577,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10240953-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-08-29T11:00:25Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10240953-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "Manual",
+  "nhtsaIdNumber": 10240947,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner?s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner?s manual content for Model 3 vehicles converted to PDF format, and given the distribution method and NHTSA?s submission format requirements, it is the best available representative copy of owner?s manual content. However, a customer who accesses the owner?s manual via their vehicle?s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2023-06-09T08:00:00Z",
+  "components": [
+   {
+    "id": 569,
+    "name": "EQUIPMENT",
+    "description": "350000 EQUIPMENT"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10240947&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 7,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10240947&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 642014,
+    "fileSize": 10605431,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10240947-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-08-29T11:00:25Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10240947-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB2320002R4",
+  "nhtsaIdNumber": 10240946,
+  "subject": null,
+  "summary": "Certain Model 3 and Model Y vehicles may need a different Occupant Classification System (OCS) installed in the front passenger seat before servicing its subcomponents.",
+  "communicationDate": "2023-06-08T08:00:00Z",
+  "components": [
+   {
+    "id": 312,
+    "name": "STRUCTURE",
+    "description": "160000 STRUCTURE"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10240946&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 12,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10240946&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 641982,
+    "fileSize": 650107,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10240946-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-08-29T11:00:25Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10240946-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "Manual-5",
+  "nhtsaIdNumber": 10238121,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner?s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner?s manual content for Model 3 vehicles converted to PDF format, and given the distribution method and NHTSA?s submission format requirements, it is the best available representative copy of owner?s manual content. However, a customer who accesses the owner?s manual via their vehicle?s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2023-05-22T08:00:00Z",
+  "components": [
+   {
+    "id": 569,
+    "name": "EQUIPMENT",
+    "description": "350000 EQUIPMENT"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10238121&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 7,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10238121&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 635502,
+    "fileSize": 10551447,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10238121-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-07-01T11:00:19Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10238121-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-23-10-002 R2",
+  "nhtsaIdNumber": 10235969,
+  "subject": null,
+  "summary": "On some Model 3 vehicles, water may have leaked inside the trunk area through the trunk lid.",
+  "communicationDate": "2023-04-27T08:00:00Z",
+  "components": [
+   {
+    "id": 312,
+    "name": "STRUCTURE",
+    "description": "160000 STRUCTURE"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10235969&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 7,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10235969&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 633638,
+    "fileSize": 2847422,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10235969-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-06-09T11:02:02Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10235969-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-23-10-002 R1",
+  "nhtsaIdNumber": 10235966,
+  "subject": null,
+  "summary": "On some Model 3 vehicles, water may have leaked inside the trunk area through the trunk lid.",
+  "communicationDate": "2023-04-17T08:00:00Z",
+  "components": [
+   {
+    "id": 312,
+    "name": "STRUCTURE",
+    "description": "160000 STRUCTURE"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10235966&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 7,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10235966&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 633602,
+    "fileSize": 2809161,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10235966-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-06-09T11:02:02Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10235966-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-23-10-002",
+  "nhtsaIdNumber": 10235962,
+  "subject": null,
+  "summary": "On some Model 3 vehicles, water may have leaked inside the trunk area through the trunk lid.",
+  "communicationDate": "2023-04-05T08:00:00Z",
+  "components": [
+   {
+    "id": 312,
+    "name": "STRUCTURE",
+    "description": "160000 STRUCTURE"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10235962&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 7,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10235962&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 633683,
+    "fileSize": 2796667,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10235962-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-06-09T11:02:02Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10235962-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-23-20-002 R2",
+  "nhtsaIdNumber": 10234057,
+  "subject": null,
+  "summary": "Certain Model 3 and Model Y vehicles may need a different Occupant Classification System (OCS) installed in the front passenger seat before servicing its subcomponents.",
+  "communicationDate": "2023-03-27T08:00:00Z",
+  "components": [
+   {
+    "id": 230,
+    "name": "SEATS",
+    "description": "220000 SEATS"
+   },
+   {
+    "id": 660,
+    "name": "AIR BAGS",
+    "description": "143100 AIR BAGS"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10234057&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 11,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10234057&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 630258,
+    "fileSize": 593672,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10234057-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-05-10T11:00:49Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10234057-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-23-20-002 R1",
+  "nhtsaIdNumber": 10234053,
+  "subject": null,
+  "summary": "Certain Model 3 and Model Y vehicles may need a different Occupant Classification System (OCS) installed in the front passenger seat before servicing its subcomponents.",
+  "communicationDate": "2023-03-15T08:00:00Z",
+  "components": [
+   {
+    "id": 660,
+    "name": "AIR BAGS",
+    "description": "143100 AIR BAGS"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10234053&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 11,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10234053&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 630155,
+    "fileSize": 511044,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10234053-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-05-10T11:00:49Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10234053-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-23-20-002",
+  "nhtsaIdNumber": 10234051,
+  "subject": null,
+  "summary": "Certain Model 3 and Model Y vehicles may need a different Occupant Classification System (OCS) installed in the front passenger seat before servicing its subcomponents.",
+  "communicationDate": "2023-03-11T10:00:00Z",
+  "components": [
+   {
+    "id": 230,
+    "name": "SEATS",
+    "description": "220000 SEATS"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10234051&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 11,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10234051&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022,
+   2023
+  ],
+  "documents": [
+   {
+    "id": 630153,
+    "fileSize": 504642,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10234051-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-05-10T11:00:49Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10234051-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-21-18-002-R6",
+  "nhtsaIdNumber": 10226577,
+  "subject": null,
+  "summary": "Certain Model 3 and Model Y vehicles may be equipped with refrigerant pressure/temperature (P/T) sensors in the heat pump that can fault over time.",
+  "communicationDate": "2022-08-17T08:00:00Z",
+  "components": [
+   {
+    "id": 7,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "119121 ELECTRICAL SYSTEM"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10226577&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 4,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10226577&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021
+  ],
+  "documents": [
+   {
+    "id": 613742,
+    "fileSize": 938241,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10226577-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-01-04T13:01:49Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2022/MC-10226577-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB2233004",
+  "nhtsaIdNumber": 10213756,
+  "subject": null,
+  "summary": "Some Heat Pump Model 3 vehicles were built without a hydraulic control unit (HCU) wake-up wire, and in rare circumstances, braking and stability control related alerts may appear on the instrument cluster and touchscreen during the vehicle power-on process. Such faults can typically be corrected and the affected functionality restored with a vehicle power cycle.",
+  "communicationDate": "2022-04-29T08:00:00Z",
+  "components": [
+   {
+    "id": 329,
+    "name": "ELECTRONIC STABILITY CONTROL",
+    "description": "251000 ELECTRONIC STABILITY CONTROL"
+   },
+   {
+    "id": 374,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "110000 ELECTRICAL SYSTEM"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10213756&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 2,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10213756&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022
+  ],
+  "documents": [
+   {
+    "id": 591536,
+    "fileSize": 1848715,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10213756-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-07-12T11:00:05Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2022/MC-10213756-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB2233003",
+  "nhtsaIdNumber": 10213755,
+  "subject": null,
+  "summary": "Some Heat Pump Model 3 vehicles were built without a hydraulic control unit (HCU) wake-up wire, and in rare circumstances, braking and stability control related alerts may appear on the instrument cluster and touchscreen during the vehicle power-on process. Such faults can typically be corrected and the affected functionality restored with a vehicle power cycle.",
+  "communicationDate": "2022-04-29T08:00:00Z",
+  "components": [
+   {
+    "id": 329,
+    "name": "ELECTRONIC STABILITY CONTROL",
+    "description": "251000 ELECTRONIC STABILITY CONTROL"
+   },
+   {
+    "id": 374,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "110000 ELECTRICAL SYSTEM"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10213755&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 3,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10213755&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022
+  ],
+  "documents": [
+   {
+    "id": 591523,
+    "fileSize": 2055773,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10213755-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-07-12T11:00:05Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2022/MC-10213755-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB2233003",
+  "nhtsaIdNumber": 10234999,
+  "subject": null,
+  "summary": "Some Heat Pump Model 3 vehicles were built without a hydraulic control unit (HCU) wake-up wire, and in rare circumstances, braking and stability control related alerts may appear on the instrument cluster and touchscreen during the vehicle power-on process. Such faults can typically be corrected and the affected functionality restored with a vehicle power cycle.",
+  "communicationDate": "2022-04-29T08:00:00Z",
+  "components": [
+   {
+    "id": 428,
+    "name": "FUEL SYSTEM, GASOLINE",
+    "description": "070000 FUEL SYSTEM, GASOLINE"
+   },
+   {
+    "id": 329,
+    "name": "ELECTRONIC STABILITY CONTROL",
+    "description": "251000 ELECTRONIC STABILITY CONTROL"
+   },
+   {
+    "id": 192,
+    "name": "POWER TRAIN",
+    "description": "100000 POWER TRAIN"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10234999&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 3,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10234999&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022
+  ],
+  "documents": [
+   {
+    "id": 630129,
+    "fileSize": 2055773,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10234999-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-05-09T11:00:46Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2022/MC-10234999-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB2233004",
+  "nhtsaIdNumber": 10235000,
+  "subject": null,
+  "summary": "Some Heat Pump Model 3 vehicles were built without a hydraulic control unit (HCU) wake-up wire, and in rare circumstances, braking and stability control related alerts may appear on the instrument cluster and touchscreen during the vehicle power-on process. Such faults can typically be corrected and the affected functionality restored with a vehicle power cycle.",
+  "communicationDate": "2022-04-29T08:00:00Z",
+  "components": [
+   {
+    "id": 428,
+    "name": "FUEL SYSTEM, GASOLINE",
+    "description": "070000 FUEL SYSTEM, GASOLINE"
+   },
+   {
+    "id": 329,
+    "name": "ELECTRONIC STABILITY CONTROL",
+    "description": "251000 ELECTRONIC STABILITY CONTROL"
+   },
+   {
+    "id": 192,
+    "name": "POWER TRAIN",
+    "description": "100000 POWER TRAIN"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10235000&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 2,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10235000&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021,
+   2022
+  ],
+  "documents": [
+   {
+    "id": 630047,
+    "fileSize": 1848715,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10235000-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-05-09T11:00:46Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2022/MC-10235000-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB2118002R5",
+  "nhtsaIdNumber": 10210727,
+  "subject": null,
+  "summary": "Certain Model 3 and Model Y vehicles may be equipped with refrigerant pressure/temperature (P/T) sensors in the heat pump that can fault over time.",
+  "communicationDate": "2022-03-16T08:00:00Z",
+  "components": [
+   {
+    "id": 428,
+    "name": "FUEL SYSTEM, GASOLINE",
+    "description": "070000 FUEL SYSTEM, GASOLINE"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10210727&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 4,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10210727&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021
+  ],
+  "documents": [
+   {
+    "id": 585824,
+    "fileSize": 766493,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10210727-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-05-07T11:00:05Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2022/MC-10210727-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB2116003",
+  "nhtsaIdNumber": 10208324,
+  "subject": null,
+  "summary": "Certain Model 3 and Model Y vehicles were manufactured with high voltage (HV) batteries having cell separators that do not meet Tesla?s internal standards of quality, potentially resulting in a reduction of range.",
+  "communicationDate": "2021-12-07T10:00:00Z",
+  "components": [
+   {
+    "id": 376,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "111000 ELECTRICAL SYSTEM"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10208324&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 2,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10208324&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021
+  ],
+  "documents": [
+   {
+    "id": 580196,
+    "fileSize": 220799,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10208324-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-03-12T13:00:05Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2021/MC-10208324-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB2116003",
+  "nhtsaIdNumber": 10212799,
+  "subject": null,
+  "summary": "Certain Model 3 and Model Y vehicles were manufactured with high voltage (HV) batteries having cell separators that do not meet Tesla?s internal standards of quality, potentially resulting in a reduction of range.",
+  "communicationDate": "2021-12-07T10:00:00Z",
+  "components": [
+   {
+    "id": 21,
+    "name": "HYBRID PROPULSION SYSTEM",
+    "description": "100001 HYBRID PROPULSION SYSTEM"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10212799&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 2,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10212799&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021
+  ],
+  "documents": [
+   {
+    "id": 588872,
+    "fileSize": 220799,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10212799-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2022-06-08T11:00:05Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2021/MC-10212799-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-21-18-002 R3",
+  "nhtsaIdNumber": 10203343,
+  "subject": null,
+  "summary": "Certain Model 3 and Model Y vehicles may be equipped with refrigerant pressure/temperature (P/T) sensors in the heat pump that can fault over time.",
+  "communicationDate": "2021-07-10T04:00:00Z",
+  "components": [
+   {
+    "id": 553,
+    "name": "ENGINE AND ENGINE COOLING",
+    "description": "062000 ENGINE AND ENGINE COOLING"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10203343&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 4,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10203343&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021
+  ],
+  "documents": [
+   {
+    "id": 339911,
+    "fileSize": 1043633,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10203343-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-12-03T08:00:05Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2021/MC-10203343-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-21-18-002 R1",
+  "nhtsaIdNumber": 10190907,
+  "subject": null,
+  "summary": "Certain Model 3 and Model Y vehicles may be equipped with refrigerant pressure/temperature (P/T) sensors in the heat pump that can fault over time.",
+  "communicationDate": "2021-03-05T05:00:00Z",
+  "components": [
+   {
+    "id": 428,
+    "name": "FUEL SYSTEM, GASOLINE",
+    "description": "070000 FUEL SYSTEM, GASOLINE"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10190907&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 4,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10190907&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021
+  ],
+  "documents": [
+   {
+    "id": 337083,
+    "fileSize": 1038785,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10190907-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-04-29T07:00:04Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2021/MC-10190907-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-21-18-001 R1",
+  "nhtsaIdNumber": 10190908,
+  "subject": null,
+  "summary": "Certain Model 3 and Model Y vehicles may be equipped with refrigerant pressure/temperature (P/T) sensors in the heat pump that can fault over time.",
+  "communicationDate": "2021-03-05T05:00:00Z",
+  "components": [
+   {
+    "id": 428,
+    "name": "FUEL SYSTEM, GASOLINE",
+    "description": "070000 FUEL SYSTEM, GASOLINE"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10190908&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 4,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10190908&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021
+  ],
+  "documents": [
+   {
+    "id": 336527,
+    "fileSize": 1041541,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10190908-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-04-29T07:00:04Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2021/MC-10190908-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-21-18-002",
+  "nhtsaIdNumber": 10190906,
+  "subject": null,
+  "summary": "Certain Model 3 and Model Y vehicles may be equipped with refrigerant pressure/temperature (P/T) sensors in the heat pump that can fault over time.",
+  "communicationDate": "2021-03-01T05:00:00Z",
+  "components": [
+   {
+    "id": 428,
+    "name": "FUEL SYSTEM, GASOLINE",
+    "description": "070000 FUEL SYSTEM, GASOLINE"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10190906&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 4,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10190906&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021
+  ],
+  "documents": [
+   {
+    "id": 337078,
+    "fileSize": 645718,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10190906-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-04-29T07:00:04Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2021/MC-10190906-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-21-18-001",
+  "nhtsaIdNumber": 10189010,
+  "subject": null,
+  "summary": "Some Model 3 and Model Y vehicles may be equipped with refrigerant pressure/temperature (P/T) sensors in the heat pump that can fault over time.",
+  "communicationDate": "2021-02-05T05:00:00Z",
+  "components": [
+   {
+    "id": 552,
+    "name": "ENGINE AND ENGINE COOLING",
+    "description": "060000 ENGINE AND ENGINE COOLING"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10189010&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 4,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10189010&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2021
+  ],
+  "documents": [
+   {
+    "id": 332561,
+    "fileSize": 675159,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10189010-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2021-03-23T07:00:05Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2021/MC-10189010-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-22-17-006",
+  "nhtsaIdNumber": 10226576,
+  "subject": null,
+  "summary": "Certain Model 3 vehicles were equipped with a RH body controller module which might have a damaged component. Though the module is operational, should the component fail, the fresh air intake/recirculation setting of the vehicle?s climate control system is affected.",
+  "communicationDate": "2022-08-16T08:00:00Z",
+  "components": [
+   {
+    "id": 374,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "110000 ELECTRICAL SYSTEM"
+   },
+   {
+    "id": 312,
+    "name": "STRUCTURE",
+    "description": "160000 STRUCTURE"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10226576&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 1,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10226576&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2022
+  ],
+  "documents": [
+   {
+    "id": 613740,
+    "fileSize": 191279,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10226576-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-01-04T13:01:49Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2022/MC-10226576-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-24-16-005",
+  "nhtsaIdNumber": 11008772,
+  "subject": null,
+  "summary": "On certain Model 3 and Model Y vehicles, a defective electrical component inside the High Voltage Controller may prevent the vehicle from entering into drive mode, or may cause a graceful power-off.",
+  "communicationDate": "2024-09-04T04:00:00Z",
+  "components": [
+   {
+    "id": 374,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "110000 ELECTRICAL SYSTEM"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008772&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 4,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008772&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 706260,
+    "fileSize": 126,
+    "mimeType": "application/pdf",
+    "summary": "Bulletin",
+    "fileName": "MC-11008772-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-09T11:01:19Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11008772-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-24-16-005",
+  "nhtsaIdNumber": 11008796,
+  "subject": null,
+  "summary": "On certain Model 3 and Model Y vehicles, a defective electrical component inside the High Voltage Controller may prevent the vehicle from entering into drive mode, or may cause a graceful power-off.",
+  "communicationDate": "2024-09-04T04:00:00Z",
+  "components": [
+   {
+    "id": 374,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "110000 ELECTRICAL SYSTEM"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008796&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 4,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008796&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 706284,
+    "fileSize": 126,
+    "mimeType": "application/pdf",
+    "summary": "Bulletin",
+    "fileName": "MC-11008796-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-09T11:01:41Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11008796-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-24-16-005",
+  "nhtsaIdNumber": 11008820,
+  "subject": null,
+  "summary": "On certain Model 3 and Model Y vehicles, a defective electrical component inside the High Voltage Controller may prevent the vehicle from entering into drive mode, or may cause a graceful power-off.",
+  "communicationDate": "2024-09-04T04:00:00Z",
+  "components": [
+   {
+    "id": 374,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "110000 ELECTRICAL SYSTEM"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008820&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 4,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11008820&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2023,
+   2024
+  ],
+  "documents": [
+   {
+    "id": 706308,
+    "fileSize": 126,
+    "mimeType": "application/pdf",
+    "summary": "Bulletin",
+    "fileName": "MC-11008820-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-10-09T11:02:02Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11008820-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB2317007R1",
+  "nhtsaIdNumber": 10243088,
+  "subject": null,
+  "summary": "Certain Model 3 and Model Y vehicles may require replacement of the front body controller module due to a faulty component.",
+  "communicationDate": "2023-08-25T08:00:00Z",
+  "components": [
+   {
+    "id": 312,
+    "name": "STRUCTURE",
+    "description": "160000 STRUCTURE"
+   },
+   {
+    "id": 374,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "110000 ELECTRICAL SYSTEM"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10243088&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 2,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10243088&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2023
+  ],
+  "documents": [
+   {
+    "id": 663324,
+    "fileSize": 101203,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10243088-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-10-18T11:02:04Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10243088-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB2317007",
+  "nhtsaIdNumber": 10243087,
+  "subject": null,
+  "summary": "Certain Model 3 and Model Y vehicles may require replacement of the front body controller module due to a faulty component.",
+  "communicationDate": "2023-08-18T08:00:00Z",
+  "components": [
+   {
+    "id": 312,
+    "name": "STRUCTURE",
+    "description": "160000 STRUCTURE"
+   },
+   {
+    "id": 374,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "110000 ELECTRICAL SYSTEM"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10243087&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 2,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10243087&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2023
+  ],
+  "documents": [
+   {
+    "id": 663690,
+    "fileSize": 100871,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10243087-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-10-18T11:02:04Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10243087-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-23-16-001",
+  "nhtsaIdNumber": 10234054,
+  "subject": null,
+  "summary": "Certain Model 3 and Model Y vehicles may require HV battery replacement because the wire bonds within their HV batteries may not have been manufactured to internal specifications, which may result in a reduction of range.",
+  "communicationDate": "2023-03-21T08:00:00Z",
+  "components": [
+   {
+    "id": 376,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "111000 ELECTRICAL SYSTEM"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10234054&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 2,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10234054&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2023
+  ],
+  "documents": [
+   {
+    "id": 630208,
+    "fileSize": 117269,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10234054-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2023-05-10T11:00:49Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2023/MC-10234054-9999.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-26-13-005",
+  "nhtsaIdNumber": 11034277,
+  "subject": null,
+  "summary": "On some vehicles, degraded or excessive glue under the front seat cushion(s) may cause creaking noises during cornering or when pressing on the seat cushion(s). Upon customer complaint, inspect the vehicle for symptoms related to the condition. If symptoms are present, rework the front seat cushion(s).",
+  "communicationDate": "2026-06-04T04:00:00Z",
+  "components": [
+   {
+    "id": 230,
+    "name": "SEATS",
+    "description": "220000 SEATS"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11034277&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 5,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11034277&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2024
+  ],
+  "documents": [
+   {
+    "id": 799226,
+    "fileSize": 312,
+    "mimeType": "application/pdf",
+    "summary": "Bulletin",
+    "fileName": "MC-11034277-0001.pdf",
+    "loadDate": "2026-07-02T11:01:20Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2026/MC-11034277-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-26-13-006",
+  "nhtsaIdNumber": 11033171,
+  "subject": null,
+  "summary": "On some vehicles, insufficient lubricant at the front seat recliner tube ends may cause creaking noises during weight shifting when the seat is occupied. Upon customer complaint, inspect the vehicle for symptoms related to the condition. If symptoms are present, lubricate the front seat recliner tube ends.",
+  "communicationDate": "2026-05-29T04:00:00Z",
+  "components": [
+   {
+    "id": 230,
+    "name": "SEATS",
+    "description": "220000 SEATS"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11033171&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 5,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11033171&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2024
+  ],
+  "documents": [
+   {
+    "id": 795204,
+    "fileSize": 501,
+    "mimeType": "application/pdf",
+    "summary": "Bulletin",
+    "fileName": "MC-11033171-0001.pdf",
+    "loadDate": "2026-06-03T11:01:18Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2026/MC-11033171-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-25-16-001",
+  "nhtsaIdNumber": 11016320,
+  "subject": null,
+  "summary": "Certain Model 3 and Model Y vehicles were manufactured with High Voltage (HV) batteries containing cell modules that do not meet Tesla’s internal quality standards, potentially resulting in a reduction of range.",
+  "communicationDate": "2025-03-20T04:00:00Z",
+  "components": [
+   {
+    "id": 374,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "110000 ELECTRICAL SYSTEM"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11016320&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 2,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11016320&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2024
+  ],
+  "documents": [
+   {
+    "id": 728378,
+    "fileSize": 196,
+    "mimeType": "application/pdf",
+    "summary": "Bulletin",
+    "fileName": "MC-11016320-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2025-04-05T03:55:34Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2025/MC-11016320-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-24-33-006",
+  "nhtsaIdNumber": 11011363,
+  "subject": null,
+  "summary": "On some Model 3 vehicles, the RH front Wheel Speed Sensor (WSS) might have been misrouted, which may cause damage to the WSS harness.",
+  "communicationDate": "2024-11-06T05:00:00Z",
+  "components": [
+   {
+    "id": 547,
+    "name": "SERVICE BRAKES",
+    "description": "030000 BRAKES (PWS)"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11011363&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 1,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11011363&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2024
+  ],
+  "documents": [
+   {
+    "id": 715068,
+    "fileSize": 583,
+    "mimeType": "application/pdf",
+    "summary": "Bulletin",
+    "fileName": "MC-11011363-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-12-09T13:05:58Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11011363-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-24-33-006",
+  "nhtsaIdNumber": 11009776,
+  "subject": null,
+  "summary": "On some Model 3 vehicles, the RH front Wheel Speed Sensor (WSS) might have been misrouted, which may cause damage to the WSS harness.",
+  "communicationDate": "2024-10-31T04:00:00Z",
+  "components": [
+   {
+    "id": 547,
+    "name": "SERVICE BRAKES",
+    "description": "030000 BRAKES (PWS)"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11009776&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 1,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11009776&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2024
+  ],
+  "documents": [
+   {
+    "id": 710977,
+    "fileSize": 662,
+    "mimeType": "application/pdf",
+    "summary": "Bulletin",
+    "fileName": "MC-11009776-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-11-05T13:01:48Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11009776-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-24-40-008",
+  "nhtsaIdNumber": 11009781,
+  "subject": null,
+  "summary": "Some Performance Model 3 vehicles might experience minor oil loss through the Rear Drive Unit (RDU) breather during high lateral acceleration cornering maneuvers.",
+  "communicationDate": "2024-10-15T04:00:00Z",
+  "components": [
+   {
+    "id": 192,
+    "name": "POWER TRAIN",
+    "description": "100000 POWER TRAIN"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11009781&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 1,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11009781&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2024
+  ],
+  "documents": [
+   {
+    "id": 710982,
+    "fileSize": 1540,
+    "mimeType": "application/pdf",
+    "summary": "Bulletin",
+    "fileName": "MC-11009781-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-11-05T13:01:54Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11009781-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-24-14-001",
+  "nhtsaIdNumber": 11009773,
+  "subject": null,
+  "summary": "On some 2024+ Model 3 vehicles built at Fremont, a rattling noise may be noticed from the driver and/or front passenger instrument panel air vent while the face-level air vents are directed to straight ahead air flow.",
+  "communicationDate": "2024-10-11T04:00:00Z",
+  "components": [
+   {
+    "id": 374,
+    "name": "ELECTRICAL SYSTEM",
+    "description": "110000 ELECTRICAL SYSTEM"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11009773&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 1,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11009773&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2024
+  ],
+  "documents": [
+   {
+    "id": 710974,
+    "fileSize": 349,
+    "mimeType": "application/pdf",
+    "summary": "Bulletin",
+    "fileName": "MC-11009773-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-11-05T13:01:52Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11009773-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "SB-24-14-001",
+  "nhtsaIdNumber": 11006908,
+  "subject": null,
+  "summary": "On some 2024+ Model 3 built at Fremont, a rattling noise may be noticed from the driver and/or front passenger instrument panel air vent while the face-level air vents are directed to straight ahead air flow.",
+  "communicationDate": "2024-08-15T04:00:00Z",
+  "components": [
+   {
+    "id": 178,
+    "name": "UNKNOWN OR OTHER",
+    "description": "980000 UNKNOWN OR OTHER"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11006908&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 1,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=11006908&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2024
+  ],
+  "documents": [
+   {
+    "id": 702517,
+    "fileSize": 381,
+    "mimeType": "application/pdf",
+    "summary": "Bulletin",
+    "fileName": "MC-11006908-0001.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-09-04T11:02:04Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-11006908-0001.pdf"
+   }
+  ]
+ },
+ {
+  "manufacturerCommunicationNumber": "OwnersI",
+  "nhtsaIdNumber": 10253676,
+  "subject": null,
+  "summary": "Tesla does not provide physical owner's manual copies. Instead, all available owner?s manual content is integrated into the vehicle software, and only the content relevant for a given vehicle, based on vehicle configuration and software version installed, is displayed on its touchscreen. This file contains all available owner?s manual content for 2021-2024 Model X vehicles converted to PDF format, and given the distribution method and NHTSA?s submission format requirements, it is the best available representative copy of owner?s manual content. However, a customer who accesses the owner?s manual via their vehicle?s touchscreen would only see the parts of this PDF file that are relevant to their vehicle.",
+  "communicationDate": "2024-03-30T08:00:00Z",
+  "components": [
+   {
+    "id": 569,
+    "name": "EQUIPMENT",
+    "description": "350000 EQUIPMENT"
+   }
+  ],
+  "associatedDocumentsCount": 1,
+  "associatedDocuments": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10253676&filter=issueType&filterValue=manufacturerCommunications",
+  "associatedProductsCount": 1,
+  "associatedProducts": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?nhtsaId=10253676&filter=issueType&filterValue=manufacturerCommunications",
+  "modelYears": [
+   2024
+  ],
+  "documents": [
+   {
+    "id": 688714,
+    "fileSize": 10865870,
+    "mimeType": "application/pdf",
+    "summary": "Manufacturer Communications",
+    "fileName": "MC-10253676-9999.pdf",
+    "sparksDocumentId": 0,
+    "loadDate": "2024-05-07T11:00:30Z",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2024/MC-10253676-9999.pdf"
+   }
+  ]
+ }
+]

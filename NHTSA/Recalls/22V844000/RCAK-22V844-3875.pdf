@@ -1,0 +1,24 @@
+<?hda jcharset="UTF8" encoding="utf-8"?>
+@Properties LocalData
+ClientEncoding=UTF-8
+IdcErrorFunction=computeDocID
+IdcService=GET_FILE
+IsJava=1
+NoHttpHeaders=0
+StatusCode=-32
+StatusMessage=Unable to execute service GET_FILE and function computeDocID.\nThe error was caused by an internally generated issue. The error has been logged.
+StatusMessageKey=!csServiceDataException,GET_FILE,computeDocID!$!csUnprivilegedSystemError
+UserDateFormat=iso8601
+UserTimeZone=UTC
+blDateFormat=yyyy-MM-dd HH:mm:ssZ!tUTC!mAM,PM
+blFieldTypes=xIdcProfile text,xDocType memo,xWCTags bigtext,xIsACLReadOnlyOnUI int,xWCPageId bigtext,xComments memo,xReadOnly text,xDocID bigtext,xInhibitUpdate text,xPackagedConversions text,dInDate date,dMessage message,xPartitionId text,xWebFlag text,xStorageRule text,xTemplateType text,xWCWorkflowApproverUserList memo,xAnnotationDetails int,xCollectionID int,xForceFolderSecurity text,StatusMessage message,dReleaseDate date,xVideoRenditions text,dCreateDate date,dDocCreatedDate date,dOutDate date,xExternalDataSet bigtext,xWCWorkflowAssignment text,dDocLastModifiedDate date,xHidden text,xDamConversionType text,xLibraryGUID bigtext
+changedMonikers=
+changedSubjects=
+dDocName=NHTHQNWAS700VG643863
+dUser=sysadmin
+idcToken=
+localizedForResponse=1
+refreshMonikers=
+refreshSubMonikers=
+refreshSubjects=
+@end

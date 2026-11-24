@@ -1,0 +1,528 @@
+Tesla Approved Collision Center
+
+     Operating Standards
+                                                  Tesla Approved Collision Center Operating Standards
+
+
+
+
+         Mission Statement
+                  To provide collision centers with the training, procedures, parts, and tools
+                  to repair Tesla vehicles in an easy and cost-effective manner.
+
+
+
+
+Last updated 9/17/2024                                                                           Page 2 of 14
+Confidential
+                                                   Tesla Approved Collision Center Operating Standards
+
+
+Section 1 Overview
+1.1      Introduction
+
+         The Tesla Collision Repair Program embraces the following objectives:
+           •    Quality: To enable repairers to return Tesla vehicles to their originally designed state of
+                safety, systems performance, and fit and finish aesthetics.
+           •    Time: To provide repair methods and resources that shorten the time the customer is
+                without their Tesla
+           •    Cost: To make repair procedures, and the requirements to perform them correctly,
+                affordable.
+         Tesla considers certain parts “restricted” because they require proper tooling and training to be
+         installed properly and safely. Restricted parts include high voltage (HV) components and certain
+         structural parts, such as those that are secured with welding, structural adhesive, or permanent
+         fasteners.
+
+1.2      Operating Standards Updates
+
+         Tesla may update the Operating Standards from time to time to ensure that the Collision Repair
+         Program provides the best possible level of service to our customers.
+
+1.3      Meeting Operating Standards Requirements
+
+         Each prospective collision center must meet all standards within 30 days of its application
+         acceptance. The collision center may use the title “Tesla Approved Collision Center” only after it
+         has met all program requirements (including requirements in the Operating Standards), signed
+         the General Terms and Conditions for Collision Services (GTC), completed Tesla Collision Repair
+         training, and paid the Program Fee.
+         The working partnership is defined by the GTC between Tesla and the TACC. The GTC
+         (including its Addenda) is a legal and binding contract.
+         The working partnership between the TACC and each local Tesla Service Center is of critical
+         importance.
+         Applicant collision centers need to meet the following qualifications:
+          1.  Have all required licenses and permits, and operate in accordance with all regulations.
+          2.  Possess a Sales Tax ID Number (U.S. TACC).
+          3.  Possess a Federal Tax ID Number (U.S. TACC).
+          4.  Meet or exceed all local and federal safety and environmental standards.
+          5.  Possess an EPA Number.
+          6.  Have proof of garage keeper's liability and workers' compensation insurance.
+          7.  Have current subscriptions to, and be proficient in the use of, computer based P-Page
+              estimating systems with digital imaging and electronic estimate transfer capability.
+          8. Demonstrate ongoing industry relevant training (certificates) for management,
+              administration, and production personnel.
+          9. Have the ability to hoist a vehicle for inspection.
+          10. Have a pressurized spray booth equipped with baking capabilities and a fresh air-supplied
+              respirator system that meets current local, state, and federal requirements.
+          11. Have the ability to complete and verify four-wheel alignment through computer printout
+              either from an in-house alignment system or a qualified sublet service with same-day
+              service.
+          12. Offer a written limited lifetime warranty against defects in workmanship.
+
+
+
+Last updated 9/17/2024                                                                               Page 3 of 14
+Confidential
+                                                  Tesla Approved Collision Center Operating Standards
+
+
+          13. Have the ability to remove and replace suspension components, wire harnesses, cooling
+              system components, and supplemental restraint system (SRS) components in-house.
+          14. Have the ability to remove and install High Voltage batteries and drive motors in-house.
+          15. Have the ability to evacuate, reclaim, and recharge vehicle air conditioning systems using
+              EPA compliant in-house equipment and certified technicians.
+          16. Utilize Tesla “Toolbox” software as necessary to complete required Toolbox diagnostic work
+              in house.
+          17. Provide proper safety equipment and work environment for all employees.
+          18. Have a documented on-going system for measuring, tracking, and reporting customer
+              satisfaction.
+
+1.4      Repair Procedures Requirements
+
+         When a TACC uses or refers to a Tesla repair procedure, the TACC must use the current version
+         of the procedure. TACC should not use saved or archived copies of repair procedures. Current
+         versions are available on the Tesla Service website.
+         TACCs must follow the requirements for repair procedures, as well as have available all of the
+         required tools outlined in the Tesla equipment list.
+           •    There is NO structural pulling allowed on Tesla vehicles. Structural repairs require the use
+                of a frame bench/rack system with specific measuring and/or dedicated fixtures, with the
+                exception of the structural repairs listed in the repair documentation available at the Tesla
+                Service website.
+           •    TACC must maintain separate hand tools for use on aluminum, which are not used on
+                steel.
+         Tesla’s intent is to facilitate affordable compliance with the mandates required to properly repair
+         its vehicles. For this reason, Tesla negotiates with equipment manufacturers to provide
+         equipment directly to TACC, at the lowest price negotiable, with no margin for Tesla.
+
+1.5      Operating Standards Compliance and Audits
+
+         Tesla reviews the approval status of a TACC every 2 years by a physical or virtual review of the
+         TACC facilities and the TACC’s performance against the program’s performance metrics.
+
+1.6      The Approval Process
+
+         The steps below are an overview of the TACC application and approval process.
+           1. Submit a completed Tesla Authorized Collision Center onboarding questionnaire (found on
+              the landing page of the TACC website)
+           2. Once contacted by Tesla onboarding team:
+                a.      Sign and return the Non-Disclosure Agreement (NDA)
+                b.      Sign and return the GTC
+                c.      Complete a physical facility virtual tour
+                d.      Pay Program Fee and training fees
+                e.      Purchase required tooling
+                f.      Complete Tesla training
+                g.      Pass a site validation demonstrating ownership of all required tooling and
+                        equipment listed in the Tesla tooling list
+                h.      Receive Electronic Parts Catalog access
+                i.      Begin having work referred from Tesla
+
+
+
+
+Last updated 9/17/2024                                                                              Page 4 of 14
+Confidential
+                                                     Tesla Approved Collision Center Operating Standards
+
+
+1.7      Training Requirements
+
+         Each TACC is required to meet the Tesla training requirements to perform structural and non-
+         structural repair work on Tesla vehicles. Only technicians at a TACC who possess a current and
+         valid I-CAR certificate for aluminum and steel welding and/or structural repair may perform those
+         types of repair work on Tesla vehicles.
+
+1.8      Training Course Requirements
+
+         All staff performing any work on Tesla vehicles must complete the Tesla online safety courses
+         assigned to them.
+
+                         Primary Structural Repair Location:
+
+                         •   All training courses must be completed by at least the following number of TACC
+                             personnel with no overlap in roles: 2 aluminum and steel Structural Technicians, 1
+                             Mechanical Technician, 1 Manager, and 1 Estimator.
+                         •   Electrical Fundamentals: Required for all shop staff, including helpers and
+                             detailers
+                         •   I-CAR aluminum welding certification WCA03 and steel welding certification
+                             WCSO3 (or proof that the certification has been renewed within the last 3 years:
+                             Required for a minimum of 2 techs
+
+                         Lite Cosmetic Repair Locations:
+
+                         •   All training courses must be completed by at least the following number of TACC
+                             personnel with no overlap in roles: 1 Mechanical Technician, 1 Manager, and 1
+                             Estimator.
+                         •   Electrical Fundamentals: Required for all shop staff, including helpers and
+                             detailers
+
+1.9      Vehicle Charge State
+
+         TACC shall keep all Tesla vehicles charged to at least 25% at all times, including when the
+         vehicle is in storage. TACC shall ensure that each Tesla vehicle is fully charged when returning
+         the vehicle to its owner or when delivering or making available a vehicle to any third party.
+
+
+
+
+Last updated 9/17/2024                                                                               Page 5 of 14
+Confidential
+                                                  Tesla Approved Collision Center Operating Standards
+
+
+Section 2 Program Terms and Working Relationship with Tesla
+         All Tesla Approved Collision Centers are required to meet and adhere to the Tesla Collision
+         Repair Program Operating Standards and all current collision repair documents such as, but not
+         limited to, training and tooling requirements.
+
+2.1      Program Terms
+
+         All TACCs will be reviewed on the following performance criteria:
+
+           1. Quality — Vehicle repair and customer experience
+               a. Customer survey (95% CSI minimum required):
+               b. Was the fit & finish satisfactory?
+               c. Did everything function correctly?
+               d. Was it done on first target date given?
+               e. Did customer have to return or re-visit repair for any reason?
+               f.   Did customer have to contact shop for information or were updates delivered to the
+                    customer at satisfactory intervals?
+
+           2. Time — 11-day cycle time maximum average required
+               a. Keys to keys
+               b. No lead time (wait to get in)
+               c. Number of parts orders – maximum of 2 per VIN
+               d. Timing of parts orders (should all be ordered in Repair Planning, not throughout the
+                   duration of repair)
+
+           3. Cost
+               a. Customer survey
+               b. Competitive rates
+               c. Insurer feedback
+         CSI scores for TACC translate to a 1–5 star rating listed on the Tesla Authorized Collision Center
+         locator website. Tesla will refer work to TACC based upon the 1–5 star rating (highest first) and
+         other considerations.
+
+2.2      Warranty Rate and Procedure for Tesla Paid Work
+
+         The labor rates for all Tesla-paid work for body, paint, structural, and mechanical work is set forth
+         in the TACC’s Rate Addendum. Any charge that exceeds the rates set forth in the Rate
+         Addendum will be considered grounds for removal from the TACC program.
+
+2.3      Suspension of TACC Program Benefits
+
+         A TACC must comply with all TACC program requirements. If a TACC fails to do so, Tesla may
+         suspend of one or more of its program benefits in Tesla’s sole discretion.
+
+Section 3 Facility Requirements
+         The proposed TACC must provide details about and photos of their facilities, as part of the online
+         application.
+
+
+
+
+Last updated 9/17/2024                                                                              Page 6 of 14
+Confidential
+                                                  Tesla Approved Collision Center Operating Standards
+
+
+3.1      Location Types
+
+         Primary Location:
+           •    Primary locations are authorized to complete all Tesla structural body repairs and are
+                required to actively maintain compliance to the TACC Program.
+         Lite Location:
+           •    Multi Shop Organizations (MSOs) with at least one TACC primary location may apply for
+                approval to add additional locations as Lite locations, as long as the primary location is in
+                good standing.
+           •    Lite locations may complete all Tesla non-structural body repairs.
+           •    A Tesla customer must be allowed to drop their vehicle at any location belonging to the
+                MSO.
+           •    MSOs must move vehicles requiring replacement of restricted parts to their primary location
+                at no inconvenience or cost to the vehicle owner.
+           •    MSOs may repair Tesla vehicles at any of their locations so long as the following conditions
+                are met:
+                 •     Technicians must meet the appropriate levels of Tesla training and authorization (be
+                       in good standing) to perform any work involving restricted parts (documentation
+                       signed by tech performing restricted repairs required to be kept permanently on file
+                       and available upon Tesla’s request).
+                 •     All shop personnel (technicians, helpers, and detailers) complete the Tesla online
+                       safety courses “Electrical Fundamentals” and “Model S, X, 3, Y, Roadster HV
+                       Disablement”.
+                 •     The location’s performance metrics meet or exceed Tesla requirements.
+                 •     The location meets facility and equipment requirements for the type of work
+                       (structural or cosmetic) being performed.
+                 •     All terms of the GTC are met and in good standing.
+
+3.2      Exterior
+
+           •    The exterior surfaces of the TACC building structure, cladding, fascia, etc. must present a
+                well-maintained, presentable image.
+           •    The TACC must have a securely-fenced parking area.
+
+3.3      Signage
+
+         Tesla supplies certification plaques only after the TACC has successfully passed a full audit.
+         Certification is good for 2 years after the TACC completed the onboarding process or from
+         successfully passing the TACC compliance audit.
+
+3.4      Parking and Vehicle Security
+
+           •    The customer parking spaces must be clearly designated and well-lit.
+           •    Parking and storage of damaged vehicles must be concealed from visitors and customers.
+           •    Vehicles must be stored at the TACC in a manner that prevents further damage (e.g. water
+                ingress, vandalism, theft, etc.).
+
+
+
+
+Last updated 9/17/2024                                                                            Page 7 of 14
+Confidential
+                                                 Tesla Approved Collision Center Operating Standards
+
+
+3.5      Customer Reception
+
+           •    An area must be designated for customer reception and this area must be kept clean and
+                neat.
+           •    The business hours of the TACC must be clearly displayed in the reception area and on the
+                exterior of the building.
+           •    Customer-only restrooms segregated from staff facilities must be available and accessible
+                from the reception area.
+
+3.6      Workshop
+
+         The workshop area must contain the following dedicated areas:
+           •    Estimating/blueprinting/Repair Planning area
+           •    Aluminum repair area (curtain acceptable)
+           •    Paint mixing room
+           •    Paint booth
+           •    Detailing and car cleaning area
+
+3.7      Access
+
+         TACC must provide to Insurance appraisers unrestricted access to Tesla vehicles, parts, and any
+         Tesla published repair procedures and documentation upon request, to minimize the approval
+         portion of the repair cycle time.
+
+3.8      Paint Booth Specifications
+
+         The TACC must have at least one downdraft paint booth capable of bake operations. The paint
+         booth must meet all legal requirements.
+
+
+
+
+Last updated 9/17/2024                                                                         Page 8 of 14
+Confidential
+                                                Tesla Approved Collision Center Operating Standards
+
+
+Section 4 Communication and Information Technology
+4.1      Repair Tracking Compliance
+
+         TACC must provide repair status data to Tesla via tracking software of Tesla’s choosing.
+         Thorough and accurate reporting of required information and status is an absolute requirement
+         for Tesla Collision Repair Program participation.
+
+4.2      Internet
+
+         The TACC facility must have high-speed Internet with WiFi. Workshop staff must have access to
+         the Tesla Collision Repair information provided via the internet on a computer with WiFi access
+         which can be used on vehicles undergoing repair.
+
+4.3      Computer Equipment
+
+         The TACC facility must have a laptop computer that meets the requirements listed in Tesla’s
+         service documentation available at the Tesla Service website. Workshop staff must have access
+         to the computer to reference Tesla Collision Repair procedures, Service Bulletins, and Service
+         Manuals, and to perform Toolbox-related diagnostic repairs.
+
+4.4      Response To Tesla’s Communications
+
+         TACC must respond promptly and completely to all communications from Tesla, and in no
+         event in more than 24 hours. If TACC requires more time to provide a complete response,
+         then TACC must promptly respond to the extent it can at that time and provide an estimate of
+         when Tesla will receive a complete response.
+
+
+
+
+Last updated 9/17/2024                                                                         Page 9 of 14
+Confidential
+                                                 Tesla Approved Collision Center Operating Standards
+
+
+Section 5 Equipment and Consumables Specifications
+5.1      Paint Systems
+
+         Refer to documentation available at the Tesla Service website for a list of paint systems that meet
+         the warranty level required of TACC.
+
+5.2      Approved Adhesives
+
+         Only the adhesives specified in the documentation available at the Tesla Service website may be
+         used for the structural repair of Tesla vehicles.
+
+                         Recommended Adhesive System for Composite Repairs
+
+         The recommended adhesive system for Roadster bonded body panels is specified documentation
+         available at the Tesla Service website.
+
+5.3      Approved Tooling
+
+         For a current listing of required tools and equipment, refer to the TACC tooling requirements at
+         the Tesla Service website.
+
+
+
+
+Last updated 9/17/2024                                                                          Page 10 of 14
+Confidential
+                                                   Tesla Approved Collision Center Operating Standards
+
+
+Section 6 Quality Program Procedures and Best Practices
+         In order to minimize parts orders, streamline insurer approval, eliminate unwanted discovery of
+         hidden damage during repair, and minimize repair cycle time, All TACC are required to “Repair
+         Plan” (blueprint) Tesla vehicles, rather than just de-trimming and disassembling as repairs
+         progress.
+         TACC must do all of the following:
+           •    Dismantle vehicle completely when vehicle enters workshop, to expose all primary and
+                secondary accident damage, as well as anything that will break during disassembly.
+                 •     Remove every part, nut, bolt, fastener, clip, piece of trim, glass etc. so that no parts
+                       are discovered during downstream dismantle, that could be exposed by taking all
+                       apart up front.
+                 •     Includes cutting open layered regions (quarter panels, pillars, etc.), if not repairable,
+                       to expose hidden damage, so internal parts can all be ordered up front.
+           •    Attempt to repair aluminum exterior panel and bumper cover cosmetic damage to reduce
+                parts needed, and the associated time and complications that accompany them (wrong
+                parts, damaged parts, parts delays, etc.). Labor is “in stock”.
+           •    Read all repair procedures to make sure any prerequisite parts and consumables are also
+                ordered for structural repairs.
+           •    Maintain permanent, physical documentation signed off by a properly trained technician
+                who performed any restricted parts replacement.
+           •    Store parts on a parts cart. DO NOT store parts in the car.
+           •    Perform at least 4 hours of Touch Time / Repair Work on each vehicle each calendar day,
+                in order for the Repair Work to qualify as “diligent”. If any factor outside of TACC’s control
+                delays Repair Work on any particular day, TACC must use Commercially Reasonable
+                Efforts to perform at least 4 hours of Repair Work on the vehicle that day.
+         Insurance approval is greatly streamlined when:
+           •    Repair attempts are already done (variability of “will it fix?” is eliminated).
+           •    Parts needing replacement are removed and clearly visible as to why they need to be
+                replaced.
+           •    Tesla repair documentation has been reviewed and is available to share with insurance
+                inspector should questions arise as to the necessity of certain operations.
+           •    Tesla Service and Collision Repair documentation must be shared with insurance company
+                if requested.
+         TACC assumes full responsibility for any defects or consequences resulting from repair
+         workmanship.
+
+6.1      Care of Customers Vehicles
+
+         All vehicles undergoing repairs must be protected with the following:
+           •    Seat covers
+           •    Steering wheel protection
+           •    Floor mats
+           •    Car covers
+           •    Glass protection paper when welding or grinding
+
+
+
+
+Last updated 9/17/2024                                                                              Page 11 of 14
+Confidential
+                                                Tesla Approved Collision Center Operating Standards
+
+
+6.2      Remote Access Disable
+
+         Upon receipt of vehicle, TACC should disable remote access to prevent undesired system
+         functions from occurring via the customer’s phone app. Place a “Remote Access Disabled” Card
+         on the Dash. Refer to documentation available at the Tesla Service website for more information.
+
+6.3      Communications Log
+
+         Each TACC must maintain a communications log of all communication with the customer in their
+         body shop management system. This information must be complete, and accurately date and
+         time stamped. The documentation of customer correspondence must be shared with Tesla when
+         requested.
+
+6.4      Customer Communication Requirement
+
+         The TACC must update each Tesla customer every 3 days or less. Customer feedback indicating
+         the customer had to manage their repair will be grounds for removal from the Tesla Collision
+         Repair Program.
+
+
+
+
+Last updated 9/17/2024                                                                        Page 12 of 14
+Confidential
+                                                  Tesla Approved Collision Center Operating Standards
+
+
+Section 7 Ordering Parts
+         TACC must place an initial parts order immediately after the customer authorizes the repair. A
+         secondary parts order is allowed after a full (100%) dismantle (repair Plan). TACC should not
+         place more than two parts orders for any Tesla vehicle.
+         TACC must order all parts (other than Tesla-Provided Parts) through Tesla’s Electronic Parts
+         Catalog (EPC). Enter the VIN accurately to drive options and supersession logic.
+
+7.1      Tesla Charges
+
+         For warranty or any other work where Tesla is paying for the parts, TACC may re-bill discounted
+         parts back to Tesla at rate that is 10% higher than the discounted price that TACC paid, thereby
+         realizing a 10% margin on those parts.
+         All invoices to Tesla must be accompanied by the TACC Purchase Order (PO) cover sheet. Tesla
+         will not pay any Tesla Charges if the final bill is not accompanied by a completely and correctly
+         filled-out PO cover sheet attached with the final bill at time of upload.
+
+7.2      Past Due Invoices
+
+         If TACC has not paid in full any amounts that it owes to Tesla, then in Tesla’s sole discretion,
+         Tesla may suspend one or more of TACC’s program benefits or TACC’s ability to order parts.
+
+7.3      Work In Progress
+
+         TACC must update the EPC repair status tool every day and contact the customer at least once
+         every 3 days with a repair status update.
+
+7.4      Supplemental Damage
+
+         TACC must Repair Plan (blueprint) all Tesla vehicles in order to eliminate supplements.
+
+
+
+
+Last updated 9/17/2024                                                                            Page 13 of 14
+Confidential
+                                                   Tesla Approved Collision Center Operating Standards
+
+
+Section 8 Final Quality Control
+         The TACC manager must visually and functionally check every line of the final bill against the
+         finished vehicle before calling the customer. (This is a functional test, not a glance at the car in
+         the parking lot.) During this final check, the manager should:
+           •    Verify all trim fits symmetrically side to side, and is fastened tightly.
+           •    Verify all functions that might be affected by any components replaced or removed and
+                reinstalled function correctly by physically testing (door handles, windows, wipers, HVAC,
+                key fob and proximity functions, etc.).
+           •    Test drive if vehicle had structural repairs, suspension repairs, wheel alignment, or any
+                operations touching parts utilized by Auto Pilot.
+           •    Disable Service Mode when final quality control is complete.
+
+
+
+
+Last updated 9/17/2024                                                                              Page 14 of 14
+Confidential
+

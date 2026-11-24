@@ -1,0 +1,102 @@
+<!doctype html><meta charset="utf-8"><title>OBD Connector (Retrofit) (Retrofit)</title><p><small>Source: <a href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6.html">https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6.html</a> (downloaded 2026-11-24)</small></p>
+<main role="main" class="tds-shell-content" id="main-content"><article role="article" aria-labelledby="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__GUID-5EC14987-7080-4DE1-87C9-CBB9F5D7EBEE"><div class="date-modified">2026-08-09</div>
+  <h1 class="title topictitle1" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__GUID-5EC14987-7080-4DE1-87C9-CBB9F5D7EBEE">
+    <span class="ph procedure-title" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__GUID-22469ED2-AA07-4A44-A66D-72FC25D09A65">OBD Connector (Retrofit) (Retrofit)</span>
+  </h1>
+  
+  <div class="body taskbody"><p class="shortdesc">
+    <span class="ph correction-code-title" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__GUID-154F2721-6C83-4546-80D4-79361FA3DACC">Correction code</span>
+    <span class="ph" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__GUID-427B0670-61FD-4DBA-8E3E-8047A6C41821">00050300</span>
+    <span class="ph frt" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__GUID-07CDDA99-F0EF-4884-ABE0-3D5D4C92AD00">0.24</span>
+    <span class="ph" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__GUID-37520371-0FEA-4C2A-935F-DD79DA0426C2">
+        <span class="ph note" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__d477e952">
+          <strong class="ph b" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__d477e954">NOTE: </strong>Unless otherwise explicitly
+          stated in the procedure, the correction code and its associated FRT reflect all of the
+          work required to perform this procedure, including the linked procedures. <strong class="ph b" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__d477e957">Do not stack correction codes unless
+            explicitly told to do so.</strong></span>
+        <span class="ph note" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__d477e960">
+          <strong class="ph b" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__d477e962">NOTE: </strong>See <a class="tds-link xref" href="GUID-1985E7C9-F23B-4F7E-BCFB-04586601E909.html">Flat Rate
+            Times</a> to learn more about FRTs and how they are created.</span>
+        <span class="ph note" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__d477e969">
+          <strong class="ph b" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__d477e971">NOTE: </strong>See <a class="tds-link xref" href="GUID-09B3A9A0-CAB6-493D-AC2B-B805BE3BAE95.html">Personal Protection</a> to make sure wearing proper PPE when
+          performing the below procedure. <span class="ph" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__d477e976"><strong class="ph b" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__d477e977">NOTE: </strong>See <a class="tds-link xref" href="GUID-5D2F94A7-A5CB-45A6-9CC1-2C14B3CF7ECB.html">Ergonomic Precautions</a> for safe and healthy working
+            practices.</span></span>
+      </span>
+  </p>
+    <div class="section prereq prelreqs p" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__GUID-BFC5F997-E1BC-4E6B-AF1B-36A5FE6FD947">
+      <div class="p supequip"><div class="tasklabel"><h5 class="sectiontitle tasklabel">Equipment:</h5></div>
+        <ul class="ul supeqli tds-list tds-list--unordered" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__GUID-50D0F531-D157-492E-8AE8-4466E33D839B">
+          <li class="li supequi" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__GUID-33EF2327-92A1-438C-9C0C-B354D5DA2D20">
+            <div class="p">
+              <strong class="ph b" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__GUID-17495D51-C176-420E-9D40-6D6322B97B1C">Tools Required</strong>:<ul class="ul tds-list tds-list--unordered" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__GUID-CD875A89-0CC4-43CE-A157-158B3EB9AFC6"><li class="li" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__GUID-712D4412-CDB6-43D8-8E0F-CA9D9AC2F3BA">1115191-00-A - Pick Miniature
+                  Soft Grip 90 degree tip 6in</li><li class="li" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__GUID-C43DCAF1-96D4-4FE8-9368-C7AA39B24966">1706381-00-A - Cordless Heat
+                  Gun</li><li class="li" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__GUID-880E1230-2E7E-45D9-9DA3-1156698FADF3">1061177-00-C - KIT, WIRE HARNESS
+                  REPAIR</li><li class="li" id="GUID-865B82FA-93A1-4BB1-89E0-765E2C9613E6__GUID-87B34244-83F8-4495-871D-9E1F5EF74819">1944989-00-A - Depinning Tool 45
+                  degrees</li></ul></div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <nav role="complementary" class="related-links"><div class="familylinks"><div class="parentlink p"><strong>Parent topic:</strong> <a class="tds-link xref" href="GUID-8DB8FAE0-2C77-4E7A-80B1-5BC6DDC03B51.html">0005 - Service Modes</a></div></div></nav><article class="topic task nested1" aria-labelledby="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__GUID-D39B4259-9F4E-47FE-A93D-72F799CD50D9" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403">
+    <h2 class="title topictitle2" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__GUID-D39B4259-9F4E-47FE-A93D-72F799CD50D9">Rework</h2>
+    <div class="body taskbody">
+      <ol class="ol steps tds-list tds-list--ordered" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__GUID-E41550D5-D46C-4319-83DC-F6E609AB9AE7">
+        <li class="li step" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__GUID-E85ADFDD-B567-4F71-ADC4-A9DE94E10697">
+          <span class="ph cmd" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__GUID-9F6052D0-4399-4495-8317-3BB767BEACF2">Disconnect the LV battery and First
+            Responder Loop. See <a class="tds-link xref" href="GUID-C392D1B4-3007-45A4-A469-1B92676863F1.html" title="Correction code 17010410 0.06 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">LV Power (Disconnect and Connect) (Modify)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__GUID-05199E97-ECAD-4261-8656-440CEE6C473D">
+          <span class="ph cmd" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__GUID-C3D069F9-9F96-497E-9945-A72646D35CD2">Remove the LH footwell cover. See
+              <a class="tds-link xref" href="GUID-4110E186-BADB-40E1-B2A3-DBDC7CBE68BD.html" title="Correction code 1405010052 FRT 0.06 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">Cover - Footwell - Driver (Remove and Replace)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__GUID-B66CA545-9627-4535-90A2-3446BBA65599">
+          <span class="ph cmd" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__GUID-2DFDFA59-DC3C-44B3-9C5B-BFC899EECCDC">Remove Pin 3 (violet) wire terminal
+            from OBD connector.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__IMAGE_WL4_2KC_F5B" src="GUID-99C936FF-9BED-41D6-B7E0-F95465507131-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__IMAGE_KKQ_HNF_1BC" src="GUID-646EA132-9FF4-42B9-97ED-35238CDE8F10-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__IMAGE_BW5_JMD_JCC" src="GUID-B387B229-7C2F-44A1-BF4F-358D33D70584-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__IMAGE_PHX_JMD_JCC" src="GUID-35E3773D-6FF8-404D-BCE7-BB98B9595391-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__IMAGE_QWB_KMD_JCC" src="GUID-FE8F6D7F-BA79-4200-8754-947597B97588-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__IMAGE_VVD_KMD_JCC" src="GUID-367157D5-D5AF-4D4A-9201-7A1659C4DDA8-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__GUID-22949E44-EF67-415E-967F-1C08B6389417">
+          <span class="ph cmd" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__GUID-24DECC12-042A-484B-B0F1-0769588A03F3">Remove Pin 11 (white) wire terminal
+            from OBD connector.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__IMAGE_ZCX_YKD_JCC" src="GUID-364F3148-3EE6-43FA-809E-4D4B5E44495E-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__IMAGE_ADX_YKD_JCC" src="GUID-812E21DE-66F4-4FC2-BCE5-A58FE1F600BD-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__IMAGE_RWP_VND_JCC" src="GUID-87C19B55-99B6-4239-A9BE-5AC9A81361B1-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__IMAGE_TQS_VND_JCC" src="GUID-258E5AF3-CDE5-4ACE-BEE4-416745EB8427-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__GUID-D4A32186-19C0-4C29-841B-39D6D571C737">
+          <span class="ph cmd" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__GUID-E56B37C3-AA4B-4E51-BD31-4ECD0C4C6640">Install heat shrink onto pin 3 and 11
+            wire terminals.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__IMAGE_FQH_1LD_JCC" src="GUID-B396C255-E58D-4874-B442-C83FB8D93BCE-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__IMAGE_GQH_1LD_JCC" src="GUID-84A5E7A2-BA45-457A-A560-BF3ECF7B50A0-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__IMAGE_LL5_XPD_JCC" src="GUID-54BAB481-39BB-4CFC-9674-A42DC992587E-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__GUID-D0C6E38B-2E82-46C0-8150-D8C7F6487770">
+          <span class="ph cmd" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__GUID-882E6A0B-1E49-4923-B29E-0D30B01608BB">Apply tape to secure pin 3 and 11
+            reworked wire terminals onto OBD wire harness bundle.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__IMAGE_OM2_BLD_JCC" src="GUID-DD8FB953-5284-4660-98DA-B453000DBC40-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__IMAGE_PM2_BLD_JCC" src="GUID-F6F23B8B-12CD-4CB6-ABAF-F976325A84E1-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__IMAGE_Q4Y_1QD_JCC" src="GUID-2A1217EC-C032-400F-8C05-506A1CDE838D-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__GUID-7427AAB8-D93D-48C2-A42A-E317C6A86BC5">
+          <span class="ph cmd" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__GUID-B2E6B092-C742-430F-9A2A-E290B124EDCD">Install the LH footwell cover. See <a class="tds-link xref" href="GUID-4110E186-BADB-40E1-B2A3-DBDC7CBE68BD.html" title="Correction code 1405010052 FRT 0.06 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">Cover - Footwell - Driver (Remove and Replace)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__GUID-4BFE6DF7-C3BE-426D-B58E-4A50982BCECA">
+          <span class="ph cmd" id="GUID-D670D169-79D0-4776-BFBA-B63CC3972403__GUID-FCAE7422-9F6C-4ACE-9C2B-3509B35E5238">Connect the LV battery and First Responder Loop. See <a class="tds-link xref" href="GUID-C392D1B4-3007-45A4-A469-1B92676863F1.html" title="Correction code 17010410 0.06 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">LV Power (Disconnect and Connect) (Modify)</a>.</span>
+        </li>
+      </ol>
+    </div>
+  </article>
+</article></main></div><aside class="tds-layout-item tds-layout-aside"><div class="mobile-capable-toggle"><label class="tds-switch_toggle tds-switch_toggle--label_inside tds-switch_toggle--large" for="mobile-capable-switch-toggle"><span class="label-text" style="                                             white-space: nowrap;                                             ">Only Show Mobile Capable Procedures</span><span class="toggle-wrapper"><input class="tds-switch_toggle-checkbox" type="checkbox" id="mobile-capable-switch-toggle"><span class="tds-switch_toggle-track" aria-hidden="true"></span><span class="tds-switch_toggle-btn" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16"><path d="M4 12 l6 6 l10 -10" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path></svg></span><span class="tds-switch_toggle-btn" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16"><path d="M18 6 L6 18 M6 6 l12 12" fill="none" stroke="#374151" stroke-width="3" stroke-linecap="round"></path></svg></span></span></label></div>

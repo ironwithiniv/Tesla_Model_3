@@ -1,0 +1,1010 @@
+                 Service Mode User Guide
+
+
+
+
+Service Mode is a diagnostic and repair interface available on the vehicle
+touchscreen to help both internal and third-party technicians service Tesla vehicles
+more efficiently. Service Mode limits the vehicle speed / torque for increased safety
+and sets some settings to default values that are helpful for technicians.
+Service Mode Plus adds to the capabilities of Service Mode, including advanced
+functionalities for repair professionals with a diagnostic software subscription. To
+enter Service Mode Plus using Toolbox, the vehicle must be locally connected to a
+computer.
+More information can be found on the Service Mode page of service.tesla.com.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Contents
+Common Abbreviations and Terms ............................................................................ 4
+Service Mode Main Panel ........................................................................................... 5
+Service Mode Plus Main Panel ................................................................................... 6
+Service Alerts .............................................................................................................7
+   What do the different alert audiences mean? ......................................................... 8
+Software Reinstall ...................................................................................................... 8
+   Model 3 & Model Y Software Reinstall ................................................................... 8
+   Model S & Model X Software Reinstall ................................................................... 9
+Service Settings ........................................................................................................ 10
+Audio Tests ............................................................................................................... 12
+CAN Viewer .............................................................................................................. 13
+Driver Assist.............................................................................................................. 14
+   Cameras ................................................................................................................ 14
+   Sensors.................................................................................................................. 16
+Infotainment .............................................................................................................. 17
+   Connectivity .......................................................................................................... 17
+   Software ................................................................................................................ 18
+   ECU Update Status ................................................................................................ 19
+High Voltage ............................................................................................................ 20
+   High Voltage System ............................................................................................ 20
+   System Health Test ................................................................................................ 21
+   Charging ............................................................................................................... 22
+      Model 3 & Model Y Charging ............................................................................ 22
+      Model S (2012-2020) & Model X (2015-2020) Charging................................. 23
+   HV Battery ............................................................................................................ 24
+      High Voltage Controller..................................................................................... 27
+      High Voltage Interlock Loop .............................................................................. 28
+   Procedures ........................................................................................................... 29
+      Drive Inverter Replacement Procedure ............................................................. 30
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Low Voltage .............................................................................................................. 31
+   Power Distribution ................................................................................................. 31
+      Model 3 & Model Y Lithium-ion Low Voltage Batteries...................................... 31
+      Model 3 & Model Y Lead Acid Low Voltage Batteries ....................................... 32
+      Model S (2021+) & Model X (2021+) Low Voltage Batteries ............................. 34
+   HomeLink ............................................................................................................. 36
+   Seats .................................................................................................................... 37
+   Controller Area Network ....................................................................................... 38
+   Headlights ............................................................................................................ 39
+      Headlamp Leveling ............................................................................................ 40
+Thermal ..................................................................................................................... 41
+   Actions .................................................................................................................. 41
+   Refrigerant System ............................................................................................... 42
+   Coolant System .................................................................................................... 43
+   Heating, Ventilation and Air Conditioning (HVAC) ............................................... 45
+Chassis .................................................................................................................... 46
+   Alignment and Tires ............................................................................................ 46
+   Steering ................................................................................................................ 47
+   Steering Column Control Module (SCCM) ........................................................... 48
+   Brakes ................................................................................................................... 49
+      Brake Burnishing ............................................................................................... 50
+   Air Suspension ...................................................................................................... 51
+Closures ................................................................................................................... 52
+   Windows ............................................................................................................... 52
+   Door Handles ........................................................................................................ 53
+   Sunroof ................................................................................................................. 54
+   Falcon Doors......................................................................................................... 55
+Safety and Restraints ............................................................................................... 56
+   Airbags ................................................................................................................. 56
+   Seats .................................................................................................................... 57
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Common Abbreviations and Terms
+For a list of abbreviations or acronyms most relevant to the model being worked on, see
+Service Manual > General Information > Introduction > Abbreviations and Symbols. The
+abbreviations listed below are used in this document.
+
+    Abbreviation                                     Definition
+ AC                   Alternative Current
+ BMS                  Battery Monitoring System
+ CAC                  Calculated Amp-Hour Capacity
+ CAN                  Controller Area Network
+ CCS                  Combined Charging System
+ DAS                  Driver Assist System
+ DC                   Direct Current
+ DI                   Drive Inverter
+ ECU                  Electronic Control Unit
+ EPAS                 Electronic Power Assist Steering
+ EPB                  Electronic Parking Brake
+ HV                   High Voltage
+ HVAC                 Heating Ventilation Air Conditioning
+ HVC                  High Voltage Controller
+ HVIL                 High Voltage Interlock Loop
+ HVP                  High Voltage Processor
+ LV                   Low Voltage
+ PCS                  Power Conversion System
+ RCM                  Restraint Control Module
+ SCCM                 Steering Column Control Module
+ SOC                  State of Charge
+ SOH                  State of Health
+ TAS                  Tesla Air Suspension
+ USS                  Ultra Sonic Sensor
+ VCFRONT              Vehicle Controller Front
+ VCLEFT               Vehicle Controller Left
+ VCRIGHT              Vehicle Controller Right
+
+    NOTE
+ Throughout this Manual, vitals are a reference to measurements that are
+ taken to help assess the general health of the vehicle, give clues to
+ possible issues, and provide possible repairs.
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Service Mode Main Panel
+The main panel of Service Mode is always accessible by tapping on Vehicle Info.
+
+
+
+
+   1. System Menu: Service Mode navigation to system specific panels.
+   2. Release Notes: See Service Mode Release Notes.
+   3. Language selection: Users can choose to display Service Mode in their
+      preferred language.
+   4. Vehicle information: Displays basic information about the vehicle.
+   5. Service Alerts: See Service Alerts.
+   6. Software Reinstall: See Software Reinstall.
+   7. Additional Resources: Takes the user to service.tesla.com in vehicle web
+      browser.
+   8. Service Settings: See Service Settings.
+   9. Touch Check: Turns off the screen display to help diagnose false touches.
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Service Mode Plus Main Panel
+
+
+
+
+Additional buttons for:
+   1. Email address of the user connected to the vehicle.
+   2. CAN Viewer: See CAN Viewer.
+   3. Feedback: Displays a QR Code to scan to provide Service Mode feedback.
+   4. Audio Tests: See Audio Tests.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Service Alerts
+Tapping on the dropdown for each alert will provide more information on that alert.
+
+
+
+
+   1. Active Alerts: Displays alerts that are currently present on the vehicle.
+   2. Recent Alerts: Displays the last 100 alerts set on the vehicle in chronological
+      order.
+   3. Service-Fix: Filters alerts to only those with “service-fix” as an audience.
+   4. Customer: Filters alerts to only those with “customer” as an audience.
+   5. All: Displays all alerts without an audience filter.
+   6. Manual: Takes the user to the Troubleshooting Alerts section of the Owner's
+      Manual for that alert to learn more about what the alert means and what to do
+      about it.
+
+    NOTE
+ In Service Mode Plus, there is an additional “Service” tab to filter alerts
+ to only those with “service” as an audience.
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+What do the different alert audiences mean?
+Customer
+An alert with “customer” as an audience has a two-line message to communicate to
+the customer via the vehicle UI (Instrument Cluster and/or Touchscreen).
+Service-Fix
+An alert with “service-fix” as an audience requires rectification. Its presence is a call
+to action for a technician. This alert is only shown on the vehicle UI while in Service
+Mode.
+Service
+An alert with “service” as an audience is sometimes relevant for servicing a vehicle,
+but on its own does not require rectification. This alert is only shown on the vehicle
+UI while in Service Mode Plus.
+
+
+Software Reinstall
+Software Reinstall installs the current software version to a component without
+downloading the full software package again. The vehicle software version cannot be
+updated from here.
+
+Model 3 & Model Y Software Reinstall
+On Model 3 and Model Y, Software Reinstall only reinstalls software on CAN ECUs.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Model S & Model X Software Reinstall
+On Model S and Model X, there are additional options to perform one of the
+following types of reinstalls:
+   •   Full - Installs software on both DAS and CAN ECUs.
+   •   CAN ECU - Installs software on only CAN ECUs.
+   •   DAS - Installs software on only DAS ECUs.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Service Settings
+Service Mode has multiple settings to facilitate operations in a workshop. Some
+settings are toggled on automatically when entering Service Mode. This panel lists
+all the changes and allows users to turn off the automated settings, such as the
+speed limit.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Service Mode Release Notes
+Service Mode Release Notes are developed separately from the vehicle software
+release notes. Service Mode release notes are intended for a technical audience to
+inform the user of the latest Service Mode features.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Audio Tests
+The Audio Tests panel is only available while in Service Mode Plus. This panel allows
+the user to test audio features of the vehicle.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+CAN Viewer
+The CAN Viewer panel is only available while in Service Mode Plus. This panel allows
+the user to monitor a list of live CAN signals.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Driver Assist
+Cameras
+
+
+
+
+   1. ECU: DAS ECU status
+   2. Features: DAS features status
+   3. GNSS: GPS antenna status
+   4. Triple camera angles: Displays the current angles of the triple camera.
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+   5. Ping DAS: Runs ODIN routine PING-TP_DAS to confirm the DAS ECU is
+      online and able to communicate.
+   6. Reset DAS: Runs ODIN routine TEST-RESET_DAS to reset the DAS ECU. Use
+      after replacing cameras.
+   7. Clear Camera Calibration: Runs ODIN routine PROC_DAS_X_CLEAR-
+      CALIBRATION to clear camera calibration. Use after adjusting the camera
+      angles.
+   8. Camera Preview: View all the camera feeds together.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Sensors
+This panel shows the status of parking sensors.
+
+
+
+
+The buttons described below are only available on vehicles with Tesla USS:
+   1. Program Front USS: Runs ODIN routine PROC_USM_FRONT_PROGRAM-
+      USS-ADDRESSES to program front ultra sonic sensors after replacement.
+   2. Program Rear USS: Runs ODIN routine PROC_USM_REAR_PROGRAM-USS-
+      ADDRESSES to program rear ultra sonic sensors after replacement.
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Infotainment
+Connectivity
+
+
+
+
+   1. Wi-Fi: Wi-Fi status
+   2. Tesla Connection: Connection type in use
+   3. Cell: Cell connectivity vitals
+   4. Modem: Modem vitals
+   5. Test Modem: Runs ODIN routine PING-BASH_MODEM_HEALTH_CHECK to
+      test the modem health.
+   6. Test LTE Antenna: Runs ODIN routine PING-BASH_ANT to test LTE antennas
+      connection.
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Software
+
+
+
+
+   1. Infotainment: Statuses for the Infotainment updaters
+   2. Autopilot: Statuses for the Autopilot updaters
+   3. Maps: Statuses for the Maps updaters
+   4. Software Reinstall: See Software Reinstall.
+   5. ECU Update Status: See ECU Update Status.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+ECU Update Status
+This panel shows last software job information and displays the result of the CAN
+ECU updates from the last installed job. This is useful for checking what components
+may have failed an update and why.
+
+
+
+
+   1. General state of the software update
+   2. Succeeded ECUs: Lists ECUs that successfully updated.
+   3. Version Matched ECUs: Lists ECUs where their software version is up to
+      date.
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+High Voltage
+High Voltage System
+
+
+
+
+   1. Overview of high voltage system component states.
+   2. Health Test: See System Health Test.
+
+    NOTE
+ In Service Mode Plus, there is an additional Open Contactors button which runs
+ ODIN routine PROC_VCFRONT_X_POWER-CONTACTORS_OPEN to force
+ open the HV battery contactors.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+System Health Test
+Runs ODIN routine PROC_HVBMS_X_STATE-OF-HEALTH-TEST-START-OR-
+RESULTS. This routine starts a HV battery sate of health (SOH) test or returns the
+last requested SOH test.
+The HV battery health test is a test returning the HV battery SOH, which determines
+the percentage of health compared to when the HV battery was new.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Charging
+Model 3 & Model Y Charging
+
+
+
+
+   1. Charging source vitals
+   2. Latch state
+   3. HV battery vitals
+   4. Pack contactors state
+   5. Fast charge contactors state
+   6. PCS state
+   7. Charge port vitals
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Model S (2012-2020) & Model X (2015-2020) Charging
+Runs ODIN routine PROC_CP_X_PLC-RELAY-RETROFIT to perform a CCS retrofit.
+Only run this action when performing a CCS retrofit and when the CCS
+communication hardware is physically installed on the vehicle. An incorrect
+configuration may cause inability to charge.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+HV Battery
+
+
+
+
+   1. Runs ODIN routine PROC_HVBMS_X_RESET-SOC to reset the SOC (state of
+      charge).
+      This routine can reset the calculated SOC based solely on the open circuit
+      brick voltage.
+   2. HV battery and HV battery ancillary tray vitals + service actions. Tap on a
+      component to view more information.
+   3. Confirmation of transport following SOC.
+Clicking on a component will display more information.
+
+
+The HV Battery panel in Service Mode Plus has additional features:
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+    Warning
+ All the routines listed below must be used according to a Service Manual
+ procedure. Do not run the routine unless specifically instructed to do so as part
+ of a procedure.
+   1. Runs ODIN routine PROC_HVBMS_X_RESET-SOC to reset the State of
+      Charge (SOC).
+   2. Runs ODIN routine PROC_HVBMS_X_RESET-BRICK-CAC to reset Brick
+      CAC.
+      This routine resets all HV battery brick calculated amp-hour capacities
+      (CACs) to the nominal / default values.
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+   3. Runs ODIN routine PROC PROC_HVBMS_X_CLEAR-BLOCKED-
+      CONTACTORS to Clear blocked contactors alerts.
+   4. Runs ODIN routine PROC_HVC_X_CLEAR-ISOLATION-CONDITION to clear
+      isolation counter alerts.
+   5. Runs ODIN routine PROC_VCFRONT_X_HV-DISCHARGE-START to start HV
+      battery discharge.
+   6. Action HVC replacement:
+
+           •   Before HVC replacement: Runs ODIN routine PROC_HVC_X_ECU-
+               REPLACEMENT-BACKUP to back up the old HVC.
+
+           •   After HVC replacement: Runs ODIN routine PROC_HVC_X_ECU-
+               REPLACEMENT-RESTORE to restore the new HVC.
+   7. Action HV battery replacement: Runs ODIN routine PROC_HVC_X_PACK-
+      REPLACEMENT to execute a sequence of actions needed to be taken
+      following a HV battery replacement.
+   8. Action shunt replacement: Runs ODIN routine PROC_HVP_X_WRITE-
+      SHUNT-BAR-RES to write the new shunt bar resistance.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+High Voltage Controller
+
+
+
+
+   1. Runs ODIN routine PING-TP_HVBMS to test if the HVBMS is communicating.
+   2. Runs ODIN routine PING-TP_HVP to test if the HVP is communicating.
+   3. Runs ODIN routine TEST-RESET_HVBMS to reset the HVBMS.
+   4. Runs ODIN routine TEST-RESET_HVP to reset the HVP.
+   5. Runs ODIN routine TEST-SELF_HVP_X_LV-POWER to determine sufficient
+      low voltage power input and contactor power input from the right vehicle
+      controller (VCRIGHT).
+   6. Runs ODIN routine TEST-SELF_HVP_X_PCS-INTERFACE to determine the
+      circuit integrity of PCS-ENABLE-L, PWM-ENABLE-DCDC, and PWM-
+      ENABLE-CHG lines that are being sent from the High Voltage Processor
+      (HVP) to the Power Conversion System (PCS).
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+High Voltage Interlock Loop
+This panel shows an overview of the High Voltage Interlock Loop (HVIL) circuit.
+
+
+
+
+HVIL circuit overview
+   1. Runs ODIN routine PROC_HVP_X_FORCE-HVIL-ON to force HVIL on.
+      This routine will force the HVP HVIL current source for the specified duration.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Procedures
+
+
+
+
+   1. High Voltage Battery Replacement: Runs ODIN routine
+      PROC_HVC_X_PACK-REPLACEMENT to execute a sequence of actions
+      needed to be taken following a HV battery replacement.
+   2. High Voltage Controller (HVC) Replacement:
+
+           •   Before HVC replacement: Runs ODIN routine PROC_HVC_X_ECU-
+               REPLACEMENT-BACKUP to back up the previous HVC.
+
+           •   After HVC replacement: Runs ODIN routine PROC_HVC_X_ECU-
+               REPLACEMENT-RESTORE to restore the new HVC.
+   3. Shunt Replacement: Runs ODIN routine PROC_HVP_X_WRITE-SHUNT-
+      BAR-RES to write the new shunt bar resistance.
+   4. Action rear drive inverter replacement:
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Drive Inverter Replacement Procedure
+List of all actions needed to perform a rear drive inverter replacement.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Low Voltage
+Power Distribution
+Model 3 & Model Y Lithium-ion Low Voltage Batteries
+
+
+
+
+   1. Reset VCFRONT: Runs ODIN routine TEST-RESET_VCFRONT to reset the VC
+      front.
+   2. Clear Post Crash Load Shed: Runs ODIN routine
+      PROC_VCFRONT_X_CLEAR-POST-CRASH-LOADSHEDDING to clear post-
+      crash loadshedding after a collision.
+   3. Low Voltage battery vitals.
+   4. Power conversion system (PCS) vitals.
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+When clicking on each element, the user can view their vitals and perform actions for
+that ECU. For instance, when clicking on the VCRIGHT, the user can run an action to
+reset it.
+
+Model 3 & Model Y Lead Acid Low Voltage Batteries
+
+Vehicles equipped with lead acid Low Voltage (LV) batteries use the same panel as
+vehicles equipped with lithium-ion LV batteries, except that users can change the
+battery type on this panel.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Model S (2021+) & Model X (2021+) Low Voltage Batteries
+
+
+
+
+   1. LV battery vitals
+   2. HV battery vitals
+   3. PCS vitals
+   4. Runs ODIN routine PROC_VCBATT_X_RECONNECT-LV-BATTERY to
+      reconnect the low voltage battery.
+   5. Runs ODIN routine TEST-RESET_VCFRONT to reset the VC front.
+   6. Runs ODIN routine TEST-RESET_VCLEFT to reset the VC left.
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+   7. Runs ODIN routine TEST-RESET_VCRIGHT to reset the VC right.
+   8. Runs ODIN routine PROC_VCFRONT_X_CLEAR-POST-CRASH-
+      LOADSHEDDING to clear post-crash load shed alert.
+
+           •   Vehicle controller is loadshedding due to a vehicle collision. Make sure
+               the vehicle is safe to re-energize before using the Clear Post-Crash
+               Loadshedding routine to resume all low voltage electrical system
+               features and enable high voltage system again.
+Model S (2021+) & Model X (2021+) also have a panel for changing the battery
+configuration.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+HomeLink
+The HomeLink panel has different displays depending on whether HomeLink is
+enabled (right side) or not enabled (left side).
+
+
+
+
+   1. HomeLink state
+   2. Runs ODIN routine PROC_VCFRONT_X_HOMELINK-RETROFIT to perform
+      HomeLink retrofit.
+
+           •   Only run this routine when performing a HomeLink retrofit and when the
+               module is physically installed on the vehicle.
+   3. Runs ODIN routine TEST-SELF_VCFRONT_X_HOMELINK to test HomeLink.
+      This action performs a self-test to check LIN connections to the HomeLink
+      ECU.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Seats
+This panel is only available on Model S (2012-2020) & Model X (2015-2020).
+
+
+
+
+This panel allow the user to calibrate driver and passenger seats:
+   1. PROC_MSMD_VCSEATD-FRONT-DRV_CALIBRATE-MEMORY-SEAT
+   2. PROC_MSMP_VCSEATP-FRONT-PAS_CALIBRATE-MEMORY-SEAT
+This action should be used after a seat replacement.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Controller Area Network
+This panel is only available in Service Mode Plus. This panel gives users an overview
+of the different Controller Area Network (CAN) circuits.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Headlights
+
+
+
+
+   1. Headlight vitals
+   2. Access to headlights leveling panel. See Headlamp Leveling.
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Headlamp Leveling
+
+
+
+
+   1. Aiming information.
+   2. Vehicle Pitch Sensor information.
+   3. Runs ODIN routine PROC_VCFRONT_X_WRITE-HEADLIGHT-AIM-
+      CALIBRATED-VALUES to write headlight aim calibrated values into
+      VCFRONT.
+   4. Runs ODIN routine PROC_VCFRONT_X_TRIGGER-LIVE-AX-HEADLIGHT-
+      LEVELING to force trigger headlight leveling.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Thermal
+Actions
+
+
+
+
+   1. System status
+   2. Runs ODIN routine TEST_VCFRONT_X_THERMAL-COOLANT-AIR-PURGE to
+      run coolant air purge.
+      This action runs HVAC pumps at maximum speed, changing valve positions.
+   3. Runs ODIN routine TEST-SELF_VCFRONT_X_COOLANT-PUMPS-
+      IDENTIFICATION to run coolant pumps identification after coolant pump
+      replacement.
+   4. Runs ODIN routine TEST-SELF_VCRIGHT_X_HVAC-PERFORMANCE to run
+      HVAC performance test
+      This action tests the cabin HVAC operation and returns pass or fail.
+   5. Runs ODIN routine TEST-SELF_VCFRONT_X_THERMAL-PERFORMANCE to
+      run thermal performance test.
+      This action tests the vehicle thermal system performance, including both
+      powertrain and cabin HVAC heating and cooling with pass or fail result.
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Refrigerant System
+
+
+
+
+   1. Overview of refrigerant system vitals
+   2. Runs ODIN routine PROC_VCFRONT_X_START-THERMAL-FILL-DRAIN to
+      start thermal fill / drain.
+   3. Runs ODIN routine PROC_VCFRONT_X_START-THERMAL-FILL-DRAIN-
+      REFRIGERANT to start refrigerant fill / drain only.
+   4. Runs ODIN routine PROC_VCFRONT_X_STOP-THERMAL-FILL-DRAIN to
+      stop thermal fill / drain.
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+   5. Runs ODIN routine TEST-SELF_VCFRONT_X_HEAT-PUMP-
+      COMMISSIONING to run heat pump commissioning.
+      Start the heat pump thermal system commissioning (only if the routine
+      complete successfully).
+   6. Runs ODIN routine PROC_VCFRONT_X_RESET-COMPRESSOR-P-METRIC
+      to reset compressor P-Metric.
+      Only use this routine after AC compressor replacement.
+
+Coolant System
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+   1. Overview of coolant system vitals.
+   2. Runs ODIN routine TEST_VCFRONT_X_THERMAL-COOLANT-AIR-PURGE to
+      run coolant air purge.
+   3. Runs ODIN routine PROC_VCFRONT_X_START-THERMAL-FILL-DRAIN to
+      start thermal fill / drain.
+   4. Runs ODIN routine TEST-SELF_VCFRONT_X_COOLANT-PUMPS-
+      IDENTIFICATION to run the coolant pump identification.
+      The pole pair configuration of the coolant pump is a critical parameter that
+      software uses to command the pumps and interpret feedback signals
+      correctly.
+   5. Runs ODIN routine TEST-SELF_VCFRONT_X_FIVE-WAY-VALVE to run a
+      coolant valve test.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Heating, Ventilation and Air Conditioning (HVAC)
+This panel has three different views of the HVAC system – the left ride, the right ride,
+and a top overview.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Chassis
+Alignment and Tires
+
+
+
+
+   1. Actual applied offset.
+   2. Runs ODIN routine PROC_EPAS_ESP_CLEAR-ANGLE-OFFSETS to clear
+      applied offset.
+   3. Runs ODIN routine TEST-SELF_EPAS_X_STEERING-CENTER-OFFSET-
+      SERVICE to perform an offset test drive.
+      Purpose of this action is to check if alignment has been disturbed significantly
+      after a suspension repair.
+   4. Runs ODIN routine PROC_VCSEC_X_TPMS-ERASE-AND-AUTOLEARN to
+      reset estimates after tire rotation or replacement.
+   5. Live steering wheel angle + force applied on the steering wheel.
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Steering
+
+
+
+
+   1. Steering column vitals.
+   2. Runs ODIN routine PROC_STEERING_COLUMN_CALIBRATION to calibrate
+      the steering column.
+   3. Steering rack vitals.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Steering Column Control Module (SCCM)
+This panel allows the user to check each function / button related to the SCCM.
+For instance, when pushing the park brake button, the « P » on the screen will
+become yellow.
+
+
+This confirms the button is working properly.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Brakes
+
+
+
+
+   1. General overview of braking system.
+   2. Runs ODIN routine TEST_BRAKE_X_STIFFNESS-TEST-SERVICE
+      Measure the brake system stiffness.
+      Can be used after an ABS regulator replacement for instance.
+   3. Runs ODIN routine PROC_ESP_FRONT-L-REAR-R-BRAKE-BLEED
+      The ESP hydraulic control unit will run the high pressure pump and control
+      circuit valves to help a prescheduled brake fluid flush or bleed.
+   4. Runs ODIN routine PROC_ESP_FRONT-R-REAR-L-BRAKE-BLEED
+      The ESP hydraulic control unit will run the high pressure pump and control
+      circuit valves to help a prescheduled brake fluid flush or bleed.
+   5. Runs ODIN routine PROC_EPB_X_SERVICE-MODE
+      Release both parking brakes to allow the user to remove rear calipers.
+   6. Action to perform brake pads burnishing. See Brake Burnishing.
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Brake Burnishing
+This panel guides the user through the brake burnishing process, with speed target
+(plays chimes), live pressure reading and cycle count.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Air Suspension
+
+
+
+
+   1. Air suspension mode
+   2. Jack mode
+   3. Air suspension level
+   4. Air suspension vitals
+   5. Runs ODIN routine PROC_TAS_X_CLEAR-SPRING-LEAK-ALERT to clear air
+      spring leak alert.
+   6. Runs ODIN routine PROC_TAS_X_MEASURE-AIR-SUSPENSION-PRESSURE
+      to measure air suspension pressure.
+   7. Runs ODIN routine PROC_TAS_X_DEFLATE to deflate all.
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Closures
+Windows
+
+
+
+
+   1. Windows switch state
+   2. Runs ODIN routine TEST-SELF_VCLEFT_FRONT-L_CALIBRATE-WINDOW to
+      calibrate windows.
+      During window calibration, window will roll up and down until the calibration is
+      complete. Pinch detection is disabled during calibration
+           NOTE
+        Ensure doors are closed as brightwork can be damaged during the
+        calibration process.
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+   3. Rear defrost state.
+      If Rear Defrost is disabled (if replacing rear glass for example), a button
+      “Enable Rear Defrost" to trigger:
+      PROC_VCRIGHT_REAR_DEFROST-RE-ENABLE
+   4. Runs ODIN routine PROC_WIPER_X_POST-REPLACEMENT-PROCEDURES
+      after wiper module replacement.
+
+
+
+Door Handles
+This panel is only available for 2012 –2020 Model S. Its primary purpose is to show
+the door handles’ vitals and run ODIN routine PROC_VCLEFT_FRONT-
+L_CALIBRATE-DOOR-HANDLE to calibrate the door handles.
+
+
+
+
+Tap on a component to view more information.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Sunroof
+This panel is only available on Model S (2012-2020). Its primary purpose is to run
+ODIN routine PROC_CID_X_SUNROOF-CALIBRATE to calibrate the sunroof.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Falcon Doors
+This panel is only available on Model X. Its primary purpose is to show Falcon Door
+and Ultrasonic Sensor (USS) vitals.
+
+
+
+
+Tap on a component to view more information.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Safety and Restraints
+Airbags
+The Airbags panel allows the user to view the status of each airbag component.
+
+
+
+
+Tap on a component to view more information.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Seats
+The Seats panel allows the user to view the status of each component in a seat.
+
+
+
+
+Tap on a component to view more information.
+
+
+
+
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+Service Mode panels can differentiate from this guide based on vehicle model, year, software
+version and hardware installed. This guide is based on Service Mode from software version
+2024.2.7.
+

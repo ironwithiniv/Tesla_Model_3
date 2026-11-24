@@ -1,0 +1,1757 @@
+<!doctype html><meta charset="utf-8"><title>Event Data Recorder Retrieval</title><p><small>Source: <a href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/GUID-F7CB402A-B678-4DDB-A86E-01556BE6F359.html">https://service.tesla.com/docs/Model3/ServiceManual/en-us/GUID-F7CB402A-B678-4DDB-A86E-01556BE6F359.html</a> (downloaded 2026-11-24)</small></p>
+<main role="main" class="tds-shell-content" id="main-content"><article role="article" aria-labelledby="GUID-F7CB402A-B678-4DDB-A86E-01556BE6F359__GUID-8DAF485D-F50E-45CF-B323-9ACA6DBDA61A"><div class="date-modified">2026-08-09</div>
+  <h1 class="title topictitle1" id="GUID-F7CB402A-B678-4DDB-A86E-01556BE6F359__GUID-8DAF485D-F50E-45CF-B323-9ACA6DBDA61A">Event Data Recorder Retrieval</h1>
+  
+  
+  <div class="body taskbody"><p class="shortdesc">
+    
+    <img class="image" src="GUID-21B50AFA-DA91-4C6B-9C1D-8A5A40CEC40F-online-en-US.jpg">
+    <span class="ph correction-code-title" id="GUID-F7CB402A-B678-4DDB-A86E-01556BE6F359__GUID-16CDB389-3EF7-4868-BC83-BD1D5DB63380">Correction code</span>
+    <span class="ph correction-code" id="GUID-F7CB402A-B678-4DDB-A86E-01556BE6F359__GUID-E222047A-F243-4B68-8087-9B0E6155A3BD">NA</span>
+  </p>
+    <section class="section context" id="GUID-F7CB402A-B678-4DDB-A86E-01556BE6F359__GUID-AA5FEE18-F97B-4D33-B9EE-5CEAA7F6CC3F">
+      <ul class="ul tds-list tds-list--unordered changes" id="GUID-F7CB402A-B678-4DDB-A86E-01556BE6F359__GUID-321640E5-F484-4AAD-A4E9-AFE8CFE39ECA">
+        <li class="li change-item" id="GUID-F7CB402A-B678-4DDB-A86E-01556BE6F359__GUID-C4D706DC-7CDB-49DF-BD11-1C0B65C67301">
+          <span class="change-date">2026-05-07: </span>
+          <span class="ph change-desc" id="GUID-F7CB402A-B678-4DDB-A86E-01556BE6F359__GUID-17D274FD-AB88-4826-A46D-DB2605AB981B">Updated "Vehicles Built Through/After 10/04/2020)" title to "Vehicles Built Through/After 10/05/2020)".</span>
+        </li>
+      </ul>
+      <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>This procedure is a DRAFT.
+        Although it has been validated, Warnings and Cautions might be missing. Follow safety
+        requirements and use extreme caution when working on or near High Voltage systems and
+        components.</div></div></div>
+      <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>
+        <ul class="ul tds-list tds-list--unordered" id="GUID-F7CB402A-B678-4DDB-A86E-01556BE6F359__GUID-93B1E0B8-C790-488B-AF95-89737F0387AE">
+          <li class="li" id="GUID-F7CB402A-B678-4DDB-A86E-01556BE6F359__GUID-8204062C-40DD-494F-A66D-0919997FDE19">Refer to <a class="tds-link xref" href="https://service.tesla.com/user/documents?searchText=CD-19-20-001" target="_blank">CD-19-20-001</a> for Model 3 Event Data Recorder (EDR) guide for vehicles built through 10/05/2020.</li>
+          <li class="li" id="GUID-F7CB402A-B678-4DDB-A86E-01556BE6F359__GUID-795E56C3-97AB-46F2-BCEF-54F5C5FF6C80">Refer to <a class="tds-link xref" href="https://service.tesla.com/user/documents?searchText=CD-20-20-003" target="_blank">CD-20-20-003</a> for Model 3 EDR guide for vehicles built after 10/05/2020.</li>
+        </ul>
+      </div></div></div>
+    </section>
+    <section class="section context" id="GUID-F7CB402A-B678-4DDB-A86E-01556BE6F359__GUID-17348862-543B-424B-BA8E-E17E95228FD5">
+      <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Use the following procedure(s) for Model 3 EDR retrieval as required:<ul class="ul tds-list tds-list--unordered" id="GUID-F7CB402A-B678-4DDB-A86E-01556BE6F359__GUID-9173C840-0712-4259-B92E-4B0561341E6B"><li class="li" id="GUID-F7CB402A-B678-4DDB-A86E-01556BE6F359__GUID-470BC908-135A-427F-A10E-EE1FEDA5F402"><a class="tds-link xref" href="#GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B">Establish a Direct-to-Module Connection (Vehicles Built Through 10/05/2020)</a></li><li class="li" id="GUID-F7CB402A-B678-4DDB-A86E-01556BE6F359__GUID-F1C669A6-0065-4D96-B82A-628B2C25FF48"><a class="tds-link xref" href="#GUID-F2346873-89F3-4584-9AEB-051D679B1FB7">Establish a Direct-to-Module Connection (Vehicles Built After 10/05/2020)</a></li></ul></div></div></div>
+    </section>
+  </div>
+  <nav role="complementary" class="related-links"><div class="familylinks"><div class="parentlink p"><strong>Parent topic:</strong> <a class="tds-link xref" href="GUID-7E5980D3-AB9A-4B8E-8B26-2444E312B339.html">Best Practices</a></div></div></nav><article class="topic task nested1" aria-labelledby="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-D398A3FF-646F-40EC-A615-82C11E407EA6" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B">
+    <h2 class="title topictitle2" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-D398A3FF-646F-40EC-A615-82C11E407EA6">Establish a Direct-to-Module Connection (Vehicles Built Through 10/05/2020)</h2>
+    <div class="body taskbody">
+      <ol class="ol steps tds-list tds-list--ordered" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-9896FCC3-8C62-46D6-8FD9-B64C9A8DE746">
+        <li class="li step 100000024574" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-DF2E4CC0-D9DB-45A3-85C7-9812567F3845">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-DDEEA2D3-7DB0-433A-9354-9E4CC5DBAD59">Open all four doors</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>If vehicle is being powered down, Latch rear doors to prevent accidental closure</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-E80D033C-6BD1-4B1D-BEB3-D1300E38778A-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024575" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-F896F9B6-7864-44B7-831F-6208EDBD8479">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-957BBCCE-3EF7-400B-82FC-049A73F26C1B">Lower all four windows</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-93677F33-CC24-461F-AB84-0EE9B3D36339-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024576" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-D88EEC6C-3C7F-46CC-87E3-6BB937B5337E">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-708CEC04-A16F-4B83-BFFD-77DC0F7C225D">Move LH front seat forward</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-8B7BF2E6-507A-4B29-A904-A6D5BE36A927-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024577" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-3B0E51C6-5B76-4F24-9A2C-CD3A71C486DB">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-131C253D-67DE-483D-AD6B-5F735E52A09C">Move RH front seat forward</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-D91FE24C-E40D-4831-B2C6-44BF98A616C2-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024578" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-3C59E7A7-37C9-4110-BC1B-00FA99EFF124">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-EB69F009-3690-4E74-8358-F3F7ED9B8D97">Remove 2nd row seat cushion and disconnect harness</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x tabs, 2x connectors, Slide locking tabs to left of vehicle while lifting up seat benchNewer models have connectors on both sides of bench, Older models have 2x connectors on one side of bench</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-CC220503-0041-44C5-BA32-80BCF934B6A4-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-B2165928-C2BE-4076-85D3-D70D7BD62ACB-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-63BCFB4B-48F8-4A3E-8F5C-4D8BF5B45960-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-582F1E13-D01C-4B2B-B390-61EF4608C1F5-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024579" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-4FFFD019-E838-42A1-B4F5-0DE2E29D5680">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-EC2F1A4D-4CDC-428D-9796-93D2417F0B25">Open hood</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Press "Open" button on touchscreen to release latch, Lift lid manually</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-12FB6870-E527-46C1-96AB-2FCDEC43FE68-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-072AE339-5CDA-4DC1-B335-A31BC703A306-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000034742" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-C2E94D55-D9E1-4102-BBA4-86102FE652B5">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-019F8F52-76A2-4AEC-A324-7FF4E41E5DFD">Remove rear apron</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>12x clips, Only store rear apron visible face upwards </div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-51BEC5BC-0D56-4115-B7BD-5843F78AC253-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-2895E42A-4B27-4250-9321-3A577A03F5D2-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-BE0CEBD8-1111-4F93-956A-FC31222D1FA4-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025192" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-30A7ACD0-A423-429A-9DC9-268610A3050C">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-7865CFAD-AB96-494F-ADB7-2A6DE9D44661">Move RH front seat backward</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-29AA8E4E-AC4F-4486-A7DA-63E7E3806004-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000061349" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-BD50E7E7-F711-4148-B2A7-BA484A51E6C8">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-04BDD144-92AC-4306-A987-23AFEAED7C9B">Move LH front seat backward</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Ensure the front of the seat is high enough to access the T20 screw for the outer side cover</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-B49E1E6A-CDAC-441F-9803-B6202249BA4D-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025185" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-FE88D9CA-39D3-4AB5-A00A-2700BD945FF9">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-0DD6B9AF-9776-4771-9F4B-7B55C74C7F6D">Remove LH front floor mat</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-EB8F8454-CED0-4765-AD1C-D8201170A7E4-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000061561" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-312175D8-0FC2-4CB2-9D20-459ECFE825DC">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-8D94F825-B378-46B0-9216-7384AA9EBCC4">Remove LH console side panel carpet</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>12x clips, Use trim tool starting at rear edge to release upper clips, then pull bottom to release remaining clips</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-7699E179-0AFE-4627-9BD2-7CAF4ADD5314-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065563" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-95A3B634-A55F-4AD0-8633-597EC6141283">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-E939284E-D0BA-449C-AE7A-33FF548427CF">Remove LH front exterior hardware from center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x bolts, 10mm, 7 Nm</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-BC7692AD-CCA0-48D1-9CE5-6CC7729CB47C-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025197" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-93D7965D-752E-4C33-BDF8-9E52BA97C276">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-AA764D15-1D36-4CF5-ACE1-558CCA287F79">Remove RH front floor mat</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-D5FB2F3F-9DD2-4DFC-BD17-6182CAB1AB3A-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025217" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-7617A79B-B3CF-4DE1-A8C3-504B209E90CE">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-A2E19D48-3F8A-4204-9099-54CE62C3139D">Remove RH console side panel carpet</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>12x clips, Use trim tool starting at rear edge to release upper clips, Pull bottom to release remaining clips</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-E2FB3E38-0176-4E87-9E92-F815E7C652BD-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065575" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-3E218EBA-5BFB-4865-9436-CBF353459170">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-F086B76E-9A32-4F3B-A3E7-9C2CF5F648DF">Remove RH front exterior hardware from center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x bolts, 10mm, 7 Nm</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-15231B89-C30F-4230-A563-6B3F5D5B01F9-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025226" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-9AE4A507-A1E7-4490-9106-CF17739C8F00">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-F80CB800-F7ED-4A81-942E-CC8DE84149B1">Disconnect USB harness at right front of center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x USB connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-BFB621F8-560C-4F4C-BB3B-C489922F29C4-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-42DEC064-5C33-4FF1-A3C8-E8ADFAEA332F-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000040440" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-F2144DDF-47EF-44FB-A49E-899741D5AB90">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-9F7209F5-02AE-4C87-8354-9D465D52C8C6">Open front console rotating lid</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Push down lightly to open</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-2DFF897E-1652-4138-90C1-8FFDC0C29A26-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025221" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-4BDB9650-38FD-4A5A-A933-D7990E4FD650">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-89170858-1727-43FD-A581-46A3507A0553">Open rear console rotating lid</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Push down lightly to open</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-C0EBD16E-81CC-4CED-A464-DEBE17C00419-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000066211" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-D5F26DE5-B514-4E24-8716-056DA4C3A5B1">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-ADA3297D-6B76-46E1-94BF-74BFAD366BF8">Remove console lid interior fasteners</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x screws, T20, 1.7 Nm, Top photo is early production vehicles, Bottom is for later production vehicles</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-A0095E48-6E05-4B73-9385-CCB22E17D0F3-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-5B240BFC-BD6F-459D-A8B8-A2EEEA422FC2-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024576" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-9C8949DA-92A6-4DFE-B42E-25A18581D237">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-656B6748-BC90-4C4E-BEB6-0CB17BAD035F">Move LH front seat forward</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-8B7BF2E6-507A-4B29-A904-A6D5BE36A927-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000040821" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-68CE2C89-72F9-42E6-99DD-246E3D01C54F">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-3DBF32AB-BB9C-4A68-B224-45B49FC82F8D">Raise LH front seat cushion to maximum height</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-3696E69F-0F29-4F0A-B342-44D759A65087-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024577" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-7270CEF5-3049-4473-A31A-6DAF9FD2FF9F">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-70E033E4-8201-4E23-A223-2C12A71BEDBE">Move RH front seat forward</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-D91FE24C-E40D-4831-B2C6-44BF98A616C2-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000040822" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-551AE969-C5C7-48AA-975C-AB4BDF625B18">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-5A6B68B6-D2FC-42D1-8FE0-3626EF8EE2C6">Raise RH front seat cushion to maximum height</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>This will allow access to HV battery bolts at RH front foot well and below RH front seat, Adjust seat back if needed to avoid contacting headliner</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-DF52BC2E-9439-4FEF-9D1D-10111F6EFDD1-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025219" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-6EF14E97-079A-4F3F-ABAC-43257B7D2133">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-A7D83C23-3DCE-4FFA-99E5-BEEBB16AD433">Remove console lower rear panel</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>5x clips, Insert the plastic trim tool with a 90 degree bend at the bottom of the cover and pull straight out to release</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-CC2969FF-791D-4F6D-A161-56DF9AE5DFFE-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065568" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-BC00731D-9BA0-45E2-9077-81ED063ACB56">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-7192FB37-079C-49F3-A26E-A2E0519E86C1">Remove LH rear exterior bolt from center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x bolt, 10mm, 7 Nm</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-9F1D7305-FF5E-4014-9199-ECD9E97D09A4-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065571" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-35C5BCA9-85D2-40F3-88B7-70B56E0A9823">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-080269AD-DEB6-4091-9303-E8AA8D236F7C">Remove RH rear exterior bolt from center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x bolt, 10mm, 7 Nm</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-A19523AD-9B21-4BAA-A7B9-05520403627D-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025227" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-0307A3F0-AA2F-41A4-92E3-9C10A033C8F6">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-3CF08365-CFC8-483C-9B50-32F1ABF10F12">Disconnect harness from rear of center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-1E1BAE07-C368-4BFD-B9A6-2A7EB5E12EAB-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025192" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-9AFC3D72-3A6E-411B-B756-FF4D7E860BF9">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-978A27A9-5851-4017-968F-C65C9E5EA5CB">Move RH front seat backward</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-29AA8E4E-AC4F-4486-A7DA-63E7E3806004-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025228" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-C68613EF-0609-4300-B4CB-31988C25F613">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-6C2F7767-D33F-4E79-8DDC-C3C0D9E3220E">Close front console rotating lid</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>This will avoid lid getting hung up on center display upon removal</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-48B3F591-12DC-486E-819C-0BCC4FF99FA6-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065590" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-6CFA0E10-EB35-4366-BD85-CDD4CAA99E4F">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-E5AB329E-4CD1-45BA-BAFB-9BE8B4FE1B74">Remove center console from vehicle</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Recommend assistance, Tilt rear of console upward, pull assembly towards rear of vehicle, then tilt front of console upward and remove through passenger side</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-F45EF9A8-CCA3-4FD1-AD14-A29F06C43E5C-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024583" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-6E2739D4-A339-4137-AB25-B4E020EACAD6">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-34770491-CED2-4B55-BAB1-6EF6B2FE9344">Power off vehicle from center display</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Via Controls &gt; Safety &gt; Power Off, Select Power Off button at warning dialogue box</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-9DF6FF54-C3A1-46BB-A5CC-2D3F0856257D-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-4FBD5BC7-8980-42BA-8E66-011043F8E3FC-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024584" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-13BD78BF-2535-4E76-AAAA-B3E92C57FABF">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-1C2966B3-C503-4F29-9B1B-9AA4085D07A3">Disconnect 12V negative terminal</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x nut, 10mm, 6 Nm, Ensure vehicle is in park, climate control system is off, and vehicle is not charging before disconnecting 12V</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-2FEA5B7F-B7E3-49FF-834D-F7F160CD37D0-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000045175" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-57B1D155-A3A2-4940-B486-5AEFD1A3F2A6">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-13D8E7EB-5F36-4655-8897-8045364D4901">Remove 12V cap from penthouse</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x cap</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-16D3C3D1-0101-4242-B27D-A489FB7B23FE-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024586" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-48A11461-3F64-48C4-8AFC-880CE494AF3A">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-2BE788A6-E7DE-4BBC-B382-CD2F5FF3C731">Disconnect HVC logic connector and install logic cap</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector, 1x cap, Release locking tab then push the handle downward to release connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-7C28995A-0B51-4D7C-A6D4-5BAAF9F20EAF-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-DADA8674-CD60-49ED-9446-1225E84F537D-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-4EC9B76C-5ECD-4E9A-B9AA-9E82398B1875-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000103955" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-CB2A12FD-081B-4FC3-86C3-07788E5EEA2B">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-1BBA224C-BB29-4C73-9E8D-2F1F0531FD39">Disconnect RCM connectors</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x connectors</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-90876C50-36E0-414C-AAF5-2EC3FE084653-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-849BCFDC-E74A-4D50-92E4-2721B119153E-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-B0739DCB-8438-44B2-BEBF-607BE2AC031D-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000103956" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-685E38CA-D93B-4C45-9806-F67BA8968756">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-1DD7A7C1-18A4-47B6-8316-81C65AD411D2">Remove nuts securing RCM onto body</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>3x nuts, 10mm, 8 Nm, Discard patch nuts</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-C7C9BAE4-2006-427E-987A-108285160FB2-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-7EFF6F24-C685-4725-B6CC-E5B26962F826-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000103957" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-A743D8B3-3C4D-4378-84C7-35C6F6619BE6">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-FEC2F8EC-66C0-4E79-8177-CD16797B68AA">Remove RCM from vehicle</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-1E63B57D-F4E5-48E4-BDC9-9AD457AD9227-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-7E928F49-DDC4-4FAA-9170-1110852C2086-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000106295" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-0A2309FE-78A4-41F5-B9AA-C55E35EC5A91">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-0FFE7B07-74FA-4381-8284-357CDA3A6EC5">Connect Tesla Direct-to-Module EDR Retrieval Harness to RCM</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x connectors</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-06B0FCA3-E013-4BCC-A577-DBEA11D04090-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000106296" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-88D42056-F109-43E7-8DD7-5385E5913D25">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-0C28EC31-AB02-4693-BBCB-BBABF94549E1">Connect Tesla Direct-to-Module EDR Retrieval Harness to PCAN-USB adapter</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-5068D2C9-8FF9-4F2E-85BF-A825571CCB1C-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000106621" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-CE301713-422A-43CC-8B66-763A43BF0523">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-E00D00FA-C963-4693-9CE5-6F5130045B79">Connect PCAN-USB adapter to laptop via USB port</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector,</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-BF20A4F7-7ACC-46FB-95AC-14AB68F6C038-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 3A4297C567FF" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-55FAA8E0-28C7-4EF5-B65A-F0CFD4B5E7E7">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-02878BA9-0A7F-4234-8088-4348FDEBD712">Connect 12V power to Tesla Direct-to-Module EDR Retrieval Harness</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-19565136-3803-4152-A77E-C67B21034313-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000106632" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-738D2116-67E3-4180-BABA-9072C28928FC">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-EAB38058-5C9A-43C3-82BB-38D458EFF7F6">Open Tesla EDR Retrieval Program</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Program will automatically try to connect to RCM and will show a green circle in the lower left corner when connected</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-E83F7DE0-A528-44FD-AF48-3B2690B598AF-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000106633" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-9AB07281-4F07-4BC4-80E1-9A2B26679D3F">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-FDCD399C-88AF-4BEF-B227-664993821559">Once connected, click "Run EDR Retrieval" button and follow the on-screen prompts to retrieve and save EDR data</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-19F800DD-3A35-4DD1-9608-B98D23341596-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-9C0F515D-FECA-4203-B87C-F4494C3D08DE-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000106634" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-41C62327-3DA2-40C4-99E9-5B26D2BC7C7B">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-1FB6A181-940C-43EB-969A-021207091F9D">Use retrieved data to generate a Tesla EDR Report at https://edr.tesla.com</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Time will vary based on user and retrieved data</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-7E539155-22D6-46CA-B533-246299FCABEA-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-40A47D58-BD48-433E-85D6-37BCC5DC6E63-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-1698002F-89EA-4000-99FA-8FD50C12179A-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000106635" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-40E8AC7A-230E-4AD3-81F9-2AD9A8337272">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-91B9C266-DD0B-4F7F-9935-287E1FA0D25C">Close Tesla EDR program</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Select "x" at the top right of the window to close once complete</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-3ACA882B-3FB8-4699-AD3C-14CF74999400-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step C48B3C6DE8CE" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-2F3C1B75-3FF9-4A1B-9C92-C6BA2A1AAC27">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-F305089D-9ED9-4C28-8CEE-C750A49ED10F">Disconnect 12V power from Tesla Direct-to-Module EDR Retrieval Harness</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-6C8D005A-2CE0-445C-93A9-E9382B8D02E7-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000106636" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-6F5F72E8-E6A3-41B2-9D7C-590831306BD1">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-478B2506-57A1-4F82-8470-07722AA67DA3">Disconnect PCAN-USB adapter from computer</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-C0E3E481-A4FB-428C-AABA-6BD14026DFDA-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step DF971DE8BD0E" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-7DFB8CE0-5BE4-4B51-ABD7-03424E040B2E">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-3D348E94-DDEF-4DEE-8124-DB754D551194">Disconnect Tesla Direct-to-Module EDR Retrieval Harness from PCAN-USB adapter</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-6CE1E34F-893B-43D2-96A0-C4BAC3008510-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 3DE29915977B" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-E2118899-76B4-4A1A-919C-E33768FE7434">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-27B56C9D-EC3D-44C0-9FFD-C0D7FA275FEB">Disconnect Tesla Direct-to-Module EDR Retrieval Harness from RCM</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-E694A7F5-4146-4C7D-A5C1-3C6432E1BCDB-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000103958" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-BDEED688-3744-412D-B3EA-6624C4B5E8A8">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-D70F63EE-7E2F-446E-8A1F-4441F2EFE303">Position RCM into vehicle for installation</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-E9FDBF18-F253-49B6-9843-93C7286D20F9-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000103959" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-7B46ED6B-8EC6-41A1-973A-2B310E023C7A">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-8F7FD19C-0E7C-4BFB-863A-CB0D9F1585CA">Install nuts securing RCM onto body</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>3x nuts, 10mm, 8 Nm, Install new patch nuts</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-F0B25841-0CC1-4BD6-A7F0-54AE8E40791F-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000103960" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-7D1313F1-CA06-402C-A84B-9AACA171ADCD">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-003A2221-2023-4A27-B0C0-3DA819D6301B">Connect RCM connectors</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x connectors, verify that fully seated or make sure connector is fully seated&nbsp;</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-98E07443-9F50-465E-BBA5-CEA33EAE54C6-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-989BBF10-B95D-477E-8D6D-BCE6FAB2A874-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025352" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-589C4769-6C17-469A-B52B-B9DFDC3C1B65">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-A6D48396-D528-4506-8E70-48457AAE5B06">Remove logic cap and connect HVC logic connector</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector, 1x cap, Align connector then pull the handle to locking position get connector fully seated</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-102169D9-15B1-4F2C-BAB6-C41CEC42427E-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-5A45105F-717B-4EDA-BD37-93AC484A7EA2-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-72DD7FD4-5BFD-4E28-B29E-07FC4C794C17-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024632" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-52449582-5EFB-4384-BEAF-92A75446ADEA">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-81A86DA9-86E0-4D27-80DF-2ADE82E3E150">Install 12V cap to penthouse</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x cap</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-86E585B0-9B57-4BE5-8614-6C87591DA319-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024633" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-02F95C71-0234-4BFE-8F67-0B4A04149310">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-F04837D5-D7DF-41DD-89E8-7461D32DE9E7">Connect 12V negative terminal</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x nut, 10mm, 6 Nm</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-012EF88D-B17A-4887-AAB6-F063D22EA8DA-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065595" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-1BDE5AFC-1559-407D-9A7D-952D5A35D434">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-70F375CC-82C2-4B0C-8700-3C9ED7781481">Install center console into vehicle</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Recommend assistance, Tilt front of console downward, Slide assembly towards front of vehicle and tilt rear of console down into place</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-944244B6-C2A5-4FB5-A274-AFD16DC0826F-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025220" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-1DB5D803-472E-43ED-AC5C-9A0A83ED43E5">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-9785D9A4-F546-42DF-BCC0-DA8EAB1E779E">Open front console rotating lid</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-27BB5189-E36E-42B8-8685-51DA16590815-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025330" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-D0CB9272-EB17-49FC-8BAB-9D64C8B93F30">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-6D4DC194-8C21-481C-A533-0558FA44DC52">Connect harness to rear of center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-5643A09A-F309-402B-A6C7-F7D4723435D2-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065615" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-3DCE92F6-2341-485E-9338-56C63D6D4230">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-D07CC83C-B394-4DAB-BD60-A78476F6431C">Install RH rear exterior bolt to center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x bolt, 10mm, 7 Nm</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-88D122DD-721A-4FF8-97DA-4B9138554A7C-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065601" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-76A9D6DD-94EC-4C60-93F2-1DB0AC7E0D57">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-04485AB6-DD99-4CC0-944F-F8A0EE4C74E4">Install LH rear exterior bolt to center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x bolt, 10mm, 7 Nm</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-882D94A2-A1C5-42E8-807D-158D93796050-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025338" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-3AEF64F5-CE71-4FAC-BC55-F72D37E31ED0">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-3795BA38-16D4-4B05-9D7C-D9D563B939E1">Install console lower rear panel</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>5x clips</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-1F429D6F-58EE-4D68-BF1D-BC622C0B4DB8-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000040832" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-72BD6618-F69E-4953-87CE-9BD50B397FCE">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-6C7E79E0-0510-433C-BDC1-1CCC5E3C0E66">Lower RH front seat height</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-D5FE8A6E-09BA-480F-A3AB-FF52BA4557A1-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000040831" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-71258E4B-2E01-4D07-BD93-9573F6F23192">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-5B5B5D29-CE63-4858-A153-8E1826417E15">Lower LH front seat height</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-8F31D237-7A6D-4EF1-ACD0-4AA428CD40AC-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000066237" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-B75739E2-8774-4A8D-B05C-78E34243ED47">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-4ADE2A5B-0551-4AF4-8173-11EE2895AE31">Install console lid interior fasteners</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x bolts, T20, 1.7 Nm, Top photo is early production vehicles, Bottom is for later production vehicles</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-3275CEF7-B037-4685-B6CB-E83B01E9CC67-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-4F6011A0-2E29-487A-A873-1D9F0CB5ABC6-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025336" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-681B8991-1E0B-4777-A9E0-A9D53659B402">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-1583F576-ED26-4A3C-B3EF-2B7F54B74C13">Close rear console rotating lid</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-3A26CC2F-E11B-4AAC-9CB8-C11561705B77-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025337" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-E9514B09-6700-43DA-9715-43A1004E66E4">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-77D689DE-D792-48FF-BA21-C3E4921C833C">Close front console rotating lid</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-FB3216ED-EEFB-4D60-A436-911C6A077EAE-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065413" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-0DC1FE86-7C0A-4360-8ECD-4C0157C365C7">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-E36525AF-2530-436C-81DD-39EB1722DC84">Connect USB harness at right front of center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x USB connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-7F1234A9-4879-46AD-ADA4-05C20AFADED7-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065599" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-BB1798F2-9C63-4EED-9A71-444FBA69DDC7">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-855DF215-D601-4C2B-BD4B-483316E5A208">Install RH front exterior bolts to center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x bolts, 10mm, 7 Nm</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-94143023-E3BA-4C66-B42C-DB9D21E17B5C-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025341" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-C5CECAD3-A9D4-4CB0-9D21-C66C3A219C57">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-69C0631A-5B4C-4FCB-8A08-4D0B7D5B301C">Install RH console side panel carpet</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1 tab, 12x clips, Position side panel and align the front tab. Push the console panel from the front towards the rear</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-7EF99B9D-9BEC-4D8C-B14E-089DF6EBDA97-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065493" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-B23AD7A0-7A17-485F-B462-19A36E5C5F27">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-F2B8F48D-536A-4E8F-862E-6ABA61BAC59A">Install RH front floor mat</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-594D25B1-95FE-4F19-8301-2DC7D66BFB7D-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065600" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-D16D5191-85D8-4ED6-831F-EA2A45E5DC53">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-20EF8C66-7844-4486-AF19-23F3774D94F7">Install LH front exterior bolts to center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x bolts, 10mm, 7 Nm</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-B01E97BA-2F68-492E-A34A-BD9218626C29-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025339" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-D1FC5262-F82B-401D-877B-83C2F25373A3">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-FE1F9D1C-D9A4-4405-A29A-1F0064719F7B">Install LH console side panel carpet</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1 tab, 12x clips, Position side panel and align the front tab. Push the console panel from the front towards the rear</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-8827D332-5F52-4551-839D-220FB1CFCBD2-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025340" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-09BAFFA4-231A-4B55-8D13-C99E8E6A7995">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-21D0F559-1970-44E8-A441-4B35B634CEE7">Install LH front floor mat</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-02E2F232-FADD-4DC9-8503-5EC99D51C75D-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025365" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-6DE05384-FFB4-4C3F-9918-B2B6D7A71FE2">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-4202893A-0593-4682-A481-D530482AD3BE">Move LH front seat forward</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-22C59934-6DB4-4ABB-9B18-456D04837C26-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025356" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-6FA032C0-DDAB-40D1-BB64-CA280D158F69">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-AF0CD541-0056-4FA3-B4EA-3B08EDFF4AAB">Move RH front seat forward</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-705AC680-B4DF-409C-95EE-0768707DCAAA-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000012922" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-5C7DBED4-55D3-4D38-9C05-9B195D346E09">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-4F0011F5-20F9-402C-8AD8-EC190AD74A2F">Install rear apron</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>12x clips </div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-F91AB6C0-65E1-4718-936D-518746FA6A05-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-4B0C9886-8837-41D3-89F2-468E90B47F71-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024643" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-6A88A1D7-E553-4722-9DE0-FB4CEB365D36">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-6DC42645-6093-4FF0-8FD9-C61344B6FF36">Close hood</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-D6B99C90-D2FD-498F-A34B-248CF0952A58-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024644" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-CCE0B31F-FE8B-47BD-B670-3523D3AABDF9">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-DF1E041B-929E-4145-9550-AFE477DAED3B">Connect 2nd row seat cushion harness and install 2nd row seat cushion</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x connectors, 2x clips, Insert the seat belt buckles through the holes, Slide rear cushion inward then align front guide tabs to locking tabs, Make sure cushion is fully seated with push &amp; pull test near clips</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-E5D603B2-63D0-423D-BE15-8B6BFD9E482B-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-77B339CD-E8C7-4423-990D-2C9AEA60E04B-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-CCC4BC97-CF81-4F70-A705-94238D20139D-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-09A8DD5D-EA1C-4737-BBF5-80D76B49D001-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024645" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-6A8144C5-054B-4DFC-8942-EF0614C08DED">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-23167049-25E2-4A47-8195-44120E991408">Move RH front seat to original position</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-D7576A28-5398-4D34-94FD-30D3B1D8A7E9-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024646" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-E5C47955-40C7-4546-AD20-B4C8C236A5B6">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-6C620A08-F98A-4019-8BD4-F415A07D79FE">Move LH front seat to original position</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-47D4CF6B-BD3B-40AF-BA09-374110583C65-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024647" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-B67CA481-9DFA-4CA1-9A02-47A608773BE0">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-E317FDF0-9A91-4AAA-9053-3DD73E3AC215">Raise all windows</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-12EDED66-9885-4102-83C6-889F2699FCC8-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025435" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-8C4FFFCA-589A-43EF-86C7-A8BFCA66B0E1">
+          <span class="ph cmd" id="GUID-20E1E66F-D8A4-454D-BC9B-966303A45B2B__GUID-CF4481F5-9253-49DC-A1E4-C07525A906D4">Close all four doors</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Unlatch rear doors before closing</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-FAF95A33-6BDB-4E5E-9507-63AB8EACB67F-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+      </ol>
+    </div>
+  </article>
+  <article class="topic task nested1" aria-labelledby="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-765B5008-9DE1-4CAD-BCA4-43F2ADAAA92D" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7">
+    <h2 class="title topictitle2" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-765B5008-9DE1-4CAD-BCA4-43F2ADAAA92D">Establish a Direct-to-Module Connection (Vehicles Built After 10/05/2020)</h2>
+    <div class="body taskbody">
+      <ol class="ol steps tds-list tds-list--ordered" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-AF130053-02EB-4720-8D06-F5045C4A79F4">
+        <li class="li step 100000024574" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-2D359DC5-52D9-48B2-897F-F074BB18B504">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-8E0FB420-9BF3-46E2-8EFE-22CD32D5CB47">Open all four doors</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>If vehicle is being powered down, Latch rear doors to prevent accidental closure</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-E80D033C-6BD1-4B1D-BEB3-D1300E38778A-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024575" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-DFE16F63-820E-4DD1-96EE-B928588F80A3">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-AA3006A8-9842-482A-9F1F-7D11D2FC3114">Lower all four windows</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-93677F33-CC24-461F-AB84-0EE9B3D36339-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 1A9F50C79EF6" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-DA828569-BE57-455D-A046-048257556927">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-904482C4-DF8D-4772-ACB1-B43012E4D348">Place vehicle in service mode</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Via UI &gt; Controls &gt; Software, Touch and hold "Model 3 or Y" for 4 seconds then release, Use screen keyboard to type "service" into dialog box then select OK</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-8576DC66-DFA8-43D9-9F7D-4E6320671F68-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-935FF52B-B765-4C4A-9C2B-B305ABC410DB-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-00C7F6F1-58B2-40A1-A6A7-51E221D57638-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024579" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-3F2BF0D3-A6A1-4AE7-AFF9-6518EBC7241B">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-8902CB88-74E6-49A3-BC6A-9175E7443397">Open hood</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Press "Open" button on touchscreen to release latch, Lift lid manually</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-12FB6870-E527-46C1-96AB-2FCDEC43FE68-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-072AE339-5CDA-4DC1-B335-A31BC703A306-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025190" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-5D600F5B-3215-4E85-9362-D811F13B63D4">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-C0843150-E2CD-46A5-947F-991ABFA15835">Move LH front seat backward</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-FDD6303A-36B6-4320-9C82-0F856960F981-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025185" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-6085B6CF-6D4A-4E9C-AEF6-204FEF3FC582">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-D9CD8367-5873-491D-837A-E44A16164DE4">Remove LH front floor mat</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-EB8F8454-CED0-4765-AD1C-D8201170A7E4-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000061561" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-17CA862F-7CB5-439F-B58B-249894E0E694">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-B52BD3C4-DE52-44D3-A5A6-BE47EE0CE4CD">Remove LH console side panel carpet</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>12x clips, Use trim tool starting at rear edge to release upper clips, then pull bottom to release remaining clips</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-7699E179-0AFE-4627-9BD2-7CAF4ADD5314-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065563" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-9DE95F20-FA09-42EF-BAC1-D9629CDF3835">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-07D335D2-21AF-44A0-86DA-FFE3DE30A59B">Remove LH front exterior hardware from center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x bolts, 10mm, 7 Nm</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-BC7692AD-CCA0-48D1-9CE5-6CC7729CB47C-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024576" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-DF810F1E-10BB-4F45-9DD0-2F20F167163D">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-28573C9B-4A6F-4FD4-863E-59C3B001F8A5">Move LH front seat forward</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-8B7BF2E6-507A-4B29-A904-A6D5BE36A927-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025219" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-7DBF949E-B9EC-4931-94D4-41377EC382A0">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-CE2FB5E9-AACC-4D0E-9D0C-E269EE947754">Remove console lower rear panel</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>5x clips, Insert the plastic trim tool with a 90 degree bend at the bottom of the cover and pull straight out to release</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-CC2969FF-791D-4F6D-A161-56DF9AE5DFFE-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065568" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-7A35BC7A-E2E3-4CB0-BE2A-416F1D660B81">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-5AC9F301-6A35-4F95-9735-E649BD86A486">Remove LH rear exterior bolt from center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x bolt, 10mm, 7 Nm</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-9F1D7305-FF5E-4014-9199-ECD9E97D09A4-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024577" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-346BE772-A3D2-449D-89EA-740849A0725D">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-AE01C520-7E7E-446D-879F-CBE0A938781B">Move RH front seat forward</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-D91FE24C-E40D-4831-B2C6-44BF98A616C2-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065571" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-760B8DFB-02D3-4349-BD08-E244056DFCAF">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-D20B001C-E78D-41D1-A113-1F0602A55929">Remove RH rear exterior bolt from center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x bolt, 10mm, 7 Nm</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-A19523AD-9B21-4BAA-A7B9-05520403627D-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000070660" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-58CE3536-0BEA-4D44-BAA1-5CEBF03D6650">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-A368BFC1-2D12-4435-8933-5FFBCB2F8403">Move RH front seat backward and seat back downward</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-EDCDE86E-1F48-48D6-96A7-B06435D2601D-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025197" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-853544F1-5E5E-4F22-BEDD-0D7BDF8B04D3">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-51891FAE-0FB9-4289-B504-01BE9C5012F7">Remove RH front floor mat</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-D5FB2F3F-9DD2-4DFC-BD17-6182CAB1AB3A-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025217" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-C674E3F7-F5CA-473A-BE91-55DD34897016">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-7DBA7E99-18B1-4C26-AC40-F9BA868E292A">Remove RH console side panel carpet</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>12x clips, Use trim tool starting at rear edge to release upper clips, Pull bottom to release remaining clips</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-E2FB3E38-0176-4E87-9E92-F815E7C652BD-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065575" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-317871FC-D9E0-454E-A1DF-4FEF56869D38">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-C17A8AA2-5D17-4A1B-90A4-40F7E5F75CC5">Remove RH front exterior hardware from center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x bolts, 10mm, 7 Nm</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-15231B89-C30F-4230-A563-6B3F5D5B01F9-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024583" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-046CC9CB-EA3A-495D-A617-CC3B3B483606">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-AA5547AF-E988-42FA-90A6-E920546E02EC">Power off vehicle from center display</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Via Controls &gt; Safety &gt; Power Off, Select Power Off button at warning dialogue box</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-9DF6FF54-C3A1-46BB-A5CC-2D3F0856257D-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-4FBD5BC7-8980-42BA-8E66-011043F8E3FC-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000034742" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-BEEF2695-A754-4B0C-8EFC-81F4640470EC">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-614A42CF-FEC7-4D65-8A24-B5C11682036F">Remove rear apron</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>12x clips, Only store rear apron visible face upwards </div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-51BEC5BC-0D56-4115-B7BD-5843F78AC253-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-2895E42A-4B27-4250-9321-3A577A03F5D2-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-BE0CEBD8-1111-4F93-956A-FC31222D1FA4-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024584" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-16382D85-7190-472F-98B0-78E09B6F71E8">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-ED29AFD2-48CE-40D7-B115-DED7AAC21B33">Disconnect 12V negative terminal</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x nut, 10mm, 6 Nm, Ensure vehicle is in park, climate control system is off, and vehicle is not charging before disconnecting 12V</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-2FEA5B7F-B7E3-49FF-834D-F7F160CD37D0-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step DA05B224D9E9" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-91DFEF10-E831-420B-A11D-3D93F90A23E6">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-66AF9074-5E85-4331-8FBF-9F9E010279E2">Disconnect first responder loop</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector, Release locking tab</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-DE1401A5-B3EA-4EF5-888E-2C11C9BA092C-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025227" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-B26FBF4F-1AAD-4080-92DF-D57F7CF231CB">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-AD557536-02F3-4607-92F4-6BB1A0E3F45B">Disconnect harness from rear of center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-1E1BAE07-C368-4BFD-B9A6-2A7EB5E12EAB-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025226" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-0A485EFD-4C6C-4BEF-9A2A-BB7B55035C97">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-4FF5E1D3-A2E0-45B0-A2E6-6272941856B5">Disconnect USB harness at right front of center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x USB connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-BFB621F8-560C-4F4C-BB3B-C489922F29C4-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-42DEC064-5C33-4FF1-A3C8-E8ADFAEA332F-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065590" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-E048C1CC-17C7-41CA-A856-339A016F12F9">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-6CB62BCD-FBA1-4587-927B-646CA2812274">Remove center console from vehicle</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Recommend assistance, Tilt rear of console upward, pull assembly towards rear of vehicle, then tilt front of console upward and remove through passenger side</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-F45EF9A8-CCA3-4FD1-AD14-A29F06C43E5C-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 1B2B2412F199" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-C816B6A6-3AE4-4FC5-A4DB-0FBC9CB8A9CB">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-8844F09F-C1DB-46CF-91B5-3F97461ECE4E">Disconnect universal restraint control module</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x connectors, Disengage locking tab to release levers</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-245AA37D-8475-4D59-B314-0829D1658FAD-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-5877D3FB-A9AE-4F1A-A8A6-363060D6EEAC-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 0C4E5A3C197F" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-D97C15FE-A4C5-4D33-B292-D446F1BB4BFA">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-66C1196B-E9F2-4DE0-A5DF-DCEB53534CB5">Remove universal restraint control module from vehicle</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>3x nuts, 10mm, 8 Nm, Discard patch nuts after removal</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-F143E9A8-3748-4529-A781-8687FF080EEB-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step D72093F4B39A" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-4F357AC0-BA23-4F6B-8894-7689C0047F77">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-65B5C9DC-FCA2-4274-829D-2204CA53707F">Connect Tesla Direct-to-Module EDR Retrieval Harness to RCM</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x connectors</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-E53B05DC-CEC4-41C9-9E56-498B446C9444-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step C600E9EAF484" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-3762B19A-3555-409C-93EC-A27D84C5C75B">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-C5751650-B3E2-4A62-964A-5B3FBB128D83">Connect Tesla Direct-to-Module EDR Retrieval Harness to PCAN-USB adapter</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-5068D2C9-8FF9-4F2E-85BF-A825571CCB1C-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step F078149932DB" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-C6FCAB3F-D6FB-4C7E-95E9-856576F9DBCF">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-A0A681C7-5A3A-4D04-870B-B31A0644AFA0">Connect CAN dongle to laptop via USB port</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector,</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-BF20A4F7-7ACC-46FB-95AC-14AB68F6C038-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step BEE39CF30B6A" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-0818B468-0FEE-4ADB-9E15-BCCB4F748536">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-243082EA-3837-4132-831C-AD1294B0569E">Connect 12V power to Tesla Direct-to-Module EDR Retrieval Harness</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-19565136-3803-4152-A77E-C67B21034313-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 2150A18AC389" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-28C52BE8-A1D9-4D6F-9204-01CEA268E2B9">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-03013613-997B-4A6C-A626-080C8D569096">Open Tesla EDR Retrieval Program</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Program will automatically try to connect to RCM and will show a green circle in the lower left corner when connected</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-E83F7DE0-A528-44FD-AF48-3B2690B598AF-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step F197404A9858" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-80BF24E0-1673-4863-B1E6-D70BC9384B92">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-5DA3D195-CE8F-4177-AD18-638D24C1209D">Once connected, click "Run EDR Retrieval" button and follow the on-screen prompts to retrieve and save EDR data</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-19F800DD-3A35-4DD1-9608-B98D23341596-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-9C0F515D-FECA-4203-B87C-F4494C3D08DE-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step CFE39B15045E" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-26877C35-182C-4905-B02A-F7BAEE591E7E">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-573A2665-7BDF-4F7B-A39F-9077FAC2CA9D">Use retrieved data to generate a Tesla EDR Report at https://edr.tesla.com</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Time will vary based on user and retrieved data</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-7E539155-22D6-46CA-B533-246299FCABEA-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-40A47D58-BD48-433E-85D6-37BCC5DC6E63-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-1698002F-89EA-4000-99FA-8FD50C12179A-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000106635" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-C3E891F0-86B0-40FD-BEE3-9C95AAE49271">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-E4CE10C6-66F3-451E-A766-235E4DBBC823">Close Tesla EDR program</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Select "x" at the top right of the window to close once complete</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-3ACA882B-3FB8-4699-AD3C-14CF74999400-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 713AECF91959" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-F3648889-8773-46F9-B0EF-147730D4A96D">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-299D3C02-01F6-407F-83F0-0F9A7865E199">Disconnect 12V power from Tesla Direct-to-Module EDR Retrieval Harness</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-6C8D005A-2CE0-445C-93A9-E9382B8D02E7-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000106636" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-E3EAB435-6114-4EF6-9541-B1F7F2679936">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-7F3D06F0-039A-4293-8D6F-D7148E184223">Disconnect PCAN-USB adapter from computer</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-C0E3E481-A4FB-428C-AABA-6BD14026DFDA-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step AFDB2001C854" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-69AB581C-0781-46B8-B688-D29C1A5996BE">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-78C45F58-607E-4600-BCD3-DD219D0A188F">Disconnect Tesla Direct-to-Module EDR Retrieval Harness from PCAN-USB adapter</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-6CE1E34F-893B-43D2-96A0-C4BAC3008510-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step CFE876A4A3EA" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-CE46F9DC-1BDE-4067-A67D-7862D46C0917">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-8AE331DC-C191-4969-892C-9DE82CD72E8C">Disconnect Tesla Direct-to-Module EDR Retrieval Harness from RCM</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-8585D24D-EE00-4316-B9EA-86356DF67D3B-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 307FAF8E8A9F" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-CD215F5E-F117-4794-9991-23A3E6CEA7F8">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-9A812465-FC52-4C89-B407-EC58A60BE6E9">Install universal restraint control module onto vehicle</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>3x nuts, 10mm, 8 Nm, Install new patch nuts, Verify part number on new module is correct</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-B5047A5F-9882-4102-92F6-2184AFAAF508-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-143B78B6-A753-4DFE-B5A5-61D4B392DDE2-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-AC4C8E94-C5C0-4F4F-87E1-BF0DD4867BDD-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 879E0D8B3B45" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-A2390742-FCC5-4AB0-B528-6F0D6FD99ACF">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-67B8A2C9-1089-4F35-B85B-DC0365AE5134">Connect universal restraint control module</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x connectors, Engage locking levers</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-43B4083F-68C3-4614-BD38-F76543A0E24F-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065595" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-E415C2AD-8B59-4445-A485-20AF41CD3514">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-9FDF936F-B217-43DB-BDB7-070156C97A52">Install center console into vehicle</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Recommend assistance, Tilt front of console downward, Slide assembly towards front of vehicle and tilt rear of console down into place</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-944244B6-C2A5-4FB5-A274-AFD16DC0826F-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065413" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-B24770F6-BD35-4ABE-8FEB-72091216C76E">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-88837DE7-420D-4E77-8480-AB1F0A72F288">Connect USB harness at right front of center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x USB connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-7F1234A9-4879-46AD-ADA4-05C20AFADED7-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025330" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-D36A1585-4788-44D8-B40C-935AF208AD7A">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-A4AC3FB0-4E9C-4B30-9416-AF07C119DF7D">Connect harness to rear of center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-5643A09A-F309-402B-A6C7-F7D4723435D2-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065599" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-2BA7C15A-ABA5-41F3-BBB1-E6140F7A5FF0">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-6E73327C-7ADE-4E72-92C4-81471D07E0D8">Install RH front exterior bolts to center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x bolts, 10mm, 7 Nm</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-94143023-E3BA-4C66-B42C-DB9D21E17B5C-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025341" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-D5B7F19E-96F9-4CA8-BDE3-8C10659153C6">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-FD5276E7-0B9D-4A13-B355-9007D6DA9875">Install RH console side panel carpet</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1 tab, 12x clips, Position side panel and align the front tab. Push the console panel from the front towards the rear</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-7EF99B9D-9BEC-4D8C-B14E-089DF6EBDA97-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065493" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-C7D339BA-6AD7-4F89-88D3-8DCAA33EE4E5">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-3009D2AA-088C-4F6D-A72E-EC913194E09B">Install RH front floor mat</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-594D25B1-95FE-4F19-8301-2DC7D66BFB7D-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 3EE2A06529D4" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-FAE27966-742F-4AD1-A3A3-6D11322C80F7">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-F40A0DBB-11AE-470D-9506-1FBB91053D1A">Connect first responder loop</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector, Engage locking tab, Connect FRL before connecting 12V to avoid damage to car computer</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-748D8144-1D6B-45D4-9435-CBBCB727F6CA-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024633" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-6AA4A3FF-954F-438D-A576-A639AB11F2F8">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-6421A03A-DEF0-4B63-BB7A-C6370D584EED">Connect 12V negative terminal</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x nut, 10mm, 6 Nm</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-012EF88D-B17A-4887-AAB6-F063D22EA8DA-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000012922" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-0D6AC1BE-14BE-4AF9-913E-602A1CB6250A">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-8D81E8A4-4EBC-43AD-8662-4DD9CA639765">Install rear apron</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>12x clips </div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-F91AB6C0-65E1-4718-936D-518746FA6A05-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-4B0C9886-8837-41D3-89F2-468E90B47F71-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024643" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-E98704CF-68D7-42D5-B186-5AFFA8A4D409">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-64E95453-0C9C-4303-9A92-1D921FD6C7C1">Close hood</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-D6B99C90-D2FD-498F-A34B-248CF0952A58-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025356" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-C9D20383-54E9-4DD1-9137-34936E76AF5E">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-D6679681-01F4-437C-AD38-F1AA73581B92">Move RH front seat forward</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-705AC680-B4DF-409C-95EE-0768707DCAAA-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065615" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-2244445A-15A1-4694-AA51-21396EF78D46">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-3B7E31DC-02E0-42F3-9780-A810E20D600D">Install RH rear exterior bolt to center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x bolt, 10mm, 7 Nm</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-88D122DD-721A-4FF8-97DA-4B9138554A7C-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065601" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-5AB85AC2-8AB7-4361-A2EB-8B5C74FC5F1C">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-753761A1-AA3B-43CA-AF00-1846B1F778C4">Install LH rear exterior bolt to center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x bolt, 10mm, 7 Nm</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-882D94A2-A1C5-42E8-807D-158D93796050-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025338" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-A0D48B88-1418-46E5-973F-0F945B8AF7D0">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-7E013BDC-DAE4-49C2-9E26-9970A3C2FDEE">Install console lower rear panel</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>5x clips</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-1F429D6F-58EE-4D68-BF1D-BC622C0B4DB8-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 3DC508D99346" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-86DE24F4-3821-4F54-94C0-B09670CB36C0">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-53A259EA-8324-4C4D-A945-EFF4771D30AD">Move LH front seat backward</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-A3CD92B3-8FA3-4BB8-BB84-101B6609EDA4-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000065600" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-96347880-830E-40C7-8881-4D9E0A677213">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-D33BD969-D7E2-486D-B705-380A7C5E1955">Install LH front exterior bolts to center console</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x bolts, 10mm, 7 Nm</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-B01E97BA-2F68-492E-A34A-BD9218626C29-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025339" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-4B4A2A58-8BC0-4C4B-891D-0A923B53EB49">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-568F8642-2214-4AD3-8E8E-9ED729C3FE59">Install LH console side panel carpet</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1 tab, 12x clips, Position side panel and align the front tab. Push the console panel from the front towards the rear</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-8827D332-5F52-4551-839D-220FB1CFCBD2-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025340" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-1509E8F8-AEB0-40DA-BD0F-EF0F5800139E">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-3D086558-6BF3-480E-BA73-D950E53A262F">Install LH front floor mat</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-02E2F232-FADD-4DC9-8503-5EC99D51C75D-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000045198" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-397EBDEC-A9C2-4F87-9120-453463E543FC">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-90F5F476-23C5-4C7E-B8C9-F89A701E802E">Connect to vehicle using Toolbox 3.0</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Vehicle connection is integrated into drivers footwell cover, Open Toolbox 3 website and establish connection to the vehicle, https://toolbox.teslamotors.com, Select connection status icon at top right corner, and select connect locally (icon will turn green when vehicle is connected)If RJ45 ethernet diagnostic connector present connect directly from laptop using an RJ45 Ethernet cable</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-0025B3FB-F5C2-40E7-B8D6-85D799457FA5-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-6DED7AF3-4436-4205-B718-F29A185E33CD-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-AC5EE6CF-F2E2-4943-B3CE-6E0D7B71A6AD-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step E5013C12CB2C" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-1F72D857-170A-4E71-B227-A3AAC959D210">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-2EC1471D-4687-4575-9F0C-8379132EDF19">Select ‘Actions/Autodiag’ and search for ‘Service_Redeploy’</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-A682A690-D4B1-4418-9DCE-06B8B2CF7B55-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 4AF58E9D0436" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-F088F846-16C7-4F75-A5A3-076E5562C3BC">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-07952C41-088D-4D39-BF65-65B85B1393FE">Select ‘<span class="ph odinroutine" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-D0DAB223-1163-4DAF-B977-01B16D78B3C9">UPDATE_SERVICE-REDEPLOY</span>’, click ‘Run’, and allow routine to complete</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Select ‘X’ at top right of window to close once complete</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-7F863363-2B58-448F-81E6-83C2B5AE5006-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-E59B708D-FCFD-4367-9F4F-7BF34133AAA4-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-9709DE7B-D11D-43A8-A7F3-EE8710C584F4-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-3D792F1C-00D1-4903-986E-FCAC074F800F-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 77F590CF5F30" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-32C83476-1B88-4F19-8F36-AE4E01DCD41F">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-3B846656-0760-43B4-9377-11E504C19D32">Once firmware redeploy is complete, Verify on center display release notes are present</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>If the redeploy fails you may receive an error message on UI</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-DA317874-1CAF-4F69-BFC5-2C296796DE3D-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step BE83D3EB6B83" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-36C2EA71-BD06-4389-8405-FB2CD81DD25E">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-058168C4-B134-4CF8-B96B-1180C05A0273">Re-establish vehicle connection to Toolbox 3.0</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-2B5E1212-8E13-4372-ACAF-24C7B1F186C5-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step F56EC56210F5" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-6A28CD01-F327-42B3-8DCD-A74B1B92E3FC">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-D2C96165-5D79-4513-9E3D-E48EE5E3EF3C">Run "Restraint Control Module Beginning-of-line Configuration" <span class="ph odinroutine" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-4F814875-29DE-4137-BE77-F577683991D1"><span class="routine-name">PROC_RCM_X_BOL-CONFIGURATION</span><span><span><span class="p"><span>via Toolbox:</span>(<a class="tds-link" target="_blank" href="https://toolbox.teslamotors.com?query=PROC_RCM_X_BOL-CONFIGURATION&amp;searchType=actions">link</a>)</span></span></span></span> routine</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>This routine will only appear on FW 2022.16.1 and newer, Routine only required when upgrading from 12.0 to 12.1 RCM</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-CF4D80AB-4B15-48E4-924F-E81AD911C6AA-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-BE7385E3-0710-40AB-94F3-12D5B1FFD49A-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-9AE1B197-F4A9-4DC2-9185-7A8677DADE70-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 60EA92560468" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-086B9C63-84C1-452B-909D-2D024750A584">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-39A9307D-1948-40D1-A418-BFF60F6F44AE">Select ‘Dashboards’, and search for 'RCM retrofit'</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-8D82635B-3276-46F3-8FDF-9B4EA104F91A-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 2A1510E59528" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-9A792D45-F76E-4389-85D0-7F02C7E8F5FD">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-BF375BDE-9EAA-48D5-B575-B07D6DB6696C">Select ‘Service Tasks’, click ‘Run’, and allowroutine to complete</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Select ‘X’ at top right of window to close oncecomplete</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-E964001A-AE47-4252-BEA1-FF2F3BE51D8A-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-77A4B016-7022-4888-8D35-B9F77E6E839B-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-67FE6ADD-C1C6-40BF-9BE5-59FBC38CA8DC-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-A4602519-80F7-4EF9-9336-3A8FD3305305-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000045225" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-C4EE8B9B-C413-4970-A306-40027BB38500">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-A68245B6-431E-4465-9CFB-0B527EC7FAA8">Remove HSD or RJ45 cable from Ethernet port to disconnect Toolbox 3.0 from vehicle</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-6BFBB381-5A77-45B9-A5FA-2F52B5B42342-online-en-US.jpg"></button>
+            </figure>
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-CC9CDCDA-B251-4F22-8CD7-98A5EE29316F-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024646" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-B85D2DBA-7D25-4B19-9A77-B64C33AE8BE3">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-D41FDAD6-6D84-4707-B2F1-EA04379853AC">Move LH front seat to original position</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-47D4CF6B-BD3B-40AF-BA09-374110583C65-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024645" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-426A8458-346C-4A3C-8C50-8CD4110AFA63">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-CB03C4D9-3446-4404-8453-B89EA82D0B16">Move RH front seat to original position</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-D7576A28-5398-4D34-94FD-30D3B1D8A7E9-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000024647" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-4E163984-28B0-4882-A8EE-69A637E71341">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-E0D363EA-DF45-4912-82B9-B2EC8A5F0666">Raise all windows</span>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-12EDED66-9885-4102-83C6-889F2699FCC8-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 186DEE4AC347" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-8657E5DB-3122-4AFE-99A3-1755BDE16F49">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-3B01C19D-5230-4595-8FD2-F8ED73A95CA9">Exit Service Mode</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Via UI &gt; Service &gt; Exit, Press and hold "Exit Service Mode" button</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-3D489C34-73E8-4128-80F5-723B2814CE06-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+        <li class="li step 100000025435" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-5AE80F28-8A2F-43F8-B64D-72FCA708EEC5">
+          <span class="ph cmd" id="GUID-F2346873-89F3-4584-9AEB-051D679B1FB7__GUID-266CA6D0-F807-414E-8930-BFD5C31F14BD">Close all four doors</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Unlatch rear doors before closing</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <figure class="fig fignone">
+              <button data-tds-open-modal="img-modal"><img class="image" src="GUID-FAF95A33-6BDB-4E5E-9507-63AB8EACB67F-online-en-US.jpg"></button>
+            </figure>
+          </div>
+        </li>
+      </ol>
+    </div>
+  </article>
+</article></main></div><aside class="tds-layout-item tds-layout-aside"><div class="mobile-capable-toggle"><label class="tds-switch_toggle tds-switch_toggle--label_inside tds-switch_toggle--large" for="mobile-capable-switch-toggle"><span class="label-text" style="                                             white-space: nowrap;                                             ">Only Show Mobile Capable Procedures</span><span class="toggle-wrapper"><input class="tds-switch_toggle-checkbox" type="checkbox" id="mobile-capable-switch-toggle"><span class="tds-switch_toggle-track" aria-hidden="true"></span><span class="tds-switch_toggle-btn" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16"><path d="M4 12 l6 6 l10 -10" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path></svg></span><span class="tds-switch_toggle-btn" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16"><path d="M18 6 L6 18 M6 6 l12 12" fill="none" stroke="#374151" stroke-width="3" stroke-linecap="round"></path></svg></span></span></label></div>

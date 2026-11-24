@@ -1,0 +1,466 @@
+<!doctype html><meta charset="utf-8"><title>Low Internal Isolation Diagnostics - HV System (Test)</title><p><small>Source: <a href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542.html">https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542.html</a> (downloaded 2026-11-24)</small></p>
+<main role="main" class="tds-shell-content" id="main-content"><article role="article" aria-labelledby="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-2DA0BD4E-1DF8-4A30-81F3-F73D0AF52F49"><div class="date-modified">2026-09-29</div>
+  <h1 class="title topictitle1" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-2DA0BD4E-1DF8-4A30-81F3-F73D0AF52F49">Low Internal Isolation Diagnostics - HV
+    System (Test)</h1>
+  
+  
+  <div class="body taskbody"><p class="shortdesc">
+    
+    <span class="ph correction-code-title" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-A855E3E6-4156-4826-8DB9-BF4B60AD1C0D">Correction code</span>
+    <span class="ph correction-code" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-23FACD04-D7B9-46E3-995A-905375EF7601">44500300600</span>
+    <span class="ph" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-1CB83E4A-7A85-492A-880C-12DA470D6936">0.90</span>
+    
+    <span class="ph" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-DB5D8645-2814-4BE7-8C89-7DD731D3D6EA">
+          <span class="ph note" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__d266e134">
+            <strong class="ph b" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__d266e136">NOTE: </strong>Unless
+                        otherwise explicitly stated in the procedure, the correction code and its
+                        associated FRT reflect all of the work required to perform this procedure,
+                        including the linked procedures. <strong class="ph b" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__d266e139">Do not stack correction
+                            codes unless explicitly told to do so.</strong></span>
+          <span class="ph note" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__d266e142">
+            <strong class="ph b" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__d266e144">NOTE: </strong>See <a class="tds-link xref" href="GUID-1985E7C9-F23B-4F7E-BCFB-04586601E909.html">Flat Rate Times</a> to
+                        learn more about FRTs and how they are created.</span>
+          <span class="ph note" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__d266e150">
+            <strong class="ph b" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__d266e152">NOTE: </strong>See <a class="tds-link xref" href="GUID-09B3A9A0-CAB6-493D-AC2B-B805BE3BAE95.html">Personal Protection</a> to make
+                        sure you are wearing proper PPE when performing the procedure below.</span>
+          <span class="ph note" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__d266e158">
+            <strong class="ph b" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__d266e160">NOTE: </strong>See <a class="tds-link xref" href="GUID-5D2F94A7-A5CB-45A6-9CC1-2C14B3CF7ECB.html">Ergonomic Precautions</a> for safe and healthy
+                        working practices.</span>
+        </span>
+  </p>
+    <section class="section context" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-7AB88CBF-0FDE-43BE-9259-BF04CAEE21B2">
+      <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>This procedure is a DRAFT.
+        Although it has been validated, Warnings and Cautions might be missing. Follow safety
+        requirements and use extreme caution when working on or near High Voltage systems and
+        components.</div></div></div>
+      <ul class="ul tds-list tds-list--unordered changes" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-43ED50BD-67D6-4026-A75D-F5341C980D81">
+        <li class="li change-item" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-56F2EF71-3A61-49E4-A88D-9B2336C2319D">
+          <span class="change-date">2026-03-18: </span>
+          <span class="ph change-desc" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-21E20319-17FA-412F-9BF1-7B3A76F696D4">Released new procedure.</span>
+        </li>
+      </ul>
+    </section>
+    <ol class="ol steps tds-list tds-list--ordered" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-C2B941DB-EEA5-4DAC-AB63-66931ACA8216">
+      <li class="li step C0FAD23EC3A2" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-61195B72-7EAC-49A4-973F-0E11A3C2A0F7">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-29501595-1234-49C7-B8D1-4D4745A3ED5A">Prepare for HV battery removal</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Due to the potential issues associated with an isolation fault, customer and/or insurance approval is not needed to remove the HV battery while investigating the fault, For high voltage battery packs that have a low internal isolation condition and/or liquid ingress, It is crucial to remove the fluid promptly, HV gloves, Leather over-gloves, Safety glasses, And safety shoes must be worn at all times while handling a vehicle and/or HV battery pack with an internal isolation condition, Refer to Toolbox article 7410000</div></div></div>
+        </div>
+      </li>
+      <li class="li step B7E5CF6716B3" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-33E34973-57CE-4BFE-A94E-6E7C653DD91F">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-8670851B-D5B2-495F-855F-C0812D6BEC33">Remove all items from pockets and ensure not wearing metal items</span>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-1B6CE14E-6F07-4382-A444-4C0E7CAD18DB-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step 11A4F0F1E447" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-745936F9-F718-456B-8969-99E335F1BFDB">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-55AA49D7-BB69-4CBD-9C35-9423C8E72847">Inspect HV insulating gloves</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Check gloves for damage prior to use,
+            Refer to service document TN-15-92-003, for information on inspecting HV gloves. </div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-F158C9F1-2808-4A2B-B72A-CB1EFD21D637-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step E19ED45F79E3" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-7AD64674-FA05-4205-93A7-DA1B66509F19">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-FE143A26-6EDC-43F7-88A8-F6B3C2432AC2">Put on HV insulating gloves and leather over gloves</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Use HV cut resistant insulated gloves or HV insulating gloves and leather over gloves, HV Insulating gloves must be worn any time a Hioki Tester or Hi-Pot Tester is used, Refer to service document TN-15-92-003 R5 for PPE requirements depending on vehicle configuration.</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-E5A4847E-BFFE-4C67-BF6F-D87CC42E60F1-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step BCE794E01A1D" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-D32C4E4D-AC83-4E17-A0E2-34ACB69467B2">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-24CFA769-0643-4953-A491-34F1C2A93E35">Secure vehicle outside of workshop</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Secure vehicle in an outdoor area with 15M of space around it in every direction</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-2D8A1D73-1ABA-479E-9ED1-10681714D346-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step 4614D4AC8CB8" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-8036CCA9-918F-4EEB-8B49-8637E9961C26">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-9434929A-3F45-4419-8F43-F3C55419D444">Install wheel chocks onto rear wheels </span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>See HV battery RR procedure for steps </div></div></div>
+        </div>
+      </li>
+      <li class="li step BA9D44C2DE1C" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-8BCC22BF-833B-4C68-8E88-2F0F69B7A9B7">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-9DF951B7-EB74-43FF-A1C8-EB902504C14F">Release electronic parking brakes </span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>See HV battery RR procedure for steps </div></div></div>
+        </div>
+      </li>
+      <li class="li step 2A142AF6FFFE" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-56211233-FAC5-4C83-9E3F-4ABCB42DD731">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-D60785AB-D41B-49B7-99ED-94496DA59AB9">Power down vehicle</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Refer to HV battery RR procedure for steps </div></div></div>
+        </div>
+      </li>
+      <li class="li step 9508B3353DE7" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-63E455B3-1289-4B92-BB53-76A8EDA075D3">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-DDC7CDB4-D039-48F9-B0D8-6938EC2BBC5A">Download and Install PCAN driver</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>After software has been downloaded
+            install drivers to laptop. </div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-8AC8E235-5A56-42A4-AB7B-F5A31D7FD5BE-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step 055197D0A64E" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-236A9D7C-DBD6-4707-8954-F62FE5CAE7D0">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-BF240745-A879-4C08-B196-48D60CD17B90">Connect CAN dongle to laptop via USB port</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>Do not place anything on top of the HV battery other than the high
+            voltage “Danger” placard</div></div></div>
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-5B32BAEE-B090-4921-838E-0F980F4DAB12-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step 6E3E978E0ED0" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-C483F86F-B937-4D9F-A354-A05ABF7AC7A7">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-934BFF39-8C1C-4A12-8AA6-770D0B05F32C">Connect HV battery communication harness to HVC and CAN dongle</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>Do not place anything on top of the HV battery other than the high
+            voltage “Danger” placard</div></div></div>
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x connector, ensure the PCAN is
+            connected to the VEH CAN breakout</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-14E30D47-88D8-44BA-A076-861E0BE44F31-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step DFB0C5FB65F8" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-42E696D4-55C9-4FE3-9D67-7F2EC77C7CCC">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-BB320E9B-7524-45EA-ABEF-245FE567A742">Connect battery communication harness to power supply</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>Do not place anything on top of the HV battery other than the high
+            voltage “Danger” placard</div></div></div>
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Use the 12V output of the power
+            bank</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-5D705BB4-0E9D-4C41-B7DC-5EF53CCA2AC3-online-en-US.jpg"></button>
+          </figure>
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-01BE7E6E-B5B4-4306-B3B9-8DA927347284-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step 71B0FC07B7A1" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-375800D7-9072-4008-BD2F-CA83BE6494F6">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-8AF912A0-F46C-4D10-AEC1-C656B59B25F0">Connect phone to charging cable and charging cable to power supply</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>Do not place anything on top of the HV battery other than the high
+            voltage “Danger” placard</div></div></div>
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x connector, Press ''ON'' to turn ON
+            the power bank. This is necessary to prevent the power bank from shutting down
+            automatically if only connected to the BMS, which does not draw enough power for the
+            power bank to remain powered / active.</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-55391FEB-F7C7-4B8A-A581-2F624FB8D8E1-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step 7EF1CD88F98C" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-1986295F-4224-48F9-9670-0A1AA0C60BE1">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-7C308DC8-09B0-4419-B990-C0A05328971E">Open HV Battery Communication Tool in Toolbox </span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Navigate to the HV Battery Communication Tool on the left hand Toolbox menu</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-D95C7613-4645-4321-B8D1-18FCF9A49C64-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step 49105113EF2E" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-0F03777B-952D-4B3C-97B6-DD56DB4ACE34">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-7B2AE1B6-22A7-4607-9752-BE17CF7763D7">Check that PCAN is detected by laptop</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>If PCAN is detected there will be a message on top of the HV Battery Communication Tool, "Select an ECU depending on the HV battery type. Press the Help button for more info on ECU compatibility."</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-62809E85-94D9-4CB6-A9E2-F0AA047C2E6D-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step C2DA89B8E68A" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-A63B2922-8A1B-460F-96E7-AEDFAD6C2293">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-6CDC7908-1D49-4DA1-B201-E4E44BFBF784">Select ECU</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Select HVBMS ECU in drop down menu</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-E0142B57-6641-47EE-82BC-A1B10129C68B-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step ABE6449AC826" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-8BFF78CE-07FA-4CE8-A971-9B0454A1A2B1">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-F8ECC16C-8031-4129-988A-A21EB250BA71">Check HV Battery vitals</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Refer to Toolbox article 41977, The HV vitals are not stable if any of the following is true:Module temperatures are significantly higher than ambient temperature.Module temperatures min and max deviate from each other more than 5 degrees C.Brick voltages min and max deviate more than 20 mV.If vitals are not stable, isolate the pack or vehicle in 30 meter bubble.</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-51DA92FB-895A-4937-B44A-CB2D43F61ED5-online-en-US.jpg"></button>
+          </figure>
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-C9BD0DDA-33DB-4E6C-8606-AD49774F1566-online-en-US.jpg"></button>
+          </figure>
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-8914C956-B815-4BE1-AED6-37277B330170-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step D8DBC174AA81" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-EEE164E2-A479-477F-AC45-BAC0B1C6DA21">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-A895011B-AA50-4BE7-8A77-2EEA786E3137">Disconnect phone and phone charging cables from power supply </span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>Do not place anything on top of the HV battery other than the high
+            voltage “Danger” placard</div></div></div>
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x connector</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-2A25EAE7-DC68-4CB6-8669-4C405E20A26B-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step 00B42A5530AA" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-7F56DAB4-F68D-49AA-9539-935A3F634F48">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-5D814BE6-41A1-4D29-8076-8FFE84758EA6">Disconnect battery communication harness from power supply</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>Do not place anything on top of the HV battery other than the high
+            voltage “Danger” placard</div></div></div>
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-F19E1875-6651-4368-838A-33C73E29F696-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step F8D022CA6E1D" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-95EBFEE8-881F-4964-B927-91343E64D0FA">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-F268FE10-C202-4456-9809-AD3EBC2B5810">Disconnect HV battery communication harness from HVC and CAN dongle</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>Do not place anything on top of the HV battery other than the high
+            voltage “Danger” placard</div></div></div>
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>2x connectors</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-8C33D8A6-2E77-423A-96F4-E51C0B3FA3E5-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step 4B7CE9110933" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-47E7E94B-1E8D-480A-AF3F-E2C2AABBD751">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-2E3A00AC-71D8-400B-9E55-62ED7A85DE4D">Disconnect CAN dongle from laptop</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>1x connector</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-79704B40-B5E7-46C2-93DD-84AAABA64FD1-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step B4EBA1188D26" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-5F9D2B61-BE84-4D14-B59C-68BA544F2F71">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-E9908856-CF12-4BCA-8DBE-C70579F78AB6">Prepare work area</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Prepare a workspace around a two post lift with nearby access to HV PPE, Battery table, and necessary tooling</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-2FA571BD-6263-443E-901F-79B4F440F728-online-en-US.jpg"></button>
+          </figure>
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-9C14EB87-7B1A-4C05-B8FE-AD054C2C5363-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step C1F2646F0446" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-6CAEE5F0-813B-4179-8C3E-718DE8D33D3E">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-31B879B8-3909-4010-97A4-EDA035E2751F">Remove high voltage battery pyro disconnect</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>See HV battery RR procedure for steps</div></div></div>
+        </div>
+      </li>
+      <li class="li step 2FFED23E0FC8" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-A5CB6262-EF50-4FF4-B1C8-5355618DA148">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-26F2C944-90B2-410A-ACE7-D63D466CEF26">Remove rocker covers</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Refer to removal steps in HV battery RR procedure</div></div></div>
+        </div>
+      </li>
+      <li class="li step 8CBB98A4F686" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-B07F7B5B-243F-406A-83E7-0874C54CB352">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-5F61A8A5-2EC7-4CBB-B6A1-2B44E22B0B21">Install Universal Lift Pad Adapters onto lift arms</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>4x adapters, Refer to removal steps in HV battery RR procedure</div></div></div>
+        </div>
+      </li>
+      <li class="li step FEFA1C8243D4" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-8C79680F-BD60-4E0A-ADE5-9762C96E5C8E">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-23A4067A-9C47-41A9-8756-283A15610FE6">Raise vehicle fully and lower lift onto locks</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Set vehicle to comfortable working height, Ensure an audible click of locks on both sides is heard before lowering, Vehicle may tilt to the side if both locks are not engaged</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-E44C6D19-C2AF-4F58-9B79-32A61FD57DC8-online-en-US.jpg"></button>
+          </figure>
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-40AE6F46-6134-4132-AD49-BB49F66735E3-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step A4BF88100E6C" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-B651FC97-C7C8-43DC-83A1-8D99BD504314">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-4723BAF2-E81D-401A-A345-6DABC3FCC803">Inspect HV battery for dents, fluid leaks, or other signs of instability</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>If found, refer to Toolbox article 7396600</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-7D5EEB46-F555-4C11-B5AA-187C7A3FED33-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step 8BF3690DFF01" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-E10A0701-98EC-4D0F-8DFA-9C2B3DDF30B9">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-02663866-C175-4C02-BC11-68DC2B809088">Inspect HV battery for coolant leaks or fluid ingress</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Refer to Toolbox article 40073, If liquid ingress is found then proceed to HV battery removal, If HV battery removal is not possible continue procedure with pack in vehicle, Continue to relevant procedure for fluid ingress removal as needed</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-B923F6D3-F17C-494E-B558-08E83C9A2C9E-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step B39DA3D054EF" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-5B0A3A0E-25BC-4455-9666-7666E4ACBD1D">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-7454042D-F9AF-48FA-9833-B2E951EC31CA">Remove rear battery enclosure skid plate from HV battery pack</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>See HV battery RR procedure for steps</div></div></div>
+        </div>
+      </li>
+      <li class="li step A26DB5D8280D" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-9990BFC5-1190-49ED-82C5-2405E68F170E">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-22535D10-0B15-44F5-873E-A937635C62B5">Remove LH flood port 2.0 from HV battery</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>8x tabs, Rotate as needed so that the relief is accessible, Pry between the enclosure and flood port</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-E0E956DB-D2D9-4F70-B3DF-4D46DAD709B3-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step EE99816D5917" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-211D957B-15AB-4BE7-9A7A-060213C22F5D">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-7D778125-0627-40E1-A175-C5D64F310FD1">Remove RH flood port 2.0 from HV battery</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>8x tabs, Rotate as needed so that the relief is accessible, Pry between the enclosure and flood port</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-DB362C13-32B9-4CB1-818D-C4426246FCD3-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step D6D529E3F346" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-FCD31A7A-8D38-4BD9-AAF4-0706BF891800">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-2FA38061-0BB4-486A-BD12-CE2E034A988A">Remove HV battery breather assemblies</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>6 nuts, 10 mm, 9 Nm</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-6062AFBA-1748-4AB9-B58C-9A4785070282-online-en-US.jpg"></button>
+          </figure>
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-3A643D32-9302-4469-8782-17E0AAAD1626-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step A130BFF9AEA1" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-925660EE-9B4B-43E0-B330-C7285CD3D27B">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-318CEF51-37C6-4980-928E-699206D7CD8C">Inspect HV battery for moisture ingress</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Inspect breather and interior of battery for moisture ingress, If moisture ingress is present then proceed to HV battery replacement</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-997E6DDC-6034-47C4-A48A-A2328C2306B0-online-en-US.jpg"></button>
+          </figure>
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-0A133C96-4951-4D27-AAB3-8AA5FB34D26D-online-en-US.jpg"></button>
+          </figure>
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-A41300C7-2DDF-45F3-B48A-49FCEFCD1D97-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step 81F88CE0C623" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-41E783D7-E242-434A-9A7E-79B318D7F4E0">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-157D1DD7-0EC9-4B76-9355-3586261B0954">Remove HV battery from vehicle</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Refer to HV battery removal procedure for applicable vehicle model</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-33597D41-BE10-4B39-A44F-1621416BCAC9-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step EEC7733D66B9" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-EF2B1309-8AAE-4948-96A6-62F8C61C463E">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-F4C2648D-BCF4-4CCA-96E2-9C3D7EC1A7EE">Move HV battery to a suitable work area</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Hv battery must have 15M of space around it in every direction</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-EBEEEE30-B495-4DB7-94A9-938A75357DE1-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step D58618C10BF2" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-9846A8CD-7C11-41A1-B41B-E7509215B200">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-89821F8E-ACF7-4E44-964F-EDD020F3A79C">Place HV Danger placard on top of battery</span>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-0197FCAA-CCC9-4EB5-801E-DE577AE4B7F4-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step 81E1D21A3F16" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-F2E1AC44-BB03-41BA-8763-F8F3175D7045">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-9442D521-7EBE-485E-B32F-1E2271083CBC">Place barricades around work area</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Note location of extinguishers and HV rescue hook</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-9176F2A0-7195-491E-9269-54C6C8662219-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step 10578C924742" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-FCB11E17-FBE5-4689-A068-FAC691A02F42">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-AB2E8D37-14B5-41A6-A3D4-52A02F43B5F8">Ensure entire work area is clear</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Including above and below battery</div></div></div>
+        </div>
+        <div class="itemgroup stepxmp">
+          <figure class="fig fignone">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-DE94F001-8C6A-4721-A362-89BDB9B60C1B-online-en-US.jpg"></button>
+          </figure>
+        </div>
+      </li>
+      <li class="li step 959652F44FF7" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-FEAEE7EA-58EB-4598-8F97-89350F449518">
+        <span class="ph cmd" id="GUID-959751AA-DB8D-4BA4-8BBB-22BD80CD2542__GUID-B15DC6BB-61DB-4D49-93F1-112A5778F67C">Remove HV insulating gloves</span>
+      </li>
+    </ol>
+  </div>
+<nav role="complementary" class="related-links"><div class="familylinks"><div class="parentlink p"><strong>Parent topic:</strong> <a class="tds-link xref" href="GUID-4BD8EBC9-EE1A-4611-AB0A-7EABFE7C9519.html">4450 - HV Harnesses</a></div></div></nav></article></main></div><aside class="tds-layout-item tds-layout-aside"><div class="mobile-capable-toggle"><label class="tds-switch_toggle tds-switch_toggle--label_inside tds-switch_toggle--large" for="mobile-capable-switch-toggle"><span class="label-text" style="                                             white-space: nowrap;                                             ">Only Show Mobile Capable Procedures</span><span class="toggle-wrapper"><input class="tds-switch_toggle-checkbox" type="checkbox" id="mobile-capable-switch-toggle"><span class="tds-switch_toggle-track" aria-hidden="true"></span><span class="tds-switch_toggle-btn" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16"><path d="M4 12 l6 6 l10 -10" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path></svg></span><span class="tds-switch_toggle-btn" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16"><path d="M18 6 L6 18 M6 6 l12 12" fill="none" stroke="#374151" stroke-width="3" stroke-linecap="round"></path></svg></span></span></label></div>

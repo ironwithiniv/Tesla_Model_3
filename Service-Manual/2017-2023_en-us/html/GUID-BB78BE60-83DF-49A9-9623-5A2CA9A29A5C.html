@@ -1,0 +1,84 @@
+<!doctype html><meta charset="utf-8"><title>Diagnostic Trouble Codes (DTCs)</title><p><small>Source: <a href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/GUID-BB78BE60-83DF-49A9-9623-5A2CA9A29A5C.html">https://service.tesla.com/docs/Model3/ServiceManual/en-us/GUID-BB78BE60-83DF-49A9-9623-5A2CA9A29A5C.html</a> (downloaded 2026-11-24)</small></p>
+<main role="main" class="tds-shell-content" id="main-content"><article role="article" aria-labelledby="GUID-BB78BE60-83DF-49A9-9623-5A2CA9A29A5C__GUID-5E04CC09-FDA7-43D8-B80A-915AF746A625">
+  <h1 class="title topictitle1" id="GUID-BB78BE60-83DF-49A9-9623-5A2CA9A29A5C__GUID-5E04CC09-FDA7-43D8-B80A-915AF746A625">Diagnostic Trouble Codes (DTCs)</h1>
+  <div class="body refbody">
+    <div class="example" id="GUID-BB78BE60-83DF-49A9-9623-5A2CA9A29A5C__GUID-9EB0586C-077A-41E4-9E11-0A1E259E9C4F">
+      <ul class="ul tds-list tds-list--unordered changes" id="GUID-BB78BE60-83DF-49A9-9623-5A2CA9A29A5C__GUID-431F6A7D-115B-4D0B-B0E6-6ACE31C2C977">
+        <li class="li change-item" id="GUID-BB78BE60-83DF-49A9-9623-5A2CA9A29A5C__GUID-CEF3EE35-05B5-4FE6-8AB3-4036A7859CD8">
+          <span class="change-date">2026-02-20: </span>
+          <span class="ph change-desc" id="GUID-BB78BE60-83DF-49A9-9623-5A2CA9A29A5C__GUID-DC71091C-4B72-4BED-9EBF-209E3DD9FBF6">Noted that DTCs can be cleared via Toolbox.</span>
+        </li>
+        <li class="li change-item" id="GUID-BB78BE60-83DF-49A9-9623-5A2CA9A29A5C__GUID-17A93429-B54F-441F-9E61-FF4C6F0B4524">
+          <span class="change-date">2026-01-22: </span>
+          <span class="ph change-desc" id="GUID-BB78BE60-83DF-49A9-9623-5A2CA9A29A5C__GUID-D5C7FA87-A2A4-43E4-A374-67420D720F25">Released new reference article.</span>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <nav role="complementary" class="related-links"><div class="familylinks"><div class="parentlink p"><strong>Parent topic:</strong> <a class="tds-link xref" href="GUID-7E5980D3-AB9A-4B8E-8B26-2444E312B339.html">Best Practices</a></div></div><div class="familylinks"><div class="parentlink p"><strong>Parent topic:</strong> <a class="tds-link xref" href="GUID-95A694DE-3AD0-40A8-BF9F-9F9497C2AFDD.html">0005 - Service Modes</a></div></div></nav><article class="topic reference nested1" aria-labelledby="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-FB369E23-060A-4E04-88C1-A74CC0417B62" lang="en-US" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6">
+    <h2 class="title topictitle2" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-FB369E23-060A-4E04-88C1-A74CC0417B62">Introduction</h2>
+    <div class="body refbody">
+      <section class="section" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-8FBA6E47-9A23-4327-A30C-1067F417B64F">
+        <p class="p">To improve the diagnostics workflow, Service Mode has been updated to display and
+                    manage DTCs, which are latched Service-specific faults that require Service
+                    intervention (such as repair or replacement) in order to clear the DTC and
+                    restore vehicle functionality.</p>
+        <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>A DTC panel will come to
+                    Toolbox in a future update.</div></div></div>
+      </section>
+      <section class="section" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-29C53F28-A9E2-4BFC-941E-F9AB0AF240E9"><h3 class="title sectiontitle">How do DTCs Differ from
+                    Alerts?</h3>
+        
+        <ul class="ul tds-list tds-list--unordered" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-3C1BB860-C2D9-4D52-8B9B-952FF668CA84">
+          <li class="li" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-863A9624-3D11-4113-AA2C-0393AF71157B">Alerts can indicate a wide
+                        range of vehicle events that may not always require service-related actions
+                        (e.g., charging station errors, connectivity issues external to the vehicle,
+                        etc.). DTCs specifically represent confirmed faults that require
+                        service-related actions. </li>
+          <li class="li" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-C4A396B1-A4FD-4F1D-891F-9EB75EA93F4F">DTCs latch and persist across
+                        power cycles. </li>
+          <li class="li" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-3777E72B-8677-4465-8D0E-85A92A5E0FF4">DTCs must be manually cleared
+                        by the technician.</li>
+          <li class="li" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-187A10C7-1FB8-46AA-8A47-D01A6B2CA413">DTCs mature over time and
+                        collect historical data.</li>
+        </ul>
+      </section>
+      <section class="section" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-038E3984-F2F4-403A-92A7-69E205E122CB"><h3 class="title sectiontitle">Advantages of DTCs</h3>
+        
+        <ul class="ul tds-list tds-list--unordered" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-40AC3DEA-5A82-4679-BBA9-57234DAF111F">
+          <li class="li" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-2D224464-0899-4F4D-998B-7EEF9684B099">DTCs are an industry standard
+                        system that technicians from other carmakers should easily recognize.</li>
+          <li class="li" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-BB3E3C6D-D681-4611-8CA8-E2A944511631">DTCs filter out false
+                        positives and direct technicians to real issues that require
+                        repair/replacement.</li>
+          <li class="li" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-5E450D58-5B37-4F25-9F61-5E419FC3BA39">DTCs provide historical
+                        context—like a “mini-Autodiag”—to streamline diagnosis. </li>
+        </ul>
+      </section>
+      <section class="section" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-6414FA35-3A6C-4BCD-B488-9BF1B53F8250"><h3 class="title sectiontitle">Accessing and Managing
+                    DTCs</h3>
+        
+        <p class="p">To view DTCs, enable <a class="tds-link xref" href="GUID-1295FB92-F7BD-4CF2-AA5B-C7D23A978AB2.html" title="Correction code 00050100 0.05 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See Flat Rate Times to learn more about FRTs and how they are created. NOTE: See to make sure wearing proper PPE when performing the below procedure. NOTE: See for safe and healthy working practices.">Service
+                        Mode</a> and on the vehicle
+                    touchscreen, touch <span class="ph menucascade" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-FCD31CE8-9119-41DF-904B-DC5CD54AFE6E"><span class="ph uicontrol" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-1B1E4075-9499-40A8-B9A3-25DC0F76958E">Tools</span><abbr title="and then"> &gt; </abbr><span class="ph uicontrol" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-268A85D9-D0AD-4AA1-A6BC-17F5611540A7">Alerts &amp;
+                            DTCs</span></span>.</p>
+        <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>If Service Mode is unavailable, DTCs can still be cleared by using Toolbox to
+                    run <span class="ph odinroutine" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-E01E715E-A145-4DE4-A8AA-63BF55BBD6F1"><span class="routine-name">PROC_X_CLEAR-DTCS</span><span class="p"><span>via Service Mode:</span><span class="service-ui-paths"><ul class="tds-list tds-list--unordered"><li class="service-ui-path">Chassis ➜ Brakes ➜ Clear DTCs</li><li class="service-ui-path">Tools ➜ Alerts &amp; DTCs ➜ Clear All DTCs</li></ul></span></span><span><span><span class="p"><span>via Toolbox:</span>(<a class="tds-link" target="_blank" href="https://toolbox.teslamotors.com?query=PROC_X_CLEAR-DTCS&amp;searchType=actions">link</a>)</span></span></span></span>.</div></div></div>
+        <p class="p">DTCs are displayed in the <span class="ph uicontrol" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-38EE48CC-6413-4C29-973C-3CE8E702F792">Diagnostic Trouble Codes -
+                        DTCs</span> panel (Figure 1).</p>
+        <figure class="fig fignone"><figcaption><span class="fig--title-label">Figure 1. </span></figcaption>
+          
+          <button data-tds-open-modal="img-modal"><img class="image" height="480" src="GUID-79A345B8-01ED-4711-B07B-BD81DF59CA64-online-en-US.png"></button>
+        </figure>
+        <div class="p">The information and actions available in this panel (Figure 1) are described
+                        below:<ol class="ol tds-list tds-list--ordered arabic-numerals" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-3B8BE355-9980-41CB-8E7F-0DDDE1439BF3"><li class="li" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-6C1C4170-359A-497B-BEBE-9D2AB33C6BD9">UI Button to clear all
+                            DTCs</li><li class="li" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-B4A22E63-6A55-469C-9C5F-96CD285F9A64">UI Button to clear all
+                            DTCs on a specific ECU</li><li class="li" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-12B94048-28F9-4EAA-99B5-495849BD531C">Description of the
+                            DTC</li><li class="li" id="GUID-7B9C9B42-B0B0-4CFC-A91F-AAE14F933BB6__GUID-F6AEBE2A-A8DB-4A53-BFA5-D75D2C3CC0D4">Additional DTC
+                            information, such as a description of the potential impact of the DTC,
+                            how the DTC was set, and the conditions required to fully remedy the
+                            DTC.</li></ol></div>
+      </section>
+    </div>
+  </article>
+</article></main></div><aside class="tds-layout-item tds-layout-aside"><div class="mobile-capable-toggle"><label class="tds-switch_toggle tds-switch_toggle--label_inside tds-switch_toggle--large" for="mobile-capable-switch-toggle"><span class="label-text" style="                                             white-space: nowrap;                                             ">Only Show Mobile Capable Procedures</span><span class="toggle-wrapper"><input class="tds-switch_toggle-checkbox" type="checkbox" id="mobile-capable-switch-toggle"><span class="tds-switch_toggle-track" aria-hidden="true"></span><span class="tds-switch_toggle-btn" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16"><path d="M4 12 l6 6 l10 -10" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path></svg></span><span class="tds-switch_toggle-btn" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16"><path d="M18 6 L6 18 M6 6 l12 12" fill="none" stroke="#374151" stroke-width="3" stroke-linecap="round"></path></svg></span></span></label></div>

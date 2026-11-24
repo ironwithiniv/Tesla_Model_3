@@ -1,0 +1,218 @@
+<!doctype html><meta charset="utf-8"><title>Firmware Update - CHAdeMO Charging Adapter</title><p><small>Source: <a href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E.html">https://service.tesla.com/docs/Model3/ServiceManual/en-us/GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E.html</a> (downloaded 2026-11-24)</small></p>
+<main role="main" class="tds-shell-content" id="main-content"><article role="article" aria-labelledby="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__GUID-EB30C767-687B-4C18-A8D7-D7D89C4B8CEB"><div class="date-modified">2026-08-09</div>
+  <h1 class="title topictitle1" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__GUID-EB30C767-687B-4C18-A8D7-D7D89C4B8CEB">Firmware Update - CHAdeMO Charging Adapter</h1>
+  
+  
+  <div class="body taskbody"><p class="shortdesc">
+    <span class="ph correction-code-title" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__GUID-154F2721-6C83-4546-80D4-79361FA3DACC">Correction code</span>
+    <span class="ph" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__GUID-3FD70F87-C5A7-457C-9D0E-5884EF362D01">
+                           <span class="ph correction-code" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__d7e12065">50011003</span>
+                           <span class="ph frt" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__GUID-97E02BEB-73A5-4496-A232-9E4AF0EF4346">0.10</span>
+                           
+                           <span class="ph" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__GUID-AA59D0E8-41B1-4E17-B4A1-DDCF6A4363AB">
+        <span class="ph note" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__d543e960">
+          <strong class="ph b" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__d543e962">NOTE: </strong>Unless otherwise explicitly
+          stated in the procedure, the correction code and its associated FRT reflect all of the
+          work required to perform this procedure, including the linked procedures. <strong class="ph b" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__d543e965">Do not stack correction codes unless
+            explicitly told to do so.</strong></span>
+        <span class="ph note" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__d543e968">
+          <strong class="ph b" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__d543e970">NOTE: </strong>See <a class="tds-link xref" href="GUID-1985E7C9-F23B-4F7E-BCFB-04586601E909.html">Flat Rate
+            Times</a> to learn more about FRTs and how they are created.</span>
+        <span class="ph note" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__d543e977">
+          <strong class="ph b" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__d543e979">NOTE: </strong>See <a class="tds-link xref" href="GUID-09B3A9A0-CAB6-493D-AC2B-B805BE3BAE95.html">Personal Protection</a> to make sure wearing proper PPE when
+          performing the below procedure. <span class="ph" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__d543e984"><strong class="ph b" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__d543e985">NOTE: </strong>See <a class="tds-link xref" href="GUID-5D2F94A7-A5CB-45A6-9CC1-2C14B3CF7ECB.html">Ergonomic Precautions</a> for safe and healthy working
+            practices.</span></span>
+      </span>
+                        </span>
+  </p>
+    <div class="section prereq p" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__GUID-D750A01B-D1E3-43A5-A3B0-360B7407BC96">
+      <ul class="ul tds-list tds-list--unordered" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__GUID-8ACCF897-8011-4079-ABEB-49B6AD563A81">
+        <li class="li" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__GUID-0C6F4E04-A010-44AD-8666-C197FF6EC828">2023-03-27: <span class="ph" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__GUID-24EBBB30-50FD-490E-9466-5DFDA0B4E51A">Updated to latest validation.</span></li>
+        <li class="li" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__GUID-593D26B1-D7F0-4D7A-9B63-DEBCB276719D">2024-10-31: <span class="ph" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__GUID-1D32A44E-ACA1-4008-8CDC-A27478EB115D">Added extra steps for vehicles in
+                  Japan.</span></li>
+      </ul>
+      <p class="p">Special tools required for this procedure:</p>
+      <table class="table frame-none" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__TABLE_ED3_QVF_CP"><caption></caption><colgroup><col style="width:18.6219739292365%"><col style="width:81.3780260707635%"></colgroup><tbody class="tbody">
+            <tr class="row">
+              <td class="entry">
+                <strong class="ph b" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__GUID-9AECA4A3-3DFF-41F5-9EEB-5286D6E7F6DF">Part Number</strong>
+              </td>
+              <td class="entry">
+                <strong class="ph b" id="GUID-B678F347-A09C-4555-B27D-8CDDDE9E4E5E__GUID-DD7EC89F-49C1-46C7-8C26-538561A37AFE">Description</strong>
+              </td>
+            </tr>
+            <tr class="row">
+              <td class="entry">1045160-00-A</td>
+              <td class="entry">CHAdeMO Programming Tool, Turn-key</td>
+            </tr>
+            <tr class="row">
+              <td class="entry">1076919-00-A</td>
+              <td class="entry">Adapter DC Power Supply 60W 12V</td>
+            </tr>
+            <tr class="row">
+              <td class="entry">1016990-00-A</td>
+              <td class="entry">Tool, Gridconnect USB to CAN Adapter</td>
+            </tr>
+          </tbody></table>
+    </div>
+  </div>
+  <nav role="complementary" class="related-links"><div class="familylinks"><div class="parentlink p"><strong>Parent topic:</strong> <a class="tds-link xref" href="GUID-0BB8A401-2EE6-4298-A5DF-F518CFE54C92.html">5003 - Charging Adapters</a></div></div></nav><article class="topic task nested1" aria-labelledby="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-D0ACAA43-0A7C-4C73-B83C-B38CC47641FE" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4">
+    <h2 class="title topictitle2" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-D0ACAA43-0A7C-4C73-B83C-B38CC47641FE">Procedure</h2>
+    <div class="body taskbody">
+      <ol class="ol steps tds-list tds-list--ordered" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-B17CD0AC-47E4-4FA3-AB64-49EDE32FBAC5">
+        <li class="li step" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-BF25471F-4D06-4073-B108-6E501E872FA1">
+          <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-635FAD26-F186-480C-B33D-DE49CF6CFA9D">Start Toolbox 2 on a laptop configured with Toolbox 2, and sign in if
+                  necessary.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>For vehicles in Japan, skip this step.</div></div></div>
+          </div>
+        </li>
+        <li class="li step" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-E3675BE0-1A53-40FD-A847-B47CFAB9B7C1">
+          <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-855B87D6-8A31-4608-8667-E45D66EBCB11">In Toolbox 2, click <span class="ph menucascade" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-9C7D8FB5-1408-4B7B-95D7-2404D6FFDD88"><span class="ph uicontrol" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-4D0C6CFB-2579-4650-AA7C-34932A7155CA">Options</span><abbr title="and then"> &gt; </abbr><span class="ph uicontrol" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-9C36AF67-3FB0-4629-94B0-121BAFC47795">Plugins</span></span>, and then confirm that the CHAdeMO plugin is available and
+                  green.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-17B3D286-A950-4AAA-B88D-C3672ADFF62C-online-en-US.png"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-C1FAC10F-A766-45A4-9ED8-E989BB4BAB61">
+          <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-31A2CB67-92D2-4D61-980C-B983D31F22A1">Connect the CHAdeMO programming tool CAN connector to the USB to CAN adapter,
+                  and then connect the tool power connector to the 12V DC power supply.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Do not plug in the power supply at this time.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-AD64E34A-A93D-4712-8A02-FEF0398B4357-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-F4A5ACAE-875A-4524-BD14-C6DC8579C69E">
+          <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-BC1DE960-DA68-4B8F-B20B-732128879DD2">Connect the USB to CAN adapter to the laptop, and then plug in the 12V DC power
+                  supply.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>If the laptop requests that a
+                     driver should be downloaded and/or installed, do this now. The driver can be
+                     manually downloaded from <a class="tds-link xref" href="http://www.peak-system.com/fileadmin/media/files/usb.zip" target="_blank">http://www.peak-system.com/fileadmin/media/files/usb.zip</a>.</div></div></div>
+          </div>
+        </li>
+        <li class="li step" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-F20CB74C-E9E9-4457-974B-DF824DE1EAD2">
+          <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-8B13D7B0-B524-48C1-8C83-6B978DA7B25A">Connect the CHAdeMO programming tool to the CHAdeMO adapter.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Make sure that the tabs of the tool align with the slots in the
+                     adapter.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-56B9DD0F-B683-44D2-91F3-B948FF315AB6-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-6C9C6E8A-D194-4618-BCB4-2CE521733427">
+          <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-36EA47BF-B43A-4E37-B6D9-A785D364035F">In the lower left corner of
+                  Toolbox 2 there are two grey buttons, click the button on the right.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-12AEA899-82CD-498C-8C16-D7431D8071C7-online-en-US.png"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-F31FD228-F7F4-4340-AE06-72B3A6E1138E">
+          <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-B8E4E459-2CB6-44CD-95A5-24FEAADA0F6C">In the window that opens, from the Vehicle drop-down menu, select
+                     <span class="ph uicontrol" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-4CCB7C73-C423-4E4A-8783-70D5D333F8EF">Tesla CHAdeMO Adapter</span>, from the Bus drop-down menu,
+                  select <span class="ph uicontrol" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-2291C211-5414-480C-87F2-013B7BF4760D">SE</span>, select <span class="ph uicontrol" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-650D13E0-1DE2-47D8-A702-EB9611DADD23">Enable
+                  Diagnostics</span>, and then click <span class="ph uicontrol" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-C68E8341-A62B-470D-8E37-89E29214756A">Enable</span>.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Make sure that the RH button turns green. If not, check all
+                     connections.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__IMAGE_S4W_1XH_YN" src="GUID-9784987C-33A3-4EEC-B650-BB72757193B1-online-en-US.png"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__IMAGE_YD1_NN3_DDC" src="GUID-F9956960-1A81-4C3B-981D-F6C09746F7D3-online-en-US.jpg"></button>
+          </div>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>For vehicles in Japan, follow below steps to recover
+                     the faulty connection, upload and update the customized firmware for Japan
+                     CHAdeMO adapter:</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__IMAGE_AXV_PSZ_CDC" src="GUID-A2928ACA-26F1-4532-AACE-40384FD45D05-online-en-US.jpg"></button>
+          </div>
+          <ol type="a" class="ol substeps tds-list--ordered" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__SUBSTEPS_RNN_SMZ_CDC">
+            <li class="li substep substepexpand" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-5B79C0C1-CF18-4650-BA3A-A650FFD68988">
+              <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-88CA5605-313E-4D87-B084-47E41088946D">Disable the firmware connection by clicking
+                        <span class="ph uicontrol" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-EE7AD0CD-DA34-425B-B4E4-ED8CB3D7C7AA">Disable</span>.</span>
+              <div class="itemgroup stepxmp">
+                <button data-tds-open-modal="img-modal"><img class="image" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__IMAGE_HJN_FQZ_CDC" src="GUID-16DE5AD1-7EE0-49D6-8F39-9C4DAEAEC1C2-online-en-US.jpg"></button>
+              </div>
+            </li>
+            <li class="li substep substepexpand" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-BC853405-B6E1-4656-80A3-D3E04FB96DEE">
+              <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-7C3E7722-6923-4F6A-9B4B-8D93D051E763">Restart the Toolbox 2, then
+                        repeat steps <a class="tds-link xref" href="#GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-E3675BE0-1A53-40FD-A847-B47CFAB9B7C1">2</a> through <a class="tds-link xref" href="#GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-6C9C6E8A-D194-4618-BCB4-2CE521733427">6</a>.</span>
+            </li>
+            <li class="li substep substepexpand" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-E4F5B3F8-2105-4A57-B640-F9A4D01D9473">
+              <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-C8178522-238C-486D-ACC4-2698CA9C1C2B">Click <span class="ph uicontrol" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-A9D0F79A-B9D6-4E6C-B386-9FAA32BF3CD7">Use Custom Firmware</span>.</span>
+              <div class="itemgroup stepxmp">
+                <button data-tds-open-modal="img-modal"><img class="image" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__IMAGE_UMV_FQZ_CDC" src="GUID-B14C4556-A332-4BFB-B19F-CE42DE0C7134-online-en-US.jpg"></button>
+              </div>
+            </li>
+            <li class="li substep substepexpand" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-3D669CD1-A058-4C91-B7B5-0B7F3A4E107E">
+              <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-37E2A801-C92B-418C-8EFF-E7CB656C6C02">Choose the update file corresponding to PCBA ID stored in desktop
+                        file.</span>
+              <div class="itemgroup stepxmp">
+                <button data-tds-open-modal="img-modal"><img class="image" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__IMAGE_XMD_GQZ_CDC" src="GUID-CA63DA28-3090-4F89-A392-D1DAA4486B51-online-en-US.jpg"></button>
+              </div>
+            </li>
+            <li class="li substep substepexpand" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-CC2C6925-78AA-4F6E-A850-D4928D28B066">
+              <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-2A208CC4-6A16-4ECF-82F3-7A98EB4C258E">In the window that opens, read the text, and then click
+                           <span class="ph uicontrol" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-CFAD51E5-2256-4D03-A399-8B55D38AAECA">Play</span>.</span>
+              <div class="itemgroup stepxmp">
+                <button data-tds-open-modal="img-modal"><img class="image" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__IMAGE_IVJ_MTZ_CDC" src="GUID-DCC735C6-DE34-4FC4-8149-DFA1C8A523B9-online-en-US.jpg"></button>
+              </div>
+            </li>
+            <li class="li substep substepexpand" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-E23B9F34-42DD-4AAF-B45A-6CAF13B5B598">
+              <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-BF9746B4-B437-4D28-A2B5-D1B01C4CC9CD">When Firmware downloads is complete, go to step <a class="tds-link xref" href="#GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-67B9DE94-2050-4BAC-91C7-15B1B284EA28">9</a>.</span>
+              <div class="itemgroup stepxmp">
+                <button data-tds-open-modal="img-modal"><img class="image" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__IMAGE_TV3_WTZ_CDC" src="GUID-742BB6DD-6521-4415-BB60-0550C785AD9F-online-en-US.jpg"></button>
+              </div>
+            </li>
+          </ol>
+        </li>
+        <li class="li step" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-14CC1E89-4B30-4A28-A4A8-C8C59B01CD28">
+          <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-8F2545C9-2CE3-4494-AEAC-078FF7DC38DD">In Toolbox 2, click <span class="ph menucascade" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-96CCA52E-1891-483D-B432-06EAB38E8545"><span class="ph uicontrol" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-D309FF22-D491-4D72-95E7-C41EA812A7DD">Panels</span><abbr title="and then"> &gt; </abbr><span class="ph uicontrol" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-68AC4780-6E28-424A-A7CD-A8409B12DF2B">Charging</span><abbr title="and then"> &gt; </abbr><span class="ph uicontrol" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-8AAB1231-DD5B-4F4D-93B0-D847E07E0044">CHAdeMO Adapter Firmware Update</span></span>.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-F29436FB-7D6E-4D72-966A-9E7497147DED-online-en-US.png"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-67B9DE94-2050-4BAC-91C7-15B1B284EA28">
+          <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-C43B8B84-4F0F-4DC6-84A2-CAB39E0672DF">In the window that opens, read the text, and then click
+                     <span class="ph uicontrol" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-521196F1-5036-4A11-BA2B-89BCAD569F1F">Play</span>.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-5B6ECEDB-CBE0-4739-8A84-F59C736FF6D6-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-18DD0B2B-79A8-4C77-8D26-9884B460863F">
+          <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-7E11BD30-E0CA-4364-A426-E643A5D4533C">After the update has completed, note the new firmware version into the service
+                  visit, and then click <span class="ph uicontrol" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-FADE1BB5-EF5B-487D-A8E2-81DFEB97E20D">Finish</span>.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-1ED55EFA-5323-4189-B263-69428CB486DA-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-7648115B-408A-43EA-B3BE-F328409821D6">
+          <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-5F10CABD-32A8-4408-BCDB-730C0EC65635">Disconnect the CHAdeMO programming tool from the CHAdeMO adapter.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-56B9DD0F-B683-44D2-91F3-B948FF315AB6-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-06D3B725-034C-42B5-93A8-CF977192F185">
+          <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-93AF3559-7CB7-44D2-BDCE-49F470CA37E4">Unplug the 12V DC power supply,
+                  and then disconnect the USB to CAN adapter from the laptop.</span>
+        </li>
+        <li class="li step" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-3C2AA08A-D2FE-40BB-86D1-EEE6B831A905">
+          <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-80910AA0-9F9E-417A-8EE8-D0D5175872B7">Disconnect the CHAdeMO programming tool power connector from the 12V DC power
+                  supply, and then disconnect the tool CAN connector from the USB to CAN
+                  adapter.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-297F38A6-C19E-467E-9741-83C1390B8895-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-56A3C105-8DCB-4BBB-8CA2-B8D6097DC750">
+          <span class="ph cmd" id="GUID-A7330691-734E-4564-8B7C-8897CDEC2FE4__GUID-BCF32F63-19A9-498E-BE49-E8119F93B6E4">If no further use, close Toolbox 2.</span>
+        </li>
+      </ol>
+    </div>
+  </article>
+</article></main></div><aside class="tds-layout-item tds-layout-aside"><div class="mobile-capable-toggle"><label class="tds-switch_toggle tds-switch_toggle--label_inside tds-switch_toggle--large" for="mobile-capable-switch-toggle"><span class="label-text" style="                                             white-space: nowrap;                                             ">Only Show Mobile Capable Procedures</span><span class="toggle-wrapper"><input class="tds-switch_toggle-checkbox" type="checkbox" id="mobile-capable-switch-toggle"><span class="tds-switch_toggle-track" aria-hidden="true"></span><span class="tds-switch_toggle-btn" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16"><path d="M4 12 l6 6 l10 -10" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path></svg></span><span class="tds-switch_toggle-btn" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16"><path d="M18 6 L6 18 M6 6 l12 12" fill="none" stroke="#374151" stroke-width="3" stroke-linecap="round"></path></svg></span></span></label></div>

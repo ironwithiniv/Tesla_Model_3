@@ -1,0 +1,165 @@
+<!doctype html><meta charset="utf-8"><title>Controller - High Voltage (Backup and Restore)</title><p><small>Source: <a href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/GUID-E10DBB2F-D74A-495F-A50D-457D60CCFB4D.html">https://service.tesla.com/docs/Model3/ServiceManual/en-us/GUID-E10DBB2F-D74A-495F-A50D-457D60CCFB4D.html</a> (downloaded 2026-11-24)</small></p>
+<main role="main" class="tds-shell-content" id="main-content"><article role="article" aria-labelledby="GUID-E10DBB2F-D74A-495F-A50D-457D60CCFB4D__GUID-B8B2B67D-044D-41E0-92E4-484515EC0FE0"><div class="date-modified">2026-08-09</div>
+  <h1 class="title topictitle1" id="GUID-E10DBB2F-D74A-495F-A50D-457D60CCFB4D__GUID-B8B2B67D-044D-41E0-92E4-484515EC0FE0">
+    <span class="ph" id="GUID-E10DBB2F-D74A-495F-A50D-457D60CCFB4D__GUID-BC634E6A-A4C5-4B96-8EE8-7DB188934F07">Controller - High Voltage (Backup and
+            Restore)</span>
+  </h1>
+  
+  
+  <div class="body taskbody"><p class="shortdesc">
+    <span class="ph correction-code-title" id="GUID-E10DBB2F-D74A-495F-A50D-457D60CCFB4D__GUID-13FDC7D0-FB74-4DC1-9A6D-2E10229CCD40">Correction code</span>
+    <span class="ph" id="GUID-E10DBB2F-D74A-495F-A50D-457D60CCFB4D__GUID-375F68D9-5D8C-488A-8FB5-712AFB469D3D">
+      
+    </span>
+  </p>
+    <section class="section context" id="GUID-E10DBB2F-D74A-495F-A50D-457D60CCFB4D__GUID-8735C3EB-343F-47EF-9076-3A81196710C8">
+      <ul class="ul tds-list tds-list--unordered changes" id="GUID-E10DBB2F-D74A-495F-A50D-457D60CCFB4D__GUID-918408A9-97CD-4AEA-88C4-76F38DEC25B5">
+        <li class="li change-item" id="GUID-E10DBB2F-D74A-495F-A50D-457D60CCFB4D__GUID-9B6DB662-3CC5-44A5-B4E4-725521ECEFA6">
+          <span class="change-date">2026-02-09: </span>
+          <span class="ph change-desc" id="GUID-E10DBB2F-D74A-495F-A50D-457D60CCFB4D__GUID-49CED5B2-2552-4732-B6EE-C256E1C96F7D">Updated reference to Service Mode Plus.</span>
+        </li>
+        <li class="li" id="GUID-E10DBB2F-D74A-495F-A50D-457D60CCFB4D__GUID-FCB0A2BF-87DD-4A09-8F79-05794444DABD">2024-07-15: <span class="ph" id="GUID-E10DBB2F-D74A-495F-A50D-457D60CCFB4D__GUID-BF1EA74E-03CA-4213-A5F9-F9BD86AB4BD8">Introduced Service Mode Plus activation
+            using the Vehicle Ops App, updated touchscreen images for backing up and restoring
+            backup data.</span></li>
+        <li class="li" id="GUID-E10DBB2F-D74A-495F-A50D-457D60CCFB4D__GUID-6CBAB8E9-2129-46FF-8D3B-E1D707A6B1FF">2023-08-03: <span class="ph" id="GUID-E10DBB2F-D74A-495F-A50D-457D60CCFB4D__GUID-4D449A72-E54C-4D5A-B4C7-FEFFD777AD70">Removed Autodiag method.</span></li>
+        <li class="li" id="GUID-E10DBB2F-D74A-495F-A50D-457D60CCFB4D__GUID-0B37F15A-92C3-4225-9CFB-85F232B4DD75">2023-03-15: <span class="ph" id="GUID-E10DBB2F-D74A-495F-A50D-457D60CCFB4D__GUID-231309EA-430E-419F-888A-8CF76F1D0581">Added note to explain the automated
+            restore process using the touchscreen.</span></li>
+      </ul>
+    </section>
+  </div>
+  <nav role="complementary" class="related-links"><div class="familylinks"><div class="parentlink p"><strong>Parent topic:</strong> <a class="tds-link xref" href="GUID-D080BEF4-E964-4FA8-81EB-396A91F96BA1.html">1630 - HV Battery Electrical Components</a></div></div></nav><article class="topic task nested1" aria-labelledby="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-060EE6B0-94AA-44D2-8D48-69C8DE61EA8C" id="GUID-CA673120-BB83-4128-9289-336D57C3016D">
+    <h2 class="title topictitle2" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-060EE6B0-94AA-44D2-8D48-69C8DE61EA8C">HVC Backup</h2>
+    <div class="body taskbody">
+      <ol class="ol steps tds-list tds-list--ordered" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-7E47FD83-8FF4-4E3A-8A7A-A6945465C909">
+        <li class="li stepsection" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-3309936A-2766-4BFD-978D-F94B069ABBD9">To perform the high voltage
+          controller backup, the following conditions must be met.<ul class="ul tds-list tds-list--unordered" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-1D7CA8F1-ABB3-43B0-B14B-FD3975E0BCE2"><li class="li" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-97EAC963-8106-4476-9A5C-A144E932381C">The vehicle firmware is 2023.2.12 or later.</li><li class="li" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-1CF8F8A3-8949-44F9-8A40-20996A55084C">The replacement high voltage
+              controller has the exact same part number as the original controller, or the
+              replacement controller part number is revision -P or later, or the replacement
+              controller part number meets the constraints as described in Toolbox.</li></ul></li>
+        <li class="li step" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-C9B78CF0-4492-4F95-8B8F-2F96D060757F">
+          <span class="ph cmd" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-1518109A-C8C0-4420-8CF6-52D0296ED384">On the vehicle touchscreen, verify
+            that the vehicle firmware version is 2023.2.12 or later, and if not, update to the
+            latest. See <a class="tds-link xref" href="GUID-1A53083B-DF86-4580-9A75-FEDE7857265D.html" title="Correction code 00020003 0.06 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See Flat Rate Times to learn more about FRTs and how they are created. NOTE: See to make sure wearing proper PPE when performing the below procedure. NOTE: See for safe and healthy working practices.">Software Update</a>.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>If the installed HVC revision does
+              not fall under the above conditions, update the vehicle firmware to the latest service
+              default.</div></div></div>
+          </div>
+        </li>
+        <li class="li step" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-E1E2DF4C-76E4-4271-9707-99838B6AB2C7">
+          <span class="ph cmd" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-8C12BB0F-D74F-43E5-8579-7CC58510E120">Connect a laptop with Toolbox 3 to the vehicle. See <a class="tds-link xref" href="GUID-1255FAF4-AB26-4104-91E0-132F0AAFF872.html">Toolbox (Connect and Disconnect)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-EBE80478-7235-4134-88E2-001E9E3F9D7C">
+          <span class="ph cmd" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-7F4EB7D3-292E-4947-8618-7EB1D0935908">Enable Service Mode Plus. See <a class="tds-link xref" href="GUID-AF834DEF-F232-4A61-8248-98612C2AD7E7.html" title="Correction code 00050000 0.05 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See Flat Rate Times to learn more about FRTs and how they are created. NOTE: See to make sure wearing proper PPE when performing the below procedure. NOTE: See for safe and healthy working practices.">Service Mode Plus</a>.</span>
+        </li>
+        <li class="li step" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-59A0C914-EDE0-4013-BDA3-3179E5BB34A0">
+          <span class="ph cmd" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-4A03170A-68AF-4136-8A22-680391B05A05">On the vehicle touchscreen,
+                        touch the lightning bolt icon, and then touch Procedures.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-36DEFBE6-05E9-4A69-A0F6-B24E50F22566-online-en-US.png"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-800EE15A-5377-4BB5-815B-4587681823CC">
+          <span class="ph cmd" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-561273F9-2BFD-4B3D-A9EE-BF4C0A3F1B8F">Under High-Voltage-Controller-(HVC)-and-Battery-Pack-Replacement, touch
+                            <span class="ph uicontrol" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-15A9F4E7-65D2-4BB7-91B6-52354E484F71">High Voltage
+                            Controller (HVC) Replacement</span>.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-4E59D793-B148-4996-A3BF-14D1B38B9210-online-en-US.png"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-36BB5BB1-E702-46D6-98F0-42B317A874D0">
+          <span class="ph cmd" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-7063584E-A7DA-4B09-9525-AD735D2052AF">Under Before High Voltage Controller
+            Replacement, touch <span class="ph uicontrol" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-51DC0051-7B65-4938-9CE8-9CA4240D0C29">Backup Old
+              HVC</span>, click <span class="ph uicontrol" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-86D9BC9B-2DFF-4549-9572-08328A66A6A2">Run</span>, and allow the routine to
+            complete.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>If the backup fails, retry the
+              routine up to 2 more times as it may take this many attempts for success.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>If after 3 attempts the backup
+              still fails, or the HVBMS or HVP is indicated as MIA, continue to the next step. There
+              may be a previously saved backup available for restore.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__IMAGE_P5H_DZR_BCC" src="GUID-7D22C561-A7DB-4243-B8FC-5CA503AA21DC-online-en-US.png"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-F7E59215-3038-46ED-A460-3AE6D6763746-online-en-US.png"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-FC528960-2393-4C36-A54A-569876AA1CE3">
+          <span class="ph cmd" id="GUID-CA673120-BB83-4128-9289-336D57C3016D__GUID-3E5BD47B-A2B5-4980-9D30-6FDEDE5FEE52">Return to the procedure that
+                        requested a backup of the high voltage controller data.</span>
+        </li>
+      </ol>
+    </div>
+  </article>
+  <article class="topic task nested1" aria-labelledby="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-55526B3E-A59C-4D6D-ADEE-A0108881C1DB" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0">
+    <h2 class="title topictitle2" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-55526B3E-A59C-4D6D-ADEE-A0108881C1DB">HVC Restore</h2>
+    <div class="body taskbody">
+      <ol class="ol steps tds-list tds-list--ordered" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-B7BA27DE-298E-4265-9050-D0C1097346CB">
+        <li class="li step" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-79B6A968-197D-4006-86F2-9716DD7F1AC2">
+          <span class="ph cmd" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-4650BAE3-0B0F-409D-81DF-0A4CADE97485">Connect the laptop with
+                        Toolbox 3 to the vehicle. See <a class="tds-link xref" href="GUID-1255FAF4-AB26-4104-91E0-132F0AAFF872.html">Toolbox (Connect and Disconnect)</a>.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">CAUTION</div><div>This must be a local, wired connection to the vehicle.</div></div></div>
+          </div>
+        </li>
+        <li class="li step" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-D87A66B0-7334-42B0-9FB4-A15C479BAC67">
+          <span class="ph cmd" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-F7574F85-9F43-4F77-B3DF-4254FF44FF9B">If not automatically
+                        enabled, enable Service Mode Plus. See <a class="tds-link xref" href="GUID-AF834DEF-F232-4A61-8248-98612C2AD7E7.html" title="Correction code 00050000 0.05 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See Flat Rate Times to learn more about FRTs and how they are created. NOTE: See to make sure wearing proper PPE when performing the below procedure. NOTE: See for safe and healthy working practices.">Service Mode Plus</a>.</span>
+        </li>
+        <li class="li step" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-B1BB037C-F7BD-479F-BB2A-149CB7596A26">
+          <span class="ph cmd" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-72DB09C1-437D-44B1-855F-34F20D36CAA1">Make sure that there are no
+                        staged firmware jobs for the vehicle. If a firmware job is staged, either
+                        hammer or complete the job before continuing this procedure.</span>
+        </li>
+        <li class="li step" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-669A8203-B396-4AC4-8C23-3A49FE083729">
+          <span class="ph cmd" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-7368E264-B810-42BA-8F0A-923EDB32D360">On the vehicle touchscreen, touch the lightning bolt icon, and then touch
+                        Procedures.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-36DEFBE6-05E9-4A69-A0F6-B24E50F22566-online-en-US.png"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-B02A37D5-3A28-454C-AF13-8703D4E0B963">
+          <span class="ph cmd" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-D11DC0F8-1240-44E7-8F1D-FF5C049917B6">Under High-Voltage-Controller-(HVC)-and-Battery-Pack-Replacement, touch
+                            <span class="ph uicontrol" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-7CB33E14-2DCF-4E94-BFDD-50E3259740DB">High Voltage Controller (HVC) Replacement</span>.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-4E59D793-B148-4996-A3BF-14D1B38B9210-online-en-US.png"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-51062E89-9E7A-4469-A86F-8F041F054146">
+          <span class="ph cmd" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-05D80F16-896B-4E55-AD64-C9A6A276B429">Under After High Voltage Controller
+            Replacement, touch <span class="ph uicontrol" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-804AC647-1EB4-4AAD-B5E6-79B01C4B59CB">Restore New
+              HVC</span>, touch <span class="ph uicontrol" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-AC113CC3-9CE8-4D5C-9651-2ACD5D801688">Run</span>, and allow the routine to
+            complete.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">CAUTION</div><div>The laptop must
+              remain locally (wired) connected to the vehicle for the entire duration of this
+              automated routine, which is approximately 30 minutes.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">CAUTION</div><div>Do not disconnect or
+              shut down the laptop until the HVBMS data has been restored, the first CAN redeploy
+              has successfully completed, the HVP bootloader data has been restored, the second CAN
+              redeploy has successfully completed, the Application data has been restored, and the
+              Routine Passed message is displayed.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>If the restore fails, retry the
+              routine up to 2 more times as it may take this many attempts for success.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__IMAGE_DZK_Q2L_BCC" src="GUID-6CF8B4CD-48D7-4602-A33C-FB8B5E4F2E4C-online-en-US.png"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__IMAGE_ALL_DFL_BCC" src="GUID-65712CCA-805E-4A9A-B2E7-0F34D40EA91F-online-en-US.png"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-95289D2E-BB03-4AD3-A424-CFAE6353A53C-online-en-US.png"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-32E647B5-C726-46CB-9B1C-17900FCD7F8E">
+          <span class="ph cmd" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-59F70C00-71DC-47C8-B589-3AC016177FD6">Power off the vehicle through the touchscreen.</span>
+        </li>
+        <li class="li step" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-0E30BF75-B736-4C9A-AA88-AC0AE069C2A9">
+          <span class="ph cmd" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-06584EE3-505B-416E-9C59-2C843EE38A8D">Disconnect the laptop with
+                        Toolbox 3 from the vehicle. See <a class="tds-link xref" href="GUID-1255FAF4-AB26-4104-91E0-132F0AAFF872.html">Toolbox (Connect and Disconnect)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-D9319CE9-0C35-42A9-8A66-4C7225C2F8B8">
+          <span class="ph cmd" id="GUID-D2F5D648-F340-4002-93E4-09D12D8D11F0__GUID-00238F0A-7DE6-4B4A-B853-0354D9765C19">Return to the procedure that
+                        requested a restore of the high voltage controller data.</span>
+        </li>
+      </ol>
+    </div>
+  </article>
+</article></main></div><aside class="tds-layout-item tds-layout-aside"><div class="mobile-capable-toggle"><label class="tds-switch_toggle tds-switch_toggle--label_inside tds-switch_toggle--large" for="mobile-capable-switch-toggle"><span class="label-text" style="                                             white-space: nowrap;                                             ">Only Show Mobile Capable Procedures</span><span class="toggle-wrapper"><input class="tds-switch_toggle-checkbox" type="checkbox" id="mobile-capable-switch-toggle"><span class="tds-switch_toggle-track" aria-hidden="true"></span><span class="tds-switch_toggle-btn" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16"><path d="M4 12 l6 6 l10 -10" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path></svg></span><span class="tds-switch_toggle-btn" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16"><path d="M18 6 L6 18 M6 6 l12 12" fill="none" stroke="#374151" stroke-width="3" stroke-linecap="round"></path></svg></span></span></label></div>

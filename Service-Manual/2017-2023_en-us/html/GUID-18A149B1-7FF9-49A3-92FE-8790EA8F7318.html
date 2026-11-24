@@ -1,0 +1,97 @@
+<!doctype html><meta charset="utf-8"><title>BLE TPMS (Update Configuration)</title><p><small>Source: <a href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318.html">https://service.tesla.com/docs/Model3/ServiceManual/en-us/GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318.html</a> (downloaded 2026-11-24)</small></p>
+<main role="main" class="tds-shell-content" id="main-content"><article role="article" aria-labelledby="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-8CAB4ADA-4DAF-4152-92EE-5F3446E98DE0"><div class="date-modified">2026-08-09</div>
+  <h1 class="title topictitle1" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-8CAB4ADA-4DAF-4152-92EE-5F3446E98DE0">
+    <span class="ph" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-C480093B-770E-43F2-BF89-24FFCE0D2428">BLE TPMS (Update
+                           Configuration)</span>
+  </h1>
+  
+  <div class="body taskbody"><p class="shortdesc">
+    <span class="ph correction-code-title" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-819453A4-085F-4D2B-81AD-476C185162DF">Correction code</span>
+    <span class="ph" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-E02E991B-59A3-4432-BA8C-206B9C70A7F6"><span class="ph correction-code" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__d7e21152">34041400</span>
+                           <span class="ph frt" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-E45C1317-07BB-4BD6-8953-8C9B4338E998">0.05</span>
+                           <span class="ph" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-C89C8B04-D458-4517-9073-A8B5EC1B8FE7">
+        <span class="ph note" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__d10e960">
+          <strong class="ph b" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__d10e962">NOTE: </strong>Unless otherwise explicitly
+          stated in the procedure, the correction code and its associated FRT reflect all of the
+          work required to perform this procedure, including the linked procedures. <strong class="ph b" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__d10e965">Do not stack correction codes unless
+            explicitly told to do so.</strong></span>
+        <span class="ph note" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__d10e968">
+          <strong class="ph b" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__d10e970">NOTE: </strong>See <a class="tds-link xref" href="GUID-1985E7C9-F23B-4F7E-BCFB-04586601E909.html">Flat Rate
+            Times</a> to learn more about FRTs and how they are created.</span>
+        <span class="ph note" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__d10e977">
+          <strong class="ph b" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__d10e979">NOTE: </strong>See <a class="tds-link xref" href="GUID-09B3A9A0-CAB6-493D-AC2B-B805BE3BAE95.html">Personal Protection</a> to make sure wearing proper PPE when
+          performing the below procedure. <span class="ph" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__d10e984"><strong class="ph b" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__d10e985">NOTE: </strong>See <a class="tds-link xref" href="GUID-5D2F94A7-A5CB-45A6-9CC1-2C14B3CF7ECB.html">Ergonomic Precautions</a> for safe and healthy working
+            practices.</span></span>
+      </span></span>
+  </p>
+    <ol class="ol steps tds-list tds-list--ordered" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-9E181406-A131-4CDD-8FF8-5D6D02888D87">
+      <li class="li step" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-4D04A235-B5A9-4512-A652-D5920335F5E9">
+        <span class="ph cmd" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-53A88598-483B-4776-BA3D-6187B1551CA1">
+          <span class="ph" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-4BADEB8F-858B-4ADC-8F63-D16F46FE04B3">Connect a laptop with Toolbox
+                        3 to the vehicle.</span>
+        </span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>The vehicle connection is integrated
+            into the drivers footwell cover. Open the Toolbox 3 website <a class="tds-link xref" href="https://toolbox.teslamotors.com" target="_blank">https://toolbox.teslamotors.com</a>.</div></div></div>
+        </div>
+      </li>
+      <li class="li step" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-EB66EE0C-64A1-4066-BA2B-F8AB9C022AA1">
+        <span class="ph cmd" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-22BC4D2F-D741-4237-8D01-4D16F451B37E">In Toolbox, select the connection status
+          icon at the top right corner, and then select "Connect Locally".</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>The icon will turn green when the
+            vehicle is connected.</div></div></div>
+        </div>
+      </li>
+      <li class="li step" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-00749174-B91A-4954-B5C3-BCE3078C66B5">
+        <span class="ph cmd" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-E28D8E80-701F-4406-AAB1-9224991ED736">Select the "Dashboards" tab, and then
+          select "Infotainment Dashboard" from the left.</span>
+      </li>
+      <li class="li step" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-8C9253AC-3A15-4108-B879-420FB44CC3A3">
+        <span class="ph cmd" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-D8086E8E-2DBF-4BD7-95FD-C67B77CF0FB3">Select "Vehicle Configuration".</span>
+        <div class="itemgroup info">
+          <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Click <span class="ph uicontrol" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-EC1F560F-4CEE-44C4-9442-A1D5A3C5A802">Read Config</span>, and then click
+              <span class="ph uicontrol" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-AC702E62-6077-4249-AFC8-23EE883252DC">Run</span> to load the
+            configuration values if they are not shown automatically.</div></div></div>
+        </div>
+      </li>
+      <li class="li step" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-7CB5C3D4-F992-4970-8FC8-EFA04CA4304C">
+        <span class="ph cmd" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-F90F637A-A6F7-4BC7-A78D-97B346B28498">Scroll down to "tpmsType", and then
+          select "Tesla Ble" from the drop down menu.</span>
+      </li>
+      <li class="li step" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-5FB92959-FEE6-4A16-8A94-EB95C050179B">
+        <span class="ph cmd" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-AD218FB0-BE1D-467B-AFDF-D50BCC2DA278">Click <span class="ph uicontrol" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-9A81CCC1-E0F4-42D5-84DA-B2284E6D6C98">Apply Changes</span>, and then click
+            <span class="ph uicontrol" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-7F334428-4C1D-4B85-AF97-BB00348D8F6C">Run</span> to save the
+          updated configuration.</span>
+      </li>
+      <li class="li step" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-DBC0705F-F241-4ABB-B2E0-474C2EA371C5">
+        <span class="ph cmd" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-92EA716B-642A-47BC-96CE-5BCEB5A3F079">After the center display of the vehicle
+          has rebooted, verify that the configuration changes are complete.</span>
+      </li>
+      <li class="li step" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-8A7B8B93-9F1B-4134-90CD-6404C1A2BE1A">
+        <span class="ph cmd" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-C8C82224-3BEC-485C-9AD5-0FDEB0805385">Select "Actions/Autodiag" and search for
+          "LEARN-TP-TYPE".</span>
+      </li>
+      <li class="li step" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-ADE3B644-0AFC-43B1-A8DD-1353ED25D96F">
+        <span class="ph cmd" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-EEB8DE3E-498C-484A-B7B4-F5EDFE6E647A">Select the  action, and then click
+            <span class="ph uicontrol" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-315DE929-D963-4F54-9DBA-5B19F65EAA2C">Run</span> to make sure the gateway uses the BLE TPMS.</span>
+      </li>
+      <li class="li step" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-8A7F03CC-D06D-43CF-88D2-555679CD7B31">
+        <span class="ph cmd" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-CE4E4707-1DFB-4560-86B9-BCDC1DB99037">Search for "CLEAR-LEARNT-TIRE-OFFSET".</span>
+      </li>
+      <li class="li step" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-CF57AB44-9970-47F2-8461-29CCB5D949CE">
+        <span class="ph cmd" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-71B2F612-17FB-4E69-9449-D2A166E533AD">Select the <span class="ph odinroutine" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-68DE35AF-8E3F-4839-9072-D5DD566179B6"><span class="routine-name">PROC_DIR_CLEAR-LEARNT-TIRE-OFFSET</span><span><span><span class="p"><span>via Toolbox:</span>(<a class="tds-link" target="_blank" href="https://toolbox.teslamotors.com?query=PROC_DIR_CLEAR-LEARNT-TIRE-OFFSET&amp;searchType=actions">link</a>)</span></span></span></span> action, and then click
+            <span class="ph uicontrol" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-0D5A4AD9-062D-43B2-AA6C-AFAD259EC375">Run</span> to clear the stored tire sizes.</span>
+      </li>
+      <li class="li step" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-498CA160-95C4-4E0B-AE7E-DC2A4C299047">
+        <span class="ph cmd" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-C52C237B-DEBC-402D-873F-9C38C28E19DA">Click <span class="ph uicontrol" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-56A48044-1588-48E2-B50A-A94B6DA6E886">Read Config</span>, and then click
+            <span class="ph uicontrol" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-ADC803E2-76BC-4C78-B2D1-A12B1265CD4A">Run</span> to verify that
+          the vehicle configuration change was performed.</span>
+      </li>
+      <li class="li step" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-07D15705-6AC0-4633-9F4C-A76CF1ADC7F8">
+        <span class="ph cmd" id="GUID-18A149B1-7FF9-49A3-92FE-8790EA8F7318__GUID-18BB2272-3400-412C-9D57-122A097DDD9C">Disconnect the laptop from the
+          vehicle.</span>
+      </li>
+    </ol>
+  </div>
+<nav role="complementary" class="related-links"><div class="familylinks"><div class="parentlink p"><strong>Parent topic:</strong> <a class="tds-link xref" href="GUID-6E0061EA-4DEF-492B-9312-4B84CBBB1592.html">3404 - Tire Pressure Monitoring System (TPMS)</a></div></div></nav></article></main></div><aside class="tds-layout-item tds-layout-aside"><div class="mobile-capable-toggle"><label class="tds-switch_toggle tds-switch_toggle--label_inside tds-switch_toggle--large" for="mobile-capable-switch-toggle"><span class="label-text" style="                                             white-space: nowrap;                                             ">Only Show Mobile Capable Procedures</span><span class="toggle-wrapper"><input class="tds-switch_toggle-checkbox" type="checkbox" id="mobile-capable-switch-toggle"><span class="tds-switch_toggle-track" aria-hidden="true"></span><span class="tds-switch_toggle-btn" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16"><path d="M4 12 l6 6 l10 -10" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path></svg></span><span class="tds-switch_toggle-btn" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16"><path d="M18 6 L6 18 M6 6 l12 12" fill="none" stroke="#374151" stroke-width="3" stroke-linecap="round"></path></svg></span></span></label></div>

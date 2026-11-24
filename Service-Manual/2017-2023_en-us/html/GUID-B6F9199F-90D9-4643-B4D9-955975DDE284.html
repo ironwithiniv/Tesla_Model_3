@@ -1,0 +1,480 @@
+<!doctype html><meta charset="utf-8"><title>Charge Port Voltage Check</title><p><small>Source: <a href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/GUID-B6F9199F-90D9-4643-B4D9-955975DDE284.html">https://service.tesla.com/docs/Model3/ServiceManual/en-us/GUID-B6F9199F-90D9-4643-B4D9-955975DDE284.html</a> (downloaded 2026-11-24)</small></p>
+<main role="main" class="tds-shell-content" id="main-content"><article role="article" aria-labelledby="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-80B62503-FD51-46F8-A16F-C362603ABDC2"><div class="date-modified">2026-09-10</div>
+  <h1 class="title topictitle1" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-80B62503-FD51-46F8-A16F-C362603ABDC2">
+    <span class="ph" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-487F5529-EF52-4F41-9623-54EC79B87B57">Charge Port Voltage
+                           Check</span>
+  </h1>
+  
+  
+  <div class="body taskbody"><p class="shortdesc">
+    <span class="ph" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-68535C6C-56DF-4967-AFC5-8DC5873596C4">
+        <span class="ph note" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__d543e960">
+          <strong class="ph b" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__d543e962">NOTE: </strong>Unless otherwise explicitly
+          stated in the procedure, the correction code and its associated FRT reflect all of the
+          work required to perform this procedure, including the linked procedures. <strong class="ph b" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__d543e965">Do not stack correction codes unless
+            explicitly told to do so.</strong></span>
+        <span class="ph note" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__d543e968">
+          <strong class="ph b" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__d543e970">NOTE: </strong>See <a class="tds-link xref" href="GUID-1985E7C9-F23B-4F7E-BCFB-04586601E909.html">Flat Rate
+            Times</a> to learn more about FRTs and how they are created.</span>
+        <span class="ph note" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__d543e977">
+          <strong class="ph b" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__d543e979">NOTE: </strong>See <a class="tds-link xref" href="GUID-09B3A9A0-CAB6-493D-AC2B-B805BE3BAE95.html">Personal Protection</a> to make sure wearing proper PPE when
+          performing the below procedure. <span class="ph" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__d543e984"><strong class="ph b" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__d543e985">NOTE: </strong>See <a class="tds-link xref" href="GUID-5D2F94A7-A5CB-45A6-9CC1-2C14B3CF7ECB.html">Ergonomic Precautions</a> for safe and healthy working
+            practices.</span></span>
+      </span>
+  </p>
+    <div class="section prereq prelreqs p" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-02DE166A-A8F9-45B0-B21E-341D8D42DBBE">
+      <div class="p supequip"><div class="tasklabel"><h5 class="sectiontitle tasklabel">Equipment:</h5></div>
+        <ul class="ul supeqli tds-list tds-list--unordered" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-35CD79A9-EC87-4F12-AADE-2838440DB1F0">
+          <li class="li supequi" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-00BBFEBB-7B18-4239-94B1-906BBC31FFD7">
+            <span class="ph" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-BAB01CD4-A21E-4B30-9A7C-AA116960441B">1083188-00-A</span>
+            <span class="ph" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-C6CF274E-482C-4F05-8200-0CA27A43737B">FLUKE DIGITAL MULTIMETER
+                            179</span>
+          </li>
+          <li class="li supequi" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-89D8F8F1-C8DE-48B4-A4BB-6750BB2A04F5">
+            <span class="ph" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-6560747C-5045-4A9D-BC95-C355D26EF437">1130480-00-A</span>
+            <span class="ph" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-6DAB4465-4CEC-498A-8380-047E6F715B57">Test Probes, Slim, Fluke TP38</span>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <section class="section context" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-81C5589D-6351-4BF8-ABF4-3DD046316129">
+      <ul class="ul tds-list tds-list--unordered changes" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-3754BDE0-7814-49BC-9966-6A512F8F3BE5">
+        <li class="li change-item" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-1BD86110-62B0-4186-BF08-B48DE87CEC12">
+          <span class="change-date">2026-09-10: </span>
+          <span class="ph change-desc" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-5CFA85DC-EB09-4F72-BC69-A7C64073BA9A">Remove the code as the FRT is already included in
+                        top level procedures.</span>
+        </li>
+        <li class="li" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-5516AFBE-8CE9-4905-8360-606E2B5F0002">2023-08-24: <span class="ph" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-838CB320-788B-4ACD-9381-4C02C0327F27">Made procedures consistent across vehicle lines.</span></li>
+        <li class="li" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-2BF7C9F2-1BA6-4B8F-9EB4-5364555ECBD4">2023-05-25: <span class="ph" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-F22D7FD4-8EFA-416B-BF2A-E6ABF3ED5909">Updated procedures with
+                        comments from Service Engineering review.</span></li>
+      </ul>
+      <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>This procedure verifies that high voltage power is no longer available to the charge port. Perform this procedure before servicing any part of the charge port assembly.</div></div></div>
+      <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>
+        <span class="ph" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-E24318B9-0301-47A8-9EC4-BB27912267D0">Remove
+            all jewelry (watches, bracelets, rings, necklaces, earrings, ID tags, piercings, etc.)
+            from your person, and all objects (keys, coins, pens, pencils, tools, fasteners, etc.)
+            from your pockets before performing any procedure that exposes you to high
+          voltage.</span>
+      </div></div></div>
+      <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>
+        <span class="ph" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-985FF845-E516-46B1-95F8-7E510E3B0D40">If
+            corrective eyewear is necessary to safely perform any procedure, make sure that the
+            eyewear is securely restrained to the head and cannot fall
+          off.</span>
+      </div></div></div>
+      <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>
+        <p class="p">
+          <span class="ph" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__GUID-2F1B332A-166A-4A81-9776-1B4DE8C44602">Only
+            technicians who have completed all required certification courses are permitted to
+            perform this procedure. Tesla recommends third party service provider technicians
+            undergo equivalent training before performing this procedure. For more information on
+            Tesla Technician requirements, or descriptions of the subject matter for third parties,
+            see <a class="tds-link xref" href="https://service.tesla.com/docs/Public/training/hv_certification_na.html" target="_blank">HV Certification Requirements</a>. Proper <dfn class="term">personal protective equipment (PPE)</dfn> and <dfn class="term">insulating HV
+              gloves</dfn> with a minimum rating of <dfn class="term">class 0</dfn> (1000V) must
+            be worn at all times a high voltage cable, busbar, or fitting is handled. Refer to <a class="tds-link xref" href="https://service.tesla.com/user/documents?searchText=TN-15-92-003" target="_blank">Tech Note TN-15-92-003</a>, <q class="q">High Voltage Awareness
+              Care Points</q> for additional safety
+          information.</span>
+        </p>
+      </div></div></div>
+      <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>Make sure that the insulation meter and leads are capable of handling at least 500V DC.</div></div></div>
+      <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>
+        <div class="p">Make sure that the HV gloves are not expired.<ul class="ul tds-list tds-list--unordered" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__d543e196"><li class="li" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__d543e197"><strong class="ph b" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__d543e198">North America</strong>: HV gloves can be
+              used up to 12 months after the testing date printed on the glove, but only 6 months
+              after first use even if the gloves are still within the 12 month period. If the gloves
+              were not put into service during the 12-month period following the testing date, they
+              must be retested before being put into service.</li><li class="li" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__d543e201"><strong class="ph b" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__d543e202">Europe</strong>: Class 0 (1000V) HV gloves
+              have no expiration date and may be used if they pass the pre-use assessment and the
+              periodic inspection.</li><li class="li" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__d543e205"><strong class="ph b" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__d543e206">Asia Pacific</strong>: Follow the
+              expiration date stated by the HV glove manufacturer, and:<ul class="ul tds-list tds-list--unordered" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__d543e209"><li class="li" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__d543e210">o <strong class="ph b" id="GUID-B6F9199F-90D9-4643-B4D9-955975DDE284__d543e212">China only</strong>: Test the gloves
+                  every 6 months according to GB/T 17622.</li></ul></li></ul></div>
+      </div></div></div>
+      <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Time of charge port voltage check is already included in the
+                top-level procedure's correction code FRT.</div></div></div>
+    </section>
+  </div>
+  <nav role="complementary" class="related-links"><div class="familylinks"><div class="parentlink p"><strong>Parent topic:</strong> <a class="tds-link xref" href="GUID-3A167D1A-DF90-40AB-B090-135214F65FC0.html">4401 - Charge System Inlet</a></div></div></nav><article class="topic task nested1" aria-labelledby="TASK-REMOVE__GUID-FF201A79-4E76-41FD-A0E4-B4949A5CCE2C" lang="en-US" id="TASK-REMOVE">
+    <h2 class="title topictitle2" id="TASK-REMOVE__GUID-FF201A79-4E76-41FD-A0E4-B4949A5CCE2C">Procedure (Single-Phase)</h2>
+    <div class="body taskbody">
+      <ol class="ol steps tds-list tds-list--ordered" id="TASK-REMOVE__STEPS_Y5W_LFC_2Z">
+        <li class="li step" id="TASK-REMOVE__GUID-D8331352-A018-4E3C-BC86-53A03452DEB4">
+          <span class="ph cmd" id="TASK-REMOVE__GUID-5CB29E7F-9919-4E6D-977D-A951B74AF236">Open the charge port door.</span>
+        </li>
+        <li class="li step" id="TASK-REMOVE__GUID-4E8BEFED-4E63-46FD-B17C-2795D2ECC62C">
+          <span class="ph cmd" id="TASK-REMOVE__GUID-822927E9-DF03-4669-8879-3B20E57838EE">Open the LH rear door or
+                        liftgate.</span>
+        </li>
+        <li class="li step" id="TASK-REMOVE__GUID-643A7302-0FA9-4177-B6B6-12A5A8416773">
+          <span class="ph cmd" id="TASK-REMOVE__GUID-0521E71E-1367-48E2-B4E4-7713E518E35F">Disconnect 12V/LV power. See
+                            <a class="tds-link xref" href="GUID-E11A35CC-1803-41C5-87F0-D7868FA3E51F.html#GUID-E11A35CC-1803-41C5-87F0-D7868FA3E51F">12V/LV Power (Disconnect and Connect)</a>.</span>
+        </li>
+        <li class="li step" id="TASK-REMOVE__GUID-34708FC4-C7FD-422B-A934-987B920910CF">
+          <span class="ph cmd" id="TASK-REMOVE__GUID-79E9E8BB-8091-4730-832C-79ACCF3914D4">Set the multimeter to
+                        measure DC voltage, gently touch the probes to the 12V/LV auxiliary battery
+                        terminals, and verify the multimeter displays the appropriate voltage.</span>
+          <ul class="ul choices tds-list tds-list--unordered" id="TASK-REMOVE__GUID-72A994E2-4CBC-4E7F-8868-4C1670F299DF">
+            <li class="li choice" id="TASK-REMOVE__GUID-3D1C4A4E-B349-4C5A-A190-2A65F8D757D4">
+              <strong class="ph b" id="TASK-REMOVE__GUID-B96100F8-E6C3-4528-B053-FD0D507D139A">12V Auxiliary Battery</strong> - 12 to 14 volts</li>
+            <li class="li choice" id="TASK-REMOVE__GUID-E60146B5-CD84-4D81-A5D7-693EE40BD4BE">
+              <strong class="ph b" id="TASK-REMOVE__GUID-D16BB0A6-81F4-4CAC-9545-D3253B4E7FF4">LV Auxiliary Battery</strong> - 14 to 16 volts</li>
+          </ul>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">CAUTION</div><div>If the
+                            voltage across the 12V auxiliary battery terminals is less than 10 volts
+                            or greater than 14 volts, the multimeter is not measuring reliably and
+                            must not be used. Use only a fully functional multimeter.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">CAUTION</div><div>If the
+                            voltage across the LV auxiliary battery terminals is less than 14 volts
+                            or greater than 18 volts, the multimeter is not measuring reliably and
+                            must not be used. Use only a fully functional multimeter.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="TASK-REMOVE__IMAGE_XN5_J2C_FTB" src="GUID-2C748F24-FE2C-40CE-A3BF-DDABA1ED03A3-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="TASK-REMOVE__IMAGE_ZN5_J2C_FTB" src="GUID-6A52956B-5250-4875-A324-A378AB05C640-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="TASK-REMOVE__GUID-B2D3D68E-82BB-446C-A980-A87146934DF9">
+          <span class="ph cmd" id="TASK-REMOVE__GUID-54794961-64BA-4C39-8D5C-B213700C7491">Remove all loose articles
+                        and jewelry from your person.</span>
+        </li>
+        <li class="li step" id="TASK-REMOVE__GUID-AF063C7B-2207-4C20-A862-11FB3CF7B385">
+          <span class="ph cmd" id="TASK-REMOVE__GUID-689EFC69-FBFE-41C1-AD15-1D7B0A87FF45">Put on safety glasses, High Voltage (HV) insulating gloves, and leather glove protectors.</span>
+        </li>
+        <li class="li step" id="TASK-REMOVE__GUID-11C52CAE-D8FA-4961-85CC-AF3BEA755A96">
+          <span class="ph cmd" id="TASK-REMOVE__GUID-E7F33491-C2BB-4412-96A2-C7DD93AE04C2">Prepare the multimeter with
+                        slim test probes.</span>
+        </li>
+        <li class="li step" id="TASK-REMOVE__GUID-236F9406-EF2C-429C-AC98-9153C2FD4CF4">
+          <span class="ph cmd" id="TASK-REMOVE__GUID-89E6E4C9-B88C-4EBC-A39C-FE9D95795847">Use the multimeter to check
+                        voltages at charge port terminals B+ and B-.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Touch the probes to the
+                            sides of the terminals, not the tips.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-279EBD06-3F04-408F-B2F3-98F181BAD982-online-en-US.png"></button>
+          </div>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>If the
+                            voltage reading is greater than 10V, the HV battery contactors are
+                            closed or welded. Stop this procedure and escalate a Toolbox session, as
+                            appropriate.</div></div></div>
+          </div>
+        </li>
+        <li class="li step" id="TASK-REMOVE__GUID-04EF8CFD-4C89-40FA-9DA8-BE7E40B3803B">
+          <span class="ph cmd" id="TASK-REMOVE__GUID-6D7A75C8-D3D5-4AE9-8421-BDC312E4A4EF">Prepare the multimeter with
+                        the black alligator clip on the negative lead, and then ground the alligator
+                        clip to the LH rear door latch striker or the liftgate striker.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-7A854509-EDA7-4E4E-B51A-4A693BA5525E-online-en-US.png"></button>
+          </div>
+        </li>
+        <li class="li step" id="TASK-REMOVE__GUID-0E799970-EA83-4A1B-90F8-70F3AF0CD759">
+          <span class="ph cmd" id="TASK-REMOVE__GUID-62C46DD9-B513-413B-AE2F-9BE58A893340">Use the multimeter to check
+                        voltages at B+ and ground, and at B- and ground.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Touch the probe to the
+                            sides of the terminals, not the tips.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-CB89CA20-1CF8-47B0-AD53-FF0AE56133F2-online-en-US.png"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-44F2C380-9B39-47D3-A657-68F4EFEA9C88-online-en-US.png"></button>
+          </div>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>If the
+                            voltage reading at either location is greater than 10V, the HV battery
+                            contactors are closed or welded. Stop this procedure and contact Service
+                            Engineering.</div></div></div>
+          </div>
+        </li>
+        <li class="li step" id="TASK-REMOVE__GUID-AA8A14F2-39BC-4083-BDC8-6E911433158D">
+          <span class="ph cmd" id="TASK-REMOVE__GUID-56C972A6-4FF0-4E37-B768-4BA36682BA5F">If all previous charge port
+                        voltage readings were less than 10V, remove the multimeter ground connector
+                        from the LH rear door latch striker or the liftgate striker and return to
+                        the procedure that specified the charge port voltage check.</span>
+        </li>
+      </ol>
+    </div>
+  </article>
+  <article class="topic task nested1" aria-labelledby="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-0FF10B79-B7C5-4937-A786-BB9CECE3F6E8" lang="en-US" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B">
+    <h2 class="title topictitle2" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-0FF10B79-B7C5-4937-A786-BB9CECE3F6E8">Procedure (Three-Phase) (Except
+            China)</h2>
+    <div class="body taskbody">
+      <ol class="ol steps tds-list tds-list--ordered" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-E585AE2E-3A4A-47CF-9225-B57D2361186A">
+        <li class="li step" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-B16FD5C9-2B57-45DA-B5EA-3F0F558D5568">
+          <span class="ph cmd" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-E7D5DB7E-A57D-4C01-8CD6-CEE6180D9757">Open the charge port door.</span>
+        </li>
+        <li class="li step" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-B0900EE6-227B-4806-AD2D-62786F5208A5">
+          <span class="ph cmd" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-FAD966C8-2B76-49F6-82D2-53C2B6E78BB2">Open the LH rear door or liftgate.</span>
+        </li>
+        <li class="li step" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-20920AED-D6F8-4C0E-908B-FE068CF74558">
+          <span class="ph cmd" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-5525EF69-6A2D-4304-AD45-DCBFD4E572E8">Disconnect 12V/LV power. See <a class="tds-link xref" href="GUID-E11A35CC-1803-41C5-87F0-D7868FA3E51F.html#GUID-E11A35CC-1803-41C5-87F0-D7868FA3E51F">12V/LV Power (Disconnect and Connect)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-D6F3CAC1-9A99-4833-ADCC-9CFCDFA00F4B">
+          <span class="ph cmd" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-1E354F2B-7A5E-4E57-A06D-2EA98F9D73F2">Set the multimeter to measure DC voltage, gently touch the probes to the
+                        12V/LV auxiliary battery terminals, and verify the multimeter displays the
+                        appropriate voltage.</span>
+          <ul class="ul choices tds-list tds-list--unordered" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-184BB858-5E03-4C82-B43D-61841A9FF306">
+            <li class="li choice" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-358F0764-CADA-4DE3-9E43-535AC60A0C1B">
+              <strong class="ph b" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-14F95DF1-418D-42EA-BCBB-7B6427F19435">12V Auxiliary Battery</strong> - 12 to 14 volts</li>
+            <li class="li choice" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-C88F94D8-3E4A-4A58-B4B8-3B0A4E565AAF">
+              <strong class="ph b" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-DF48D1B7-515A-4073-90A0-544AF8D507E4">LV Auxiliary Battery</strong> - 14 to 16 volts</li>
+          </ul>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">CAUTION</div><div>If the voltage across the 12V auxiliary battery
+                            terminals is less than 10 volts or greater than 14 volts, the multimeter
+                            is not measuring reliably and must not be used. Use only a fully
+                            functional multimeter.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">CAUTION</div><div>If the voltage across the LV auxiliary battery
+                            terminals is less than 14 volts or greater than 18 volts, the multimeter
+                            is not measuring reliably and must not be used. Use only a fully
+                            functional multimeter.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-2C748F24-FE2C-40CE-A3BF-DDABA1ED03A3-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-6A52956B-5250-4875-A324-A378AB05C640-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-38F518BD-1D55-432B-B2DF-9FE21A1FAFA3">
+          <span class="ph cmd" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-E0F090D5-D832-42CF-A7D1-6290B9E5DBE9">Remove all loose articles and jewelry from your person.</span>
+        </li>
+        <li class="li step" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-FB183EB9-D99C-4CB7-B9B2-6A853B95F831">
+          <span class="ph cmd" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-13AAE8FF-17AF-4538-BA04-7141CCA14571">Put on safety glasses, High Voltage (HV) insulating gloves, and leather
+                        glove protectors.</span>
+        </li>
+        <li class="li step" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-0981C04B-1BE7-47CF-AE38-639CAB1EF313">
+          <span class="ph cmd" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-F78A3E37-37B7-4FD4-8E0A-1ADD5C6F84E6">Prepare the multimeter with slim test probes.</span>
+        </li>
+        <li class="li step" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-4F1A5BEA-5456-440C-AFC7-4F44B9D55EE5">
+          <span class="ph cmd" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-8F01E655-F5F2-4201-AC44-70C4F7511012">Use the multimeter to check
+                        voltages at the charge port DC terminals B+ and B-.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Touch the probe to the
+                            sides of the terminals, not the tips.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-07AFBD2A-E764-4C53-88BC-E7C682D7D101-online-en-US.jpg"></button>
+          </div>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>If the
+                            voltage reading is greater than 10V, the HV battery contactors are
+                            closed or welded. Stop this procedure and contact Service
+                            Engineering.</div></div></div>
+          </div>
+        </li>
+        <li class="li step" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-BFB0BECA-8804-4F12-B57B-FB2AAD7688A8">
+          <span class="ph cmd" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-389FEDEA-0BC9-44C1-A3F5-F6F529CB7A4F">Use the multimeter to check
+                        voltages at the lower 4 terminals of the charge port AC connector.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>If the terminals are
+                            from left to right, a, b, c, and d, then measure ab, ac, ad, bc, bd, and
+                            cd.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Touch the probes to the
+                            sides of the terminals, not the tips.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-6E3414D0-97FF-4035-847F-BB024F5D3A84-online-en-US.jpg"></button>
+          </div>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>If any
+                            voltage reading is greater than 10V, the HV battery contactors are
+                            closed or welded. Stop this procedure and contact Service
+                            Engineering.</div></div></div>
+          </div>
+        </li>
+        <li class="li step" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-8AD0DB55-770B-4D20-A8A1-3913A771AFC0">
+          <span class="ph cmd" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-C2D998B2-2172-40B9-B8D4-1BB01BD3811B">Prepare the multimeter with
+                        the black alligator clip on the negative lead, and then ground the alligator
+                        clip to the LH rear door latch striker or the liftgate striker.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-7A854509-EDA7-4E4E-B51A-4A693BA5525E-online-en-US.png"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-A51FD514-0242-41E0-9FBA-6B72BAED42F2">
+          <span class="ph cmd" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-6D8B7EE9-F4FE-4F24-A2EB-DB018E0271D3">Use the multimeter to check
+                        voltages at the lower 4 terminals of the charge port AC connector and
+                        ground.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>If the terminals are
+                            from left to right, a, b, c, and d, then measure a and ground, b and
+                            ground, c and ground, and d and ground.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Touch the probe to the
+                            sides of the terminals, not the tips.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-B7620B6A-B403-4A75-B911-5969E418684F-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-6E3414D0-97FF-4035-847F-BB024F5D3A84-online-en-US.jpg"></button>
+          </div>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>If the
+                            voltage reading at any location is greater than 10V, the HV battery
+                            contactors are closed or welded. Stop this procedure and contact Service
+                            Engineering.</div></div></div>
+          </div>
+        </li>
+        <li class="li step" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-E971B7F0-7CE0-4197-85E0-7B8F326CA687">
+          <span class="ph cmd" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-B9809FAD-85B8-4D1C-A023-FFC7B344ADC8">Use the multimeter to check
+                        voltages at charge port DC terminals B+ and ground, and at B- and
+                        ground.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Touch the probes to the
+                            sides of the terminals, not the tips.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-07AFBD2A-E764-4C53-88BC-E7C682D7D101-online-en-US.jpg"></button>
+          </div>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>If the
+                            voltage reading at either location is greater than 10V, the HV battery
+                            contactors are closed or welded. Stop this procedure and contact Service
+                            Engineering.</div></div></div>
+          </div>
+        </li>
+        <li class="li step" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-5B165DBA-35A3-48D5-9FCC-519D9DB76D30">
+          <span class="ph cmd" id="GUID-BDAECD02-82E4-4D16-9BF5-E40320B33D8B__GUID-56C972A6-4FF0-4E37-B768-4BA36682BA5F">If all previous charge port
+                        voltage readings were less than 10V, remove the multimeter ground connector
+                        from the LH rear door latch striker or the liftgate striker and return to
+                        the procedure that specified the charge port voltage check.</span>
+        </li>
+      </ol>
+    </div>
+  </article>
+  <article class="topic task nested1" aria-labelledby="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-FF201A79-4E76-41FD-A0E4-B4949A5CCE2C" lang="en-US" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1">
+    <h2 class="title topictitle2" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-FF201A79-4E76-41FD-A0E4-B4949A5CCE2C">Procedure (Three-Phase)
+            (China)</h2>
+    <div class="body taskbody">
+      <ol class="ol steps tds-list tds-list--ordered" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__STEPS_Y5W_LFC_2Z">
+        <li class="li step" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-05270A0F-33E5-413E-A494-73DC77B509D9">
+          <span class="ph cmd" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-6469E24A-25C5-4E77-B69C-D8D76FE691AA">Open the charge port door.</span>
+        </li>
+        <li class="li step" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-8E8AAB3F-BCD0-4E16-8EA2-2ADD12D5F580">
+          <span class="ph cmd" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-B0B73195-ECFB-4655-BFC7-FB52A1563908">Open the LH rear door or liftgate.</span>
+        </li>
+        <li class="li step" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-1617A0A8-27DE-482E-B1C5-22A1FEDB5B32">
+          <span class="ph cmd" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-99A1AE90-B914-45AE-A409-AC4CF1986165">Disconnect 12V/LV power. See <a class="tds-link xref" href="GUID-E11A35CC-1803-41C5-87F0-D7868FA3E51F.html#GUID-E11A35CC-1803-41C5-87F0-D7868FA3E51F">12V/LV Power (Disconnect and Connect)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-28C720E4-00A0-449E-AEE7-EA7BFE822A22">
+          <span class="ph cmd" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-0C1B862B-4D58-468F-B812-F747FF21C49B">Set the multimeter to measure DC voltage, gently touch the probes to the
+                        12V/LV auxiliary battery terminals, and verify the multimeter displays the
+                        appropriate voltage.</span>
+          <ul class="ul choices tds-list tds-list--unordered" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-65A3A277-9982-4C27-9B01-5E7B204E9312">
+            <li class="li choice" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-43FD1A40-43F2-41B8-A4C5-96F363958FF9">
+              <strong class="ph b" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-05D89719-A812-4229-88B9-931EF5B61863">12V Auxiliary Battery</strong> - 12 to 14 volts</li>
+            <li class="li choice" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-8C7A18D9-AB74-4F8D-BA4B-966997BA47DF">
+              <strong class="ph b" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-446EE158-18F4-4FC2-9275-51D2AA6D5BBA">LV Auxiliary Battery</strong> - 14 to 16 volts</li>
+          </ul>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">CAUTION</div><div>If the voltage across the 12V auxiliary battery
+                            terminals is less than 10 volts or greater than 14 volts, the multimeter
+                            is not measuring reliably and must not be used. Use only a fully
+                            functional multimeter.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">CAUTION</div><div>If the voltage across the LV auxiliary battery
+                            terminals is less than 14 volts or greater than 18 volts, the multimeter
+                            is not measuring reliably and must not be used. Use only a fully
+                            functional multimeter.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-2C748F24-FE2C-40CE-A3BF-DDABA1ED03A3-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-6A52956B-5250-4875-A324-A378AB05C640-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-AA91AB3A-9425-49F8-AB4E-96E2D6FFD089">
+          <span class="ph cmd" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-B6209F18-E24F-43CC-82F2-40A9AD10F13C">Remove all loose articles and jewelry from your person.</span>
+        </li>
+        <li class="li step" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-C009E9E7-52A8-4772-AC91-2D651B3CE7EC">
+          <span class="ph cmd" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-7625444F-0273-4A6F-8B7D-9A9F6968028A">Put on safety glasses, High Voltage (HV) insulating gloves, and leather
+                        glove protectors.</span>
+        </li>
+        <li class="li step" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-B05A4AF1-49C8-4247-91D5-AD5D4823DFC4">
+          <span class="ph cmd" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-56BEC968-2274-422E-85E7-8EF8F2A2C0CD">Prepare the multimeter with slim test probes.</span>
+        </li>
+        <li class="li step" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-4F1A5BEA-5456-440C-AFC7-4F44B9D55EE5">
+          <span class="ph cmd" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-2688C495-789C-45C2-ABF7-A460BC918F20">Use the multimeter to check
+                        voltages at the charge port DC terminals B- and B+.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Touch the probes to the
+                            insides of the terminals, not the centers.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>If the
+                            voltage reading is greater than 10V, the HV battery contactors are
+                            closed or welded. Stop this procedure and contact Service
+                            Engineering.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__IMAGE_ZV4_RZV_RFC" src="GUID-5A8D870A-30CF-458A-A41B-4F0E95C9E024-online-en-US.png"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-BFB0BECA-8804-4F12-B57B-FB2AAD7688A8">
+          <span class="ph cmd" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-389FEDEA-0BC9-44C1-A3F5-F6F529CB7A4F">Use the multimeter to check
+                        voltages at the lower 4 terminals of the charge port AC connector.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>If the terminals are
+                            from left to right, a, b, c, and d, then measure ab, ac, ad, bc, bd, and
+                            cd.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Touch the probes to the
+                            insides of the terminals, not the centers.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-A8778ACE-22FA-40CB-90E4-AA4156FE6AA9-online-en-US.jpg"></button>
+          </div>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>If any
+                            voltage reading is greater than 10V, the HV battery contactors are
+                            closed or welded. Stop this procedure and contact Service
+                            Engineering.</div></div></div>
+          </div>
+        </li>
+        <li class="li step" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-37A77264-21A3-4096-A69E-7A771A0BAC68">
+          <span class="ph cmd" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-EDF0D087-502D-4DF0-80B7-CBFA7C02F099">Prepare the multimeter with the black alligator clip on the negative lead,
+                        and then ground the alligator clip to the LH rear door latch striker or the
+                        liftgate striker.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-7A854509-EDA7-4E4E-B51A-4A693BA5525E-online-en-US.png"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-ABBA3BD6-C979-418B-AC64-62573277916E">
+          <span class="ph cmd" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-6D8B7EE9-F4FE-4F24-A2EB-DB018E0271D3">Use the multimeter to check
+                        voltages at the lower 4 terminals of the charge port AC connector and
+                        ground.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>If the terminals are
+                            from left to right, a, b, c, and d, then measure a and ground, b and
+                            ground, c and ground, and d and ground.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Touch the probe to the
+                            insides of the terminals, not the centers.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-FB277A2B-C586-43F2-BE97-ADE412A2AE40-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-A8778ACE-22FA-40CB-90E4-AA4156FE6AA9-online-en-US.jpg"></button>
+          </div>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>If the
+                            voltage reading at any location is greater than 10V, the HV battery
+                            contactors are closed or welded. Stop this procedure and contact Service
+                            Engineering.</div></div></div>
+          </div>
+        </li>
+        <li class="li step" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-6BFC79B8-517C-408C-ABA6-6ACCCCE98BFB">
+          <span class="ph cmd" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-B9809FAD-85B8-4D1C-A023-FFC7B344ADC8">Use the multimeter to check
+                        voltages at charge port DC terminals B- and ground, and at B+ and
+                        ground.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Touch the probes to the
+                            insides of the terminals, not the centers.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>If the
+                            voltage reading at either location is greater than 10V, the HV battery
+                            contactors are closed or welded. Stop this procedure and contact Service
+                            Engineering.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__IMAGE_KL5_WZV_RFC" src="GUID-5A8D870A-30CF-458A-A41B-4F0E95C9E024-online-en-US.png"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-5B165DBA-35A3-48D5-9FCC-519D9DB76D30">
+          <span class="ph cmd" id="GUID-2F8CE5E2-D604-497D-BF35-CED7732412A1__GUID-56C972A6-4FF0-4E37-B768-4BA36682BA5F">If all previous charge port
+                        voltage readings were less than 10V, remove the multimeter ground connector
+                        from the LH rear door latch striker or the liftgate striker, and return to
+                        the procedure that specified the charge port voltage check.</span>
+        </li>
+      </ol>
+    </div>
+  </article>
+</article></main></div><aside class="tds-layout-item tds-layout-aside"><div class="mobile-capable-toggle"><label class="tds-switch_toggle tds-switch_toggle--label_inside tds-switch_toggle--large" for="mobile-capable-switch-toggle"><span class="label-text" style="                                             white-space: nowrap;                                             ">Only Show Mobile Capable Procedures</span><span class="toggle-wrapper"><input class="tds-switch_toggle-checkbox" type="checkbox" id="mobile-capable-switch-toggle"><span class="tds-switch_toggle-track" aria-hidden="true"></span><span class="tds-switch_toggle-btn" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16"><path d="M4 12 l6 6 l10 -10" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path></svg></span><span class="tds-switch_toggle-btn" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16"><path d="M18 6 L6 18 M6 6 l12 12" fill="none" stroke="#374151" stroke-width="3" stroke-linecap="round"></path></svg></span></span></label></div>

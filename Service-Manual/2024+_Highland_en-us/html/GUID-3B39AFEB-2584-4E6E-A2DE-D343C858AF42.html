@@ -1,0 +1,721 @@
+<!doctype html><meta charset="utf-8"><title>Busbar - Charge Port to HV Battery (GB) (Remove and Replace)</title><p><small>Source: <a href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42.html">https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42.html</a> (downloaded 2026-11-24)</small></p>
+<main role="main" class="tds-shell-content" id="main-content"><article role="article" aria-labelledby="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-8907E4C7-6EA5-48D7-9099-79FEB5CFAB49"><div class="date-modified">2026-10-28</div>
+  <h1 class="title topictitle1" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-8907E4C7-6EA5-48D7-9099-79FEB5CFAB49">
+    <span class="ph procedure-title" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-93FC0A99-70D5-482C-B757-B87B4BBAAFC8">Busbar - Charge Port to HV Battery (GB) (Remove and Replace)</span>
+  </h1>
+  
+  
+  <div class="body taskbody"><p class="shortdesc">
+    <img class="image" src="GUID-7C4DA856-D9F4-4F13-9F9E-3DC22172F990-online-en-US.jpg">
+    <span class="ph correction-code-title" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-D8BE4D6C-10E5-4CD7-BA99-E1140BD01DA6">Correction code</span>
+    <span class="ph correction-code" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-6BCBF722-F5C3-431D-9E2B-D9910F1D49F9">4450010052</span>
+    <span class="ph frt-title" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-2C0447E3-8F9C-44F9-8749-BE87F11604F7">FRT</span>
+    <span class="ph frt" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-2EC70AB1-2B55-4A55-818B-D82F71F84FDB">0.96</span>
+    <span class="ph" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-FA660CDE-8ABE-40FC-A31B-2636A68525CD">
+          <span class="ph note" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__d12e134">
+            <strong class="ph b" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__d12e136">NOTE: </strong>Unless
+                        otherwise explicitly stated in the procedure, the correction code and its
+                        associated FRT reflect all of the work required to perform this procedure,
+                        including the linked procedures. <strong class="ph b" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__d12e139">Do not stack correction
+                            codes unless explicitly told to do so.</strong></span>
+          <span class="ph note" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__d12e142">
+            <strong class="ph b" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__d12e144">NOTE: </strong>See <a class="tds-link xref" href="GUID-1985E7C9-F23B-4F7E-BCFB-04586601E909.html">Flat Rate Times</a> to
+                        learn more about FRTs and how they are created.</span>
+          <span class="ph note" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__d12e150">
+            <strong class="ph b" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__d12e152">NOTE: </strong>See <a class="tds-link xref" href="GUID-09B3A9A0-CAB6-493D-AC2B-B805BE3BAE95.html">Personal Protection</a> to make
+                        sure you are wearing proper PPE when performing the procedure below.</span>
+          <span class="ph note" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__d12e158">
+            <strong class="ph b" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__d12e160">NOTE: </strong>See <a class="tds-link xref" href="GUID-5D2F94A7-A5CB-45A6-9CC1-2C14B3CF7ECB.html">Ergonomic Precautions</a> for safe and healthy
+                        working practices.</span>
+        </span>
+  </p>
+    <section class="section context" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-DF0AFF2E-25B1-4590-92F7-2922588120EB">
+      <ul class="ul tds-list tds-list--unordered changes" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-2E16ACC9-ACCA-4F65-A968-03DA4656657F">
+        <li class="li change-item" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-BECDC01E-67C2-4735-9A59-C15A6EC47462">
+          <span class="change-date">2025-06-04: </span>
+          <span class="ph change-desc" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-5B27FDCC-0E9D-410D-A271-60C43BC18BF4">Added instruction to zero adjust the Hioki resistance meter
+            prior to measurement.</span>
+        </li>
+      </ul>
+    </section>
+    <div class="section prereq prelreqs p" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-259FCAF3-6958-483D-8E7D-4E45CC4D7720">
+      <div class="p supequip"><div class="tasklabel"><h5 class="sectiontitle tasklabel">Equipment:</h5></div>
+        <ul class="ul supeqli tds-list tds-list--unordered" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-9968CEF8-C0BF-4185-B57D-389C467761F3">
+          <li class="li supequi" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-00BBFEBB-7B18-4239-94B1-906BBC31FFD7">
+            <span class="ph" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-BAB01CD4-A21E-4B30-9A7C-AA116960441B">1076921-00-A</span>
+            <span class="ph" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-C6CF274E-482C-4F05-8200-0CA27A43737B">FLUKE DIGITAL MULTIMETER
+                            1587</span>
+          </li>
+          <li class="li supequi" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-BE2A16FD-5A7A-4A23-8771-441ED99A8C8B">
+            <span class="ph" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-C3EBD089-63B2-463A-B929-A870F30668AC">1130480-02-A</span>
+            <span class="ph" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-2D82E27C-8DB3-42AE-AFAD-E12C710BC6D6">Slim Test
+                        Probes</span>
+          </li>
+          <li class="li supequi" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-B8CAAFD6-499A-4E77-A90D-487EF84E9C6A">
+            <span class="ph" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-821F23EF-8F45-4BAF-8A2F-EC9A60051D1D"> 1076927-00-A</span>
+            <span class="ph" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-D4FE2D1F-D546-4280-A51E-0EFE6D4F03B5">Hioki RM
+                        3548</span>
+          </li>
+          <li class="li supequi" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-FD617C34-5F1A-4AF0-AF4C-E6C08E17E8CD">
+            <span class="ph" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-EE2BC8C1-CD8D-4868-9E0D-FCA13307B3D5">1076928-00-A</span>
+            <span class="ph" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-D21A5D54-5794-455A-92D1-82AB6371EADA">Test Probes - Hioki
+                            9461</span>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <section class="section context" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__CONTEXT_AWV_Q1L_Q3B">
+      <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>
+        <p class="p">
+          <span class="ph" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-2F1B332A-166A-4A81-9776-1B4DE8C44602">Only
+            technicians who have completed all required certification courses are permitted to
+            perform this procedure. Tesla recommends third party service provider technicians
+            undergo equivalent training before performing this procedure. For more information on
+            Tesla Technician requirements, or descriptions of the subject matter for third parties,
+            see <a class="tds-link xref" href="https://service.tesla.com/docs/Public/training/hv_certification_na.html" target="_blank">HV Certification Requirements</a>. Proper <dfn class="term">personal protective equipment (PPE)</dfn> and <dfn class="term">insulating HV
+              gloves</dfn> with a minimum rating of <dfn class="term">class 0</dfn> (1000V) must
+            be worn at all times a high voltage cable, busbar, or fitting is handled. Refer to <a class="tds-link xref" href="https://service.tesla.com/user/documents?searchText=TN-15-92-003" target="_blank">Tech Note TN-15-92-003</a>, <q class="q">High Voltage Awareness
+              Care Points</q> for additional safety
+          information.</span>
+        </p>
+      </div></div></div>
+      <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>
+        <p class="p">
+          <span class="ph" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-E24318B9-0301-47A8-9EC4-BB27912267D0">Remove
+            all jewelry (watches, bracelets, rings, necklaces, earrings, ID tags, piercings, etc.)
+            from your person, and all objects (keys, coins, pens, pencils, tools, fasteners, etc.)
+            from your pockets before performing any procedure that exposes you to high
+          voltage.</span>
+        </p>
+      </div></div></div>
+      <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>
+        <span class="ph" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-985FF845-E516-46B1-95F8-7E510E3B0D40">If
+            corrective eyewear is necessary to safely perform any procedure, make sure that the
+            eyewear is securely restrained to the head and cannot fall
+          off.</span>
+      </div></div></div>
+      <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>
+        <p class="p">Proper Personal Protective Equipment (PPE) is required to perform
+                    this procedure:</p>
+        <ul class="ul tds-list tds-list--unordered" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-2736B25B-87B7-4F2D-9EA2-E2F8F1ADCC9B">
+          <li class="li" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-025F804E-1F74-4318-A98F-8269233382DD">High Voltage (HV) insulating
+                        gloves</li>
+          <li class="li" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-08434E9C-52FA-49BA-BEC7-14CAF8371D89">Leather glove protectors</li>
+          <li class="li" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-737996C9-4376-496D-99B4-A818F622B7B9">High voltage glove
+                        tester</li>
+          <li class="li" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-398A7299-2A0A-40B2-9D04-B8D43DD4F33C">Safety glasses</li>
+          <li class="li" id="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42__GUID-3C18B879-7780-44D4-ACFE-7DBA767070E0">Electrical hazard rated
+                        safety shoes</li>
+        </ul>
+      </div></div></div>
+      <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>
+        <p class="p">A glove inflator is the only recommended way to test HV gloves. Both
+                    HV gloves must pass testing before beginning this procedure. If either glove
+                    does not pass the air check, discard the pair.</p>
+      </div></div></div>
+      <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>
+        <p class="p">Make sure that the HV gloves are not expired. HV gloves can be used
+                    up to 12 months after the testing date printed on the glove, but only 6 months
+                    after first use even if the gloves are still within the 12-month period.</p>
+      </div></div></div>
+    </section>
+  </div>
+  <nav role="complementary" class="related-links"><div class="familylinks"><div class="parentlink p"><strong>Parent topic:</strong> <a class="tds-link xref" href="GUID-4BD8EBC9-EE1A-4611-AB0A-7EABFE7C9519.html">4450 - HV Harnesses</a></div></div></nav><article class="topic task nested1" aria-labelledby="TASK_JWN_3RR_NNB__GUID-BED31F4D-A442-4579-ADAA-58E2482389CB" id="TASK_JWN_3RR_NNB">
+    <h2 class="title topictitle2" id="TASK_JWN_3RR_NNB__GUID-BED31F4D-A442-4579-ADAA-58E2482389CB">
+      <span class="ph" id="TASK_JWN_3RR_NNB__GUID-89D0A042-05B6-4B27-BB5E-2F505E4FCBCF">Torque Specifications</span>
+    </h2>
+    <div class="body taskbody">
+      <section class="section context" id="TASK_JWN_3RR_NNB__GUID-786DE279-A4E6-43A2-85B2-E6301E979B2D">
+        <table class="table frame-all" id="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB"><caption><span class="table--title-label">Table 1. </span><span id="TASK_JWN_3RR_NNB__d147e184" class="title"><span class="ph" id="TASK_JWN_3RR_NNB__GUID-77FF3FBE-0B14-447F-B131-54B46E1D221C">Torque Specifications</span>: <span class="ph" id="TASK_JWN_3RR_NNB__d147e187"><a class="tds-link xref" href="GUID-3B39AFEB-2584-4E6E-A2DE-D343C858AF42.html" title="Correction code 4450010052 FRT 0.96 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">Busbar - Charge Port to HV Battery (GB) (Remove and Replace)</a> / <a class="tds-link xref" href="GUID-BB6C74E1-24AB-4FAF-A1E8-2315A2AB68D4.html" title="Correction code 4450010302 FRT 0.84 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">HV Harness - Charge Port Busbar (NACS) (Remove and Replace)</a></span></span></caption><colgroup><col style="width:20%"><col style="width:20%"><col style="width:20%"><col style="width:20%"><col style="width:20%"></colgroup><thead class="thead">
+                    <tr class="row">
+                        <th class="entry colsep-1 rowsep-1" id="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__1"><span class="ph" id="TASK_JWN_3RR_NNB__GUID-072C1B6D-5284-42F9-AF07-68469A3257CA">Description</span></th>
+                        <th class="entry colsep-1 rowsep-1" id="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__2"><span class="ph" id="TASK_JWN_3RR_NNB__GUID-28F13512-9445-4AF0-9BA3-F4C471315F77">Torque Value</span></th>
+                        <th class="entry colsep-1 rowsep-1" id="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__3"><span class="ph" id="TASK_JWN_3RR_NNB__GUID-EA245075-D95F-4E54-A42B-189ACB571FE8">Recommended Tools</span></th>
+                        <th class="entry colsep-1 rowsep-1" id="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__4"><span class="ph" id="TASK_JWN_3RR_NNB__GUID-E55F07C0-0C68-4B5D-81E4-2ED598E21CE0">Reuse/Replace</span></th>
+                        <th class="entry colsep-1 rowsep-1" id="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__5"><span class="ph" id="TASK_JWN_3RR_NNB__GUID-FDD51F11-22BD-4E70-B821-021F1679A155">Notes</span></th>
+                    </tr>
+                </thead><tbody class="tbody">
+                    <tr class="row">
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__1 "><span class="ph" id="TASK_JWN_3RR_NNB__d147e231">Nuts
+                                (x2) that attach the charge port busbar leads to the charge port
+                                assembly</span></td>
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__2 ">
+                            <div class="torque"><img class="torque-image" src="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/torque.png"><div class="torque-caption" style="font-weight:bold">9 Nm (6.6 lbs-ft) </div></div>
+                        </td>
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__3 ">
+                            <ul class="ul tds-list tds-list--unordered" id="TASK_JWN_3RR_NNB__d147e241">
+                                <li class="li" id="TASK_JWN_3RR_NNB__d147e243"><span class="ph" id="TASK_JWN_3RR_NNB__GUID-2EBAA999-66CD-4BA6-9FA7-DCF09F7FE8DF">10 mm deep socket</span></li>
+                                <li class="li" id="TASK_JWN_3RR_NNB__d147e246"><span class="ph" id="TASK_JWN_3RR_NNB__GUID-02E439DA-3484-44D5-9B52-27EE21FDCA79">Flex head ratchet/flex head
+                        torque wrench</span></li>
+                                <li class="li" id="TASK_JWN_3RR_NNB__d147e249"><span class="ph" id="TASK_JWN_3RR_NNB__GUID-5969DD0C-68E2-4CBA-8017-65920C70C7D8">Ratchet/torque
+                    wrench</span></li>
+                                <li class="li" id="TASK_JWN_3RR_NNB__d147e252"><span class="ph" id="TASK_JWN_3RR_NNB__d147e253">Electrical
+                                        Protective Gloves</span></li>
+                            </ul>
+                        </td>
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__4 "><span class="ph" id="TASK_JWN_3RR_NNB__GUID-0B10A63D-3653-4B6D-AD51-659461301291">Reuse</span></td>
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__5 "></td>
+                    </tr>
+                    <tr class="row">
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__1 "><span class="ph" id="TASK_JWN_3RR_NNB__d147e267">Busbar access door
+                                bolt</span></td>
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__2 ">
+                            <div class="torque"><img class="torque-image" src="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/torque.png"><div class="torque-caption" style="font-weight:bold">9 Nm (6.6 lbs-ft) </div></div>
+                        </td>
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__3 ">
+                            <ul class="ul tds-list tds-list--unordered" id="TASK_JWN_3RR_NNB__d147e277">
+                                <li class="li" id="TASK_JWN_3RR_NNB__d147e279">Insulated
+                                        tools:<ul class="ul tds-list tds-list--unordered" id="TASK_JWN_3RR_NNB__d147e281">
+                                        <li class="li" id="TASK_JWN_3RR_NNB__d147e283"><span class="ph" id="TASK_JWN_3RR_NNB__d147e284">Extension 1/4 Dr. Wobble 10.5"</span></li>
+                                        <li class="li" id="TASK_JWN_3RR_NNB__d147e287"><span class="ph" id="TASK_JWN_3RR_NNB__GUID-D5BF9141-48FD-4AB9-9D26-16B7F6DFE6B5">Ratchet/torque
+                    wrench</span></li>
+                                        <li class="li" id="TASK_JWN_3RR_NNB__d147e290"><span class="ph" id="TASK_JWN_3RR_NNB__GUID-6B023EAE-708C-4AA7-A515-93C004035858">10 mm deep socket</span></li>
+                                    </ul></li>
+                                <li class="li" id="TASK_JWN_3RR_NNB__d147e294"><span class="ph" id="TASK_JWN_3RR_NNB__d147e295">Electrical
+                                        Protective Gloves</span></li>
+                            </ul>
+                        </td>
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__4 "><span class="ph" id="TASK_JWN_3RR_NNB__GUID-FB8ADFCC-BAB9-496E-BA6F-AFD95DDBA1D0">Reuse</span></td>
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__5 "></td>
+                    </tr>
+                    <tr class="row">
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__1 "><span class="ph" id="TASK_JWN_3RR_NNB__d147e309">Bolts (x2) that
+                                attach the charge port busbars to the HV header</span></td>
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__2 ">
+                            <div class="torque"><img class="torque-image" src="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/torque.png"><div class="torque-caption" style="font-weight:bold">9 Nm (6.6 lbs-ft) </div></div>
+                        </td>
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__3 ">
+                            <ul class="ul tds-list tds-list--unordered" id="TASK_JWN_3RR_NNB__d147e319">
+                                <li class="li" id="TASK_JWN_3RR_NNB__d147e321">Insulated
+                                        tools:<ul class="ul tds-list tds-list--unordered" id="TASK_JWN_3RR_NNB__d147e323">
+                                        <li class="li" id="TASK_JWN_3RR_NNB__d147e325"><span class="ph" id="TASK_JWN_3RR_NNB__d147e326">Extension 1/4 Dr. Wobble 10.5"</span></li>
+                                        <li class="li" id="TASK_JWN_3RR_NNB__d147e329"><span class="ph" id="TASK_JWN_3RR_NNB__GUID-D5851545-60BD-41DB-9923-73BC8305BFAE">Ratchet/torque
+                    wrench</span></li>
+                                        <li class="li" id="TASK_JWN_3RR_NNB__d147e332"><span class="ph" id="TASK_JWN_3RR_NNB__GUID-6D3E5C80-059B-4CE8-A874-03852592142E">10 mm deep socket</span></li>
+                                    </ul></li>
+                                <li class="li" id="TASK_JWN_3RR_NNB__d147e336"><span class="ph" id="TASK_JWN_3RR_NNB__d147e337">Electrical
+                                        Protective Gloves</span></li>
+                            </ul>
+                        </td>
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__4 "><span class="ph" id="TASK_JWN_3RR_NNB__GUID-FF480417-D2D2-483E-BE92-61B36AFD6E27">Reuse</span></td>
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__5 "></td>
+                    </tr>
+                    <tr class="row">
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__1 "><span class="ph" id="TASK_JWN_3RR_NNB__d147e351">Busbar studs at
+                                the back of the charge port</span></td>
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__2 ">
+                            <div class="torque"><img class="torque-image" src="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/torque.png"><div class="torque-caption" style="font-weight:bold">2 Nm (1.5 lbs-ft) </div></div>
+                        </td>
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__3 ">
+                            <ul class="ul tds-list tds-list--unordered" id="TASK_JWN_3RR_NNB__d147e361">
+                                <li class="li" id="TASK_JWN_3RR_NNB__d147e363"><span class="ph" id="TASK_JWN_3RR_NNB__GUID-7FBDB54B-D0FA-4687-9D43-80C6F445A9B4">Torx T10 socket</span></li>
+                                <li class="li" id="TASK_JWN_3RR_NNB__d147e366"><span class="ph" id="TASK_JWN_3RR_NNB__GUID-1137D58A-28CD-4C24-AF52-5320EEF620A6">4 in extension</span></li>
+                                <li class="li" id="TASK_JWN_3RR_NNB__d147e369"><span class="ph" id="TASK_JWN_3RR_NNB__d147e370">Torque Wrench
+                                        1/4in Dr Hexagon - 1060071-00-A</span></li>
+                            </ul>
+                        </td>
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__4 "><span class="ph" id="TASK_JWN_3RR_NNB__d147e376">N/A</span></td>
+                        <td class="entry colsep-1 rowsep-1" headers="TASK_JWN_3RR_NNB__TABLE_CRZ_LBB_TYB__entry__5 "></td>
+                    </tr>
+                </tbody></table>
+      </section>
+    </div>
+  </article>
+  <article class="topic task nested1" aria-labelledby="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-FF201A79-4E76-41FD-A0E4-B4949A5CCE2C" lang="en-US" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08">
+    <h2 class="title topictitle2" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-FF201A79-4E76-41FD-A0E4-B4949A5CCE2C">
+      <span class="ph" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-ECCBA827-4005-4705-9A11-4C2C2D698DDD">Remove</span>
+    </h2>
+    <div class="body taskbody">
+      <ol class="ol steps tds-list tds-list--ordered" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__STEPS_Y5W_LFC_2Z">
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-4045EB56-8A7C-445D-89FA-018BA4FDDA8D">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-E9397780-55F9-452B-97B5-F8B23FC4EE7F">Open the trunk.</span>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-BBE5383A-DF50-4C7D-AF73-58A8DB8BF9AB">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-8E97078D-3330-45B2-B158-B7C006B0F8CE">Open all four doors and
+                        lower all windows.</span>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-65E0D404-70F9-47B9-AE01-754229152EE2">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-332E50F1-E751-45D7-A4BC-33CB18A976EA">Disconnect the LV power. See
+                            <a class="tds-link xref" href="GUID-C392D1B4-3007-45A4-A469-1B92676863F1.html" title="Correction code 17010410 0.06 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">LV Power (Disconnect and Connect) (Modify)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-DBEAB287-B30D-4637-890F-08A5941F770F">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-AB940932-C086-41F8-8EA7-9EAF104B97D1">Remove the 2nd row lower
+                        seat cushion. See <a class="tds-link xref" href="GUID-2AA3AD16-3F0D-4CB3-B092-8B92EE1E2559.html" title="Correction code 1305010042 FRT 0.12 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">Seat Cushion - 2nd Row (Remove and Replace)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-4FCF2D4B-3CD4-46BC-BFC7-6DF94EB5011D">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-AFF33D17-93A5-48A8-93AB-DEFEA512085E">
+            <span class="ph" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-41A7BDE5-CB13-4905-91C6-9B5A34A324AA">Perform the Vehicle HV Disablement
+                    Procedure. See <a class="tds-link xref" href="GUID-3C5B5D4F-24A7-4EAE-B382-C93A2DEC1BFA.html" title="Correction code See the codes below. NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">Vehicle HV Disablement Procedure</a>.</span>
+          </span>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-79F68993-98F0-4A93-B8B7-5BEC1EF7A212">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-CAC6673B-7B73-46EE-9421-F9EC2D9E60F2">Remove the LH 2nd row seat cushion bracket. See <a class="tds-link xref" href="GUID-E5724E99-D1AA-45B3-B1F9-18F99C7CB169.html" title="Correction code 1302010012 FRT 0.30 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">Bracket - Edge Support - Seat Cushion - 2nd Row - LH (Remove and Replace)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-25EB975E-86FE-4159-814F-E61E41F6AF45">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-84BD3497-CAB6-4174-B3EF-E86CB8C8B8C3">Remove the rear trunk load floor. See <a class="tds-link xref" href="GUID-793F48FD-9C9A-493E-BCB8-892E6A2CE5EF.html" title="Correction code 1530030032 FRT 0.06 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">Load Floor - Trunk (Remove and Replace)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-86C70B66-E264-450C-8641-32DB0E8F494B">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-76D371D1-FD60-4B26-81FD-44FB38187C8D">Remove the trunk sill trim.
+                        See <a class="tds-link xref" href="GUID-02F0BC1A-929E-4CBB-B9E8-98CE32B6126B.html" title="Correction code 1518010232 FRT 0.06 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">Trim - Trunk Sill (Remove and Replace)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-9766028B-F31E-4182-A2CC-2131B00BD1DA">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-C0AABCE0-36FC-434D-A627-1D55D513A5B3">Remove the LH trunk load floor bracket. See <a class="tds-link xref" href="GUID-136067C2-0747-4038-8F1C-82725C83C7D3.html" title="Correction code 1530030042 FRT 0.12 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">Bracket - Trunk Load Floor - LH (Remove and Replace)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-C098DA2F-D287-4DDB-BAF7-864362F29E4D">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-61C8D18F-CB14-4F75-B818-61360C88E137">Remove the trunk garnish.
+                        See <a class="tds-link xref" href="GUID-81AE7DD7-122C-4206-81F3-A3A53D9EFB16.html" title="Correction code 1511010042 FRT 0.06 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">Garnish - Trunk (Remove and Replace)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-9C9AC390-727B-4993-82C4-8CC28FD3E9E6">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-0B0565BF-D3A5-41CE-84EC-84CAEE19065E">Remove the LH trunk side
+                        trim. See <a class="tds-link xref" href="GUID-0EB4A186-726C-460F-83B3-B9FD9E29F3D5.html" title="Correction code 1530030062 FRT 0.18 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">Trim - Side - Trunk - LH (Remove and Replace)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-C624F4B1-EF08-4156-934F-C13A3FAD3846">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-F5EAC0E6-54EA-4934-8AA2-01014178A852">Release the white lock tab
+                        and then disconnect the DC logic connector from the charge port
+                        assembly.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__IMAGE_WMX_Z41_TYB" src="GUID-B5D1C0A8-5513-47AF-A1C0-F5148A7F9C73-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-AA25F4EC-8ECF-4B3B-9DA7-620C883A9317">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-351B3105-F527-49F8-85A5-350C9CC0F7FE">Put on HV insulating gloves
+                        and leather over gloves.</span>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-E404F068-842F-45D0-B968-F09B4FDE4B2A">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-75309D26-690A-4291-BBFB-97F3C5B292C5">Use a pick to gently release
+                        the tabs (x2) that attach the safety cap to the busbar brackets, and then
+                        remove the safety cap.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Do not pry with
+                            excessive force, as doing so could damage the safety cap.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__IMAGE_YBT_1RM_ZKC" src="GUID-5030BF65-29CB-49FB-AB6F-ABD807D8E404-online-en-US.gif"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__IMAGE_KMC_FNR_NNB" src="GUID-814EAE2E-913A-4698-AC38-5F571D8858C3-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-F1CB5531-79C5-444D-97E1-93F4244AF14F">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-E574F401-A394-4C64-A33D-FACC13A992CB">Remove the nuts (x2) that
+                        attach the charge port busbar leads to the charge port assembly.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Tip</div><div>
+              <span class="ph" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-ACCF5544-9EE3-4E85-BF97-178336DB27B1">Use of the following
+          tool(s) is recommended:</span>
+              <ul class="ul tds-list tds-list--unordered" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__UL_IDQ_V5F_TYB">
+                                <li class="li" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e243"><span class="ph" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-2EBAA999-66CD-4BA6-9FA7-DCF09F7FE8DF">10 mm deep socket</span></li>
+                                <li class="li" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e246"><span class="ph" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-02E439DA-3484-44D5-9B52-27EE21FDCA79">Flex head ratchet/flex head
+                        torque wrench</span></li>
+                                <li class="li" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e249"><span class="ph" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-5969DD0C-68E2-4CBA-8017-65920C70C7D8">Ratchet/torque
+                    wrench</span></li>
+                                <li class="li" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e252"><span class="ph" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e253">Electrical
+                                        Protective Gloves</span></li>
+                            </ul>
+            </div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-D402D3E4-5DFA-4DAD-8C46-71DA47F0F620-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-C64AA19D-952E-472C-85A2-94CBB2EA9EA5">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-BA8A4A51-0CA3-4137-9E7C-EF84DC5227E4">Remove the clips (x6) that
+                        attach the 3-phase electrical harness to the charge port busbar.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__IMAGE_TGH_YFX_NNB" src="GUID-475F947A-AAFF-41CC-AD20-4B56DE444853-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__IMAGE_DFW_MQ1_TYB" src="GUID-902EBB33-EE72-4AF2-B96E-3EE9C2C823A8-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-5A278B71-B5A3-4C46-A143-8F6BA7BD1D10">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-6DCF63D5-2AC5-443A-88E6-0AA358608C52">Move the 2nd row LH seat back into the vertical position.</span>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-BE541931-BA5B-46BA-8C00-ACC77841CEEC">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-E7B9E9D5-31F6-4E2C-9621-9B7B1C2B6B0E">Remove the bolt that closes
+                        the charge port busbar access door at the ancillary bay HV header, and then open
+                        the access door.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Tip</div><div>
+              <span class="ph" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-12440B88-42F3-4034-AEEC-40A52C0B794A">Use of the following
+          tool(s) is recommended:</span>
+              <ul class="ul tds-list tds-list--unordered" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__UL_U1H_Y5F_TYB">
+                                <li class="li" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e279">Insulated
+                                        tools:<ul class="ul tds-list tds-list--unordered" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e281">
+                                        <li class="li" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e283"><span class="ph" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e284">Extension 1/4 Dr. Wobble 10.5"</span></li>
+                                        <li class="li" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e287"><span class="ph" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-D5BF9141-48FD-4AB9-9D26-16B7F6DFE6B5">Ratchet/torque
+                    wrench</span></li>
+                                        <li class="li" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e290"><span class="ph" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-6B023EAE-708C-4AA7-A515-93C004035858">10 mm deep socket</span></li>
+                                    </ul></li>
+                                <li class="li" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e294"><span class="ph" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e295">Electrical
+                                        Protective Gloves</span></li>
+                            </ul>
+            </div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__IMAGE_DVQ_W3X_NNB" src="GUID-159A8FB2-2082-4C5B-A444-ECC4CFD011FA-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-8B15FA0D-F466-4C81-A795-051F31C6067D">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-EB5B5EDA-500E-4F71-BF56-8105A3C3B4D8">Remove the bolts (x2) that
+                        attach the charge port busbars to the HV header.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Tip</div><div>
+              <span class="ph" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-AAE41728-17E9-4599-8182-9DE6090122C1">Use of the following
+          tool(s) is recommended:</span>
+              <ul class="ul tds-list tds-list--unordered" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__UL_ATR_1VF_TYB">
+                                <li class="li" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e321">Insulated
+                                        tools:<ul class="ul tds-list tds-list--unordered" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e323">
+                                        <li class="li" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e325"><span class="ph" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e326">Extension 1/4 Dr. Wobble 10.5"</span></li>
+                                        <li class="li" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e329"><span class="ph" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-D5851545-60BD-41DB-9923-73BC8305BFAE">Ratchet/torque
+                    wrench</span></li>
+                                        <li class="li" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e332"><span class="ph" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-6D3E5C80-059B-4CE8-A874-03852592142E">10 mm deep socket</span></li>
+                                    </ul></li>
+                                <li class="li" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e336"><span class="ph" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__d147e337">Electrical
+                                        Protective Gloves</span></li>
+                            </ul>
+            </div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__IMAGE_FWH_CJX_NNB" src="GUID-382AB475-11AA-45EA-A3BF-7F913C61ED81-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-D7C0567D-8F11-4408-854F-A23BFC9B2F38">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-61A3B516-F0F5-4391-BBBC-0393F0BDC63E">Lift and remove the charge
+                        port busbar connector from the HV header.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Wiggle the connector
+                            back and forth to ease removal.</div></div></div>
+          </div>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>
+              <span class="ph" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-DF8A7FFE-D0F5-4EB2-9585-DC3006627D93">The video(s)
+            included in this procedure are meant as an overview for supplemental purposes only.
+            Follow all of the steps listed in the procedure to avoid damage to components and/or
+            personal
+          injury.</span>
+            </div></div></div>
+            <figure class="fig fignone">
+              <div class="embed-responsive embed-responsive-16by9"><video class="video embed-responsive-item" controls style="aspect-ratio: 16/9;width:100%;height:100%;max-width:448px;"><source src="https://service.tesla.com/docs/Model3/ServiceManual/2024/media/M3_2024_GCSCD-2758_RemoveStep49-52.mp4"></source></video></div>
+            </figure>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__IMAGE_KRW_GR1_TYB" src="GUID-E3A9F221-06F7-4C55-81B4-F743F6B47675-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-A1077A4A-FCF3-40DE-B397-FE50BBDACE9F">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-D543FC8B-169D-4762-A112-2143CBC66048">Position the charge port busbar connector on the cross-member in front of
+                        the Ancillary Bay for access below.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__IMAGE_RXY_NR1_TYB" src="GUID-92F01FDC-3D6D-4CF0-83BF-C8512A6183CD-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-1459F9F2-A789-4656-9B66-BD6A23E526E6">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-547228F2-0E94-4A53-B91C-8EE2EDCE868F">Fold the LH 2nd row seat
+                        back down, and protect the seat cushion if necessary.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__IMAGE_AN2_BS1_TYB" src="GUID-5B69C4A0-B60C-4193-A968-3366EFB39DBE-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-ABA117AD-A090-4D0A-B9EE-CADDE17D9F77">
+          <span class="ph cmd" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__GUID-9FAB64EE-887E-46E9-A64B-65ED38EAEDAE">With assistance, remove the
+                        charge port busbars out through the trunk.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Maneuver the busbars
+                            through the body harness, rotating the busbars as needed.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__IMAGE_MSZ_3S1_TYB" src="GUID-AF1B1F61-D90E-44C8-9FC7-3807FA554ED8-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__IMAGE_VX2_JS1_TYB" src="GUID-42D6F057-61A8-4A79-B9DC-A8BFA36D280F-online-en-US.jpg"></button>
+          </div>
+          <div class="itemgroup stepresult">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-87FD8D3D-05FF-471F-B2AC-EC4D65ED3E08__IMAGE_D3S_JS1_TYB" src="GUID-542DDF36-3FBC-49C9-B31A-2615006F1795-online-en-US.jpg"></button>
+          </div>
+        </li>
+      </ol>
+    </div>
+  </article>
+  <article class="topic task nested1" aria-labelledby="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-36A75738-4667-4A04-BC97-43A6D721D4D7" lang="en-US" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4">
+    <h2 class="title topictitle2" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-36A75738-4667-4A04-BC97-43A6D721D4D7">
+      <span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-4F3A3B7C-CED6-46E0-B840-439306E2128E">Install</span>
+    </h2>
+    <div class="body taskbody">
+      <ol class="ol steps tds-list tds-list--ordered" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-C27D1BFB-3B49-44FD-B863-9E732C4B3A52">
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-0B955B95-A733-4937-87BA-EA65FD234A3E">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-F3192716-FC0D-4339-B73C-F6B3B3AB4498">With assistance, position
+                        the charge port busbars for installation by inserting the busbars through
+                        the trunk.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Maneuver the busbars
+                            through the body harness, rotating the busbars as needed.</div></div></div>
+          </div>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-warning-red"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Warning</div><div>
+              <span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-DF8A7FFE-D0F5-4EB2-9585-DC3006627D93">The video(s)
+            included in this procedure are meant as an overview for supplemental purposes only.
+            Follow all of the steps listed in the procedure to avoid damage to components and/or
+            personal
+          injury.</span>
+            </div></div></div>
+            <figure class="fig fignone">
+              <div class="embed-responsive embed-responsive-16by9"><video class="video embed-responsive-item" controls style="aspect-ratio: 16/9;width:100%;height:100%;max-width:448px;"><source src="https://service.tesla.com/docs/Model3/ServiceManual/2024/media/M3_2024_GCSCD-3044_InstallStep53-59.mp4"></source></video></div>
+            </figure>
+          </div>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-29CBA659-3299-4503-BF50-15FCC5CA6A6E">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-20F96766-52E5-417E-86C4-EE8DEB0AA508">Fold up the LH 2nd row seat
+                        back and remove the protective covering from the 2nd row seat cushion
+                        area.</span>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-FAC44C87-AB5F-4897-9C11-6C1CDCC0C25F">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-8BD5057C-B1E5-4244-819E-7E440627A201">Clean the HV header contact surface with an IPA wipe, and allow to dry for
+                        1 minute.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__IMAGE_KGL_BV1_TYB" src="GUID-7BA016E6-E750-45B0-9DEC-3A4F5FB541A4-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-713B6CE0-D5F1-4EDA-BE9A-F7F81FA0A567">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-6609A059-921A-4D1B-85F4-C2E521FA3D81">Apply 2 drops of Penetrox A-13 about 5mm in diameter onto either side of
+                        the holes on both leads of the HV header, and then spread evenly to ensure
+                        the contact surface is fully covered.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__IMAGE_AZS_XV1_TYB" src="GUID-15DF7F22-8EE9-4203-87E5-29F7AC2A4524-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__IMAGE_NS1_YV1_TYB" src="GUID-19DFBF41-27D0-4DB3-8F12-4E69886B31D0-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-59BA154A-02B5-40C7-B892-5DBD20EA642F">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-8BC65167-7DCB-4C5F-935B-6B9010682AEB">With assistance, align the
+                        guide tabs on the HV header with the charge port busbar connector, and then
+                        install the busbar connector on the HV header.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Tip</div><div>Gently lift
+                            the rear half of the busbars to aid installation of the busbars on the
+                            HV header.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>If positioning the
+                            busbars requires excessive force, the busbars might be bent. Inspect for
+                            damage and replace the busbars if necessary.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-37D8C63F-C6F2-41A3-A29D-C5A217EF57DD-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-C20C07A4-2CE0-4DF8-85C1-7EA12B071B5D">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-A93F22E1-65EA-4F4F-95DA-C2DF56335B6E">Install the bolts (x2) that
+                        attach the charge port busbars to the HV header.<div class="torque"><img class="torque-image" src="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/torque.png"><div class="torque-caption" style="font-weight:bold">9 Nm (6.6 lbs-ft) </div></div></span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Tip</div><div>
+              <span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-60B82B29-DA60-4AEF-9682-49AA6826508C">Use of the following
+          tool(s) is recommended:</span>
+              <ul class="ul tds-list tds-list--unordered" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__UL_C4T_RYF_TYB">
+                                <li class="li" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e321">Insulated
+                                        tools:<ul class="ul tds-list tds-list--unordered" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e323">
+                                        <li class="li" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e325"><span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e326">Extension 1/4 Dr. Wobble 10.5"</span></li>
+                                        <li class="li" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e329"><span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-D5851545-60BD-41DB-9923-73BC8305BFAE">Ratchet/torque
+                    wrench</span></li>
+                                        <li class="li" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e332"><span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-6D3E5C80-059B-4CE8-A874-03852592142E">10 mm deep socket</span></li>
+                                    </ul></li>
+                                <li class="li" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e336"><span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e337">Electrical
+                                        Protective Gloves</span></li>
+                            </ul>
+            </div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__IMAGE_ACD_CW1_TYB" src="GUID-382AB475-11AA-45EA-A3BF-7F913C61ED81-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-054C6BCB-631C-4BFD-8A7E-9792874B61DB">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-AEB4C8E8-5A24-4A8A-ADC3-4C9CF8B47552">At the ancillary bay, use the
+                        Hioki resistance meter to measure the resistance between the charge port
+                        busbar lead and the ancillary bay HV header bolt head. Also perform this test on
+                        the other lead and bolt head.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Perform zero adjust to Hioki meter prior to testing. See <a class="tds-link xref" href="GUID-02C5B1A2-BB47-4F76-97DA-66CC5DD9C8EB.html" title="Correction code 16300100 0.05 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See Flat Rate Times to learn more about FRTs and how they are created. NOTE: See to make sure wearing proper PPE when performing the below procedure. NOTE: See for safe and healthy working practices.">Resistance Meter (Zero Adjust)</a>.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>The acceptable resistance is between 0.050 mΩ (50 μΩ) and 0.195 mΩ (195 μΩ). If the measured resistance is above 0.195 mΩ (195 μΩ), there is too much resistance in the High Voltage joint. Remove the fastener, clean areas with isopropyl alcohol, install fastener back and test again, as appropriate.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>If the resistance is
+                            lower than 0.050 mΩ (50 μΩ), reposition the probes and measure again. If
+                            after 4 attempts the resistance is consistently lower than 0.050 mΩ (50
+                            μΩ), the test has passed; continue to the next step.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__IMAGE_ZV5_B1B_TYB" src="GUID-68C9CC40-5F23-4201-AFBA-48E85DED1521-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-8A2667E5-29F1-4880-AF93-BE0A4A00737D">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-460AA82F-4E7F-4536-B087-79EEE2303280">Close the charge port busbar
+                        access door, and then install the bolt on the access door.<div class="torque"><img class="torque-image" src="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/torque.png"><div class="torque-caption" style="font-weight:bold">9 Nm (6.6 lbs-ft) </div></div></span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Tip</div><div>
+              <span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-7636E9BF-956E-42CD-A136-A9157C5DB0B5">Use of the following
+          tool(s) is recommended:</span>
+              <ul class="ul tds-list tds-list--unordered" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__UL_FVT_YYF_TYB">
+                                <li class="li" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e279">Insulated
+                                        tools:<ul class="ul tds-list tds-list--unordered" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e281">
+                                        <li class="li" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e283"><span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e284">Extension 1/4 Dr. Wobble 10.5"</span></li>
+                                        <li class="li" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e287"><span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-D5BF9141-48FD-4AB9-9D26-16B7F6DFE6B5">Ratchet/torque
+                    wrench</span></li>
+                                        <li class="li" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e290"><span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-6B023EAE-708C-4AA7-A515-93C004035858">10 mm deep socket</span></li>
+                                    </ul></li>
+                                <li class="li" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e294"><span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e295">Electrical
+                                        Protective Gloves</span></li>
+                            </ul>
+            </div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__IMAGE_N4V_KW1_TYB" src="GUID-159A8FB2-2082-4C5B-A444-ECC4CFD011FA-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-3493CF95-BDCA-4B73-816D-C62E5EAC238B">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-AC764718-2E35-4B1A-BC0A-DB6EDAB2418E">Fold the 2nd row LH seat back down.</span>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-541B0FAB-5ACB-48AC-A382-F38BDD9995A5">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-63B5F672-7F04-4ECB-A2F6-BB0A9B12239E">Install the clips (x6) that
+                        attach the 3-phase electrical harness to the charge port busbar.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__IMAGE_MGL_DW1_TYB" src="GUID-902EBB33-EE72-4AF2-B96E-3EE9C2C823A8-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__IMAGE_LGL_DW1_TYB" src="GUID-475F947A-AAFF-41CC-AD20-4B56DE444853-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-23BAF3A4-E3E1-4649-AE04-EE180790B919">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-268F490F-2FCB-4254-A189-82903AA54EF9">Clean the charge port busbar contact surface with IPA wipes, and then allow
+                        1 minute to dry.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__IMAGE_UFJ_SX1_TYB" src="GUID-DE7F4A46-5DE1-45A7-B8D4-7941C2410D27-online-en-US.jpg"></button>
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__IMAGE_BDH_TX1_TYB" src="GUID-550DC7BD-5022-44F2-9DF7-76E452777149-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-103C3EDE-7146-45CA-8EDA-DAA31A49F156">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-423FC341-C623-4FA5-86BF-C9024565159B">Perform a torque check on
+                        the busbar studs on the back of the charge port.<div class="torque"><img class="torque-image" src="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/torque.png"><div class="torque-caption" style="font-weight:bold">2 Nm (1.5 lbs-ft) </div></div></span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Skip this step if
+                            installing a new charge port assembly.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Tip</div><div>
+              <span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-A42AD5A8-5E5D-4029-B437-3DF33678A614">Use of the following
+          tool(s) is recommended:</span>
+              <ul class="ul tds-list tds-list--unordered" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__UL_ZYF_KFG_TYB">
+                                <li class="li" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e363"><span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-7FBDB54B-D0FA-4687-9D43-80C6F445A9B4">Torx T10 socket</span></li>
+                                <li class="li" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e366"><span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-1137D58A-28CD-4C24-AF52-5320EEF620A6">4 in extension</span></li>
+                                <li class="li" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e369"><span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e370">Torque Wrench
+                                        1/4in Dr Hexagon - 1060071-00-A</span></li>
+                            </ul>
+            </div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__IMAGE_KNG_GBL_TYB" src="GUID-9546AF1F-1386-439F-AD69-2F8C34C95F21-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-C848869E-A13A-49FC-9074-B872928C56E5">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-01DA5FE5-C210-4FC0-ACEE-23830C475D95">Apply two drops of Penetrox
+                        A-13 about 5mm in diameter on each of the charge port busbar leads (x2), on
+                        the side that makes contact with the charge port.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Skip this step if
+                            installing a new charge port assembly, as the new charge port has
+                            pre-applied electrical joint compound.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Make sure the contact
+                            surfaces are completely covered with electrical joint compound.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__IMAGE_ZSY_NX1_TYB" src="GUID-95C0CEA3-886F-4D5F-A194-01E4B2B0A1F1-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-475D3AAE-FD81-459C-8FE8-87C05FD69070">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-45A0EE05-A44B-479F-A22E-73BEA36A8215">Install the nuts (x2) that
+                        attach the charge port busbar leads to the charge port assembly.<div class="torque"><img class="torque-image" src="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/torque.png"><div class="torque-caption" style="font-weight:bold">9 Nm (6.6 lbs-ft) </div></div></span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>If positioning the
+                            busbars requires excessive force, the busbars might be bent. Inspect for
+                            damage and replace the busbars if necessary.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Tip</div><div>
+              <span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-617DCC9A-8029-4FB2-901E-044C24CFF7C2">Use of the following
+          tool(s) is recommended:</span>
+              <ul class="ul tds-list tds-list--unordered" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__UL_H1G_FZF_TYB">
+                                <li class="li" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e243"><span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-2EBAA999-66CD-4BA6-9FA7-DCF09F7FE8DF">10 mm deep socket</span></li>
+                                <li class="li" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e246"><span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-02E439DA-3484-44D5-9B52-27EE21FDCA79">Flex head ratchet/flex head
+                        torque wrench</span></li>
+                                <li class="li" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e249"><span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-5969DD0C-68E2-4CBA-8017-65920C70C7D8">Ratchet/torque
+                    wrench</span></li>
+                                <li class="li" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e252"><span class="ph" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__d147e253">Electrical
+                                        Protective Gloves</span></li>
+                            </ul>
+            </div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__IMAGE_WBC_ZX1_TYB" src="GUID-D402D3E4-5DFA-4DAD-8C46-71DA47F0F620-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-50721F35-FBF6-4CE7-8746-8FD06BD56CA0">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-D08A5DE0-F49B-400E-BA22-89DC9660DCB1">Put on HV insulating gloves
+                        and leather over gloves.</span>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-8CE7A50D-508A-456B-8C6E-FC83B50E6CF4">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-6103CD9B-E2F5-403E-83AC-DA8D95B7F080">At the charge port, use the
+                        Hioki resistance meter to measure the resistance between the charge port
+                        busbar lead and the charge port busbar stud. Also perform this test on the
+                        other lead and stud.</span>
+          <div class="itemgroup info">
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>Perform zero adjust to Hioki meter prior to testing. See <a class="tds-link xref" href="GUID-02C5B1A2-BB47-4F76-97DA-66CC5DD9C8EB.html" title="Correction code 16300100 0.05 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See Flat Rate Times to learn more about FRTs and how they are created. NOTE: See to make sure wearing proper PPE when performing the below procedure. NOTE: See for safe and healthy working practices.">Resistance Meter (Zero Adjust)</a>.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>The acceptable resistance is between 0.050 mΩ (50 μΩ) and 0.270 mΩ (270 μΩ). If the measured resistance is above 0.270 mΩ (270 μΩ), there is too much resistance in the High Voltage joint. Remove the fastener, clean areas with isopropyl alcohol, install fastener back and test again, as appropriate.</div></div></div>
+            <div class="tds-status_msg tds-card tds-card--dense" role="status"><svg xmlns="http://www.w3.org/2000/svg" class="tds-icon tds-icon-status-info" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://service.tesla.com/docs/Model3/ServiceManual/2024/en-us/img/spritemap.svg#tds-icon-status-info"></use></svg><div class="tds-card-body"><div class="tds-text--h6 admonishment-title">Note</div><div>If the resistance is
+                            lower than 0.050 mΩ (50 μΩ), reposition the probes and measure again. If
+                            after 4 attempts the resistance is consistently lower than 0.050 mΩ (50
+                            μΩ), the test has passed; continue to the next step.</div></div></div>
+          </div>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" src="GUID-985FB365-7DD6-49AE-872F-4E1FC76B6D33-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-E404F068-842F-45D0-B968-F09B4FDE4B2A">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-75309D26-690A-4291-BBFB-97F3C5B292C5">Install the safety cap on
+                        the busbar brackets, making sure to engage the two locking tabs.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__IMAGE_NYK_QY1_TYB" src="GUID-814EAE2E-913A-4698-AC38-5F571D8858C3-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-731B0569-0884-43C7-95FD-194BEEAF955B">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-AF4722CA-4E9A-4BC8-BACD-36ABA7A74B38">Remove the HV insulating
+                        gloves and leather over gloves.</span>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-C339CD70-7A5E-4972-99A5-EBEC1080B9F1">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-1B7CD7B4-F17D-4FBC-A2C9-888DFD7A699B">Connect the DC logic connector to the charge port assembly and then engage
+                        the white lock tab.</span>
+          <div class="itemgroup stepxmp">
+            <button data-tds-open-modal="img-modal"><img class="image" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__IMAGE_JW5_SY1_TYB" src="GUID-B5D1C0A8-5513-47AF-A1C0-F5148A7F9C73-online-en-US.jpg"></button>
+          </div>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-A72695CC-D064-4E7F-A46A-42DB1D311429">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-9D5088CC-14EE-4230-BD13-110AE8CE4EA6">Install the LH trunk side trim. See <a class="tds-link xref" href="GUID-0EB4A186-726C-460F-83B3-B9FD9E29F3D5.html" title="Correction code 1530030062 FRT 0.18 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">Trim - Side - Trunk - LH (Remove and Replace)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-A0E0EC8F-F0E8-4D00-B2C3-494683F709F1">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-03F9B316-C8D4-4297-BC19-0500670CF855">Install the trunk garnish. See <a class="tds-link xref" href="GUID-81AE7DD7-122C-4206-81F3-A3A53D9EFB16.html" title="Correction code 1511010042 FRT 0.06 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">Garnish - Trunk (Remove and Replace)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-43F8980D-E53C-4841-A5A5-8212E77B0CC4">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-E6F7CECD-0F27-4EC9-B3FF-B0A5F6F20F32">Install the LH trunk load floor bracket. See <a class="tds-link xref" href="GUID-136067C2-0747-4038-8F1C-82725C83C7D3.html" title="Correction code 1530030042 FRT 0.12 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">Bracket - Trunk Load Floor - LH (Remove and Replace)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-DA7CB24B-4BA4-418F-ACD6-F11DE69C8430">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-1BD86BDE-11BD-4876-A156-C9BA24D5D437">Install the trunk sill trim. See <a class="tds-link xref" href="GUID-02F0BC1A-929E-4CBB-B9E8-98CE32B6126B.html" title="Correction code 1518010232 FRT 0.06 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">Trim - Trunk Sill (Remove and Replace)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-A4B8C385-C542-41E0-A465-B52D815ADBAD">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-54131C7F-25F1-4C60-A41E-56DF5B395CAE">Install the rear trunk load floor. See <a class="tds-link xref" href="GUID-793F48FD-9C9A-493E-BCB8-892E6A2CE5EF.html" title="Correction code 1530030032 FRT 0.06 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">Load Floor - Trunk (Remove and Replace)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-2986648C-76E8-46A5-BEC3-7DDF2373D517">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-3DBFB483-3B72-42C4-9156-F94026024FCD">Install the LH 2nd row seat cushion bracket. See <a class="tds-link xref" href="GUID-E5724E99-D1AA-45B3-B1F9-18F99C7CB169.html" title="Correction code 1302010012 FRT 0.30 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">Bracket - Edge Support - Seat Cushion - 2nd Row - LH (Remove and Replace)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-6412E75D-21CF-4C7F-90C1-1A52740070B8">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-88342C24-CF10-4C61-90AA-E82F8C6E2A3B">Install the 2nd row lower
+                        seat cushion. See <a class="tds-link xref" href="GUID-2AA3AD16-3F0D-4CB3-B092-8B92EE1E2559.html" title="Correction code 1305010042 FRT 0.12 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">Seat Cushion - 2nd Row (Remove and Replace)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-67812873-3DC5-4B69-A444-3FE1A9B55A5E">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-CDCCDC77-D821-4C00-99AF-482DEC347774">Connect the LV power. See <a class="tds-link xref" href="GUID-C392D1B4-3007-45A4-A469-1B92676863F1.html" title="Correction code 17010410 0.06 NOTE: Unless otherwise explicitly stated in the procedure, the correction code and its associated FRT reflect all of the work required to perform this procedure, including the linked procedures. Do not stack correction codes unless explicitly told to do so. NOTE: See to learn more about FRTs and how they are created. NOTE: See to make sure you are wearing proper PPE when performing the procedure below. NOTE: See for safe and healthy working practices.">LV Power (Disconnect and Connect) (Modify)</a>.</span>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-03519851-B720-4296-83DC-F0AC7C227B55">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-150CB084-31A9-4EFE-8325-6015A7A90C4D">Move the LH and RH front
+                        seats back to their original position.</span>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-645B2CE0-3AAD-418D-8E7C-841CD5635045">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-7D0CFB30-99A3-4715-999B-729CB029B756">Raise all the windows and
+                        close all the doors.</span>
+        </li>
+        <li class="li step" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-2740A300-ED98-46FE-816F-F89DFCAFE62E">
+          <span class="ph cmd" id="GUID-62BA0B0B-5667-4E7A-9377-FD16DF5909D4__GUID-31CF595F-D3C7-4691-A97F-9E7BDBE7DD62">Close the trunk.</span>
+        </li>
+      </ol>
+    </div>
+  </article>
+</article></main></div><aside class="tds-layout-item tds-layout-aside"><div class="mobile-capable-toggle"><label class="tds-switch_toggle tds-switch_toggle--label_inside tds-switch_toggle--large" for="mobile-capable-switch-toggle"><span class="label-text" style="                                             white-space: nowrap;                                             ">Only Show Mobile Capable Procedures</span><span class="toggle-wrapper"><input class="tds-switch_toggle-checkbox" type="checkbox" id="mobile-capable-switch-toggle"><span class="tds-switch_toggle-track" aria-hidden="true"></span><span class="tds-switch_toggle-btn" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16"><path d="M4 12 l6 6 l10 -10" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path></svg></span><span class="tds-switch_toggle-btn" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16"><path d="M18 6 L6 18 M6 6 l12 12" fill="none" stroke="#374151" stroke-width="3" stroke-linecap="round"></path></svg></span></span></label></div>

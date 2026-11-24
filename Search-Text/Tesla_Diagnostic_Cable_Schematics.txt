@@ -1,0 +1,342 @@
+             8                                 7                          6                                5                             4                            3              Project: SERVICE TOOLING ENGINEERING
+                                                                                     FOR BILL OF MATERIALS, REFER TO ITEM IN TESLA INC PLM TOOL.                          CA     DATE          REV                    DESCRIPTION                                    APPD            APPD
+                                                                                    THE ITEM LIST ON THIS DRAWING IS PROVIDED FOR REFERENCE ONLY.                              14-DEC-2011      1                     INITIAL RELEASE                                  --
+                                                                ITEM          QTY         PART NUMBER                 DESCRIPTION             SUPPLIER     MATERIAL            15-AUG-2014      2        IMPORTED DESIGN INTO CATIA. ADDED                             --
+                                                                  1            1              N/A              MALE RJ-45-8P OR EQUIVALENT     GENERIC       N/A                                                      ITEM 4
+                                                                                                                                                                               08-JUN-2023      3              UPDATED FOR EXTERNAL USE                                --
+                                                                  2            1         LD5-881-3045 OR         HIGH SPEED DATE CABLE       ROSENBERGER     N/A
+                                                                                           EQUIVALENT
+                                                                  3            1          HD1-638-T13            HSD, CODE B WHALE WHITE     ROSENBERGER     N/A
+
+D                                                                 4       AS REQUIRED       EPS300 OR
+                                                                                           EQUIVALENT
+                                                                                                                HEAT SHRINK TUBING 1/4 OR
+                                                                                                                       EQUIVALENT
+                                                                                                                                                 3M          N/A                                                                                                                            D
+                                  1
+
+
+                                                                      2                                                 4
+
+                                                                                                                                                              3
+
+
+
+
+C                                                                                              WIRE DIAGRAM                                                                                                                                                                                 C
+        LABEL LOCATED 70MM FROM RJ45 CONNECTOR                                      J1        COLOR (SIGNAL)            J2
+
+
+
+
+                                                                                                                                                                                                                                                                                             03 DRAWING VERSION 03
+        LABEL TO INCLUDE:                                                           1           BLUE (TXP)               1                                                                              NOTE:
+        PART NAME, PART NUMBER, AND MANUFACTURED DATE                               6          ORANGE (RXN)              2                                                          THE INFORMATION IN THIS DOCUMENT IS BEING
+                                                                                    3          BROWN (RXP)               3                                                          PROVIDED AS A COURTESY TO FACILITATE THE
+                                                                                                                                                                                    BROADER AVAILABILITY OF THESE COMPONENTS FOR
+                                                                                    2          GREEN (TXN)               4
+                                                                                                                                                                                    GOOD FAITH USE WITH TESLA VEHICLES. IF YOU
+                                                                                                 SHIELDING               5                                                          USE THIS INFORMATION, IT’S YOUR
+                                                                                                                                                                                    RESPONSIBILITY TO ENSURE THAT THE
+
+
+
+
+                                                                                                                                                                                                                                                                                             REV
+                                                                                                                                                                                    INFORMATION IS ACCURATE FOR AND COMPATIBLE
+                                                                                                                                                                                    WITH YOUR OWN PRODUCTS AND THAT ALL USES AND
+                                                                                                                                                                                    RESULTING PRODUCTS COMPLY WITH ALL LAWS AND
+
+
+
+
+                                                                                                                                                                                                                                                                                            B HARNESS, DIAGNOSTIC, HSD TO ETHERNET
+                                                                                                                                                                                    SAFETY PROTOCOLS. IMPROPER MANUFACTURING OR
+                                                                                                                                                                                    INSTALLATION OF ANY NON-TESLA PRODUCTS MAY
+                                                                                                                                                                                    VOID RELEVANT PARTS OF THE VEHICLE WARRANTY.
+B
+                                                                                                                                                                                   CAD FILE NAME                                                        TRACEABILITY GRADE
+
+
+                                                                                                                                                                                                                                                        A
+                                                                                                                                                                                   DRAWN BY                             --                              DATE           08-JUN-2023
+
+
+
+                 CABLE SPECIFICATIONS                         DESIGN
+    Number of Conductors                   4             CHARACTERISTICS
+    Nominal Impedance( )                   100 15%       1-4   CONDUCTOR                                                                                                                        © Copyright 2023. THIS DOCUMENT IS PROPERTY OF TESLA INC. ALL RIGHTS RESERVED.
+
+
+    Nominal Capacitance(pF/m@1KHz)         50            5     STRANDING
+    Attenuation(dB/100m@100MHz)            33            6     FOIL                                                                                                                MATERIAL
+
+    Skew conductor pairs(ps/m)             25            7     SHIELD                                                                                                                          N/A
+                                                                                                                                                                                   FINISH                                                               EST.
+    Crosstalk(dB@1GHz)                     -40           8     SHEATH                                                                                                                                                                                   MASS (g)
+    Differential Shielding Effectiveness                                                                                                                                                       N/A                                                                     MASS
+                                                                                                                                                                                                                                                                                            A
+                                                                                                                                                                                     THIRD ANGLE PROJECTION               DIMENSIONS ARE IN                SCALE                 SHEET
+A                (dB @   1GHz)             75                                 CONNECTOR SPECIFICATIONS
+                                                                                                                                                                                                                            MILLIMETERS.                                          SIZE
+                 (dB @   2GHz)             65            IMPEDANCE( )                         100 15%                                                                                                                       ANGLES ARE IN
+
+    Cable Thickness (mm)                   5             Insertion Loss(dV Max DC-1GHz) -0.3
+                                                         Near End Crosstalk (dB Max)          -30
+                                                                                                                                                                                                                              DEGREES.
+                                                                                                                                                                                                                                                           1:1                   B
+    Single Bend Radius (x cable diam.)     3                                                                                                                                       ITEM NAME
+    Multiple Bend Rdaius (x cable diam.) 5               Far End Crosstalk (dB Max)           -35                                                                                              HARNESS, DIAGNOSTIC, HSD TO RJ45
+    (16k cycles min)                                     Contact Resistance (m Max)           50                                                                                   ITEM                                                                 REVISION       SHEET
+                                                                                                                                                                                   NUMBER
+    Operating Temperature( C)              -40 to +105   Temperature Range ( C)               -40 to +85                                                                                       1013230-00-A
+                                                                                                                                                                                                                                                            03              1 of 1
+
+             8                                 7                          6                                5                             4                            3                                 2                                                           1
+                8                                7                       6                              5                                4                             3                   Project: SERVICE TOOLING ENGINEERING
+                      ADDITIONAL NOTES:                      ITEM      QTY        PART NUMBER                           DEFINITION                          SUPPLIER NOTES            CA          DATE       REV                      DESCRIPTION                               APPD         APPD
+    A1.   SUMITOMO CONNECTOR (ITEM -1) REQUIRES THE           1         1          6098-3810                CONNECTOR, FEMALE, 0.64MM PIN DEPTH             SUMITOMO                         08-JUN-2023       01     UPDATED FOR EXTERNAL USE AND                                   --
+                                                                                                                                                                                                                      SUMITOMO CONNECTOR ADJUSTMENT
+          HORIZONTAL LATCH COVER TO BE CLIPPED OF AT THE      2         1            N/A            RJ45 ETHERNET PLUG, MALE, 8 PINS OR EQUIVALENT             --
+          LINES DETAILED IN THE PICTURES ON PAGE 2.
+                                                              3         1            N/A        HIGH-FLEX CAT5E ETHERNET CABLE, TWISTED-PAIR, INTERNAL      ANIXTER
+    A2.   ITEM IS REQUIRED TO EXTEND CABLE LENGTH FOR
+                                                                                                              WIRES 24 AWG OR EQUIVALENT
+          EASE OF USE ONLY. NOT SHOWN IN DRAWING. TO BE
+          INCLUDED WITH THIS CABLE AS A KIT.                  4         4          8240-0182     SUMITOMO CONNECTOR TERMINAL, TIN, 0.64MM PIN DEPTH OR      SUMITOMO
+                                                                                                                      EQUIVALENT
+
+D                                                             5     AS REQUIRED      N/A           ADHESIVE-LINED HEAT-SHRINK TUBING OR EQUIVALENT             --                                                                                                                                   D
+                                                              6     AS REQUIRED      N/A                      RTV 162 ADHESIVE OR EQUIVALENT                   --
+                                                              7         1            N/A        10' (MIN. CAT5E) ETHERNET CABLE TWISTED PAIR UNSHIELDED        --      A2
+                                                                                                                     OR EQUIVALENT
+                                                              8         1            N/A             FEMALE TO FEMALE RJ45 COUPLER OR EQUIVALENT               --      A2
+
+
+
+
+                                    1
+                                                     LABEL LOCATED 70MM FROM RJ45 CONNECTOR
+                                                                                                                                                                           2
+                                                     LABEL TO INCLUDE:
+                                                     PART NAME, PART NUMBER, AND MANUFACTURED DATE
+
+                             J1
+                                                                                                        3                                         J2
+              Pin 1
+C                                                                                                                                                                                                                                                                                                   C
+
+
+
+
+                                                                                                                                                                                                                                                                                                     01 DRAWING VERSION 01
+                                                                                                     2 1 5 ±5
+             Pin 5
+
+
+
+
+                                                                                                                                                                                                                                                                                                     REV
+          2:1 SCALE, VIEW FROM
+                                          4x 4
+
+
+
+
+                                                                                                                                                                                                                                                                                                    B HARNESS, DIAGNOSTIC, SUMITOMO TO RJ45
+          MATING END
+                                                                             5
+
+B                                                                                                 WIRE DIAGRAM
+                                                                                        J1      COLOR (SIGNAL)         J2
+                                                                                                                                                                                       CAD FILE NAME                                                        TRACEABILITY GRADE
+                                                                                         1        WHITE GREEN          3
+                                                                                         2           GREEN             6                                                                                                                                    A
+                                                                                         3       WHITE ORANGE          1                                                               DRAWN BY                            --                               DATE           08-JUN-2023
+
+                                                                                         4          ORANGE             2
+                                                                                         5
+                                                                                                                                                                                                    © Copyright 2023. THIS DOCUMENT IS PROPERTY OF TESLA INC. ALL RIGHTS RESERVED.
+
+
+
+
+                                                                                                                                                                                       MATERIAL
+
+                                                                                                                                                                                                    N/A
+                                                                                                                                                                                       FINISH                                                               EST.
+                                                                                                                                                                                                                                                            MASS (g)
+                                                                                                                                                     NOTE:                                          N/A                                                                    --
+                                                                                                                            THE INFORMATION IN THIS DOCUMENT IS BEING PROVIDED AS A
+                                                                                                                                                                                                                                                                                                    A
+                                                                                                                                                                                           THIRD ANGLE PROJECTION             DIMENSIONS ARE IN                SCALE                 SHEET
+A                                                                                                                           COURTESY TO FACILITATE THE BROADER AVAILABILITY OF                                                  MILLIMETERS.
+                                                                                                                                                                                                                                ANGLES ARE IN
+                                                                                                                                                                                                                                                                                      SIZE
+                                                                                                                            THESE COMPONENTS FOR GOOD FAITH USE WITH TESLA
+                                                                                                                            VEHICLES. IF YOU USE THIS INFORMATION, IT’S YOUR
+                                                                                                                            RESPONSIBILITY TO ENSURE THAT THE INFORMATION IS
+                                                                                                                                                                                                                                  DEGREES.
+                                                                                                                                                                                                                                                               1:1                    B
+                                                                                                                            ACCURATE FOR AND COMPATIBLE WITH YOUR OWN PRODUCTS AND     ITEM NAME
+                                                                                                                            THAT ALL USES AND RESULTING PRODUCTS COMPLY WITH ALL                    HARNESS, DIAGNOSTIC, SUMITOMO TO RJ45
+                                                                                                                            LAWS AND SAFETY PROTOCOLS. IMPROPER MANUFACTURING OR       ITEM                                                                 REVISION       SHEET
+                                                                                                                            INSTALLATION OF ANY NON-TESLA PRODUCTS MAY VOID            NUMBER
+                                                                                                                                                                                                    1137658-00-D
+                                                                                                                            RELEVANT PARTS OF THE VEHICLE WARRANTY.                                                                                             01              1 of 2
+
+                 8                               7                       6                              5                                4                             3                                    2                                                           1
+    8   7   6   5   4        3    Project: SERVICE TOOLING ENGINEERING
+
+
+
+
+D                                                                                                                                        D
+
+
+
+
+C                                                                                                                                        C
+
+
+
+
+                                                                                                                                          01
+                                                                                                                                          PDM VERSION
+                                                                                                                                          01
+                                                          NOTE:
+
+
+
+
+                                                                                                                                          REV
+                                 THE INFORMATION IN THIS DOCUMENT IS BEING PROVIDED AS A
+                                 COURTESY TO FACILITATE THE BROADER AVAILABILITY OF
+
+
+
+
+                                                                                                                                         B HARNESS, DIAGNOSTIC, SUMITOMO TO RJ45
+                                 THESE COMPONENTS FOR GOOD FAITH USE WITH TESLA
+                                 VEHICLES. IF YOU USE THIS INFORMATION, IT’S YOUR
+                                 RESPONSIBILITY TO ENSURE THAT THE INFORMATION IS
+                                 ACCURATE FOR AND COMPATIBLE WITH YOUR OWN PRODUCTS AND
+B                                THAT ALL USES AND RESULTING PRODUCTS COMPLY WITH ALL
+                                 LAWS AND SAFETY PROTOCOLS. IMPROPER MANUFACTURING OR
+                        A1       INSTALLATION OF ANY NON-TESLA PRODUCTS MAY VOID
+                                 RELEVANT PARTS OF THE VEHICLE WARRANTY.
+
+                                 CAD FILE NAME                                                           CAD FILE VERSION
+                                    --                                                                        --
+                                 DRAWN BY                                --                                  DATE          08-JUN-2023
+
+
+
+
+                                               © Copyright 2023. THIS DOCUMENT IS PROPERTY OF TESLA INC. ALL RIGHTS RESERVED.
+
+
+
+
+                                 MATERIAL
+                                    N/A
+                                 FINISH                                                                  EST. MASS (g)
+                                    N/A                                                                     --
+A                                   THIRD ANGLE PROJECTION                    DIMENSIONS ARE IN             SCALE               SHEET
+                                                                                                                                         A
+                                                                                MILLIMETERS.                                    SIZE
+                                                                                ANGLES ARE IN
+                                                                                                             --
+                                                                                  DEGREES.
+                                                                                                                                B
+                                 ITEM NAME
+                                    HARNESS, DIAGNOSTIC, SUMITOMO TO RJ45
+                                 ITEM NUMBER                                                              REVISION              SHEET
+                                    1137658-00-D                                                             01            2 of 2
+
+    8   7   6   5   4        3                         2                                                           1
+                 8                             7                               6                              5                               4                              3                                   Project: SERVICE TOOLING
+    ADDITIONAL NOTES                                                                         FOR BILL OF MATERIALS, REFER TO ITEM IN TESLA INC PLM TOOL.                                   CA         DATE       REV                      DESCRIPTION                               APPD         APPD
+                                                                                            THE ITEM LIST ON THIS DRAWING IS PROVIDED FOR REFERENCE ONLY.                                           08-MAR-21     01      INITIAL RELEASE                                                GH
+    A1.   TESLA HAS TESTED THIS MEDIA CONVERTER.              ITEM   QTY      PART NUMBER                          DESCRIPTION                              SUPPLIER             NOTES              26-JUL-23     02      UPDATED FOR EXTERNAL USE                                       GH
+          OTHER 1000BASE-T1 CONVERTERS WITH SIMILAR
+                                                               1      1         TE-1403               100/1000BASET1 MEDIA CONVERTER H-MTD            TECHNICA ENGINEERING         A1
+          WIRING COULD ALSO BE COMPATIBLE.                                                                                                                                                          17-JAN-24     03      UPDATED TEXT AND DESCRIPTIONS                                  GH
+    A2.   PREVIOUS TECHINICA ENGINEERING PN:TE-1409            2      1         PRO_1050/                                                            TECHNICA ENGINEERING/       A2, A3
+                                                                                                             CABLESET H-MTD TO H-MTD
+          TESLA PN: 1533065-00-A                                           LCA-101-227-A-B_TES                                                            ROSENBERGER
+    A3.   INCLUDED AS COMPONENTS WITH ITEM -1                  3      1             N/A          WIRE TO 5.5MM BARREL JACK TO CONNECT TO PWR CONN     TECHNICA ENGINEERING       A3, A4
+    A4.   BARREL JACK OPTIONAL TO USE WITH ITEM -5
+D   A5.   OPTIONAL
+                                                               4      1             N/A             1M ETHERNET CABLE, RJ45 PLUG TO RJ45 PLUG         TECHNICA ENGINEERING         A3                                                                                                                   D
+                                                               5      1             N/A               12V LIGHTER PLUG TO 5.5MM BARREL PLUG                 GENERIC                A5
+
+
+
+                                                                                                                                                                                                                     4
+                                                                                                                                                                                                                                                                  3
+                                                                                                                         2
+                                                         5
+
+
+
+
+C                                                                                                                                                                                                                                                                                                       C
+
+
+
+
+                                                                                                                                                                                                                                                                                                         01.0
+                                                                                                                                                                                                                                                                                                         DRAWING VERSION
+                                                                                                                                                                                                                                                                                                         03
+                                                                                                                                                                                                                                                                                                         REV
+          DETAIL FOR TESLA SPECIFIC
+          ITEM-2 (LCA-101-227-A-B_TES)
+
+
+
+
+                                                                                                                                                                                                                                                                                                        B MEDIA CONV. ETHERNET DIAG. KIT, MSXP2
+B               VIEW                                         2 2 7 ±10                                       VIEW
+                                                                                                                                                                                           CAD FILE NAME                                                        TRACEABILITY GRADE
+                                                                                                                                                                  1
+                                                      XXXXX: DENOTES CABLE TYPE
+                                                               LCA-101
+                                                                                                                                                                                                                                                                A
+                                                                                                                                                                                           DRAWN BY
+                                                                                                                                                                                                                              --                                DATE           2024-01-17
+
+
+
+
+                                                                                                                                                                                                        © Copyright 2023. THIS DOCUMENT IS PROPERTY OF TESLA INC. ALL RIGHTS RESERVED.
+
+
+
+
+                                                                                                                                                                                           MATERIAL
+
+                                                                                                                                                                                                       N/A
+                                                                                                                                                                                           FINISH                                                               EST.
+                                                                                                                                                                                                                                                                MASS (g)
+                                                                                                                                                           NOTE:                                       N/A                                                                     --
+                                                                                                                                 THE INFORMATION IN THIS DOCUMENT IS BEING PROVIDED AS A     THIRD ANGLE PROJECTION               DIMENSIONS ARE IN               SCALE                  SHEET
+A                                                                                                                                   COURTESY TO FACILITATE THE BROADER AVAILABILITY OF                                              MILLIMETERS.
+                                                                                                                                                                                                                                    ANGLES ARE IN
+                                                                                                                                                                                                                                                                                          SIZE          A
+                                                                                                                                       THESE COMPONENTS FOR GOOD FAITH USE WITH TESLA
+                                                                                                                                     VEHICLES. IF YOU USE THIS INFORMATION, IT’S YOUR
+                                                                                                                                     RESPONSIBILITY TO ENSURE THAT THE INFORMATION IS
+                                                                                                                                                                                                                                      DEGREES.
+                                                                                                                                                                                                                                                                   1:1                    B
+                                                                                                                                                                                           ITEM
+                                                                                                                                  ACCURATE FOR AND COMPATIBLE WITH YOUR OWN PRODUCTS AND   NAME
+                                                                                                                                                                                                       MEDIA CONVERTER, ETHERNET DIAGNOSIS KIT,
+                                                                                                                                   THAT ALL USES AND RESULTING PRODUCTS COMPLY WITH ALL                MODEL S/X PALLADIUM
+                                                                                                                                   LAWS AND SAFETY PROTOCOLS. IMPROPER MANUFACTURING OR    ITEM                                                                 REVISION       SHEET
+                                                                                                                                      INSTALLATION OF ANY NON-TESLA PRODUCTS MAY VOID      NUMBER
+                                                                                                                                                                                                       1669075-00-A
+                                                                                                                                          RELEVANT PARTS OF THE VEHICLE WARRANTY.                                                                                   03              1 of 1
+
+                  8                            7                                6                             5                               4                          3                                      2                                                           1
+

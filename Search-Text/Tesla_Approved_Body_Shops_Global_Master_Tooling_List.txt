@@ -1,0 +1,458 @@
+Updated. 9/29/2026
+     Frame Bench Systems
+     Collision Centers are required to own one approved Frame Bench System:
+
+          One Frame Bench.
+          All required Fixturing Components.
+          One complete Electronic Measuring System may be required (dependent on brand).
+
+
+
+     Pulling towers are not required, there is NO structural pulling allowed on Tesla vehicles.
+
+     * Cybertruck applicable
+
+Car Bench                Frame Benches
+                            Manta Repair Benches (160AA154/5150/F/R) *
+                            Muraena (AA265/5150/F/R) *
+                           Meg *
+
+                         Fixturing Components
+                            Evolution                                                             Universal Jig Set
+                            A456 (not required if the Universal Jig Set is already provided)      Upper Body Bridge
+
+
+Car-O-Liner              Frame Benches
+                            BenchRack 4200
+                            BenchRack 5000
+                            BenchRack 5500 *
+                            BenchRack 6300 *
+                            Quick 42 Base Frame With Lift
+                            Quick 42 Bench 220V 1ph 60Hz
+
+
+                         Fixturing Components
+                            CAR35413                                                              EVO1 Basic Anchoring System
+                            CAR35419                                                              EVO2 Extension Anchoring System
+                            CAR35719                                                              EVO3 Universal Fixture System
+                            CAR35067                                                              E630 Towers (Qty: 2)
+                            CAR45883                                                              B248-A7 Pin Fixtures
+                            CAR50564                                                              B248-A11 Pin Fixtures
+                            CAR30638                                                              B248 Mounting Plate
+
+                         Electronic Measuring
+                            CAR46733                                                              Car-O-Tronic Vision2 X3 electronic measuring system
+                            CARNA90640                                                            Computer package - COT
+                            CAR39634                                                              Measuring Bridge 4m (BR4200 & Q42)
+                            CAR39635                                                              Measuring Bridge 5m (BR5000 & BR5500)
+                            CAR39636                                                              Measuring Bridge 6m (BR6300)
+
+
+Celette                  Frame Benches
+                            Griffon EVO 2.8T
+                            Griffon XL *
+                            Rhone 2.8T
+                           Rhone L 2.8T
+                            Rhone L 4.2T *
+                            Rhone XL *
+                            Sevenne
+                            Sevenne XL *
+                            Smart Rhone Bench
+
+                         Fixturing Components
+                            CAM04.032                                                             Universal Side Fixtures Cameleon
+                            9113.063                                                              Universal Gantry
+                            CAM02.162                                                             Universal Fixtures Cameleon Premium
+                            CAM01.KIT03                                                           Cameleon Add-On
+                            MZ2500.000                                                            MZ + Pistons
+                            MZ450.925                                                             MZ Towers
+                            955A.9612                                                             Universal Crossmembers
+                            CAM01.KIT03.2                                                         Cameleon Add-On (Cybertruck Kit)
+Chief                     Frame Benches
+                             Goliath *
+                            EVHT 18'
+                             EVHT 20' *
+                            Impulse (Tilt) 18'
+                             Impulse (Tilt) 20' *
+                            Phoenix *
+                             S21 and S21M *
+                             Titan *
+
+                          Fixturing Components
+                             CK140124                                                                    EV Kit Complete for all models
+
+                          Electronic Measuring
+                             CK140126                                                                    Meridian W/ Galileo Scanner
+                             788025                                                                      Data Specifications
+
+
+Globaljig                 Frame Benches
+                             5.0 Super Rotax *
+                             6.0 Super Rotax *
+                             5.0 Mobile System *
+                            Evolution 5.0 *
+
+                          Fixturing Components
+                             Global Jig                                                                  Universal Fixture System
+
+
+Spanesi                   Frame Benches
+                             Pista Bench (System) *
+                             106 Bench (System) *
+                             106 EXT Bench (System) *
+
+                          Fixturing Components
+                             Touch                                                                       Electronic measuring system
+                             91SETAL010                                                                  Aluminum bushings for Superstar System
+                             90UBP00010                                                                  Universal upper body system
+
+
+
+
+        MIG / MAG Welders
+        Collision Centers are required to own one approved welder for use with approved GMA welding wires.
+
+
+
+
+Car-O-Liner                  CMI300 Pulse Duo
+                             CMI300 Pulse Trio
+
+
+Cebora                       Sound MIG 2060/MD (Model 301)
+                             Jaguar Sound MIG 2060/MD (Model 302)
+                             Sound MIG 2740/T Star Pulse (Model 307)
+                             Jaguar MIG E200/MD (Model 321)
+                             SynStar 330TC (Model 386)
+                             SynStar Twin 270T (Model 344)
+
+
+Chief                        MultiMig 521
+                             MultiMig 522
+                             MultiMig 525
+                             MultiMig 621
+                             MultiMig 721
+                             MultiMig 822
+
+
+ELMA-Tech                    MIDI MIG 300/800
+Fronius                      TPS 270i C Pulse
+                             TPS 320i C Pulse
+                             TPS 320i Pulse Dual Head
+
+
+GYS                          AutoPulse 220-M3
+                             NeoPulse 300-T2
+                             P3 GYS Auto
+
+
+Miller                       MillerMatic 255 Auto
+                             Millermatic 350P
+
+
+Pro Spot                     SP-1
+                             SP-2
+                             SP-5
+                             SP-5 DP
+                             SP-5.3
+
+
+Spanesi                      Q5.2 INVERTER
+                             Q5.2 ONE INVERTER
+
+
+Wielander + Schill           InvertaPuls IP4-3
+                             InvertaPuls IP6-2
+                             InvertaPuls IP7-2
+
+
+
+
+        Spot Welders
+        Collision Centers are required to own one approved Squeeze Type Resistance Spot Welder.
+        "Requires" refers to hardware and software requirements.
+
+
+
+
+Car-O-Liner                  CTR12000
+                                       Requires:
+                                       Car-O-Liner standard 13 mm welding caps (Car-O-Liner part number 41959)
+                                       Software version 4.00.00 Build 2 or higher
+
+
+                             CTR9
+                                       Requires:
+                                       Car-O-Liner standard 13 mm welding caps (Car-O-Liner part number 41959)
+                                       WPB software version 2.9.42 or higher
+                                       MMI software version 3.8.21 or higher
+                                       GCB software version 1.3.7 or higher
+
+
+Chief                        MI200T
+                                       Requires:
+                                       Chief’s type A welding caps – Chief part number CEL049987
+                                       Chief’s type F welding caps – Chief part number CEL049970
+                                       Software version 06.01.10 or higher
+
+                             MI300T
+                                       Requires:
+                                       Chief’s type A welding caps – Chief part number CEL049987
+                                       Chief’s type F welding caps – Chief part number CEL049970
+                                       Software version 1.00.19 or higher
+
+
+ELMA-Tech                    PREMIUMspot
+                                       Requires:
+                                       Form A Electrode caps – ELMA part number 90_1330.4_AV_V2
+                                       Software: PREMIUMspot VISION SW0340011 or higher
+GYS                   GYSPOT PTI-S7
+                              Requires:
+                              GYS’s type A welding caps – GYS part number 49987
+                              For 208V-240V Models: Software version 6.01.09 or higher
+                              For 400V Models: Software version 2.20.27 or higher
+
+
+                      GYSPOT PTI-GENIUS PLUS
+                              Requires:
+                              GYS’s type A welding caps – GYS part number 49987
+                              For 208 – 240V Models : Software version LEGEND S2 V2.2.0 or higher.
+                              For 400V – 480V Models : Software version LEGEND S2 V2.2.0 or higher.
+
+
+                      GYSPOT PTI-GENIUS
+                              Requires:
+                              GYS’s type A welding caps – GYS part number 49987
+                              For 208V-240V & 400V & 480V Models: Software version 1.00.19 or higher
+
+
+Pro Spot              i5s
+                              Requires:
+                              Pro Spot Type F welding caps – Pro Spot part number PS-029
+                              or
+                              Pro Spot Type A welding caps – Pro Spot part number PS-030
+                              Software version 1.5.0 or higher
+
+                      i5
+                              Requires:
+                              Pro Spot Type F welding caps – Pro Spot part number PS-029
+                              or
+                              Pro Spot Type A welding caps – Pro Spot part number PS-030
+                              Software version 1.7.01 or higher
+
+                      i4s
+                              Requires:
+                              Pro Spot Type F welding caps – Pro Spot part number PS-023
+                              or
+                              Pro Spot Type A welding caps – Pro Spot part number PS-025
+                              Software version 1.4.75 or higher
+
+
+ Spanesi              92PUNTPI17V2
+                              Requires:
+                              Flat caps – part number 5234
+                              Software version 0.4.4 or higher
+
+
+ TECNA                3664P Smart-Plus
+                              Requires:
+                              TECNA type A welding caps – TECNA part number 5234
+                              Terminal software version 4.1.0 or higher
+                              Inverter software version 5.24 or highe
+
+
+                      3680P/7
+                              Requires:
+                              Welding caps – TECNA part number 5234T
+                              Software version 6.4.0 or higher
+
+                      3680S
+                              Requires:
+                              Welding caps – TECNA part number 5234
+                              Software version 7.2.5 or higher
+
+
+ Wielander + Schill   InvertaSpot GT Automatic
+                              Requires:
+                              Wieländer + Schill’s form A R32 welding caps – Wieländer + Schill’s part number 497096
+                              Software RSS V4 version 3.0.8.0 or higher)
+
+
+                      InvertaSpot NexGen 200V/400V
+                              Requires:
+                              Wieländer + Schill’s form A R32 welding caps – Wieländer + Schill’s part number 497096
+                              Software RSS V4 version 01.61.09 or higher)
+        Riveting (SPR & Flow Form)
+        Collision Centers are required to own one approved riveting system for installing Self Piercing and Flow Form rivets.
+        Minimum component requirements are listed below.
+
+
+
+
+Pro Spot                    Powered Components
+                              PR-5                                                                            PR-5 Riveter
+
+                            Arms
+                              PRR-CQ-55-85                                                                    Standard C-Arm
+                              PRR-CQ-120-80                                                                   120mm x 80mm Quick Change Arm
+
+                            Dies
+                               SA-9018                                                                        Die Set
+
+
+Wielander + Schill          Powered Components
+                              WS-700050                                                                       XPress 800 Power Pack
+                              WS-700060                                                                       SSC 35/25 Short Stroke Cylinder
+
+                            Arms
+                              WS-700070                                                                       C-arm 80/40
+                              WS-700080                                                                       C-arm GC 80/120
+
+                            Dies
+                               WS-700209                                                                      Tool Box RS-11
+                               WS-700199                                                                      Tool Box RS-08/2
+
+
+
+
+        Riveting (Blind)
+        Collision Centers are required to own one approved riveter for installing blind rivets.
+        Minimum component requirements are listed below.
+
+
+
+
+Brand = Users Preference      Metric Pulling Force requirement - 14,000 N
+                              SAE Pulling Force requirement - 3,000 lbf
+
+
+
+
+        Aluminum Cosmetic Repair
+        Collision Centers are required to own one Dent Repair Station.
+
+
+Brand = Users Preference      Dent repair station for aluminum cosmetic repairs
+
+
+
+
+        Mobile Connector
+        Country Dependent
+        Purchase from a Tesla Service Center or online at shop.tesla.com
+
+
+Tesla                         1025821-00-G                                                                    Mobile Connector Bundle - U.S.
+                              1071957-00-D                                                                    Mobile Connector Bundle - Canada
+                              1058220-00-E                                                                    Mobile Connector - EU (except Norway)
+                              1058220-02-E                                                                    Mobile Connector - Norway
+                              1024110-00-D                                                                    Red Charging Adapter (EU except UK, France, Norway, Ireland)
+                              1025801-00-D                                                                    Blue Charging Adapter (UK, France, Norway, Ireland)
+    Required Service Tools
+
+    Structural Tool Kit
+Vendor     Item #       Description                                                                                                          Note
+         1020566-00-G   ASY, BATTERY TABLE + CASTER JACKS (KIT) + RISERS 16pcs, MANUAL LIFT.
+         1066521-00-B   Powertrain Scissor Lift
+         1657054-00-A   Subframe Fixture, Palladium
+         1063646-00-A   Subframe Jig, Model S/X
+         1453419-00-A   Lift Pad Adapter, Model 3
+         1614078-00-A   Lift Pad Adapter, Model Y
+         1053066-00-A   Camera Windshield Calibrating Stand
+         1109688-00-A   TOOL, RADAR BRACKET ADJUSTMENT
+         1130534-00-A   TOOL, FRUNK RELEASE, MANUAL, M3
+         1448868-00-B   Tesla Thin Wrench
+         1133787-00-A   KEY, SEAT BELT RELEASE, M3
+         1132841-00-A   1R Headrest Removal Tool, M3
+         1133101-00-A   Microstop Counter Sink Kit
+         1133602-00-B   KIT, INSULATED TOOLS, HV PYRO REPLCMNT, M3                                                   All items included in JTC Structural Kit# 1900948-00-D
+ JTC     1073594-00-A   Kit, Rapid Splitter
+         1658675-00-A   13mm HV Ratcheting Wrench P2 Pyro                                                         Click JTC or Item# to access supplier website to place order.
+         1659979-00-A   Non-Conductive Socket, 1/4" x 13 mm
+         1099645-00-D   FIXTURE, SUBFRAME, MODEL 3/Y/CT
+         2048408-00-A   TACC Certification Frame
+         1849737-N0-A   Kit, LV Maintainer, 120VAC, 12VDC 80A, Includes Cable
+         1129348-00-B   JUMP START, XP-20(Heavy Duty)
+         1454796-00-B   KIT, WINDOW SWITCH, S, 3, X, Y, & Cybertruck
+         1996616-00-A   CYBERTRUCK TONNEAU BUSHING REMOVAL TOOL
+         2006999-00-A   CYBERTRUCK ADAPTER, NITROGEN FILL TANK
+         1942299-00-A   CYBERTRUCK REAR SUBFRAME JIG. TRI AND DUAL MOTOR
+                        Cybertruck Battery Lift Adapter Kit (For Challenger and Rotary Lift Only)
+         1936724-00-B
+                        Lift need to meet max. 10,000lbs loading capacity for Cybertruck repair
+                        RJ45 TO OBDII ADAPTER, 2M RJ45 TO RJ45 CABLES
+         1930388-00-A
+                        (Only applicable to Cybertruck, Oct 23+ Model 3, Dec 23+ Model Y, Apr 24+ Model S & X)
+         1028325-00-A   COVER,SAFETY,LV RAPID,MDLS
+         1038478-00-A   Assy, Cover HV Rapid, HVBAT, Model S
+         1131071-00-A   Dummy Disconnect, Pyro, Safety, M3
+         1140311-00-A   Lever Lock HV Connector, M3
+         1657220-00-A   Fuse Flag, P2
+         1134520-00-A   Kit, EPB Release, Handheld, M3
+         1669075-00-A   Alternative Media Converter, Ethernet Diagnosis Kit, M S/X, Palladium
+         1013230-00-A   Ethernet (TDS) Cable
+         1137658-00-C   ETHERNET CABLE, DIAGNOSTICS, MODEL 3
+         1013716-00-A   4-way CAN breakout
+         1056420-00-B   6-way breakout -Model X                                                                    All items included in MPCM Structural Kit # 1900951-00-C
+ MPCM    1016990-00-A   Gridconnect USB to CAN adaptor
+         1020288-00-A   Chargeport Alignment Tool                                                                Click MPCM or Item# to access supplier website to place order.
+         1111868-00-B   CONNECTOR REMOVAL, COOLANT,PCS, M3
+         1135762-00-A   PLUG KIT, COOLING SYSTEM, M3
+         1140501-00-A   Kit, Enclosure Leak Test, HV Battery
+         1076921-00-B   Fluke 1507 Insulation Multimeter
+         1754057-00-A   Clamp Meter
+         1076927-00-A   Hioki RM 3548 Resistance Meter
+         1076928-00-A   Hioki 9461 Test Probes
+         1992899-00-A   48V VEHICLE POWER SUPPORT TOOL
+         2172013-00-A   Hioki Zero Adjustment Board
+         1127845-00-B   Penthouse Service Cover
+
+
+
+    Cybertruck Tooling
+Vendor     Item #       Description                                                                                                          Note
+         1996616-00-A   Cybertruck Tonneau Bushing Removal Tool
+         2006999-00-A   Cybertruck Adapter, Nitrogen Fill
+         1942299-00-A   Cybertruck Rear Subframe Jig, Tri & Dual-Motor
+                                                                                                                    All items included in JTC Cybertruck Kit # 2043319-00-A
+                        RJ45 TO OBDII ADAPTER, 2M RJ45 TO RJ45 CABLES
+         1930388-00-A
+                        (only applicable to Cybertruck, Oct 23+ Model 3, Dec 23+ Model Y, Apr 24+ Model S & X)
+  JTC                                                                                                             Click JTC or Item# to access supplier website to place order.
+                        Cybertruck Window Switch Kit Upgrade kit
+         1454796-99-B
+                        (no need to purchase this if you already have 1454796-00-B)
+                                                                                                                  (NO need to purchase if you already ordered 1900948-00-D)
+         1099645-99-D   Cybertruck Fixture, Front Subframe Upgrade (upgrade kit to subframe kit 1099645-00-C)
+                        Cybertruck Battery Lift Adapter Kit (For Challenger and Rotary Lift Only)
+         1936724-00-B
+                        Lift need to meet max. 10,000lbs loading capacity for Cybertruck repair
+       Cybertruck Tooling
+                                                                                        All items included in MPCM Cybertruck Kit # 2043319-10-A
+
+   MPCM         1992899-00-A   48V Vehicle Power Support Tool                         Click MPCM or Item# to access supplier website to place order.
+
+                                                                                       (NO need to purchase if you already ordered 1900951-00-C)
+
+
+
+
+       Optional Tooling
+ Vendor           Item #       Description                                                                       Note
+                2173884-00 &
+                               Model Y Rear Subframe Small Section Jig Kit
+                 2173885-00
+   MPCM
+                2173882-00 &
+                               Model Y Rear Subframe Large Section Jig Kit
+                 2173883-00
+   MPCM         2173879-00-A   Cybertruck Front Subframe Section Jigs Kit
+                 2261144-00    Cybertruck Rear Frame Rail Section Jig - Top - LH
+                 2261147-00    Cybertruck Rear Frame Rail Section Jig - Top - RH
+                 2261145-00    Cybertruck Rear Frame Rail Section Jig - Bottom - LH
+MatterHackers                                                                             2261143-00-A is the Tesla Part Number of the full kit.
+                 2261148-00    Cybertruck Rear Frame Rail Section Jig - Bottom - RH
+                 2261146-00    Cybertruck Rear Frame Rail Rivet Jig - LH
+                 2261149-00    Cybertruck Rear Frame Rail Rivet Jig - RH
+     JTC         2165576-00    Kit,Ultra Sonic Plastic Welder Include 3 Tips
+
